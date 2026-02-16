@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Can Grammar Help Tiny Models Think?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ── Navigation ──────────────────────────────────────────────────── -->
+  <nav class="nav" id="nav">
+    <div class="nav-inner">
+      <a href="#hero" class="nav-brand">LJ vs EN</a>
+      <div class="nav-links">
+        <a href="#playground">Try It</a>
+        <a href="#lojban">Lojban</a>
+        <a href="#journey">Journey</a>
+        <a href="#findings">Findings</a>
+        <a href="#samples">Samples</a>
+        <a href="#methodology">Method</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ── 1. Hero ─────────────────────────────────────────────────────── -->
+  <section class="hero" id="hero">
+    <div class="hero-content">
+      <h1 class="hero-title">Can Grammar Help<br>Tiny Models Think?</h1>
+      <p class="hero-subtitle">Testing whether Lojban's regular, unambiguous grammar gives small language models an advantage over English</p>
+      <div class="stat-cards">
+        <div class="stat-card">
+          <span class="stat-value">100%</span>
+          <span class="stat-label">Lojban grammar<br>at 67K params</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value">15-35%</span>
+          <span class="stat-label">Lower prediction<br>error (BPC)</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value">5</span>
+          <span class="stat-label">Experiment<br>iterations</span>
+        </div>
+      </div>
+      <a href="#playground" class="hero-cta">Try the models yourself &darr;</a>
+    </div>
+  </section>
+
+  <!-- ── 2. Interactive Playground ────────────────────────────────────── -->
+  <section class="section" id="playground">
+    <div class="container">
+      <h2 class="section-title">Try It Yourself</h2>
+      <p class="section-intro">These 570K-parameter models run in your browser. Give them a bAbI-style prompt and see what they generate.</p>
+
+      <div class="playground-panels">
+        <div class="playground-panel">
+          <div class="panel-header">
+            <h3 class="panel-title english-accent">English</h3>
+            <span class="model-badge" id="model-status-en">Loading model...</span>
+          </div>
+          <textarea class="playground-input" id="playground-input-en" placeholder="Enter a prompt...">Alice went to the garden.
+Bob went to the kitchen.</textarea>
+          <div class="playground-controls">
+            <div class="control-group">
+              <label>Temperature</label>
+              <input type="range" id="temp-en" min="0.1" max="2.0" step="0.1" value="0.8">
+              <span id="temp-en-val">0.8</span>
+            </div>
+            <div class="control-group">
+              <label>Length</label>
+              <input type="range" id="len-en" min="32" max="256" step="32" value="128">
+              <span id="len-en-val">128</span>
+            </div>
+            <button class="btn-generate" id="btn-generate-en">Generate</button>
+          </div>
+          <div class="playground-output" id="playground-output-en">
+            <span class="output-placeholder">Generated text will appear here...</span>
+          </div>
+        </div>
+
+        <div class="playground-panel">
+          <div class="panel-header">
+            <h3 class="panel-title lojban-accent">Lojban</h3>
+            <span class="model-badge model-pending" id="model-status-lj">Loading model...</span>
+          </div>
+          <textarea class="playground-input" id="playground-input-lj" placeholder="Enter a prompt...">la .alis. pu klama lo purdi
+la .bab. pu klama lo jukpa kumfa</textarea>
+          <div class="playground-controls">
+            <div class="control-group">
+              <label>Temperature</label>
+              <input type="range" id="temp-lj" min="0.1" max="2.0" step="0.1" value="0.8">
+              <span id="temp-lj-val">0.8</span>
+            </div>
+            <div class="control-group">
+              <label>Length</label>
+              <input type="range" id="len-lj" min="32" max="256" step="32" value="128">
+              <span id="len-lj-val">128</span>
+            </div>
+            <button class="btn-generate disabled" id="btn-generate-lj">Generate</button>
+          </div>
+          <div class="playground-output" id="playground-output-lj">
+            <span class="output-placeholder">Generated text will appear here...</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 3. What is Lojban? ──────────────────────────────────────────── -->
+  <section class="section section-alt" id="lojban">
+    <div class="container">
+      <h2 class="section-title">What is Lojban?</h2>
+      <p class="section-intro">Lojban is a constructed language designed for logical, unambiguous communication. Every sentence has exactly one parse tree &mdash; no garden paths, no structural ambiguity.</p>
+
+      <div class="comparison-box">
+        <div class="comparison-side comparison-english">
+          <h3>English</h3>
+          <p class="comparison-text">"Time flies like an arrow."</p>
+          <p class="comparison-note">3+ valid parses. Are we timing flies? Do time-flies enjoy arrows?</p>
+        </div>
+        <div class="comparison-side comparison-lojban">
+          <h3>Lojban</h3>
+          <p class="comparison-text">"lo temci cu vofli tai lo bagre"</p>
+          <p class="comparison-note">Exactly 1 parse. "Time flies in-the-manner-of an arrow."</p>
+        </div>
+      </div>
+
+      <div class="properties-grid">
+        <div class="property-card">
+          <h4>Unambiguous Parse</h4>
+          <p>Every sentence has exactly one syntactic analysis. The grammar is a formal PEG, machine-parseable.</p>
+        </div>
+        <div class="property-card">
+          <h4>Regular Morphology</h4>
+          <p>Word categories determined by shape: CVCCV = verb, CCVCV = verb, CVC+V = name. No irregular forms.</p>
+        </div>
+        <div class="property-card">
+          <h4>Explicit Structure</h4>
+          <p>Grammatical roles marked by particles, not word order. <code>lo</code> = article, <code>cu</code> = predicate marker, <code>pu</code> = past tense.</p>
+        </div>
+      </div>
+
+      <div class="tokenizer-demo" id="tokenizer-demo">
+        <h3>Try the BPE Tokenizer</h3>
+        <p class="demo-hint">Type text to see how each language gets tokenized with BPE (vocab=1024)</p>
+        <div class="tokenizer-panels">
+          <div class="tokenizer-panel">
+            <label>English</label>
+            <textarea id="tokenizer-input-en" placeholder="Type English text...">Alice went to the garden.</textarea>
+            <div class="token-display" id="token-display-en"></div>
+            <span class="token-count" id="token-count-en"></span>
+          </div>
+          <div class="tokenizer-panel">
+            <label>Lojban</label>
+            <textarea id="tokenizer-input-lj" placeholder="Type Lojban text...">la .alis. pu klama lo purdi</textarea>
+            <div class="token-display" id="token-display-lj"></div>
+            <span class="token-count" id="token-count-lj"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 4. The Journey (V1 -> V5) ───────────────────────────────────── -->
+  <section class="section" id="journey">
+    <div class="container">
+      <h2 class="section-title">The Journey</h2>
+      <p class="section-intro">Five iterations of hypothesis &rarr; confound &rarr; fix &rarr; repeat</p>
+      <div class="timeline" id="timeline"></div>
+    </div>
+  </section>
+
+  <!-- ── 5. Key Findings (Charts) ────────────────────────────────────── -->
+  <section class="section section-alt" id="findings">
+    <div class="container">
+      <h2 class="section-title">Key Findings</h2>
+
+      <div class="charts-grid">
+        <div class="chart-card fade-in">
+          <h3>Grammar at Every Scale</h3>
+          <p class="chart-desc">Lojban achieves 100% grammaticality at every model size. English improves from 73% to 99% but never reaches perfection.</p>
+          <div class="chart-container">
+            <canvas id="chart-grammar"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card fade-in">
+          <h3>Prediction Quality (Test BPC)</h3>
+          <p class="chart-desc">Bits-per-character on held-out text. Lower is better. Lojban consistently 15-35% lower across all experiments.</p>
+          <div class="chart-container">
+            <canvas id="chart-bpc"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card fade-in">
+          <h3>Training Dynamics</h3>
+          <p class="chart-desc">Validation BPC over training steps (V4 medium, seed 42). Lojban converges faster and to a lower minimum. Both overfit after ~1K steps.</p>
+          <div class="chart-container">
+            <canvas id="chart-dynamics"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card fade-in">
+          <h3>The bAbI Confound Story</h3>
+          <p class="chart-desc">English's bAbI advantage was an artifact of training duration, not reasoning. As we fixed confounds, the gap shrank from 26pp to 1.3pp.</p>
+          <div class="chart-container">
+            <canvas id="chart-babi"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 6. Sample Comparisons ───────────────────────────────────────── -->
+  <section class="section" id="samples">
+    <div class="container">
+      <h2 class="section-title">Sample Comparisons</h2>
+      <p class="section-intro">Generated text from V4 medium models (570K params, BPE tokenization, seed 42)</p>
+
+      <div class="sample-tabs">
+        <button class="sample-tab active" data-tab="babi">bAbI (In-Domain)</button>
+        <button class="sample-tab" data-tab="narrative">Narrative (Out-of-Domain)</button>
+      </div>
+
+      <div class="sample-content" id="sample-content"></div>
+    </div>
+  </section>
+
+  <!-- ── 7. Methodology & Footer ─────────────────────────────────────── -->
+  <section class="section section-alt" id="methodology">
+    <div class="container">
+      <h2 class="section-title">Methodology</h2>
+
+      <details class="method-details">
+        <summary>Model Architectures</summary>
+        <div class="method-content" id="arch-table"></div>
+      </details>
+
+      <details class="method-details">
+        <summary>Training Details</summary>
+        <div class="method-content">
+          <ul>
+            <li><strong>Architecture:</strong> Decoder-only Transformer (GPT-style)</li>
+            <li><strong>Optimizer:</strong> AdamW (lr=3e-4, weight_decay=0.1, grad_clip=1.0)</li>
+            <li><strong>Training data:</strong> 4 parallel books (~407K chars/language) + 20 bAbI tasks (~2.4M chars)</li>
+            <li><strong>Test data:</strong> Metamorphosis (held-out, ~120K chars) + bAbI test sets (seen/unseen vocab)</li>
+            <li><strong>Seeds:</strong> 42, 137, 2024 (3 runs per condition)</li>
+            <li><strong>V4 specifics:</strong> BPE tokenization (vocab=1024), 10K fixed steps, checkpoint by best val BPC</li>
+          </ul>
+        </div>
+      </details>
+
+      <details class="method-details">
+        <summary>Key Lessons Learned</summary>
+        <div class="method-content">
+          <ol>
+            <li><strong>Early stopping conflates entropy with capability.</strong> Character-prediction convergence speed is orthogonal to reasoning ability. V3&rarr;V3.1 showed this dramatically.</li>
+            <li><strong>Character-level tokenization penalizes multi-word expressions.</strong> Lojban's 2-3 token locations vs English's single tokens dominated at tiny scale.</li>
+            <li><strong>Checkpoint selection must align with evaluation objective.</strong> Selecting by narrative val loss then evaluating bAbI accuracy is misaligned.</li>
+            <li><strong>Neither language shows reasoning below ~1M params.</strong> bAbI tasks require more capacity than grammar or pattern matching.</li>
+          </ol>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-links">
+        <a href="https://github.com/billba/lojban_experiment" target="_blank" rel="noopener">GitHub Repo</a>
+      </div>
+      <p class="footer-attr">Built with <a href="https://claude.com/claude-code" target="_blank" rel="noopener">Claude Code</a></p>
+    </div>
+  </footer>
+
+  <!-- ── Scripts ─────────────────────────────────────────────────────── -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.17.0/dist/ort.min.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/bpe.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/samples.js"></script>
+  <script src="js/playground.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
