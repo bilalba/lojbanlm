@@ -1,0 +1,9 @@
+{
+  "n_sampled": 200,
+  "camxes_total": 200,
+  "camxes_pass": 200,
+  "camxes_pass_rate": 1.0,
+  "lt_total": 199,
+  "lt_pass": 199,
+  "lt_pass_rate": 1.0
+}

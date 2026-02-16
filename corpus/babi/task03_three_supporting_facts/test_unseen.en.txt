@@ -1,0 +1,1206 @@
+Mary picked up the shoe.
+Mary went to the park.
+Mary went to the cellar.
+Where is the shoe? cellar
+
+Frank picked up the knife.
+Alice went to the market.
+Frank went to the playground.
+Peter went to the office.
+Frank went to the kitchen.
+Where is the knife? kitchen
+
+Bob picked up the key.
+Kate went to the restaurant.
+Bob went to the playground.
+Bob went to the cellar.
+Where is the key? cellar
+
+David picked up the ball.
+David went to the bathroom.
+David went to the hospital.
+Where is the ball? hospital
+
+Bernhard went to the hospital.
+Kate went to the cellar.
+Frank picked up the box.
+Frank went to the library.
+Frank went to the cellar.
+Where is the box? cellar
+
+Lucy picked up the milk.
+Lucy went to the garden.
+Daniel went to the library.
+Lucy went to the bathroom.
+Where is the milk? bathroom
+
+Tom picked up the ring.
+Tom went to the library.
+Tom went to the market.
+Where is the ring? market
+
+Sam picked up the ring.
+Ann went to the garden.
+Sam went to the library.
+Sam went to the garden.
+Frank went to the bedroom.
+Where is the ring? garden
+
+Sam went to the playground.
+Bob picked up the cup.
+Eve went to the playground.
+Bob went to the hospital.
+Bob went to the library.
+Where is the cup? library
+
+Gertrude went to the office.
+Rick picked up the box.
+Rick went to the market.
+Rick went to the hallway.
+Lily went to the kitchen.
+Where is the box? hallway
+
+Gertrude picked up the bottle.
+Nina went to the studio.
+Gertrude went to the playground.
+Sandra went to the hospital.
+Gertrude went to the restaurant.
+Where is the bottle? restaurant
+
+Nina picked up the box.
+Susan went to the garden.
+Nina went to the hospital.
+Julie went to the park.
+Nina went to the bedroom.
+Where is the box? bedroom
+
+David picked up the coin.
+David went to the market.
+David went to the playground.
+Where is the coin? playground
+
+Julie picked up the milk.
+Julie went to the hospital.
+Julie went to the bathroom.
+Where is the milk? bathroom
+
+Lily picked up the apple.
+Lily went to the cellar.
+Lily went to the bedroom.
+Where is the apple? bedroom
+
+David picked up the ring.
+David went to the restaurant.
+Bernhard went to the playground.
+Sam went to the kitchen.
+David went to the studio.
+Where is the ring? studio
+
+Eve picked up the cup.
+Kate went to the park.
+Eve went to the playground.
+Eve went to the park.
+Lucy went to the hospital.
+Where is the cup? park
+
+Nina picked up the book.
+Nina went to the market.
+Julie went to the market.
+Nina went to the office.
+Where is the book? office
+
+Daniel picked up the shoe.
+Daniel went to the studio.
+Daniel went to the hallway.
+Eve went to the cellar.
+Where is the shoe? hallway
+
+Rick picked up the hat.
+Rick went to the cellar.
+Rick went to the school.
+Where is the hat? school
+
+Bernhard picked up the bottle.
+Bernhard went to the hospital.
+Bernhard went to the office.
+Where is the bottle? office
+
+Rick picked up the bottle.
+Lily went to the restaurant.
+Rick went to the bathroom.
+Rick went to the hospital.
+Susan went to the park.
+Where is the bottle? hospital
+
+Daniel went to the garden.
+Susan picked up the ring.
+Susan went to the hospital.
+Susan went to the library.
+Where is the ring? library
+
+Frank went to the school.
+Ann picked up the coin.
+Ann went to the park.
+Ann went to the cellar.
+Where is the coin? cellar
+
+Bill picked up the apple.
+Bill went to the cellar.
+Frank went to the bathroom.
+Bill went to the playground.
+Nina went to the kitchen.
+Where is the apple? playground
+
+Gertrude went to the bathroom.
+Ann picked up the pen.
+Ann went to the hallway.
+Ann went to the park.
+Where is the pen? park
+
+Kate picked up the ring.
+Kate went to the playground.
+Tom went to the school.
+Kate went to the library.
+Alice went to the park.
+Where is the ring? library
+
+Alice picked up the bag.
+Alice went to the playground.
+Alice went to the hallway.
+Ann went to the library.
+Where is the bag? hallway
+
+Julie picked up the box.
+Julie went to the hallway.
+Julie went to the garden.
+Where is the box? garden
+
+Bill picked up the book.
+Bill went to the hospital.
+Bill went to the kitchen.
+Where is the book? kitchen
+
+Lily picked up the coin.
+Lily went to the hallway.
+Lily went to the studio.
+Where is the coin? studio
+
+Alice picked up the knife.
+Alice went to the cellar.
+Alice went to the library.
+Where is the knife? library
+
+Kate picked up the apple.
+Kate went to the playground.
+Fred went to the restaurant.
+Kate went to the cellar.
+Where is the apple? cellar
+
+Lucy went to the market.
+Bill went to the school.
+Jeff picked up the key.
+Jeff went to the library.
+Jeff went to the kitchen.
+Where is the key? kitchen
+
+Bill went to the cellar.
+Kate picked up the coin.
+Kate went to the kitchen.
+Kate went to the studio.
+Where is the coin? studio
+
+Mary went to the playground.
+Lucy went to the bathroom.
+Alice picked up the cup.
+Alice went to the hospital.
+Alice went to the restaurant.
+Where is the cup? restaurant
+
+Jeff went to the garden.
+Alice picked up the bag.
+Alice went to the park.
+Alice went to the garden.
+Where is the bag? garden
+
+Rick went to the cellar.
+Kate picked up the milk.
+Kate went to the garden.
+Kate went to the park.
+Where is the milk? park
+
+Lily picked up the apple.
+Peter went to the market.
+Susan went to the kitchen.
+Lily went to the hallway.
+Lily went to the bathroom.
+Where is the apple? bathroom
+
+Lucy went to the studio.
+Jeff picked up the key.
+Jeff went to the playground.
+Jeff went to the hallway.
+Mary went to the studio.
+Where is the key? hallway
+
+Jeff picked up the milk.
+Susan went to the office.
+Jeff went to the hospital.
+Lucy went to the bedroom.
+Jeff went to the library.
+Where is the milk? library
+
+Ann picked up the pen.
+Ann went to the hospital.
+Kate went to the hallway.
+Ann went to the market.
+Bernhard went to the office.
+Where is the pen? market
+
+Bernhard picked up the ball.
+Bernhard went to the bathroom.
+Bernhard went to the garden.
+Where is the ball? garden
+
+John picked up the bottle.
+John went to the bedroom.
+John went to the cellar.
+Where is the bottle? cellar
+
+Fred picked up the ring.
+Peter went to the playground.
+Fred went to the studio.
+Fred went to the library.
+Where is the ring? library
+
+Bob picked up the key.
+Sam went to the playground.
+Bob went to the restaurant.
+Frank went to the library.
+Bob went to the bedroom.
+Where is the key? bedroom
+
+Frank went to the cellar.
+Susan picked up the coin.
+Susan went to the park.
+Susan went to the market.
+Jeff went to the hospital.
+Where is the coin? market
+
+Alice picked up the coin.
+Julie went to the school.
+Gertrude went to the library.
+Alice went to the kitchen.
+Alice went to the hallway.
+Where is the coin? hallway
+
+Rick picked up the box.
+Rick went to the hospital.
+Rick went to the office.
+Where is the box? office
+
+Bernhard went to the hospital.
+Nina picked up the box.
+Nina went to the bathroom.
+Nina went to the playground.
+Where is the box? playground
+
+Jeff went to the bedroom.
+Lily went to the school.
+Eve picked up the bottle.
+Eve went to the bedroom.
+Eve went to the library.
+Where is the bottle? library
+
+Jeff picked up the book.
+Sandra went to the garden.
+Bill went to the restaurant.
+Jeff went to the school.
+Jeff went to the office.
+Where is the book? office
+
+Jeff picked up the cup.
+Jeff went to the bedroom.
+Jeff went to the bathroom.
+Where is the cup? bathroom
+
+Jeff picked up the key.
+Jeff went to the cellar.
+Jeff went to the hospital.
+Peter went to the studio.
+Where is the key? hospital
+
+Peter picked up the knife.
+Peter went to the cellar.
+Peter went to the garden.
+Where is the knife? garden
+
+Ann went to the playground.
+Fred picked up the bottle.
+Susan went to the kitchen.
+Fred went to the hallway.
+Fred went to the cellar.
+Where is the bottle? cellar
+
+Nina went to the office.
+Sam picked up the bottle.
+Sam went to the kitchen.
+Sam went to the hospital.
+Where is the bottle? hospital
+
+John picked up the ball.
+John went to the studio.
+John went to the office.
+Eve went to the cellar.
+Where is the ball? office
+
+Sam picked up the ring.
+Sam went to the garden.
+Sam went to the hospital.
+Where is the ring? hospital
+
+Ann picked up the cup.
+Frank went to the library.
+Ann went to the hospital.
+Ann went to the restaurant.
+Where is the cup? restaurant
+
+John picked up the shoe.
+John went to the library.
+John went to the market.
+Where is the shoe? market
+
+Rick picked up the key.
+Rick went to the park.
+Rick went to the restaurant.
+Alice went to the hospital.
+Where is the key? restaurant
+
+Sandra picked up the coin.
+Kate went to the hospital.
+Sandra went to the market.
+Sandra went to the cellar.
+Eve went to the kitchen.
+Where is the coin? cellar
+
+Mary picked up the cup.
+Rick went to the hospital.
+Bob went to the bedroom.
+Mary went to the hospital.
+Mary went to the bedroom.
+Where is the cup? bedroom
+
+Julie picked up the bottle.
+Julie went to the studio.
+Julie went to the playground.
+Gertrude went to the studio.
+Susan went to the playground.
+Where is the bottle? playground
+
+Peter picked up the cup.
+Lily went to the school.
+Peter went to the park.
+Peter went to the cellar.
+Where is the cup? cellar
+
+Rick picked up the book.
+Bill went to the kitchen.
+Mary went to the market.
+Rick went to the restaurant.
+Rick went to the library.
+Where is the book? library
+
+Frank went to the office.
+Nina picked up the coin.
+Nina went to the bathroom.
+Nina went to the hospital.
+Where is the coin? hospital
+
+Kate picked up the pen.
+Kate went to the restaurant.
+Jeff went to the market.
+Kate went to the studio.
+Julie went to the garden.
+Where is the pen? studio
+
+Lily picked up the coin.
+Lily went to the cellar.
+Tom went to the garden.
+Lily went to the kitchen.
+Where is the coin? kitchen
+
+Tom picked up the ball.
+Tom went to the playground.
+Tom went to the hospital.
+Where is the ball? hospital
+
+John picked up the milk.
+John went to the garden.
+John went to the bathroom.
+Bernhard went to the bedroom.
+Where is the milk? bathroom
+
+Peter went to the hospital.
+Daniel picked up the ball.
+Daniel went to the garden.
+Daniel went to the bedroom.
+Where is the ball? bedroom
+
+Ann picked up the coin.
+Ann went to the library.
+Ann went to the restaurant.
+Where is the coin? restaurant
+
+Kate went to the cellar.
+Lily picked up the ring.
+Tom went to the office.
+Lily went to the bathroom.
+Lily went to the office.
+Where is the ring? office
+
+Daniel picked up the bag.
+Daniel went to the bedroom.
+Bob went to the market.
+Alice went to the hallway.
+Daniel went to the library.
+Where is the bag? library
+
+Daniel picked up the coin.
+Daniel went to the office.
+Daniel went to the hospital.
+Where is the coin? hospital
+
+Peter picked up the book.
+Peter went to the library.
+Peter went to the park.
+Where is the book? park
+
+Lily picked up the box.
+Alice went to the hallway.
+Lily went to the park.
+Sam went to the garden.
+Lily went to the garden.
+Where is the box? garden
+
+Sandra picked up the key.
+Sandra went to the hospital.
+Sandra went to the hallway.
+Where is the key? hallway
+
+Bill went to the playground.
+Jeff picked up the bag.
+Jeff went to the playground.
+Jeff went to the hospital.
+Where is the bag? hospital
+
+John picked up the book.
+John went to the library.
+Gertrude went to the office.
+John went to the playground.
+Fred went to the studio.
+Where is the book? playground
+
+Fred picked up the ball.
+Daniel went to the restaurant.
+Fred went to the kitchen.
+Fred went to the library.
+Where is the ball? library
+
+John picked up the ring.
+John went to the library.
+John went to the office.
+Lily went to the studio.
+Where is the ring? office
+
+Jeff picked up the box.
+Jeff went to the hospital.
+Jeff went to the library.
+Where is the box? library
+
+Sandra went to the library.
+Rick picked up the bottle.
+Rick went to the office.
+Rick went to the garden.
+Where is the bottle? garden
+
+Lily went to the hallway.
+Mary picked up the bottle.
+Lucy went to the playground.
+Mary went to the bathroom.
+Mary went to the bedroom.
+Where is the bottle? bedroom
+
+Peter picked up the ball.
+Peter went to the restaurant.
+Peter went to the library.
+Where is the ball? library
+
+Tom picked up the bottle.
+Tom went to the bathroom.
+Tom went to the playground.
+Bob went to the cellar.
+Nina went to the office.
+Where is the bottle? playground
+
+Lily picked up the milk.
+Peter went to the hospital.
+Lily went to the park.
+Ann went to the cellar.
+Lily went to the bedroom.
+Where is the milk? bedroom
+
+Sandra picked up the knife.
+Sandra went to the bathroom.
+Sandra went to the kitchen.
+Eve went to the bedroom.
+Where is the knife? kitchen
+
+Gertrude picked up the milk.
+Gertrude went to the park.
+Gertrude went to the school.
+Where is the milk? school
+
+Julie picked up the key.
+Julie went to the hallway.
+Julie went to the bedroom.
+Where is the key? bedroom
+
+Sandra picked up the ring.
+Sandra went to the studio.
+Sandra went to the playground.
+Where is the ring? playground
+
+Sandra picked up the bag.
+Sandra went to the cellar.
+Sandra went to the playground.
+Where is the bag? playground
+
+Nina picked up the knife.
+Nina went to the kitchen.
+Nina went to the library.
+Where is the knife? library
+
+Mary picked up the ball.
+Mary went to the kitchen.
+Julie went to the hospital.
+Mary went to the hallway.
+Where is the ball? hallway
+
+Mary picked up the hat.
+Mary went to the park.
+Mary went to the cellar.
+Bernhard went to the garden.
+Ann went to the studio.
+Where is the hat? cellar
+
+Peter picked up the apple.
+Alice went to the hospital.
+Peter went to the kitchen.
+Peter went to the playground.
+Where is the apple? playground
+
+Eve picked up the shoe.
+Eve went to the kitchen.
+Eve went to the cellar.
+Where is the shoe? cellar
+
+Peter picked up the box.
+Peter went to the kitchen.
+Peter went to the bedroom.
+Tom went to the library.
+Mary went to the cellar.
+Where is the box? bedroom
+
+John picked up the bottle.
+Nina went to the garden.
+John went to the hospital.
+John went to the library.
+Where is the bottle? library
+
+Kate picked up the key.
+Kate went to the kitchen.
+Kate went to the library.
+Bill went to the park.
+Where is the key? library
+
+David picked up the apple.
+David went to the hospital.
+David went to the hallway.
+Where is the apple? hallway
+
+Frank went to the market.
+Bernhard picked up the ball.
+Bernhard went to the playground.
+Bernhard went to the bathroom.
+Where is the ball? bathroom
+
+Julie picked up the ball.
+Bill went to the bathroom.
+Julie went to the library.
+Gertrude went to the hallway.
+Julie went to the bedroom.
+Where is the ball? bedroom
+
+Sam picked up the bag.
+Sam went to the school.
+Sam went to the hospital.
+Bernhard went to the hospital.
+Where is the bag? hospital
+
+Bernhard picked up the ring.
+Bernhard went to the garden.
+Bernhard went to the kitchen.
+Where is the ring? kitchen
+
+Mary picked up the box.
+Mary went to the library.
+Mary went to the bathroom.
+Where is the box? bathroom
+
+Bill picked up the ball.
+Bill went to the library.
+Bill went to the hospital.
+Rick went to the hallway.
+Where is the ball? hospital
+
+Ann picked up the coin.
+Ann went to the bathroom.
+Ann went to the hallway.
+Where is the coin? hallway
+
+John picked up the knife.
+John went to the park.
+John went to the market.
+Where is the knife? market
+
+Frank went to the bathroom.
+Ann went to the kitchen.
+Tom picked up the knife.
+Tom went to the park.
+Tom went to the playground.
+Where is the knife? playground
+
+Julie picked up the cup.
+Tom went to the bedroom.
+Lucy went to the school.
+Julie went to the park.
+Julie went to the playground.
+Where is the cup? playground
+
+Julie picked up the bottle.
+Julie went to the park.
+Julie went to the studio.
+Where is the bottle? studio
+
+Rick went to the restaurant.
+Lucy picked up the cup.
+Lucy went to the school.
+Lucy went to the library.
+Julie went to the hallway.
+Where is the cup? library
+
+Bernhard picked up the bottle.
+Bernhard went to the office.
+Peter went to the playground.
+Alice went to the bathroom.
+Bernhard went to the studio.
+Where is the bottle? studio
+
+Mary picked up the cup.
+Kate went to the cellar.
+Mary went to the cellar.
+Mary went to the library.
+Where is the cup? library
+
+Fred picked up the apple.
+Fred went to the cellar.
+Fred went to the restaurant.
+Where is the apple? restaurant
+
+Lily picked up the ball.
+Jeff went to the restaurant.
+Lily went to the bathroom.
+Lily went to the hospital.
+Where is the ball? hospital
+
+Julie went to the library.
+Sandra went to the bathroom.
+Lily picked up the cup.
+Lily went to the cellar.
+Lily went to the garden.
+Where is the cup? garden
+
+Ann picked up the coin.
+Ann went to the market.
+Ann went to the school.
+Where is the coin? school
+
+Kate went to the office.
+Frank picked up the ball.
+Frank went to the studio.
+Nina went to the hospital.
+Frank went to the hospital.
+Where is the ball? hospital
+
+Fred picked up the shoe.
+Fred went to the restaurant.
+Ann went to the garden.
+Fred went to the hospital.
+Where is the shoe? hospital
+
+Gertrude picked up the bottle.
+Gertrude went to the bedroom.
+Gertrude went to the studio.
+David went to the garden.
+Where is the bottle? studio
+
+Lucy picked up the apple.
+Lucy went to the hallway.
+Mary went to the library.
+Lucy went to the bedroom.
+Alice went to the cellar.
+Where is the apple? bedroom
+
+Jeff went to the cellar.
+Mary picked up the ring.
+Mary went to the garden.
+Mary went to the hospital.
+Bob went to the bedroom.
+Where is the ring? hospital
+
+Daniel picked up the cup.
+Daniel went to the bathroom.
+Lily went to the library.
+Daniel went to the park.
+Where is the cup? park
+
+Eve picked up the milk.
+Eve went to the library.
+Eve went to the bathroom.
+Where is the milk? bathroom
+
+Sandra picked up the knife.
+Tom went to the cellar.
+Sandra went to the park.
+Sandra went to the studio.
+Where is the knife? studio
+
+Sandra picked up the ring.
+Sandra went to the market.
+Sandra went to the bathroom.
+Where is the ring? bathroom
+
+Nina went to the library.
+Mary picked up the hat.
+Mary went to the bathroom.
+Mary went to the studio.
+Where is the hat? studio
+
+David picked up the hat.
+Eve went to the studio.
+Bernhard went to the restaurant.
+David went to the library.
+David went to the restaurant.
+Where is the hat? restaurant
+
+John picked up the knife.
+John went to the bedroom.
+John went to the office.
+Gertrude went to the cellar.
+Where is the knife? office
+
+David picked up the hat.
+David went to the bathroom.
+Julie went to the market.
+David went to the library.
+Where is the hat? library
+
+Bernhard picked up the cup.
+Nina went to the bathroom.
+Bernhard went to the office.
+Bernhard went to the playground.
+Where is the cup? playground
+
+Susan picked up the box.
+Susan went to the office.
+Susan went to the library.
+Rick went to the kitchen.
+Where is the box? library
+
+Susan picked up the box.
+Susan went to the restaurant.
+Susan went to the library.
+Where is the box? library
+
+Gertrude picked up the ball.
+Gertrude went to the bathroom.
+Gertrude went to the park.
+Where is the ball? park
+
+Gertrude picked up the ball.
+John went to the kitchen.
+Gertrude went to the park.
+Gertrude went to the market.
+Eve went to the playground.
+Where is the ball? market
+
+Eve picked up the book.
+Jeff went to the studio.
+Eve went to the market.
+Eve went to the hallway.
+Frank went to the restaurant.
+Where is the book? hallway
+
+Ann went to the library.
+Rick picked up the apple.
+Rick went to the cellar.
+Rick went to the library.
+Where is the apple? library
+
+Lily picked up the milk.
+Rick went to the bathroom.
+Lily went to the park.
+Lily went to the restaurant.
+Where is the milk? restaurant
+
+Sandra picked up the book.
+Sam went to the library.
+Mary went to the restaurant.
+Sandra went to the cellar.
+Sandra went to the bathroom.
+Where is the book? bathroom
+
+David picked up the shoe.
+David went to the garden.
+David went to the bedroom.
+Sam went to the library.
+Julie went to the cellar.
+Where is the shoe? bedroom
+
+Ann went to the park.
+Nina picked up the bag.
+Nina went to the studio.
+Nina went to the cellar.
+Tom went to the hallway.
+Where is the bag? cellar
+
+Frank picked up the shoe.
+Frank went to the bedroom.
+Alice went to the kitchen.
+Frank went to the cellar.
+Where is the shoe? cellar
+
+Sandra picked up the coin.
+Sandra went to the restaurant.
+Susan went to the office.
+Sandra went to the school.
+Where is the coin? school
+
+Alice picked up the cup.
+Fred went to the hospital.
+Alice went to the office.
+Alice went to the hospital.
+Sandra went to the library.
+Where is the cup? hospital
+
+Mary picked up the coin.
+Mary went to the school.
+Mary went to the library.
+Where is the coin? library
+
+Jeff went to the office.
+Daniel picked up the hat.
+Daniel went to the studio.
+Daniel went to the garden.
+Where is the hat? garden
+
+Tom picked up the cup.
+Tom went to the school.
+Tom went to the cellar.
+Where is the cup? cellar
+
+Susan picked up the ring.
+Susan went to the hospital.
+Susan went to the garden.
+Where is the ring? garden
+
+Lily picked up the ring.
+Lily went to the school.
+Lily went to the library.
+Where is the ring? library
+
+Peter picked up the cup.
+Peter went to the restaurant.
+Peter went to the hospital.
+Where is the cup? hospital
+
+Julie went to the park.
+Mary picked up the ball.
+Mary went to the studio.
+Mary went to the hallway.
+Where is the ball? hallway
+
+Frank picked up the box.
+Ann went to the school.
+Frank went to the library.
+Frank went to the market.
+Where is the box? market
+
+Lily picked up the coin.
+Lily went to the hallway.
+Lily went to the restaurant.
+Where is the coin? restaurant
+
+Frank picked up the milk.
+Frank went to the cellar.
+Frank went to the kitchen.
+Where is the milk? kitchen
+
+John picked up the cup.
+John went to the bathroom.
+John went to the cellar.
+Where is the cup? cellar
+
+Tom went to the school.
+Lily picked up the key.
+Lily went to the hospital.
+Lily went to the market.
+Frank went to the studio.
+Where is the key? market
+
+Alice went to the bathroom.
+John picked up the ring.
+Tom went to the hallway.
+John went to the bathroom.
+John went to the cellar.
+Where is the ring? cellar
+
+Rick picked up the ball.
+Rick went to the hospital.
+Jeff went to the bathroom.
+Rick went to the school.
+Bernhard went to the bedroom.
+Where is the ball? school
+
+Eve picked up the ring.
+Eve went to the garden.
+Eve went to the cellar.
+Where is the ring? cellar
+
+Lucy picked up the ring.
+Frank went to the garden.
+Bill went to the market.
+Lucy went to the garden.
+Lucy went to the hospital.
+Where is the ring? hospital
+
+Ann picked up the bag.
+David went to the cellar.
+Lucy went to the bathroom.
+Ann went to the hospital.
+Ann went to the playground.
+Where is the bag? playground
+
+Sam picked up the pen.
+Sam went to the hospital.
+Sam went to the studio.
+Where is the pen? studio
+
+Eve picked up the bag.
+Eve went to the hospital.
+Eve went to the library.
+Where is the bag? library
+
+Peter picked up the milk.
+Peter went to the hospital.
+Susan went to the bedroom.
+Peter went to the garden.
+Where is the milk? garden
+
+Lily picked up the apple.
+Lily went to the hospital.
+Lily went to the garden.
+Bill went to the garden.
+Where is the apple? garden
+
+Julie went to the garden.
+Sandra picked up the bag.
+Sandra went to the studio.
+Sandra went to the kitchen.
+Where is the bag? kitchen
+
+Daniel picked up the coin.
+Daniel went to the bathroom.
+Daniel went to the school.
+Peter went to the market.
+Rick went to the restaurant.
+Where is the coin? school
+
+Julie picked up the shoe.
+Julie went to the hallway.
+Julie went to the market.
+Where is the shoe? market
+
+David picked up the key.
+David went to the library.
+David went to the hospital.
+Julie went to the bedroom.
+Sandra went to the hospital.
+Where is the key? hospital
+
+Eve picked up the shoe.
+Eve went to the library.
+Eve went to the park.
+Where is the shoe? park
+
+Lily picked up the coin.
+Lily went to the school.
+Lily went to the office.
+Where is the coin? office
+
+Mary picked up the key.
+Mary went to the office.
+Julie went to the bathroom.
+Mary went to the playground.
+Where is the key? playground
+
+Kate picked up the cup.
+Kate went to the restaurant.
+John went to the park.
+Julie went to the school.
+Kate went to the park.
+Where is the cup? park
+
+Jeff picked up the bag.
+Jeff went to the school.
+Susan went to the restaurant.
+Jeff went to the office.
+Where is the bag? office
+
+Bob picked up the hat.
+Mary went to the library.
+Bob went to the library.
+Bob went to the office.
+Where is the hat? office
+
+Sandra picked up the ring.
+Sandra went to the office.
+Sam went to the bedroom.
+Sandra went to the studio.
+Where is the ring? studio
+
+Bernhard picked up the bottle.
+Peter went to the hallway.
+Bernhard went to the park.
+Bernhard went to the restaurant.
+Where is the bottle? restaurant
+
+Lily picked up the hat.
+Lily went to the studio.
+Lily went to the bedroom.
+Where is the hat? bedroom
+
+Lucy picked up the knife.
+Lucy went to the hallway.
+Lucy went to the market.
+Kate went to the garden.
+Where is the knife? market
+
+Bernhard picked up the milk.
+Bernhard went to the hospital.
+Sandra went to the hospital.
+Bernhard went to the kitchen.
+Where is the milk? kitchen
+
+Daniel picked up the pen.
+Daniel went to the library.
+Daniel went to the playground.
+Where is the pen? playground
+
+Tom picked up the hat.
+Tom went to the market.
+Tom went to the playground.
+Fred went to the playground.
+Frank went to the cellar.
+Where is the hat? playground
+
+Lily picked up the shoe.
+Lily went to the kitchen.
+Lily went to the bedroom.
+Where is the shoe? bedroom
+
+Julie went to the restaurant.
+Tom picked up the milk.
+Tom went to the office.
+Tom went to the bathroom.
+David went to the market.
+Where is the milk? bathroom
+
+Bernhard went to the office.
+Lily picked up the bag.
+Lily went to the bedroom.
+Lily went to the garden.
+Where is the bag? garden
+
+Kate went to the playground.
+Bill went to the bathroom.
+Lily picked up the cup.
+Lily went to the hospital.
+Lily went to the hallway.
+Where is the cup? hallway
+
+Fred picked up the pen.
+Fred went to the kitchen.
+Gertrude went to the office.
+Fred went to the studio.
+Ann went to the office.
+Where is the pen? studio
+
+Lucy picked up the apple.
+Lucy went to the library.
+Lucy went to the market.
+Where is the apple? market
+
+Kate picked up the key.
+Lily went to the kitchen.
+Kate went to the kitchen.
+Kate went to the office.
+Where is the key? office
+
+Bernhard picked up the ring.
+Bernhard went to the bedroom.
+Bernhard went to the library.
+Where is the ring? library
+
+Sandra picked up the ball.
+Sandra went to the park.
+Sandra went to the kitchen.
+Sam went to the office.
+Bernhard went to the hallway.
+Where is the ball? kitchen
+
+Mary picked up the hat.
+Mary went to the restaurant.
+Julie went to the studio.
+Ann went to the cellar.
+Mary went to the hospital.
+Where is the hat? hospital
+
+Frank picked up the hat.
+Frank went to the restaurant.
+Frank went to the garden.
+Julie went to the kitchen.
+Where is the hat? garden
+
+Bill picked up the ring.
+Bill went to the park.
+Bill went to the hospital.
+David went to the park.
+Jeff went to the cellar.
+Where is the ring? hospital
+
+Lily picked up the ball.
+Lily went to the restaurant.
+Sam went to the market.
+Julie went to the kitchen.
+Lily went to the cellar.
+Where is the ball? cellar

@@ -1,0 +1,1060 @@
+Peter picked up the book.
+Peter picked up the box.
+Peter picked up the bag.
+Peter picked up the key.
+Peter picked up the apple.
+Peter dropped the apple.
+What is Peter holding? book box bag key
+
+Eve picked up the shoe.
+Eve picked up the ball.
+What is Eve holding? shoe ball
+
+Eve picked up the shoe.
+Eve picked up the apple.
+Eve picked up the hat.
+Eve picked up the box.
+Eve picked up the book.
+Eve dropped the book.
+What is Eve holding? shoe apple hat box
+
+David picked up the key.
+David picked up the bag.
+David picked up the pen.
+David picked up the box.
+David picked up the book.
+David dropped the book.
+What is David holding? key bag pen box
+
+Peter picked up the bag.
+Peter picked up the key.
+Peter picked up the cup.
+What is Peter holding? bag key cup
+
+Bill picked up the apple.
+Bill picked up the ball.
+What is Bill holding? apple ball
+
+Bill picked up the hat.
+Bill picked up the cup.
+Bill picked up the book.
+Bill picked up the bottle.
+Bill dropped the bottle.
+What is Bill holding? hat cup book
+
+John picked up the ball.
+What is John holding? ball
+
+Peter picked up the box.
+Peter picked up the book.
+Peter picked up the cup.
+Peter picked up the bag.
+What is Peter holding? box book cup bag
+
+Fred picked up the bag.
+Fred picked up the milk.
+Fred picked up the bottle.
+Fred picked up the hat.
+What is Fred holding? bag milk bottle hat
+
+Bob picked up the shoe.
+Bob picked up the key.
+What is Bob holding? shoe key
+
+Alice picked up the shoe.
+Alice picked up the box.
+Alice picked up the hat.
+What is Alice holding? shoe box hat
+
+Sandra picked up the shoe.
+Sandra picked up the box.
+Sandra picked up the cup.
+Sandra picked up the milk.
+Sandra dropped the milk.
+What is Sandra holding? shoe box cup
+
+Susan picked up the box.
+Susan picked up the shoe.
+Susan picked up the hat.
+Susan picked up the apple.
+Susan picked up the milk.
+Susan dropped the milk.
+What is Susan holding? box shoe hat apple
+
+Sandra picked up the milk.
+Sandra picked up the book.
+Sandra picked up the hat.
+What is Sandra holding? milk book hat
+
+Alice picked up the hat.
+What is Alice holding? hat
+
+David picked up the shoe.
+David picked up the milk.
+David picked up the hat.
+David picked up the key.
+David picked up the bottle.
+David dropped the bottle.
+What is David holding? shoe milk hat key
+
+Lucy picked up the bottle.
+Lucy picked up the key.
+What is Lucy holding? bottle key
+
+John picked up the book.
+John picked up the key.
+John picked up the apple.
+John picked up the pen.
+What is John holding? book key apple pen
+
+Ann picked up the book.
+Ann picked up the milk.
+Ann picked up the apple.
+Ann picked up the pen.
+What is Ann holding? book milk apple pen
+
+Frank picked up the hat.
+Frank picked up the bag.
+Frank picked up the shoe.
+What is Frank holding? hat bag shoe
+
+Kate picked up the hat.
+Kate picked up the ball.
+Kate picked up the cup.
+Kate picked up the milk.
+What is Kate holding? hat ball cup milk
+
+Mary picked up the box.
+Mary picked up the pen.
+What is Mary holding? box pen
+
+Peter picked up the bag.
+Peter picked up the shoe.
+Peter dropped the shoe.
+What is Peter holding? bag
+
+Lucy picked up the apple.
+Lucy picked up the hat.
+Lucy picked up the cup.
+Lucy picked up the key.
+Lucy picked up the shoe.
+Lucy dropped the shoe.
+What is Lucy holding? apple hat cup key
+
+Frank picked up the book.
+What is Frank holding? book
+
+Frank picked up the book.
+Frank picked up the pen.
+Frank picked up the cup.
+Frank picked up the shoe.
+What is Frank holding? book pen cup shoe
+
+Kate picked up the shoe.
+Kate picked up the pen.
+Kate picked up the book.
+What is Kate holding? shoe pen book
+
+David picked up the shoe.
+David picked up the bag.
+David picked up the book.
+David picked up the bottle.
+David dropped the bottle.
+What is David holding? shoe bag book
+
+Bob picked up the milk.
+Bob picked up the pen.
+What is Bob holding? milk pen
+
+Bill picked up the ball.
+Bill picked up the cup.
+Bill dropped the cup.
+What is Bill holding? ball
+
+Bob picked up the ball.
+Bob picked up the apple.
+Bob dropped the apple.
+What is Bob holding? ball
+
+Eve picked up the key.
+Eve picked up the pen.
+Eve picked up the hat.
+What is Eve holding? key pen hat
+
+Bill picked up the shoe.
+Bill picked up the hat.
+Bill picked up the ball.
+What is Bill holding? shoe hat ball
+
+Lucy picked up the hat.
+Lucy picked up the shoe.
+What is Lucy holding? hat shoe
+
+Frank picked up the apple.
+What is Frank holding? apple
+
+David picked up the hat.
+David picked up the shoe.
+David dropped the shoe.
+What is David holding? hat
+
+Nina picked up the pen.
+Nina picked up the box.
+Nina picked up the apple.
+Nina picked up the milk.
+What is Nina holding? pen box apple milk
+
+Rick picked up the shoe.
+Rick picked up the milk.
+Rick picked up the apple.
+Rick picked up the pen.
+What is Rick holding? shoe milk apple pen
+
+Frank picked up the hat.
+What is Frank holding? hat
+
+Daniel picked up the book.
+Daniel picked up the apple.
+Daniel picked up the pen.
+What is Daniel holding? book apple pen
+
+Eve picked up the pen.
+Eve picked up the bottle.
+Eve picked up the box.
+Eve picked up the key.
+What is Eve holding? pen bottle box key
+
+Sandra picked up the book.
+Sandra picked up the cup.
+Sandra picked up the bottle.
+What is Sandra holding? book cup bottle
+
+Fred picked up the shoe.
+Fred picked up the bottle.
+Fred picked up the milk.
+What is Fred holding? shoe bottle milk
+
+Daniel picked up the key.
+Daniel picked up the bag.
+Daniel picked up the bottle.
+Daniel picked up the book.
+What is Daniel holding? key bag bottle book
+
+Alice picked up the shoe.
+Alice picked up the box.
+Alice picked up the book.
+Alice picked up the hat.
+What is Alice holding? shoe box book hat
+
+Bill picked up the hat.
+Bill picked up the ball.
+Bill picked up the box.
+Bill picked up the bottle.
+What is Bill holding? hat ball box bottle
+
+Daniel picked up the milk.
+Daniel picked up the ball.
+Daniel picked up the book.
+What is Daniel holding? milk ball book
+
+Fred picked up the book.
+Fred picked up the shoe.
+Fred picked up the ball.
+Fred picked up the key.
+What is Fred holding? book shoe ball key
+
+Fred picked up the cup.
+Fred picked up the key.
+What is Fred holding? cup key
+
+Alice picked up the milk.
+Alice picked up the cup.
+Alice picked up the key.
+Alice picked up the box.
+What is Alice holding? milk cup key box
+
+Susan picked up the hat.
+Susan picked up the shoe.
+Susan picked up the milk.
+Susan dropped the milk.
+What is Susan holding? hat shoe
+
+David picked up the hat.
+David picked up the pen.
+David picked up the box.
+What is David holding? hat pen box
+
+Nina picked up the bottle.
+Nina picked up the bag.
+Nina picked up the cup.
+Nina picked up the ball.
+Nina picked up the book.
+Nina dropped the book.
+What is Nina holding? bottle bag cup ball
+
+Daniel picked up the shoe.
+Daniel picked up the box.
+Daniel picked up the bag.
+Daniel picked up the key.
+Daniel dropped the key.
+What is Daniel holding? shoe box bag
+
+Susan picked up the cup.
+Susan picked up the bottle.
+Susan picked up the hat.
+Susan picked up the apple.
+What is Susan holding? cup bottle hat apple
+
+Kate picked up the hat.
+Kate picked up the bottle.
+Kate picked up the ball.
+Kate picked up the bag.
+What is Kate holding? hat bottle ball bag
+
+Mary picked up the pen.
+Mary picked up the shoe.
+What is Mary holding? pen shoe
+
+Bill picked up the hat.
+Bill picked up the book.
+Bill dropped the book.
+What is Bill holding? hat
+
+David picked up the ball.
+David picked up the shoe.
+David dropped the shoe.
+What is David holding? ball
+
+Tom picked up the pen.
+Tom picked up the bottle.
+Tom picked up the hat.
+Tom picked up the bag.
+Tom dropped the bag.
+What is Tom holding? pen bottle hat
+
+Mary picked up the milk.
+Mary picked up the bottle.
+Mary dropped the bottle.
+What is Mary holding? milk
+
+Alice picked up the apple.
+Alice picked up the box.
+Alice picked up the bottle.
+Alice picked up the book.
+Alice dropped the book.
+What is Alice holding? apple box bottle
+
+Sam picked up the bag.
+Sam picked up the book.
+Sam picked up the apple.
+Sam picked up the milk.
+What is Sam holding? bag book apple milk
+
+Peter picked up the milk.
+Peter picked up the bottle.
+Peter picked up the hat.
+Peter picked up the pen.
+What is Peter holding? milk bottle hat pen
+
+Susan picked up the key.
+Susan picked up the hat.
+Susan picked up the bottle.
+What is Susan holding? key hat bottle
+
+Alice picked up the bag.
+Alice picked up the milk.
+Alice dropped the milk.
+What is Alice holding? bag
+
+Sandra picked up the apple.
+Sandra picked up the milk.
+What is Sandra holding? apple milk
+
+Sam picked up the cup.
+Sam picked up the ball.
+Sam picked up the pen.
+Sam dropped the pen.
+What is Sam holding? cup ball
+
+Kate picked up the key.
+Kate picked up the ball.
+Kate picked up the apple.
+Kate picked up the hat.
+Kate dropped the hat.
+What is Kate holding? key ball apple
+
+Ann picked up the hat.
+Ann picked up the bottle.
+Ann picked up the book.
+What is Ann holding? hat bottle book
+
+Peter picked up the cup.
+Peter picked up the shoe.
+Peter picked up the apple.
+What is Peter holding? cup shoe apple
+
+Alice picked up the ball.
+Alice picked up the pen.
+What is Alice holding? ball pen
+
+Ann picked up the ball.
+Ann picked up the book.
+What is Ann holding? ball book
+
+Eve picked up the box.
+Eve picked up the ball.
+Eve dropped the ball.
+What is Eve holding? box
+
+Fred picked up the bottle.
+Fred picked up the apple.
+Fred dropped the apple.
+What is Fred holding? bottle
+
+John picked up the hat.
+John picked up the pen.
+John picked up the book.
+John picked up the shoe.
+John picked up the bottle.
+John dropped the bottle.
+What is John holding? hat pen book shoe
+
+Frank picked up the cup.
+What is Frank holding? cup
+
+Sandra picked up the hat.
+Sandra picked up the key.
+Sandra picked up the box.
+Sandra picked up the cup.
+Sandra dropped the cup.
+What is Sandra holding? hat key box
+
+Fred picked up the milk.
+Fred picked up the hat.
+Fred picked up the shoe.
+Fred picked up the key.
+What is Fred holding? milk hat shoe key
+
+Daniel picked up the ball.
+Daniel picked up the bag.
+Daniel picked up the key.
+Daniel picked up the bottle.
+Daniel picked up the shoe.
+Daniel dropped the shoe.
+What is Daniel holding? ball bag key bottle
+
+Ann picked up the key.
+Ann picked up the shoe.
+Ann picked up the bag.
+Ann dropped the bag.
+What is Ann holding? key shoe
+
+Eve picked up the box.
+Eve picked up the milk.
+What is Eve holding? box milk
+
+Mary picked up the box.
+Mary picked up the bag.
+Mary picked up the ball.
+Mary picked up the cup.
+What is Mary holding? box bag ball cup
+
+Bill picked up the book.
+Bill picked up the shoe.
+What is Bill holding? book shoe
+
+Sandra picked up the box.
+Sandra picked up the key.
+Sandra picked up the book.
+Sandra dropped the book.
+What is Sandra holding? box key
+
+Nina picked up the pen.
+Nina picked up the cup.
+Nina picked up the box.
+Nina picked up the key.
+What is Nina holding? pen cup box key
+
+Daniel picked up the bottle.
+What is Daniel holding? bottle
+
+Alice picked up the bottle.
+Alice picked up the pen.
+What is Alice holding? bottle pen
+
+Susan picked up the cup.
+Susan picked up the shoe.
+Susan picked up the apple.
+What is Susan holding? cup shoe apple
+
+Bill picked up the ball.
+Bill picked up the bag.
+What is Bill holding? ball bag
+
+Eve picked up the bag.
+Eve picked up the key.
+What is Eve holding? bag key
+
+Nina picked up the hat.
+Nina picked up the bag.
+Nina picked up the pen.
+What is Nina holding? hat bag pen
+
+Rick picked up the shoe.
+What is Rick holding? shoe
+
+David picked up the hat.
+David picked up the key.
+What is David holding? hat key
+
+Eve picked up the book.
+What is Eve holding? book
+
+John picked up the cup.
+John picked up the apple.
+John picked up the key.
+John dropped the key.
+What is John holding? cup apple
+
+Tom picked up the hat.
+Tom picked up the cup.
+Tom picked up the apple.
+Tom dropped the apple.
+What is Tom holding? hat cup
+
+John picked up the box.
+John picked up the key.
+What is John holding? box key
+
+Rick picked up the milk.
+Rick picked up the cup.
+Rick dropped the cup.
+What is Rick holding? milk
+
+Nina picked up the cup.
+Nina picked up the shoe.
+What is Nina holding? cup shoe
+
+Fred picked up the shoe.
+Fred picked up the apple.
+Fred picked up the book.
+What is Fred holding? shoe apple book
+
+Bill picked up the apple.
+Bill picked up the ball.
+Bill picked up the book.
+Bill picked up the box.
+What is Bill holding? apple ball book box
+
+Daniel picked up the book.
+Daniel picked up the shoe.
+Daniel picked up the bag.
+Daniel picked up the key.
+What is Daniel holding? book shoe bag key
+
+Tom picked up the milk.
+Tom picked up the apple.
+What is Tom holding? milk apple
+
+Mary picked up the hat.
+Mary picked up the cup.
+Mary picked up the shoe.
+What is Mary holding? hat cup shoe
+
+Eve picked up the bottle.
+Eve picked up the hat.
+Eve picked up the apple.
+Eve picked up the bag.
+Eve dropped the bag.
+What is Eve holding? bottle hat apple
+
+Daniel picked up the hat.
+Daniel picked up the apple.
+Daniel picked up the bottle.
+What is Daniel holding? hat apple bottle
+
+Alice picked up the key.
+Alice picked up the bag.
+Alice picked up the shoe.
+What is Alice holding? key bag shoe
+
+John picked up the shoe.
+John picked up the bottle.
+John picked up the key.
+John picked up the book.
+What is John holding? shoe bottle key book
+
+John picked up the key.
+John picked up the bottle.
+What is John holding? key bottle
+
+Bill picked up the bottle.
+Bill picked up the bag.
+Bill picked up the cup.
+Bill picked up the key.
+Bill dropped the key.
+What is Bill holding? bottle bag cup
+
+Bob picked up the bottle.
+Bob picked up the pen.
+Bob picked up the bag.
+What is Bob holding? bottle pen bag
+
+Nina picked up the milk.
+Nina picked up the book.
+Nina picked up the pen.
+What is Nina holding? milk book pen
+
+Lucy picked up the ball.
+Lucy picked up the bag.
+Lucy picked up the shoe.
+Lucy picked up the bottle.
+Lucy picked up the hat.
+Lucy dropped the hat.
+What is Lucy holding? ball bag shoe bottle
+
+Frank picked up the book.
+Frank picked up the ball.
+Frank picked up the pen.
+What is Frank holding? book ball pen
+
+Peter picked up the pen.
+Peter picked up the book.
+What is Peter holding? pen book
+
+Bill picked up the apple.
+Bill picked up the key.
+Bill picked up the cup.
+Bill picked up the pen.
+What is Bill holding? apple key cup pen
+
+Nina picked up the ball.
+Nina picked up the shoe.
+Nina picked up the pen.
+Nina picked up the milk.
+What is Nina holding? ball shoe pen milk
+
+Alice picked up the key.
+What is Alice holding? key
+
+Tom picked up the ball.
+Tom picked up the pen.
+Tom picked up the bag.
+Tom picked up the bottle.
+What is Tom holding? ball pen bag bottle
+
+Ann picked up the book.
+Ann picked up the milk.
+Ann picked up the key.
+What is Ann holding? book milk key
+
+Kate picked up the cup.
+Kate picked up the box.
+Kate picked up the ball.
+Kate picked up the shoe.
+What is Kate holding? cup box ball shoe
+
+Peter picked up the box.
+Peter picked up the book.
+Peter picked up the key.
+Peter picked up the bottle.
+Peter dropped the bottle.
+What is Peter holding? box book key
+
+Lucy picked up the ball.
+Lucy picked up the bag.
+Lucy picked up the shoe.
+Lucy picked up the apple.
+Lucy picked up the book.
+Lucy dropped the book.
+What is Lucy holding? ball bag shoe apple
+
+Peter picked up the key.
+Peter picked up the pen.
+Peter dropped the pen.
+What is Peter holding? key
+
+Susan picked up the shoe.
+Susan picked up the cup.
+Susan picked up the pen.
+Susan picked up the milk.
+What is Susan holding? shoe cup pen milk
+
+Tom picked up the apple.
+Tom picked up the key.
+Tom picked up the box.
+Tom picked up the cup.
+What is Tom holding? apple key box cup
+
+Fred picked up the book.
+What is Fred holding? book
+
+Peter picked up the key.
+Peter picked up the cup.
+Peter picked up the bottle.
+What is Peter holding? key cup bottle
+
+Nina picked up the pen.
+Nina picked up the hat.
+Nina picked up the shoe.
+Nina picked up the ball.
+What is Nina holding? pen hat shoe ball
+
+Rick picked up the book.
+Rick picked up the box.
+Rick picked up the cup.
+What is Rick holding? book box cup
+
+Mary picked up the key.
+Mary picked up the hat.
+Mary dropped the hat.
+What is Mary holding? key
+
+Lucy picked up the cup.
+What is Lucy holding? cup
+
+Tom picked up the bag.
+Tom picked up the book.
+What is Tom holding? bag book
+
+Sandra picked up the milk.
+Sandra picked up the hat.
+Sandra picked up the shoe.
+What is Sandra holding? milk hat shoe
+
+Lucy picked up the box.
+Lucy picked up the bag.
+Lucy dropped the bag.
+What is Lucy holding? box
+
+Alice picked up the book.
+Alice picked up the bottle.
+Alice picked up the hat.
+Alice picked up the cup.
+Alice dropped the cup.
+What is Alice holding? book bottle hat
+
+Sam picked up the cup.
+Sam picked up the book.
+Sam picked up the key.
+Sam dropped the key.
+What is Sam holding? cup book
+
+Susan picked up the shoe.
+Susan picked up the ball.
+What is Susan holding? shoe ball
+
+Bill picked up the bottle.
+Bill picked up the bag.
+Bill picked up the shoe.
+Bill picked up the key.
+Bill dropped the key.
+What is Bill holding? bottle bag shoe
+
+Nina picked up the box.
+Nina picked up the milk.
+Nina picked up the shoe.
+Nina dropped the shoe.
+What is Nina holding? box milk
+
+Kate picked up the shoe.
+Kate picked up the key.
+Kate picked up the apple.
+Kate picked up the cup.
+Kate picked up the ball.
+Kate dropped the ball.
+What is Kate holding? shoe key apple cup
+
+Kate picked up the cup.
+Kate picked up the apple.
+Kate picked up the box.
+What is Kate holding? cup apple box
+
+Sam picked up the box.
+Sam picked up the ball.
+What is Sam holding? box ball
+
+Lucy picked up the book.
+Lucy picked up the key.
+Lucy picked up the apple.
+Lucy picked up the ball.
+What is Lucy holding? book key apple ball
+
+Nina picked up the shoe.
+Nina picked up the bottle.
+Nina picked up the apple.
+What is Nina holding? shoe bottle apple
+
+David picked up the cup.
+David picked up the hat.
+What is David holding? cup hat
+
+Sandra picked up the box.
+Sandra picked up the bottle.
+Sandra picked up the ball.
+Sandra picked up the hat.
+Sandra picked up the key.
+Sandra dropped the key.
+What is Sandra holding? box bottle ball hat
+
+Sam picked up the ball.
+Sam picked up the book.
+What is Sam holding? ball book
+
+Alice picked up the pen.
+Alice picked up the cup.
+What is Alice holding? pen cup
+
+Peter picked up the milk.
+Peter picked up the key.
+Peter picked up the cup.
+What is Peter holding? milk key cup
+
+John picked up the apple.
+John picked up the bag.
+John picked up the key.
+What is John holding? apple bag key
+
+Sandra picked up the ball.
+Sandra picked up the bottle.
+Sandra picked up the box.
+Sandra picked up the key.
+Sandra dropped the key.
+What is Sandra holding? ball bottle box
+
+Sam picked up the bottle.
+Sam picked up the hat.
+Sam dropped the hat.
+What is Sam holding? bottle
+
+David picked up the book.
+David picked up the bag.
+What is David holding? book bag
+
+Rick picked up the milk.
+Rick picked up the ball.
+What is Rick holding? milk ball
+
+David picked up the hat.
+David picked up the book.
+What is David holding? hat book
+
+Sam picked up the bag.
+Sam picked up the hat.
+Sam picked up the apple.
+What is Sam holding? bag hat apple
+
+Mary picked up the bag.
+Mary picked up the ball.
+Mary picked up the hat.
+Mary picked up the box.
+What is Mary holding? bag ball hat box
+
+Mary picked up the pen.
+Mary picked up the bottle.
+Mary picked up the ball.
+What is Mary holding? pen bottle ball
+
+David picked up the bottle.
+David picked up the hat.
+What is David holding? bottle hat
+
+Bill picked up the shoe.
+Bill picked up the apple.
+Bill picked up the milk.
+Bill picked up the bag.
+What is Bill holding? shoe apple milk bag
+
+Sam picked up the bag.
+Sam picked up the pen.
+What is Sam holding? bag pen
+
+Rick picked up the bag.
+Rick picked up the bottle.
+What is Rick holding? bag bottle
+
+Sam picked up the pen.
+Sam picked up the hat.
+Sam picked up the ball.
+Sam dropped the ball.
+What is Sam holding? pen hat
+
+Mary picked up the shoe.
+Mary picked up the pen.
+Mary picked up the hat.
+Mary picked up the apple.
+Mary picked up the bag.
+Mary dropped the bag.
+What is Mary holding? shoe pen hat apple
+
+Lucy picked up the ball.
+Lucy picked up the pen.
+What is Lucy holding? ball pen
+
+Tom picked up the ball.
+Tom picked up the box.
+Tom picked up the apple.
+Tom picked up the bag.
+Tom dropped the bag.
+What is Tom holding? ball box apple
+
+Sam picked up the milk.
+Sam picked up the ball.
+Sam picked up the hat.
+Sam picked up the pen.
+Sam dropped the pen.
+What is Sam holding? milk ball hat
+
+Peter picked up the milk.
+What is Peter holding? milk
+
+Daniel picked up the milk.
+Daniel picked up the hat.
+What is Daniel holding? milk hat
+
+Bob picked up the ball.
+Bob picked up the cup.
+What is Bob holding? ball cup
+
+Sandra picked up the book.
+Sandra picked up the bag.
+Sandra picked up the ball.
+Sandra picked up the key.
+What is Sandra holding? book bag ball key
+
+Mary picked up the shoe.
+Mary picked up the pen.
+Mary picked up the key.
+What is Mary holding? shoe pen key
+
+Frank picked up the ball.
+Frank picked up the shoe.
+What is Frank holding? ball shoe
+
+Bob picked up the ball.
+Bob picked up the hat.
+Bob picked up the bottle.
+What is Bob holding? ball hat bottle
+
+Kate picked up the book.
+Kate picked up the milk.
+What is Kate holding? book milk
+
+Lucy picked up the book.
+Lucy picked up the apple.
+Lucy picked up the ball.
+Lucy picked up the key.
+Lucy picked up the box.
+Lucy dropped the box.
+What is Lucy holding? book apple ball key
+
+Alice picked up the bottle.
+Alice picked up the shoe.
+What is Alice holding? bottle shoe
+
+Susan picked up the milk.
+Susan picked up the shoe.
+Susan picked up the hat.
+What is Susan holding? milk shoe hat
+
+Peter picked up the book.
+Peter picked up the key.
+Peter picked up the shoe.
+What is Peter holding? book key shoe
+
+Fred picked up the box.
+Fred picked up the milk.
+Fred picked up the apple.
+Fred picked up the pen.
+Fred dropped the pen.
+What is Fred holding? box milk apple
+
+Peter picked up the milk.
+Peter picked up the key.
+Peter picked up the cup.
+Peter dropped the cup.
+What is Peter holding? milk key
+
+Bill picked up the book.
+Bill picked up the bag.
+Bill picked up the box.
+Bill picked up the bottle.
+Bill dropped the bottle.
+What is Bill holding? book bag box
+
+Frank picked up the bottle.
+Frank picked up the pen.
+Frank picked up the shoe.
+What is Frank holding? bottle pen shoe
+
+Fred picked up the bottle.
+Fred picked up the hat.
+What is Fred holding? bottle hat
+
+Eve picked up the cup.
+Eve picked up the pen.
+Eve picked up the apple.
+Eve dropped the apple.
+What is Eve holding? cup pen
+
+Lucy picked up the shoe.
+Lucy picked up the ball.
+Lucy picked up the box.
+Lucy picked up the hat.
+Lucy picked up the bottle.
+Lucy dropped the bottle.
+What is Lucy holding? shoe ball box hat
+
+Sam picked up the box.
+Sam picked up the apple.
+Sam picked up the hat.
+Sam picked up the shoe.
+What is Sam holding? box apple hat shoe
+
+Kate picked up the pen.
+Kate picked up the book.
+Kate picked up the key.
+What is Kate holding? pen book key
+
+John picked up the pen.
+John picked up the key.
+John picked up the hat.
+What is John holding? pen key hat
+
+Lucy picked up the box.
+What is Lucy holding? box
+
+Bill picked up the bottle.
+What is Bill holding? bottle
+
+Tom picked up the book.
+Tom picked up the key.
+Tom picked up the bag.
+Tom picked up the milk.
+Tom dropped the milk.
+What is Tom holding? book key bag
+
+Bob picked up the cup.
+Bob picked up the book.
+Bob picked up the ball.
+Bob picked up the shoe.
+Bob dropped the shoe.
+What is Bob holding? cup book ball
+
+Nina picked up the pen.
+Nina picked up the book.
+What is Nina holding? pen book
+
+Ann picked up the pen.
+Ann picked up the milk.
+Ann picked up the hat.
+What is Ann holding? pen milk hat
+
+Bob picked up the ball.
+Bob picked up the bottle.
+Bob picked up the box.
+Bob picked up the milk.
+What is Bob holding? ball bottle box milk
+
+Nina picked up the milk.
+What is Nina holding? milk

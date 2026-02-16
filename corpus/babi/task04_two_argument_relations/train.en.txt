@@ -1,0 +1,3999 @@
+The market is east of the garden.
+The garden is east of the kitchen.
+What is east of the garden? market
+
+The bedroom is north of the garden.
+The garden is north of the playground.
+What is the garden north of? playground
+
+The kitchen is south of the restaurant.
+The restaurant is south of the garden.
+What is south of the restaurant? kitchen
+
+The studio is south of the kitchen.
+The kitchen is south of the playground.
+What is the kitchen south of? playground
+
+The restaurant is south of the playground.
+The playground is south of the park.
+What is south of the playground? restaurant
+
+The office is west of the kitchen.
+The kitchen is west of the bedroom.
+What is west of the kitchen? office
+
+The bedroom is north of the bathroom.
+The bathroom is north of the school.
+What is north of the bathroom? bedroom
+
+The garden is above the school.
+The school is above the market.
+What is above the school? garden
+
+The kitchen is north of the hallway.
+The hallway is north of the playground.
+What is the hallway north of? playground
+
+The park is east of the garden.
+The garden is east of the playground.
+What is the garden east of? playground
+
+The studio is south of the school.
+The school is south of the restaurant.
+What is the school south of? restaurant
+
+The kitchen is east of the market.
+The market is east of the bathroom.
+What is the market east of? bathroom
+
+The bathroom is east of the garden.
+The garden is east of the park.
+What is east of the garden? bathroom
+
+The school is east of the bedroom.
+The bedroom is east of the restaurant.
+What is east of the bedroom? school
+
+The office is above the market.
+The market is above the garden.
+What is the market above? garden
+
+The playground is west of the bathroom.
+The bathroom is west of the bedroom.
+What is west of the bathroom? playground
+
+The market is east of the playground.
+The playground is east of the bathroom.
+What is the playground east of? bathroom
+
+The kitchen is east of the bathroom.
+The bathroom is east of the restaurant.
+What is east of the bathroom? kitchen
+
+The garden is east of the bathroom.
+The bathroom is east of the studio.
+What is east of the bathroom? garden
+
+The hallway is south of the park.
+The park is south of the restaurant.
+What is south of the park? hallway
+
+The bathroom is east of the playground.
+The playground is east of the market.
+What is the playground east of? market
+
+The park is east of the studio.
+The studio is east of the restaurant.
+What is east of the studio? park
+
+The bedroom is north of the playground.
+The playground is north of the hallway.
+What is the playground north of? hallway
+
+The garden is west of the bedroom.
+The bedroom is west of the market.
+What is the bedroom west of? market
+
+The park is west of the restaurant.
+The restaurant is west of the studio.
+What is the restaurant west of? studio
+
+The playground is above the kitchen.
+The kitchen is above the garden.
+What is the kitchen above? garden
+
+The market is east of the school.
+The school is east of the garden.
+What is east of the school? market
+
+The hallway is above the kitchen.
+The kitchen is above the office.
+What is the kitchen above? office
+
+The playground is above the garden.
+The garden is above the office.
+What is the garden above? office
+
+The bedroom is above the school.
+The school is above the restaurant.
+What is the school above? restaurant
+
+The playground is east of the kitchen.
+The kitchen is east of the studio.
+What is east of the kitchen? playground
+
+The garden is south of the school.
+The school is south of the office.
+What is south of the school? garden
+
+The studio is west of the garden.
+The garden is west of the market.
+What is the garden west of? market
+
+The playground is west of the bedroom.
+The bedroom is west of the market.
+What is the bedroom west of? market
+
+The bedroom is above the office.
+The office is above the playground.
+What is above the office? bedroom
+
+The bathroom is east of the playground.
+The playground is east of the restaurant.
+What is east of the playground? bathroom
+
+The market is west of the restaurant.
+The restaurant is west of the school.
+What is the restaurant west of? school
+
+The hallway is south of the garden.
+The garden is south of the bathroom.
+What is south of the garden? hallway
+
+The kitchen is south of the studio.
+The studio is south of the playground.
+What is the studio south of? playground
+
+The kitchen is south of the garden.
+The garden is south of the restaurant.
+What is south of the garden? kitchen
+
+The kitchen is above the school.
+The school is above the garden.
+What is above the school? kitchen
+
+The market is above the hallway.
+The hallway is above the bathroom.
+What is above the hallway? market
+
+The studio is south of the restaurant.
+The restaurant is south of the hallway.
+What is the restaurant south of? hallway
+
+The park is north of the bathroom.
+The bathroom is north of the garden.
+What is the bathroom north of? garden
+
+The school is west of the park.
+The park is west of the market.
+What is the park west of? market
+
+The kitchen is north of the market.
+The market is north of the garden.
+What is north of the market? kitchen
+
+The school is south of the garden.
+The garden is south of the bathroom.
+What is south of the garden? school
+
+The hallway is south of the bedroom.
+The bedroom is south of the park.
+What is south of the bedroom? hallway
+
+The bathroom is above the garden.
+The garden is above the hallway.
+What is above the garden? bathroom
+
+The market is north of the playground.
+The playground is north of the kitchen.
+What is the playground north of? kitchen
+
+The bathroom is west of the bedroom.
+The bedroom is west of the park.
+What is west of the bedroom? bathroom
+
+The park is west of the kitchen.
+The kitchen is west of the bedroom.
+What is west of the kitchen? park
+
+The park is east of the office.
+The office is east of the hallway.
+What is east of the office? park
+
+The restaurant is south of the playground.
+The playground is south of the hallway.
+What is south of the playground? restaurant
+
+The bathroom is above the kitchen.
+The kitchen is above the studio.
+What is above the kitchen? bathroom
+
+The school is above the kitchen.
+The kitchen is above the market.
+What is above the kitchen? school
+
+The playground is above the bedroom.
+The bedroom is above the kitchen.
+What is above the bedroom? playground
+
+The bedroom is north of the garden.
+The garden is north of the studio.
+What is the garden north of? studio
+
+The bathroom is above the park.
+The park is above the garden.
+What is above the park? bathroom
+
+The studio is north of the kitchen.
+The kitchen is north of the restaurant.
+What is north of the kitchen? studio
+
+The studio is east of the restaurant.
+The restaurant is east of the playground.
+What is the restaurant east of? playground
+
+The bathroom is south of the market.
+The market is south of the school.
+What is south of the market? bathroom
+
+The bedroom is west of the market.
+The market is west of the office.
+What is west of the market? bedroom
+
+The garden is above the kitchen.
+The kitchen is above the hallway.
+What is the kitchen above? hallway
+
+The garden is south of the restaurant.
+The restaurant is south of the playground.
+What is the restaurant south of? playground
+
+The bedroom is south of the school.
+The school is south of the garden.
+What is south of the school? bedroom
+
+The bedroom is east of the hallway.
+The hallway is east of the playground.
+What is the hallway east of? playground
+
+The market is above the playground.
+The playground is above the kitchen.
+What is above the playground? market
+
+The market is east of the garden.
+The garden is east of the bedroom.
+What is east of the garden? market
+
+The garden is east of the playground.
+The playground is east of the bedroom.
+What is east of the playground? garden
+
+The bathroom is east of the school.
+The school is east of the restaurant.
+What is the school east of? restaurant
+
+The office is west of the kitchen.
+The kitchen is west of the garden.
+What is the kitchen west of? garden
+
+The kitchen is south of the restaurant.
+The restaurant is south of the school.
+What is the restaurant south of? school
+
+The office is above the bedroom.
+The bedroom is above the hallway.
+What is the bedroom above? hallway
+
+The playground is north of the kitchen.
+The kitchen is north of the garden.
+What is the kitchen north of? garden
+
+The restaurant is north of the bedroom.
+The bedroom is north of the playground.
+What is the bedroom north of? playground
+
+The studio is west of the playground.
+The playground is west of the bedroom.
+What is west of the playground? studio
+
+The office is east of the school.
+The school is east of the kitchen.
+What is east of the school? office
+
+The bathroom is east of the market.
+The market is east of the garden.
+What is the market east of? garden
+
+The park is south of the studio.
+The studio is south of the bedroom.
+What is the studio south of? bedroom
+
+The bedroom is south of the park.
+The park is south of the kitchen.
+What is the park south of? kitchen
+
+The school is east of the park.
+The park is east of the bathroom.
+What is east of the park? school
+
+The restaurant is north of the garden.
+The garden is north of the park.
+What is the garden north of? park
+
+The bathroom is east of the restaurant.
+The restaurant is east of the hallway.
+What is east of the restaurant? bathroom
+
+The bathroom is south of the restaurant.
+The restaurant is south of the kitchen.
+What is south of the restaurant? bathroom
+
+The office is east of the garden.
+The garden is east of the restaurant.
+What is the garden east of? restaurant
+
+The park is east of the market.
+The market is east of the playground.
+What is the market east of? playground
+
+The garden is above the office.
+The office is above the bedroom.
+What is the office above? bedroom
+
+The office is above the kitchen.
+The kitchen is above the garden.
+What is above the kitchen? office
+
+The restaurant is above the school.
+The school is above the park.
+What is the school above? park
+
+The garden is south of the park.
+The park is south of the studio.
+What is south of the park? garden
+
+The restaurant is above the park.
+The park is above the kitchen.
+What is the park above? kitchen
+
+The playground is east of the market.
+The market is east of the bathroom.
+What is east of the market? playground
+
+The market is east of the school.
+The school is east of the studio.
+What is the school east of? studio
+
+The garden is east of the office.
+The office is east of the playground.
+What is the office east of? playground
+
+The school is above the park.
+The park is above the office.
+What is above the park? school
+
+The park is south of the market.
+The market is south of the restaurant.
+What is the market south of? restaurant
+
+The office is north of the park.
+The park is north of the playground.
+What is north of the park? office
+
+The bathroom is above the park.
+The park is above the studio.
+What is the park above? studio
+
+The hallway is south of the restaurant.
+The restaurant is south of the market.
+What is the restaurant south of? market
+
+The restaurant is east of the bedroom.
+The bedroom is east of the garden.
+What is the bedroom east of? garden
+
+The market is north of the studio.
+The studio is north of the school.
+What is the studio north of? school
+
+The bathroom is south of the market.
+The market is south of the office.
+What is the market south of? office
+
+The bedroom is south of the kitchen.
+The kitchen is south of the market.
+What is the kitchen south of? market
+
+The studio is west of the garden.
+The garden is west of the hallway.
+What is the garden west of? hallway
+
+The studio is west of the bathroom.
+The bathroom is west of the park.
+What is west of the bathroom? studio
+
+The bedroom is north of the market.
+The market is north of the kitchen.
+What is the market north of? kitchen
+
+The bathroom is west of the bedroom.
+The bedroom is west of the playground.
+What is west of the bedroom? bathroom
+
+The bathroom is south of the garden.
+The garden is south of the hallway.
+What is the garden south of? hallway
+
+The market is above the playground.
+The playground is above the restaurant.
+What is above the playground? market
+
+The hallway is west of the studio.
+The studio is west of the playground.
+What is the studio west of? playground
+
+The playground is west of the hallway.
+The hallway is west of the bedroom.
+What is west of the hallway? playground
+
+The bathroom is above the market.
+The market is above the office.
+What is above the market? bathroom
+
+The bathroom is north of the office.
+The office is north of the hallway.
+What is the office north of? hallway
+
+The bathroom is east of the office.
+The office is east of the school.
+What is the office east of? school
+
+The garden is south of the bedroom.
+The bedroom is south of the market.
+What is south of the bedroom? garden
+
+The bedroom is west of the bathroom.
+The bathroom is west of the garden.
+What is west of the bathroom? bedroom
+
+The playground is north of the hallway.
+The hallway is north of the park.
+What is north of the hallway? playground
+
+The park is north of the restaurant.
+The restaurant is north of the studio.
+What is the restaurant north of? studio
+
+The studio is north of the park.
+The park is north of the hallway.
+What is the park north of? hallway
+
+The office is above the park.
+The park is above the market.
+What is the park above? market
+
+The playground is west of the studio.
+The studio is west of the bathroom.
+What is west of the studio? playground
+
+The park is west of the hallway.
+The hallway is west of the kitchen.
+What is west of the hallway? park
+
+The market is west of the park.
+The park is west of the bedroom.
+What is the park west of? bedroom
+
+The studio is west of the playground.
+The playground is west of the kitchen.
+What is the playground west of? kitchen
+
+The market is west of the kitchen.
+The kitchen is west of the garden.
+What is west of the kitchen? market
+
+The hallway is east of the bedroom.
+The bedroom is east of the kitchen.
+What is east of the bedroom? hallway
+
+The bathroom is east of the hallway.
+The hallway is east of the school.
+What is the hallway east of? school
+
+The park is east of the office.
+The office is east of the restaurant.
+What is the office east of? restaurant
+
+The hallway is north of the kitchen.
+The kitchen is north of the playground.
+What is the kitchen north of? playground
+
+The school is north of the bathroom.
+The bathroom is north of the garden.
+What is the bathroom north of? garden
+
+The bathroom is above the restaurant.
+The restaurant is above the kitchen.
+What is above the restaurant? bathroom
+
+The bedroom is above the hallway.
+The hallway is above the garden.
+What is the hallway above? garden
+
+The hallway is south of the office.
+The office is south of the school.
+What is the office south of? school
+
+The restaurant is east of the garden.
+The garden is east of the bedroom.
+What is east of the garden? restaurant
+
+The kitchen is west of the office.
+The office is west of the studio.
+What is west of the office? kitchen
+
+The restaurant is above the bathroom.
+The bathroom is above the garden.
+What is the bathroom above? garden
+
+The market is east of the bathroom.
+The bathroom is east of the garden.
+What is the bathroom east of? garden
+
+The studio is north of the garden.
+The garden is north of the restaurant.
+What is north of the garden? studio
+
+The park is north of the market.
+The market is north of the school.
+What is the market north of? school
+
+The school is west of the kitchen.
+The kitchen is west of the park.
+What is west of the kitchen? school
+
+The school is south of the market.
+The market is south of the hallway.
+What is south of the market? school
+
+The restaurant is above the playground.
+The playground is above the office.
+What is the playground above? office
+
+The playground is west of the hallway.
+The hallway is west of the market.
+What is the hallway west of? market
+
+The studio is south of the office.
+The office is south of the school.
+What is the office south of? school
+
+The garden is south of the office.
+The office is south of the hallway.
+What is the office south of? hallway
+
+The studio is east of the restaurant.
+The restaurant is east of the park.
+What is east of the restaurant? studio
+
+The school is south of the bedroom.
+The bedroom is south of the hallway.
+What is south of the bedroom? school
+
+The office is above the school.
+The school is above the restaurant.
+What is the school above? restaurant
+
+The office is above the playground.
+The playground is above the kitchen.
+What is the playground above? kitchen
+
+The garden is west of the bathroom.
+The bathroom is west of the park.
+What is the bathroom west of? park
+
+The bathroom is west of the hallway.
+The hallway is west of the market.
+What is the hallway west of? market
+
+The garden is west of the office.
+The office is west of the bathroom.
+What is the office west of? bathroom
+
+The office is east of the market.
+The market is east of the studio.
+What is east of the market? office
+
+The playground is above the school.
+The school is above the park.
+What is above the school? playground
+
+The restaurant is east of the hallway.
+The hallway is east of the office.
+What is east of the hallway? restaurant
+
+The garden is north of the bathroom.
+The bathroom is north of the school.
+What is the bathroom north of? school
+
+The restaurant is south of the bedroom.
+The bedroom is south of the bathroom.
+What is the bedroom south of? bathroom
+
+The office is above the studio.
+The studio is above the playground.
+What is above the studio? office
+
+The garden is south of the bathroom.
+The bathroom is south of the office.
+What is south of the bathroom? garden
+
+The office is south of the kitchen.
+The kitchen is south of the playground.
+What is south of the kitchen? office
+
+The kitchen is south of the playground.
+The playground is south of the office.
+What is the playground south of? office
+
+The hallway is above the garden.
+The garden is above the kitchen.
+What is above the garden? hallway
+
+The hallway is south of the restaurant.
+The restaurant is south of the school.
+What is the restaurant south of? school
+
+The office is north of the hallway.
+The hallway is north of the garden.
+What is north of the hallway? office
+
+The garden is south of the studio.
+The studio is south of the kitchen.
+What is south of the studio? garden
+
+The studio is south of the office.
+The office is south of the garden.
+What is south of the office? studio
+
+The park is above the studio.
+The studio is above the market.
+What is above the studio? park
+
+The playground is west of the park.
+The park is west of the hallway.
+What is west of the park? playground
+
+The studio is above the park.
+The park is above the office.
+What is the park above? office
+
+The studio is south of the garden.
+The garden is south of the bathroom.
+What is south of the garden? studio
+
+The garden is south of the bedroom.
+The bedroom is south of the bathroom.
+What is the bedroom south of? bathroom
+
+The bedroom is west of the kitchen.
+The kitchen is west of the park.
+What is the kitchen west of? park
+
+The hallway is south of the office.
+The office is south of the kitchen.
+What is south of the office? hallway
+
+The office is south of the hallway.
+The hallway is south of the garden.
+What is the hallway south of? garden
+
+The market is west of the studio.
+The studio is west of the bathroom.
+What is west of the studio? market
+
+The bathroom is east of the market.
+The market is east of the bedroom.
+What is the market east of? bedroom
+
+The garden is east of the kitchen.
+The kitchen is east of the bedroom.
+What is the kitchen east of? bedroom
+
+The studio is north of the office.
+The office is north of the hallway.
+What is north of the office? studio
+
+The office is above the park.
+The park is above the restaurant.
+What is the park above? restaurant
+
+The hallway is north of the garden.
+The garden is north of the studio.
+What is the garden north of? studio
+
+The restaurant is east of the school.
+The school is east of the studio.
+What is east of the school? restaurant
+
+The bathroom is above the market.
+The market is above the studio.
+What is the market above? studio
+
+The market is north of the office.
+The office is north of the studio.
+What is the office north of? studio
+
+The bedroom is west of the hallway.
+The hallway is west of the playground.
+What is the hallway west of? playground
+
+The bedroom is west of the studio.
+The studio is west of the park.
+What is the studio west of? park
+
+The hallway is east of the school.
+The school is east of the park.
+What is east of the school? hallway
+
+The garden is west of the bedroom.
+The bedroom is west of the school.
+What is the bedroom west of? school
+
+The office is above the market.
+The market is above the park.
+What is above the market? office
+
+The garden is east of the school.
+The school is east of the office.
+What is east of the school? garden
+
+The park is above the playground.
+The playground is above the kitchen.
+What is above the playground? park
+
+The kitchen is east of the bathroom.
+The bathroom is east of the playground.
+What is the bathroom east of? playground
+
+The hallway is north of the market.
+The market is north of the restaurant.
+What is north of the market? hallway
+
+The playground is west of the bedroom.
+The bedroom is west of the office.
+What is the bedroom west of? office
+
+The hallway is above the garden.
+The garden is above the kitchen.
+What is the garden above? kitchen
+
+The restaurant is above the bedroom.
+The bedroom is above the office.
+What is above the bedroom? restaurant
+
+The park is north of the garden.
+The garden is north of the bathroom.
+What is north of the garden? park
+
+The garden is west of the market.
+The market is west of the bedroom.
+What is the market west of? bedroom
+
+The office is west of the playground.
+The playground is west of the restaurant.
+What is the playground west of? restaurant
+
+The hallway is above the bathroom.
+The bathroom is above the restaurant.
+What is above the bathroom? hallway
+
+The bathroom is south of the studio.
+The studio is south of the playground.
+What is the studio south of? playground
+
+The office is above the park.
+The park is above the school.
+What is above the park? office
+
+The kitchen is above the office.
+The office is above the market.
+What is the office above? market
+
+The market is west of the hallway.
+The hallway is west of the bedroom.
+What is the hallway west of? bedroom
+
+The school is above the restaurant.
+The restaurant is above the playground.
+What is above the restaurant? school
+
+The school is above the bathroom.
+The bathroom is above the market.
+What is above the bathroom? school
+
+The park is west of the kitchen.
+The kitchen is west of the school.
+What is the kitchen west of? school
+
+The park is west of the restaurant.
+The restaurant is west of the bedroom.
+What is the restaurant west of? bedroom
+
+The bedroom is east of the playground.
+The playground is east of the studio.
+What is the playground east of? studio
+
+The hallway is west of the garden.
+The garden is west of the playground.
+What is west of the garden? hallway
+
+The bedroom is north of the park.
+The park is north of the restaurant.
+What is north of the park? bedroom
+
+The office is west of the school.
+The school is west of the studio.
+What is the school west of? studio
+
+The school is west of the market.
+The market is west of the playground.
+What is the market west of? playground
+
+The market is north of the hallway.
+The hallway is north of the playground.
+What is the hallway north of? playground
+
+The park is west of the garden.
+The garden is west of the market.
+What is west of the garden? park
+
+The office is east of the kitchen.
+The kitchen is east of the market.
+What is the kitchen east of? market
+
+The office is west of the school.
+The school is west of the market.
+What is west of the school? office
+
+The playground is south of the park.
+The park is south of the studio.
+What is south of the park? playground
+
+The garden is above the studio.
+The studio is above the park.
+What is the studio above? park
+
+The hallway is south of the studio.
+The studio is south of the bedroom.
+What is south of the studio? hallway
+
+The office is north of the hallway.
+The hallway is north of the restaurant.
+What is the hallway north of? restaurant
+
+The hallway is south of the office.
+The office is south of the playground.
+What is south of the office? hallway
+
+The school is west of the studio.
+The studio is west of the office.
+What is the studio west of? office
+
+The hallway is west of the office.
+The office is west of the bathroom.
+What is the office west of? bathroom
+
+The garden is above the bathroom.
+The bathroom is above the park.
+What is above the bathroom? garden
+
+The office is west of the restaurant.
+The restaurant is west of the kitchen.
+What is west of the restaurant? office
+
+The studio is above the market.
+The market is above the kitchen.
+What is the market above? kitchen
+
+The office is east of the bathroom.
+The bathroom is east of the studio.
+What is east of the bathroom? office
+
+The bathroom is south of the studio.
+The studio is south of the office.
+What is the studio south of? office
+
+The market is east of the restaurant.
+The restaurant is east of the kitchen.
+What is the restaurant east of? kitchen
+
+The kitchen is south of the studio.
+The studio is south of the school.
+What is south of the studio? kitchen
+
+The office is south of the school.
+The school is south of the park.
+What is south of the school? office
+
+The playground is above the school.
+The school is above the restaurant.
+What is the school above? restaurant
+
+The bedroom is east of the office.
+The office is east of the hallway.
+What is the office east of? hallway
+
+The school is north of the garden.
+The garden is north of the hallway.
+What is north of the garden? school
+
+The bathroom is above the market.
+The market is above the park.
+What is above the market? bathroom
+
+The park is above the kitchen.
+The kitchen is above the office.
+What is above the kitchen? park
+
+The school is above the market.
+The market is above the office.
+What is above the market? school
+
+The market is south of the school.
+The school is south of the garden.
+What is south of the school? market
+
+The studio is above the playground.
+The playground is above the school.
+What is above the playground? studio
+
+The garden is east of the market.
+The market is east of the hallway.
+What is the market east of? hallway
+
+The garden is north of the bedroom.
+The bedroom is north of the kitchen.
+What is north of the bedroom? garden
+
+The hallway is south of the garden.
+The garden is south of the market.
+What is the garden south of? market
+
+The bedroom is east of the park.
+The park is east of the hallway.
+What is the park east of? hallway
+
+The restaurant is above the playground.
+The playground is above the park.
+What is the playground above? park
+
+The bedroom is west of the park.
+The park is west of the garden.
+What is the park west of? garden
+
+The office is south of the kitchen.
+The kitchen is south of the school.
+What is south of the kitchen? office
+
+The bathroom is east of the school.
+The school is east of the garden.
+What is the school east of? garden
+
+The market is west of the school.
+The school is west of the kitchen.
+What is west of the school? market
+
+The garden is south of the hallway.
+The hallway is south of the restaurant.
+What is the hallway south of? restaurant
+
+The studio is east of the kitchen.
+The kitchen is east of the market.
+What is east of the kitchen? studio
+
+The bedroom is north of the studio.
+The studio is north of the bathroom.
+What is the studio north of? bathroom
+
+The playground is south of the bathroom.
+The bathroom is south of the studio.
+What is the bathroom south of? studio
+
+The bathroom is above the school.
+The school is above the bedroom.
+What is above the school? bathroom
+
+The bedroom is east of the restaurant.
+The restaurant is east of the playground.
+What is the restaurant east of? playground
+
+The garden is south of the market.
+The market is south of the kitchen.
+What is south of the market? garden
+
+The bathroom is north of the studio.
+The studio is north of the school.
+What is north of the studio? bathroom
+
+The kitchen is above the bedroom.
+The bedroom is above the park.
+What is above the bedroom? kitchen
+
+The garden is east of the hallway.
+The hallway is east of the market.
+What is the hallway east of? market
+
+The garden is south of the hallway.
+The hallway is south of the playground.
+What is the hallway south of? playground
+
+The kitchen is east of the market.
+The market is east of the playground.
+What is east of the market? kitchen
+
+The kitchen is west of the restaurant.
+The restaurant is west of the hallway.
+What is west of the restaurant? kitchen
+
+The garden is north of the hallway.
+The hallway is north of the market.
+What is the hallway north of? market
+
+The school is north of the studio.
+The studio is north of the bedroom.
+What is north of the studio? school
+
+The studio is above the market.
+The market is above the restaurant.
+What is the market above? restaurant
+
+The park is east of the studio.
+The studio is east of the playground.
+What is east of the studio? park
+
+The studio is north of the park.
+The park is north of the garden.
+What is the park north of? garden
+
+The market is west of the playground.
+The playground is west of the bathroom.
+What is west of the playground? market
+
+The bathroom is west of the park.
+The park is west of the school.
+What is west of the park? bathroom
+
+The restaurant is west of the garden.
+The garden is west of the school.
+What is west of the garden? restaurant
+
+The office is west of the school.
+The school is west of the bedroom.
+What is west of the school? office
+
+The garden is north of the restaurant.
+The restaurant is north of the park.
+What is the restaurant north of? park
+
+The school is north of the bedroom.
+The bedroom is north of the playground.
+What is the bedroom north of? playground
+
+The playground is north of the restaurant.
+The restaurant is north of the school.
+What is north of the restaurant? playground
+
+The market is east of the park.
+The park is east of the kitchen.
+What is the park east of? kitchen
+
+The school is above the garden.
+The garden is above the studio.
+What is above the garden? school
+
+The market is north of the hallway.
+The hallway is north of the bathroom.
+What is north of the hallway? market
+
+The playground is east of the school.
+The school is east of the garden.
+What is the school east of? garden
+
+The park is above the playground.
+The playground is above the studio.
+What is the playground above? studio
+
+The office is east of the restaurant.
+The restaurant is east of the school.
+What is east of the restaurant? office
+
+The bedroom is north of the studio.
+The studio is north of the park.
+What is north of the studio? bedroom
+
+The market is above the kitchen.
+The kitchen is above the garden.
+What is above the kitchen? market
+
+The park is south of the hallway.
+The hallway is south of the school.
+What is south of the hallway? park
+
+The restaurant is above the school.
+The school is above the studio.
+What is above the school? restaurant
+
+The kitchen is above the bedroom.
+The bedroom is above the market.
+What is above the bedroom? kitchen
+
+The garden is west of the office.
+The office is west of the hallway.
+What is west of the office? garden
+
+The hallway is south of the park.
+The park is south of the office.
+What is the park south of? office
+
+The garden is north of the school.
+The school is north of the park.
+What is north of the school? garden
+
+The market is above the studio.
+The studio is above the hallway.
+What is the studio above? hallway
+
+The kitchen is above the bathroom.
+The bathroom is above the park.
+What is above the bathroom? kitchen
+
+The bathroom is south of the office.
+The office is south of the restaurant.
+What is the office south of? restaurant
+
+The office is north of the school.
+The school is north of the garden.
+What is north of the school? office
+
+The park is west of the bedroom.
+The bedroom is west of the market.
+What is the bedroom west of? market
+
+The bathroom is east of the playground.
+The playground is east of the market.
+What is east of the playground? bathroom
+
+The restaurant is north of the kitchen.
+The kitchen is north of the park.
+What is north of the kitchen? restaurant
+
+The garden is west of the school.
+The school is west of the studio.
+What is the school west of? studio
+
+The restaurant is east of the market.
+The market is east of the park.
+What is east of the market? restaurant
+
+The kitchen is above the school.
+The school is above the bedroom.
+What is above the school? kitchen
+
+The restaurant is west of the school.
+The school is west of the garden.
+What is the school west of? garden
+
+The bathroom is west of the park.
+The park is west of the studio.
+What is the park west of? studio
+
+The park is south of the office.
+The office is south of the school.
+What is south of the office? park
+
+The bathroom is south of the school.
+The school is south of the market.
+What is south of the school? bathroom
+
+The bedroom is south of the office.
+The office is south of the bathroom.
+What is the office south of? bathroom
+
+The market is west of the garden.
+The garden is west of the bedroom.
+What is west of the garden? market
+
+The studio is above the restaurant.
+The restaurant is above the hallway.
+What is the restaurant above? hallway
+
+The studio is south of the school.
+The school is south of the market.
+What is south of the school? studio
+
+The hallway is east of the restaurant.
+The restaurant is east of the office.
+What is the restaurant east of? office
+
+The school is east of the playground.
+The playground is east of the garden.
+What is east of the playground? school
+
+The kitchen is east of the restaurant.
+The restaurant is east of the school.
+What is east of the restaurant? kitchen
+
+The garden is above the studio.
+The studio is above the market.
+What is above the studio? garden
+
+The studio is east of the market.
+The market is east of the bathroom.
+What is the market east of? bathroom
+
+The playground is west of the bedroom.
+The bedroom is west of the kitchen.
+What is west of the bedroom? playground
+
+The school is south of the garden.
+The garden is south of the playground.
+What is south of the garden? school
+
+The restaurant is above the hallway.
+The hallway is above the market.
+What is the hallway above? market
+
+The bedroom is east of the school.
+The school is east of the market.
+What is east of the school? bedroom
+
+The school is north of the market.
+The market is north of the studio.
+What is the market north of? studio
+
+The market is east of the park.
+The park is east of the office.
+What is the park east of? office
+
+The market is east of the studio.
+The studio is east of the bedroom.
+What is east of the studio? market
+
+The market is east of the bedroom.
+The bedroom is east of the school.
+What is the bedroom east of? school
+
+The restaurant is south of the market.
+The market is south of the park.
+What is the market south of? park
+
+The garden is west of the office.
+The office is west of the playground.
+What is the office west of? playground
+
+The park is north of the playground.
+The playground is north of the school.
+What is north of the playground? park
+
+The bedroom is west of the bathroom.
+The bathroom is west of the school.
+What is west of the bathroom? bedroom
+
+The bedroom is east of the restaurant.
+The restaurant is east of the garden.
+What is the restaurant east of? garden
+
+The garden is above the playground.
+The playground is above the market.
+What is above the playground? garden
+
+The school is above the studio.
+The studio is above the bedroom.
+What is above the studio? school
+
+The bedroom is south of the restaurant.
+The restaurant is south of the studio.
+What is the restaurant south of? studio
+
+The kitchen is south of the park.
+The park is south of the school.
+What is the park south of? school
+
+The studio is south of the office.
+The office is south of the hallway.
+What is the office south of? hallway
+
+The office is east of the hallway.
+The hallway is east of the bathroom.
+What is the hallway east of? bathroom
+
+The studio is east of the hallway.
+The hallway is east of the market.
+What is the hallway east of? market
+
+The playground is south of the restaurant.
+The restaurant is south of the park.
+What is the restaurant south of? park
+
+The studio is north of the bedroom.
+The bedroom is north of the office.
+What is the bedroom north of? office
+
+The school is above the playground.
+The playground is above the garden.
+What is the playground above? garden
+
+The office is east of the garden.
+The garden is east of the bedroom.
+What is east of the garden? office
+
+The playground is north of the bedroom.
+The bedroom is north of the park.
+What is the bedroom north of? park
+
+The bathroom is north of the hallway.
+The hallway is north of the school.
+What is north of the hallway? bathroom
+
+The park is south of the playground.
+The playground is south of the school.
+What is south of the playground? park
+
+The garden is north of the school.
+The school is north of the bathroom.
+What is north of the school? garden
+
+The garden is south of the market.
+The market is south of the school.
+What is south of the market? garden
+
+The office is west of the hallway.
+The hallway is west of the bedroom.
+What is west of the hallway? office
+
+The kitchen is east of the garden.
+The garden is east of the restaurant.
+What is east of the garden? kitchen
+
+The bedroom is above the playground.
+The playground is above the studio.
+What is above the playground? bedroom
+
+The office is north of the bathroom.
+The bathroom is north of the restaurant.
+What is north of the bathroom? office
+
+The park is west of the market.
+The market is west of the studio.
+What is west of the market? park
+
+The hallway is north of the studio.
+The studio is north of the playground.
+What is the studio north of? playground
+
+The studio is east of the bathroom.
+The bathroom is east of the bedroom.
+What is east of the bathroom? studio
+
+The studio is above the school.
+The school is above the bathroom.
+What is above the school? studio
+
+The market is above the restaurant.
+The restaurant is above the garden.
+What is the restaurant above? garden
+
+The garden is above the playground.
+The playground is above the market.
+What is the playground above? market
+
+The playground is west of the restaurant.
+The restaurant is west of the kitchen.
+What is the restaurant west of? kitchen
+
+The kitchen is east of the market.
+The market is east of the park.
+What is east of the market? kitchen
+
+The kitchen is east of the school.
+The school is east of the garden.
+What is east of the school? kitchen
+
+The school is east of the bedroom.
+The bedroom is east of the kitchen.
+What is the bedroom east of? kitchen
+
+The market is west of the bedroom.
+The bedroom is west of the hallway.
+What is the bedroom west of? hallway
+
+The bedroom is north of the garden.
+The garden is north of the hallway.
+What is north of the garden? bedroom
+
+The kitchen is east of the bathroom.
+The bathroom is east of the restaurant.
+What is the bathroom east of? restaurant
+
+The playground is west of the park.
+The park is west of the restaurant.
+What is west of the park? playground
+
+The market is east of the bathroom.
+The bathroom is east of the office.
+What is the bathroom east of? office
+
+The kitchen is east of the market.
+The market is east of the school.
+What is east of the market? kitchen
+
+The park is west of the school.
+The school is west of the bedroom.
+What is the school west of? bedroom
+
+The school is north of the playground.
+The playground is north of the office.
+What is the playground north of? office
+
+The garden is south of the park.
+The park is south of the studio.
+What is the park south of? studio
+
+The school is east of the garden.
+The garden is east of the market.
+What is the garden east of? market
+
+The office is west of the hallway.
+The hallway is west of the studio.
+What is west of the hallway? office
+
+The hallway is north of the school.
+The school is north of the restaurant.
+What is the school north of? restaurant
+
+The school is east of the studio.
+The studio is east of the park.
+What is the studio east of? park
+
+The kitchen is east of the garden.
+The garden is east of the park.
+What is the garden east of? park
+
+The restaurant is north of the market.
+The market is north of the bedroom.
+What is north of the market? restaurant
+
+The studio is north of the market.
+The market is north of the hallway.
+What is north of the market? studio
+
+The bathroom is east of the market.
+The market is east of the school.
+What is east of the market? bathroom
+
+The studio is south of the kitchen.
+The kitchen is south of the restaurant.
+What is the kitchen south of? restaurant
+
+The school is north of the restaurant.
+The restaurant is north of the hallway.
+What is the restaurant north of? hallway
+
+The playground is east of the school.
+The school is east of the park.
+What is the school east of? park
+
+The bathroom is south of the garden.
+The garden is south of the kitchen.
+What is south of the garden? bathroom
+
+The park is east of the playground.
+The playground is east of the garden.
+What is the playground east of? garden
+
+The restaurant is above the hallway.
+The hallway is above the bathroom.
+What is above the hallway? restaurant
+
+The hallway is south of the bathroom.
+The bathroom is south of the garden.
+What is the bathroom south of? garden
+
+The hallway is north of the bedroom.
+The bedroom is north of the restaurant.
+What is the bedroom north of? restaurant
+
+The school is north of the market.
+The market is north of the restaurant.
+What is the market north of? restaurant
+
+The office is south of the restaurant.
+The restaurant is south of the bedroom.
+What is the restaurant south of? bedroom
+
+The playground is south of the bathroom.
+The bathroom is south of the garden.
+What is the bathroom south of? garden
+
+The bathroom is east of the hallway.
+The hallway is east of the kitchen.
+What is the hallway east of? kitchen
+
+The school is south of the hallway.
+The hallway is south of the playground.
+What is the hallway south of? playground
+
+The garden is west of the restaurant.
+The restaurant is west of the office.
+What is the restaurant west of? office
+
+The restaurant is west of the hallway.
+The hallway is west of the playground.
+What is the hallway west of? playground
+
+The studio is east of the garden.
+The garden is east of the bedroom.
+What is the garden east of? bedroom
+
+The hallway is east of the restaurant.
+The restaurant is east of the playground.
+What is east of the restaurant? hallway
+
+The playground is south of the market.
+The market is south of the studio.
+What is the market south of? studio
+
+The bedroom is north of the park.
+The park is north of the playground.
+What is the park north of? playground
+
+The playground is south of the bedroom.
+The bedroom is south of the office.
+What is south of the bedroom? playground
+
+The restaurant is above the bathroom.
+The bathroom is above the school.
+What is the bathroom above? school
+
+The garden is above the office.
+The office is above the bathroom.
+What is above the office? garden
+
+The market is above the office.
+The office is above the studio.
+What is above the office? market
+
+The market is above the bedroom.
+The bedroom is above the studio.
+What is above the bedroom? market
+
+The market is east of the studio.
+The studio is east of the restaurant.
+What is the studio east of? restaurant
+
+The studio is north of the kitchen.
+The kitchen is north of the market.
+What is north of the kitchen? studio
+
+The market is south of the studio.
+The studio is south of the office.
+What is the studio south of? office
+
+The park is west of the studio.
+The studio is west of the kitchen.
+What is the studio west of? kitchen
+
+The playground is west of the office.
+The office is west of the market.
+What is west of the office? playground
+
+The market is west of the park.
+The park is west of the office.
+What is west of the park? market
+
+The kitchen is west of the bedroom.
+The bedroom is west of the hallway.
+What is west of the bedroom? kitchen
+
+The bathroom is south of the school.
+The school is south of the studio.
+What is south of the school? bathroom
+
+The restaurant is west of the school.
+The school is west of the market.
+What is west of the school? restaurant
+
+The school is north of the playground.
+The playground is north of the market.
+What is north of the playground? school
+
+The hallway is west of the garden.
+The garden is west of the office.
+What is west of the garden? hallway
+
+The garden is west of the kitchen.
+The kitchen is west of the office.
+What is the kitchen west of? office
+
+The park is east of the bathroom.
+The bathroom is east of the bedroom.
+What is the bathroom east of? bedroom
+
+The restaurant is south of the school.
+The school is south of the bathroom.
+What is south of the school? restaurant
+
+The playground is east of the hallway.
+The hallway is east of the market.
+What is east of the hallway? playground
+
+The garden is west of the park.
+The park is west of the playground.
+What is the park west of? playground
+
+The hallway is east of the studio.
+The studio is east of the restaurant.
+What is the studio east of? restaurant
+
+The garden is east of the park.
+The park is east of the bedroom.
+What is the park east of? bedroom
+
+The park is west of the school.
+The school is west of the kitchen.
+What is west of the school? park
+
+The playground is above the bathroom.
+The bathroom is above the school.
+What is above the bathroom? playground
+
+The park is above the playground.
+The playground is above the hallway.
+What is above the playground? park
+
+The studio is north of the market.
+The market is north of the restaurant.
+What is north of the market? studio
+
+The garden is east of the park.
+The park is east of the school.
+What is the park east of? school
+
+The school is above the bedroom.
+The bedroom is above the bathroom.
+What is the bedroom above? bathroom
+
+The playground is north of the kitchen.
+The kitchen is north of the market.
+What is north of the kitchen? playground
+
+The school is west of the hallway.
+The hallway is west of the playground.
+What is west of the hallway? school
+
+The playground is above the bedroom.
+The bedroom is above the school.
+What is above the bedroom? playground
+
+The park is above the studio.
+The studio is above the office.
+What is above the studio? park
+
+The playground is above the restaurant.
+The restaurant is above the hallway.
+What is above the restaurant? playground
+
+The kitchen is north of the school.
+The school is north of the market.
+What is the school north of? market
+
+The studio is above the office.
+The office is above the kitchen.
+What is above the office? studio
+
+The market is south of the studio.
+The studio is south of the restaurant.
+What is the studio south of? restaurant
+
+The studio is above the hallway.
+The hallway is above the bedroom.
+What is the hallway above? bedroom
+
+The studio is south of the park.
+The park is south of the bedroom.
+What is south of the park? studio
+
+The restaurant is north of the garden.
+The garden is north of the bathroom.
+What is north of the garden? restaurant
+
+The park is south of the bedroom.
+The bedroom is south of the restaurant.
+What is south of the bedroom? park
+
+The studio is south of the hallway.
+The hallway is south of the kitchen.
+What is the hallway south of? kitchen
+
+The playground is above the school.
+The school is above the hallway.
+What is above the school? playground
+
+The market is above the restaurant.
+The restaurant is above the office.
+What is above the restaurant? market
+
+The bathroom is east of the office.
+The office is east of the playground.
+What is east of the office? bathroom
+
+The office is west of the restaurant.
+The restaurant is west of the bathroom.
+What is west of the restaurant? office
+
+The school is east of the playground.
+The playground is east of the office.
+What is east of the playground? school
+
+The market is west of the playground.
+The playground is west of the park.
+What is the playground west of? park
+
+The bedroom is east of the office.
+The office is east of the kitchen.
+What is the office east of? kitchen
+
+The garden is east of the school.
+The school is east of the hallway.
+What is the school east of? hallway
+
+The bathroom is east of the restaurant.
+The restaurant is east of the playground.
+What is the restaurant east of? playground
+
+The restaurant is north of the office.
+The office is north of the bedroom.
+What is the office north of? bedroom
+
+The studio is north of the bathroom.
+The bathroom is north of the market.
+What is the bathroom north of? market
+
+The playground is north of the bathroom.
+The bathroom is north of the market.
+What is north of the bathroom? playground
+
+The school is south of the hallway.
+The hallway is south of the garden.
+What is south of the hallway? school
+
+The playground is west of the bedroom.
+The bedroom is west of the park.
+What is west of the bedroom? playground
+
+The garden is south of the market.
+The market is south of the studio.
+What is the market south of? studio
+
+The restaurant is west of the kitchen.
+The kitchen is west of the bedroom.
+What is the kitchen west of? bedroom
+
+The bedroom is west of the kitchen.
+The kitchen is west of the park.
+What is west of the kitchen? bedroom
+
+The restaurant is north of the office.
+The office is north of the kitchen.
+What is north of the office? restaurant
+
+The studio is east of the garden.
+The garden is east of the school.
+What is east of the garden? studio
+
+The market is west of the playground.
+The playground is west of the restaurant.
+What is the playground west of? restaurant
+
+The bedroom is east of the playground.
+The playground is east of the hallway.
+What is east of the playground? bedroom
+
+The garden is west of the school.
+The school is west of the bedroom.
+What is the school west of? bedroom
+
+The restaurant is east of the bedroom.
+The bedroom is east of the kitchen.
+What is the bedroom east of? kitchen
+
+The studio is south of the market.
+The market is south of the bathroom.
+What is the market south of? bathroom
+
+The market is above the park.
+The park is above the restaurant.
+What is above the park? market
+
+The park is south of the market.
+The market is south of the garden.
+What is the market south of? garden
+
+The hallway is north of the school.
+The school is north of the bathroom.
+What is north of the school? hallway
+
+The bathroom is east of the hallway.
+The hallway is east of the office.
+What is east of the hallway? bathroom
+
+The restaurant is east of the studio.
+The studio is east of the kitchen.
+What is the studio east of? kitchen
+
+The restaurant is north of the bathroom.
+The bathroom is north of the kitchen.
+What is north of the bathroom? restaurant
+
+The bedroom is east of the park.
+The park is east of the playground.
+What is the park east of? playground
+
+The market is above the office.
+The office is above the school.
+What is above the office? market
+
+The bedroom is west of the hallway.
+The hallway is west of the restaurant.
+What is the hallway west of? restaurant
+
+The studio is above the school.
+The school is above the park.
+What is the school above? park
+
+The playground is south of the market.
+The market is south of the bathroom.
+What is the market south of? bathroom
+
+The studio is west of the garden.
+The garden is west of the playground.
+What is the garden west of? playground
+
+The school is north of the garden.
+The garden is north of the studio.
+What is north of the garden? school
+
+The playground is above the restaurant.
+The restaurant is above the bathroom.
+What is the restaurant above? bathroom
+
+The bedroom is west of the school.
+The school is west of the playground.
+What is west of the school? bedroom
+
+The bathroom is north of the studio.
+The studio is north of the hallway.
+What is the studio north of? hallway
+
+The hallway is south of the kitchen.
+The kitchen is south of the restaurant.
+What is the kitchen south of? restaurant
+
+The hallway is above the studio.
+The studio is above the kitchen.
+What is above the studio? hallway
+
+The office is east of the kitchen.
+The kitchen is east of the park.
+What is the kitchen east of? park
+
+The restaurant is north of the bathroom.
+The bathroom is north of the studio.
+What is north of the bathroom? restaurant
+
+The school is north of the garden.
+The garden is north of the playground.
+What is the garden north of? playground
+
+The garden is east of the hallway.
+The hallway is east of the kitchen.
+What is east of the hallway? garden
+
+The bedroom is east of the market.
+The market is east of the park.
+What is the market east of? park
+
+The park is west of the hallway.
+The hallway is west of the restaurant.
+What is west of the hallway? park
+
+The market is east of the playground.
+The playground is east of the bedroom.
+What is east of the playground? market
+
+The playground is south of the park.
+The park is south of the restaurant.
+What is the park south of? restaurant
+
+The bathroom is east of the kitchen.
+The kitchen is east of the market.
+What is east of the kitchen? bathroom
+
+The restaurant is above the playground.
+The playground is above the park.
+What is above the playground? restaurant
+
+The bathroom is west of the garden.
+The garden is west of the kitchen.
+What is the garden west of? kitchen
+
+The kitchen is north of the bathroom.
+The bathroom is north of the market.
+What is north of the bathroom? kitchen
+
+The kitchen is north of the hallway.
+The hallway is north of the studio.
+What is north of the hallway? kitchen
+
+The kitchen is south of the park.
+The park is south of the hallway.
+What is the park south of? hallway
+
+The kitchen is east of the bedroom.
+The bedroom is east of the playground.
+What is east of the bedroom? kitchen
+
+The restaurant is above the studio.
+The studio is above the school.
+What is the studio above? school
+
+The market is east of the school.
+The school is east of the bathroom.
+What is the school east of? bathroom
+
+The kitchen is south of the playground.
+The playground is south of the studio.
+What is the playground south of? studio
+
+The park is north of the playground.
+The playground is north of the hallway.
+What is the playground north of? hallway
+
+The market is above the restaurant.
+The restaurant is above the park.
+What is above the restaurant? market
+
+The park is east of the restaurant.
+The restaurant is east of the bedroom.
+What is east of the restaurant? park
+
+The playground is south of the hallway.
+The hallway is south of the bathroom.
+What is south of the hallway? playground
+
+The restaurant is north of the bedroom.
+The bedroom is north of the hallway.
+What is the bedroom north of? hallway
+
+The park is south of the playground.
+The playground is south of the market.
+What is south of the playground? park
+
+The office is north of the bathroom.
+The bathroom is north of the school.
+What is the bathroom north of? school
+
+The park is above the market.
+The market is above the studio.
+What is above the market? park
+
+The garden is above the bathroom.
+The bathroom is above the studio.
+What is above the bathroom? garden
+
+The bathroom is north of the school.
+The school is north of the office.
+What is north of the school? bathroom
+
+The restaurant is south of the bathroom.
+The bathroom is south of the park.
+What is the bathroom south of? park
+
+The office is above the park.
+The park is above the hallway.
+What is the park above? hallway
+
+The office is above the restaurant.
+The restaurant is above the school.
+What is the restaurant above? school
+
+The hallway is east of the garden.
+The garden is east of the restaurant.
+What is the garden east of? restaurant
+
+The school is north of the restaurant.
+The restaurant is north of the park.
+What is the restaurant north of? park
+
+The bathroom is east of the bedroom.
+The bedroom is east of the kitchen.
+What is the bedroom east of? kitchen
+
+The school is above the bathroom.
+The bathroom is above the park.
+What is the bathroom above? park
+
+The hallway is east of the playground.
+The playground is east of the school.
+What is the playground east of? school
+
+The hallway is west of the market.
+The market is west of the restaurant.
+What is west of the market? hallway
+
+The school is above the bedroom.
+The bedroom is above the market.
+What is above the bedroom? school
+
+The playground is above the market.
+The market is above the kitchen.
+What is above the market? playground
+
+The garden is north of the market.
+The market is north of the kitchen.
+What is north of the market? garden
+
+The market is south of the bathroom.
+The bathroom is south of the garden.
+What is south of the bathroom? market
+
+The playground is north of the hallway.
+The hallway is north of the school.
+What is the hallway north of? school
+
+The market is west of the studio.
+The studio is west of the hallway.
+What is west of the studio? market
+
+The playground is north of the restaurant.
+The restaurant is north of the park.
+What is north of the restaurant? playground
+
+The restaurant is east of the office.
+The office is east of the playground.
+What is east of the office? restaurant
+
+The restaurant is south of the market.
+The market is south of the park.
+What is south of the market? restaurant
+
+The garden is south of the playground.
+The playground is south of the bedroom.
+What is south of the playground? garden
+
+The playground is east of the office.
+The office is east of the school.
+What is the office east of? school
+
+The garden is west of the school.
+The school is west of the park.
+What is the school west of? park
+
+The restaurant is north of the bathroom.
+The bathroom is north of the office.
+What is the bathroom north of? office
+
+The playground is north of the hallway.
+The hallway is north of the kitchen.
+What is the hallway north of? kitchen
+
+The garden is east of the hallway.
+The hallway is east of the park.
+What is the hallway east of? park
+
+The garden is south of the playground.
+The playground is south of the kitchen.
+What is south of the playground? garden
+
+The restaurant is east of the studio.
+The studio is east of the hallway.
+What is east of the studio? restaurant
+
+The garden is above the market.
+The market is above the office.
+What is the market above? office
+
+The kitchen is north of the bedroom.
+The bedroom is north of the school.
+What is the bedroom north of? school
+
+The studio is north of the bedroom.
+The bedroom is north of the park.
+What is north of the bedroom? studio
+
+The studio is west of the bathroom.
+The bathroom is west of the restaurant.
+What is the bathroom west of? restaurant
+
+The playground is south of the school.
+The school is south of the park.
+What is the school south of? park
+
+The restaurant is east of the garden.
+The garden is east of the playground.
+What is east of the garden? restaurant
+
+The park is east of the bathroom.
+The bathroom is east of the garden.
+What is the bathroom east of? garden
+
+The office is south of the hallway.
+The hallway is south of the market.
+What is south of the hallway? office
+
+The park is above the restaurant.
+The restaurant is above the bedroom.
+What is the restaurant above? bedroom
+
+The garden is south of the studio.
+The studio is south of the office.
+What is the studio south of? office
+
+The garden is west of the office.
+The office is west of the bedroom.
+What is the office west of? bedroom
+
+The market is east of the bedroom.
+The bedroom is east of the park.
+What is east of the bedroom? market
+
+The garden is west of the kitchen.
+The kitchen is west of the office.
+What is west of the kitchen? garden
+
+The office is north of the garden.
+The garden is north of the bedroom.
+What is north of the garden? office
+
+The hallway is above the playground.
+The playground is above the market.
+What is above the playground? hallway
+
+The kitchen is above the garden.
+The garden is above the school.
+What is above the garden? kitchen
+
+The studio is north of the school.
+The school is north of the park.
+What is north of the school? studio
+
+The park is south of the garden.
+The garden is south of the playground.
+What is the garden south of? playground
+
+The bedroom is south of the market.
+The market is south of the park.
+What is south of the market? bedroom
+
+The office is south of the restaurant.
+The restaurant is south of the hallway.
+What is south of the restaurant? office
+
+The park is east of the office.
+The office is east of the restaurant.
+What is east of the office? park
+
+The garden is south of the school.
+The school is south of the office.
+What is the school south of? office
+
+The hallway is south of the studio.
+The studio is south of the market.
+What is south of the studio? hallway
+
+The bedroom is west of the office.
+The office is west of the kitchen.
+What is west of the office? bedroom
+
+The studio is west of the park.
+The park is west of the school.
+What is west of the park? studio
+
+The restaurant is east of the bathroom.
+The bathroom is east of the hallway.
+What is east of the bathroom? restaurant
+
+The park is west of the school.
+The school is west of the office.
+What is the school west of? office
+
+The bathroom is east of the school.
+The school is east of the park.
+What is the school east of? park
+
+The park is above the school.
+The school is above the garden.
+What is above the school? park
+
+The playground is north of the bedroom.
+The bedroom is north of the restaurant.
+What is the bedroom north of? restaurant
+
+The hallway is east of the bathroom.
+The bathroom is east of the restaurant.
+What is the bathroom east of? restaurant
+
+The garden is south of the park.
+The park is south of the hallway.
+What is the park south of? hallway
+
+The bathroom is west of the office.
+The office is west of the bedroom.
+What is the office west of? bedroom
+
+The garden is west of the hallway.
+The hallway is west of the studio.
+What is the hallway west of? studio
+
+The playground is above the restaurant.
+The restaurant is above the park.
+What is above the restaurant? playground
+
+The school is north of the playground.
+The playground is north of the studio.
+What is north of the playground? school
+
+The bathroom is south of the market.
+The market is south of the school.
+What is the market south of? school
+
+The kitchen is east of the studio.
+The studio is east of the park.
+What is the studio east of? park
+
+The park is north of the garden.
+The garden is north of the kitchen.
+What is north of the garden? park
+
+The playground is above the restaurant.
+The restaurant is above the market.
+What is the restaurant above? market
+
+The bathroom is west of the hallway.
+The hallway is west of the school.
+What is west of the hallway? bathroom
+
+The market is south of the studio.
+The studio is south of the playground.
+What is south of the studio? market
+
+The kitchen is east of the hallway.
+The hallway is east of the garden.
+What is east of the hallway? kitchen
+
+The garden is east of the restaurant.
+The restaurant is east of the bedroom.
+What is east of the restaurant? garden
+
+The hallway is west of the bathroom.
+The bathroom is west of the playground.
+What is west of the bathroom? hallway
+
+The garden is east of the hallway.
+The hallway is east of the market.
+What is east of the hallway? garden
+
+The kitchen is east of the garden.
+The garden is east of the restaurant.
+What is the garden east of? restaurant
+
+The market is above the bedroom.
+The bedroom is above the bathroom.
+What is above the bedroom? market
+
+The bedroom is west of the school.
+The school is west of the playground.
+What is the school west of? playground
+
+The bathroom is south of the park.
+The park is south of the bedroom.
+What is the park south of? bedroom
+
+The park is above the restaurant.
+The restaurant is above the kitchen.
+What is the restaurant above? kitchen
+
+The hallway is west of the studio.
+The studio is west of the park.
+What is west of the studio? hallway
+
+The bathroom is north of the restaurant.
+The restaurant is north of the office.
+What is the restaurant north of? office
+
+The playground is east of the bedroom.
+The bedroom is east of the school.
+What is east of the bedroom? playground
+
+The garden is above the office.
+The office is above the hallway.
+What is the office above? hallway
+
+The school is above the studio.
+The studio is above the park.
+What is above the studio? school
+
+The garden is west of the school.
+The school is west of the market.
+What is the school west of? market
+
+The bedroom is above the school.
+The school is above the restaurant.
+What is above the school? bedroom
+
+The studio is west of the bedroom.
+The bedroom is west of the restaurant.
+What is west of the bedroom? studio
+
+The hallway is south of the market.
+The market is south of the playground.
+What is the market south of? playground
+
+The hallway is south of the office.
+The office is south of the bedroom.
+What is south of the office? hallway
+
+The hallway is east of the studio.
+The studio is east of the kitchen.
+What is the studio east of? kitchen
+
+The hallway is west of the bedroom.
+The bedroom is west of the bathroom.
+What is the bedroom west of? bathroom
+
+The playground is west of the market.
+The market is west of the hallway.
+What is the market west of? hallway
+
+The park is south of the hallway.
+The hallway is south of the market.
+What is south of the hallway? park
+
+The kitchen is north of the bathroom.
+The bathroom is north of the office.
+What is north of the bathroom? kitchen
+
+The playground is west of the office.
+The office is west of the bedroom.
+What is the office west of? bedroom
+
+The hallway is north of the playground.
+The playground is north of the market.
+What is the playground north of? market
+
+The office is above the playground.
+The playground is above the school.
+What is the playground above? school
+
+The kitchen is south of the hallway.
+The hallway is south of the playground.
+What is the hallway south of? playground
+
+The garden is east of the market.
+The market is east of the bathroom.
+What is the market east of? bathroom
+
+The kitchen is east of the hallway.
+The hallway is east of the office.
+What is the hallway east of? office
+
+The garden is south of the hallway.
+The hallway is south of the restaurant.
+What is south of the hallway? garden
+
+The bedroom is south of the studio.
+The studio is south of the restaurant.
+What is the studio south of? restaurant
+
+The kitchen is above the studio.
+The studio is above the school.
+What is above the studio? kitchen
+
+The office is south of the playground.
+The playground is south of the garden.
+What is the playground south of? garden
+
+The park is south of the kitchen.
+The kitchen is south of the office.
+What is the kitchen south of? office
+
+The bedroom is east of the bathroom.
+The bathroom is east of the restaurant.
+What is the bathroom east of? restaurant
+
+The market is south of the park.
+The park is south of the hallway.
+What is the park south of? hallway
+
+The office is west of the market.
+The market is west of the park.
+What is west of the market? office
+
+The market is above the garden.
+The garden is above the park.
+What is the garden above? park
+
+The restaurant is west of the school.
+The school is west of the hallway.
+What is west of the school? restaurant
+
+The kitchen is east of the garden.
+The garden is east of the hallway.
+What is the garden east of? hallway
+
+The playground is west of the park.
+The park is west of the bathroom.
+What is the park west of? bathroom
+
+The hallway is east of the office.
+The office is east of the school.
+What is east of the office? hallway
+
+The studio is west of the bedroom.
+The bedroom is west of the restaurant.
+What is the bedroom west of? restaurant
+
+The market is north of the kitchen.
+The kitchen is north of the restaurant.
+What is the kitchen north of? restaurant
+
+The hallway is south of the kitchen.
+The kitchen is south of the garden.
+What is south of the kitchen? hallway
+
+The kitchen is south of the park.
+The park is south of the bathroom.
+What is the park south of? bathroom
+
+The office is north of the bedroom.
+The bedroom is north of the restaurant.
+What is the bedroom north of? restaurant
+
+The office is south of the garden.
+The garden is south of the school.
+What is south of the garden? office
+
+The market is west of the office.
+The office is west of the bathroom.
+What is the office west of? bathroom
+
+The restaurant is south of the garden.
+The garden is south of the kitchen.
+What is south of the garden? restaurant
+
+The bedroom is above the studio.
+The studio is above the bathroom.
+What is the studio above? bathroom
+
+The kitchen is north of the restaurant.
+The restaurant is north of the school.
+What is the restaurant north of? school
+
+The park is north of the bedroom.
+The bedroom is north of the hallway.
+What is north of the bedroom? park
+
+The garden is east of the restaurant.
+The restaurant is east of the market.
+What is east of the restaurant? garden
+
+The office is south of the bedroom.
+The bedroom is south of the park.
+What is the bedroom south of? park
+
+The market is above the bedroom.
+The bedroom is above the garden.
+What is the bedroom above? garden
+
+The studio is west of the market.
+The market is west of the bedroom.
+What is west of the market? studio
+
+The bathroom is west of the market.
+The market is west of the bedroom.
+What is the market west of? bedroom
+
+The hallway is north of the bathroom.
+The bathroom is north of the garden.
+What is north of the bathroom? hallway
+
+The garden is east of the studio.
+The studio is east of the park.
+What is the studio east of? park
+
+The school is east of the bedroom.
+The bedroom is east of the bathroom.
+What is the bedroom east of? bathroom
+
+The bathroom is above the playground.
+The playground is above the studio.
+What is the playground above? studio
+
+The office is south of the kitchen.
+The kitchen is south of the restaurant.
+What is the kitchen south of? restaurant
+
+The playground is east of the bathroom.
+The bathroom is east of the park.
+What is the bathroom east of? park
+
+The bathroom is north of the hallway.
+The hallway is north of the park.
+What is north of the hallway? bathroom
+
+The market is above the studio.
+The studio is above the garden.
+What is the studio above? garden
+
+The kitchen is south of the school.
+The school is south of the market.
+What is south of the school? kitchen
+
+The studio is above the park.
+The park is above the school.
+What is the park above? school
+
+The office is north of the bathroom.
+The bathroom is north of the kitchen.
+What is the bathroom north of? kitchen
+
+The park is above the playground.
+The playground is above the office.
+What is the playground above? office
+
+The park is above the restaurant.
+The restaurant is above the garden.
+What is the restaurant above? garden
+
+The bedroom is east of the office.
+The office is east of the garden.
+What is east of the office? bedroom
+
+The bathroom is east of the bedroom.
+The bedroom is east of the playground.
+What is east of the bedroom? bathroom
+
+The market is east of the restaurant.
+The restaurant is east of the garden.
+What is the restaurant east of? garden
+
+The restaurant is south of the bathroom.
+The bathroom is south of the kitchen.
+What is south of the bathroom? restaurant
+
+The park is above the garden.
+The garden is above the hallway.
+What is the garden above? hallway
+
+The office is north of the market.
+The market is north of the bedroom.
+What is north of the market? office
+
+The bedroom is west of the kitchen.
+The kitchen is west of the restaurant.
+What is the kitchen west of? restaurant
+
+The playground is south of the restaurant.
+The restaurant is south of the office.
+What is south of the restaurant? playground
+
+The restaurant is north of the office.
+The office is north of the garden.
+What is north of the office? restaurant
+
+The park is north of the office.
+The office is north of the playground.
+What is north of the office? park
+
+The studio is west of the market.
+The market is west of the garden.
+What is west of the market? studio
+
+The school is above the kitchen.
+The kitchen is above the hallway.
+What is above the kitchen? school
+
+The bedroom is above the office.
+The office is above the garden.
+What is the office above? garden
+
+The garden is north of the bathroom.
+The bathroom is north of the playground.
+What is north of the bathroom? garden
+
+The kitchen is west of the bathroom.
+The bathroom is west of the restaurant.
+What is west of the bathroom? kitchen
+
+The bedroom is above the restaurant.
+The restaurant is above the kitchen.
+What is the restaurant above? kitchen
+
+The park is north of the school.
+The school is north of the office.
+What is the school north of? office
+
+The playground is north of the kitchen.
+The kitchen is north of the park.
+What is the kitchen north of? park
+
+The office is north of the restaurant.
+The restaurant is north of the school.
+What is the restaurant north of? school
+
+The kitchen is east of the school.
+The school is east of the bathroom.
+What is the school east of? bathroom
+
+The office is west of the studio.
+The studio is west of the bathroom.
+What is west of the studio? office
+
+The hallway is south of the bathroom.
+The bathroom is south of the playground.
+What is south of the bathroom? hallway
+
+The park is above the kitchen.
+The kitchen is above the bathroom.
+What is above the kitchen? park
+
+The restaurant is north of the kitchen.
+The kitchen is north of the school.
+What is the kitchen north of? school
+
+The park is south of the office.
+The office is south of the garden.
+What is the office south of? garden
+
+The bathroom is north of the park.
+The park is north of the hallway.
+What is the park north of? hallway
+
+The bedroom is north of the office.
+The office is north of the garden.
+What is the office north of? garden
+
+The playground is west of the park.
+The park is west of the school.
+What is the park west of? school
+
+The garden is above the studio.
+The studio is above the restaurant.
+What is above the studio? garden
+
+The park is above the garden.
+The garden is above the studio.
+What is above the garden? park
+
+The market is east of the bedroom.
+The bedroom is east of the bathroom.
+What is east of the bedroom? market
+
+The school is east of the park.
+The park is east of the restaurant.
+What is east of the park? school
+
+The bathroom is south of the garden.
+The garden is south of the restaurant.
+What is the garden south of? restaurant
+
+The studio is north of the garden.
+The garden is north of the bedroom.
+What is north of the garden? studio
+
+The hallway is north of the school.
+The school is north of the park.
+What is the school north of? park
+
+The bathroom is west of the hallway.
+The hallway is west of the office.
+What is west of the hallway? bathroom
+
+The garden is east of the restaurant.
+The restaurant is east of the bedroom.
+What is the restaurant east of? bedroom
+
+The restaurant is south of the studio.
+The studio is south of the kitchen.
+What is the studio south of? kitchen
+
+The school is south of the bedroom.
+The bedroom is south of the garden.
+What is the bedroom south of? garden
+
+The park is east of the playground.
+The playground is east of the kitchen.
+What is east of the playground? park
+
+The playground is west of the bathroom.
+The bathroom is west of the garden.
+What is west of the bathroom? playground
+
+The bedroom is north of the garden.
+The garden is north of the kitchen.
+What is the garden north of? kitchen
+
+The bathroom is west of the bedroom.
+The bedroom is west of the restaurant.
+What is west of the bedroom? bathroom
+
+The garden is south of the kitchen.
+The kitchen is south of the restaurant.
+What is the kitchen south of? restaurant
+
+The hallway is east of the bedroom.
+The bedroom is east of the garden.
+What is east of the bedroom? hallway
+
+The hallway is above the kitchen.
+The kitchen is above the bedroom.
+What is above the kitchen? hallway
+
+The restaurant is north of the park.
+The park is north of the hallway.
+What is north of the park? restaurant
+
+The park is south of the bedroom.
+The bedroom is south of the school.
+What is the bedroom south of? school
+
+The studio is east of the restaurant.
+The restaurant is east of the bathroom.
+What is east of the restaurant? studio
+
+The playground is north of the hallway.
+The hallway is north of the kitchen.
+What is north of the hallway? playground
+
+The bedroom is above the park.
+The park is above the bathroom.
+What is above the park? bedroom
+
+The playground is east of the kitchen.
+The kitchen is east of the park.
+What is east of the kitchen? playground
+
+The hallway is above the school.
+The school is above the studio.
+What is above the school? hallway
+
+The office is east of the bedroom.
+The bedroom is east of the kitchen.
+What is the bedroom east of? kitchen
+
+The kitchen is west of the office.
+The office is west of the restaurant.
+What is the office west of? restaurant
+
+The studio is north of the bathroom.
+The bathroom is north of the bedroom.
+What is north of the bathroom? studio
+
+The bathroom is north of the office.
+The office is north of the playground.
+What is the office north of? playground
+
+The bathroom is east of the studio.
+The studio is east of the park.
+What is the studio east of? park
+
+The bedroom is above the restaurant.
+The restaurant is above the bathroom.
+What is above the restaurant? bedroom
+
+The restaurant is north of the school.
+The school is north of the studio.
+What is the school north of? studio
+
+The school is south of the studio.
+The studio is south of the market.
+What is the studio south of? market
+
+The bathroom is east of the hallway.
+The hallway is east of the playground.
+What is east of the hallway? bathroom
+
+The kitchen is south of the garden.
+The garden is south of the restaurant.
+What is the garden south of? restaurant
+
+The kitchen is north of the playground.
+The playground is north of the hallway.
+What is north of the playground? kitchen
+
+The studio is east of the bathroom.
+The bathroom is east of the bedroom.
+What is the bathroom east of? bedroom
+
+The school is south of the kitchen.
+The kitchen is south of the market.
+What is the kitchen south of? market
+
+The bedroom is east of the garden.
+The garden is east of the playground.
+What is the garden east of? playground
+
+The school is above the market.
+The market is above the park.
+What is above the market? school
+
+The office is south of the school.
+The school is south of the bedroom.
+What is the school south of? bedroom
+
+The park is east of the market.
+The market is east of the hallway.
+What is east of the market? park
+
+The playground is south of the studio.
+The studio is south of the school.
+What is the studio south of? school
+
+The bedroom is east of the park.
+The park is east of the office.
+What is east of the park? bedroom
+
+The restaurant is west of the kitchen.
+The kitchen is west of the studio.
+What is the kitchen west of? studio
+
+The studio is above the kitchen.
+The kitchen is above the bedroom.
+What is above the kitchen? studio
+
+The studio is north of the bathroom.
+The bathroom is north of the restaurant.
+What is the bathroom north of? restaurant
+
+The school is east of the bedroom.
+The bedroom is east of the garden.
+What is east of the bedroom? school
+
+The office is north of the bathroom.
+The bathroom is north of the market.
+What is north of the bathroom? office
+
+The garden is west of the kitchen.
+The kitchen is west of the market.
+What is west of the kitchen? garden
+
+The park is west of the bedroom.
+The bedroom is west of the restaurant.
+What is the bedroom west of? restaurant
+
+The school is north of the playground.
+The playground is north of the park.
+What is the playground north of? park
+
+The studio is south of the market.
+The market is south of the bathroom.
+What is south of the market? studio
+
+The kitchen is east of the office.
+The office is east of the restaurant.
+What is east of the office? kitchen
+
+The garden is south of the restaurant.
+The restaurant is south of the school.
+What is the restaurant south of? school
+
+The bedroom is north of the garden.
+The garden is north of the playground.
+What is north of the garden? bedroom
+
+The studio is west of the hallway.
+The hallway is west of the kitchen.
+What is the hallway west of? kitchen
+
+The bedroom is south of the studio.
+The studio is south of the park.
+What is south of the studio? bedroom
+
+The school is west of the bathroom.
+The bathroom is west of the market.
+What is the bathroom west of? market
+
+The restaurant is east of the playground.
+The playground is east of the office.
+What is east of the playground? restaurant
+
+The garden is above the kitchen.
+The kitchen is above the park.
+What is the kitchen above? park
+
+The garden is west of the office.
+The office is west of the studio.
+What is west of the office? garden
+
+The kitchen is east of the bathroom.
+The bathroom is east of the bedroom.
+What is the bathroom east of? bedroom
+
+The market is above the office.
+The office is above the garden.
+What is above the office? market
+
+The school is south of the park.
+The park is south of the restaurant.
+What is south of the park? school
+
+The office is east of the hallway.
+The hallway is east of the market.
+What is east of the hallway? office
+
+The office is south of the studio.
+The studio is south of the kitchen.
+What is the studio south of? kitchen
+
+The market is east of the garden.
+The garden is east of the restaurant.
+What is the garden east of? restaurant
+
+The park is above the studio.
+The studio is above the bathroom.
+What is above the studio? park
+
+The park is above the playground.
+The playground is above the restaurant.
+What is the playground above? restaurant
+
+The hallway is west of the studio.
+The studio is west of the bathroom.
+What is west of the studio? hallway
+
+The park is above the kitchen.
+The kitchen is above the playground.
+What is the kitchen above? playground
+
+The studio is south of the market.
+The market is south of the restaurant.
+What is south of the market? studio
+
+The hallway is south of the bedroom.
+The bedroom is south of the market.
+What is the bedroom south of? market
+
+The bedroom is north of the kitchen.
+The kitchen is north of the park.
+What is the kitchen north of? park
+
+The park is above the bathroom.
+The bathroom is above the bedroom.
+What is above the bathroom? park
+
+The restaurant is west of the garden.
+The garden is west of the market.
+What is the garden west of? market
+
+The playground is above the school.
+The school is above the office.
+What is above the school? playground
+
+The kitchen is above the studio.
+The studio is above the market.
+What is the studio above? market
+
+The garden is south of the park.
+The park is south of the bedroom.
+What is the park south of? bedroom
+
+The studio is above the garden.
+The garden is above the market.
+What is the garden above? market
+
+The office is west of the playground.
+The playground is west of the school.
+What is west of the playground? office
+
+The market is above the hallway.
+The hallway is above the studio.
+What is above the hallway? market
+
+The bedroom is south of the office.
+The office is south of the park.
+What is the office south of? park
+
+The market is west of the park.
+The park is west of the kitchen.
+What is the park west of? kitchen
+
+The school is west of the bathroom.
+The bathroom is west of the kitchen.
+What is the bathroom west of? kitchen
+
+The school is east of the kitchen.
+The kitchen is east of the restaurant.
+What is east of the kitchen? school
+
+The hallway is south of the market.
+The market is south of the garden.
+What is south of the market? hallway
+
+The restaurant is east of the hallway.
+The hallway is east of the school.
+What is the hallway east of? school
+
+The studio is south of the market.
+The market is south of the garden.
+What is south of the market? studio
+
+The park is east of the hallway.
+The hallway is east of the playground.
+What is the hallway east of? playground
+
+The playground is east of the bedroom.
+The bedroom is east of the garden.
+What is the bedroom east of? garden
+
+The park is above the bedroom.
+The bedroom is above the playground.
+What is above the bedroom? park
+
+The kitchen is east of the school.
+The school is east of the bathroom.
+What is east of the school? kitchen
+
+The hallway is north of the playground.
+The playground is north of the park.
+What is the playground north of? park
+
+The bathroom is above the school.
+The school is above the hallway.
+What is above the school? bathroom
+
+The hallway is east of the studio.
+The studio is east of the playground.
+What is east of the studio? hallway
+
+The office is north of the garden.
+The garden is north of the restaurant.
+What is north of the garden? office
+
+The bedroom is south of the studio.
+The studio is south of the bathroom.
+What is the studio south of? bathroom
+
+The market is west of the bathroom.
+The bathroom is west of the office.
+What is the bathroom west of? office
+
+The market is south of the kitchen.
+The kitchen is south of the hallway.
+What is the kitchen south of? hallway
+
+The studio is east of the kitchen.
+The kitchen is east of the bathroom.
+What is the kitchen east of? bathroom
+
+The office is west of the market.
+The market is west of the restaurant.
+What is the market west of? restaurant
+
+The school is south of the hallway.
+The hallway is south of the office.
+What is south of the hallway? school
+
+The market is west of the playground.
+The playground is west of the studio.
+What is the playground west of? studio
+
+The kitchen is above the playground.
+The playground is above the school.
+What is the playground above? school
+
+The studio is north of the office.
+The office is north of the market.
+What is north of the office? studio
+
+The school is east of the office.
+The office is east of the restaurant.
+What is east of the office? school
+
+The restaurant is south of the market.
+The market is south of the office.
+What is south of the market? restaurant
+
+The bathroom is west of the kitchen.
+The kitchen is west of the studio.
+What is the kitchen west of? studio
+
+The market is west of the bedroom.
+The bedroom is west of the kitchen.
+What is the bedroom west of? kitchen
+
+The office is west of the park.
+The park is west of the market.
+What is the park west of? market
+
+The studio is east of the restaurant.
+The restaurant is east of the bathroom.
+What is the restaurant east of? bathroom
+
+The bathroom is west of the market.
+The market is west of the playground.
+What is the market west of? playground
+
+The market is east of the school.
+The school is east of the playground.
+What is the school east of? playground
+
+The bedroom is south of the office.
+The office is south of the playground.
+What is the office south of? playground
+
+The school is south of the market.
+The market is south of the garden.
+What is south of the market? school
+
+The restaurant is east of the office.
+The office is east of the park.
+What is east of the office? restaurant
+
+The market is above the studio.
+The studio is above the restaurant.
+What is above the studio? market
+
+The bathroom is west of the playground.
+The playground is west of the garden.
+What is the playground west of? garden
+
+The park is south of the kitchen.
+The kitchen is south of the bedroom.
+What is the kitchen south of? bedroom
+
+The school is west of the park.
+The park is west of the studio.
+What is west of the park? school
+
+The restaurant is west of the bedroom.
+The bedroom is west of the garden.
+What is west of the bedroom? restaurant
+
+The bedroom is north of the school.
+The school is north of the kitchen.
+What is north of the school? bedroom
+
+The bathroom is south of the bedroom.
+The bedroom is south of the studio.
+What is south of the bedroom? bathroom
+
+The garden is west of the bedroom.
+The bedroom is west of the studio.
+What is the bedroom west of? studio
+
+The park is west of the restaurant.
+The restaurant is west of the hallway.
+What is west of the restaurant? park
+
+The playground is north of the bathroom.
+The bathroom is north of the school.
+What is the bathroom north of? school
+
+The playground is north of the bathroom.
+The bathroom is north of the kitchen.
+What is the bathroom north of? kitchen
+
+The bathroom is east of the restaurant.
+The restaurant is east of the school.
+What is east of the restaurant? bathroom
+
+The park is east of the playground.
+The playground is east of the studio.
+What is east of the playground? park
+
+The kitchen is west of the office.
+The office is west of the market.
+What is the office west of? market
+
+The studio is west of the playground.
+The playground is west of the school.
+What is the playground west of? school
+
+The bedroom is east of the school.
+The school is east of the hallway.
+What is the school east of? hallway
+
+The bedroom is south of the park.
+The park is south of the kitchen.
+What is south of the park? bedroom
+
+The bedroom is above the bathroom.
+The bathroom is above the kitchen.
+What is the bathroom above? kitchen
+
+The garden is west of the school.
+The school is west of the kitchen.
+What is the school west of? kitchen
+
+The office is north of the playground.
+The playground is north of the studio.
+What is the playground north of? studio
+
+The garden is west of the park.
+The park is west of the hallway.
+What is west of the park? garden
+
+The office is south of the hallway.
+The hallway is south of the bedroom.
+What is the hallway south of? bedroom
+
+The market is west of the kitchen.
+The kitchen is west of the office.
+What is the kitchen west of? office
+
+The market is above the playground.
+The playground is above the office.
+What is the playground above? office
+
+The bedroom is above the park.
+The park is above the garden.
+What is the park above? garden
+
+The garden is north of the office.
+The office is north of the restaurant.
+What is north of the office? garden
+
+The studio is above the bathroom.
+The bathroom is above the office.
+What is the bathroom above? office
+
+The school is south of the park.
+The park is south of the office.
+What is south of the park? school
+
+The hallway is east of the bathroom.
+The bathroom is east of the restaurant.
+What is east of the bathroom? hallway
+
+The kitchen is north of the market.
+The market is north of the garden.
+What is the market north of? garden
+
+The market is north of the hallway.
+The hallway is north of the bedroom.
+What is the hallway north of? bedroom
+
+The garden is south of the restaurant.
+The restaurant is south of the office.
+What is south of the restaurant? garden
+
+The office is north of the restaurant.
+The restaurant is north of the hallway.
+What is north of the restaurant? office
+
+The bedroom is east of the kitchen.
+The kitchen is east of the office.
+What is the kitchen east of? office
+
+The school is north of the park.
+The park is north of the garden.
+What is the park north of? garden
+
+The kitchen is south of the restaurant.
+The restaurant is south of the bedroom.
+What is south of the restaurant? kitchen
+
+The hallway is north of the studio.
+The studio is north of the office.
+What is north of the studio? hallway
+
+The school is west of the bedroom.
+The bedroom is west of the garden.
+What is west of the bedroom? school
+
+The hallway is west of the office.
+The office is west of the park.
+What is the office west of? park
+
+The market is south of the bedroom.
+The bedroom is south of the garden.
+What is the bedroom south of? garden
+
+The kitchen is west of the bedroom.
+The bedroom is west of the garden.
+What is the bedroom west of? garden
+
+The hallway is south of the studio.
+The studio is south of the restaurant.
+What is the studio south of? restaurant
+
+The school is south of the studio.
+The studio is south of the kitchen.
+What is south of the studio? school
+
+The hallway is west of the garden.
+The garden is west of the park.
+What is west of the garden? hallway
+
+The office is north of the market.
+The market is north of the school.
+What is the market north of? school
+
+The market is above the playground.
+The playground is above the studio.
+What is above the playground? market
+
+The market is above the school.
+The school is above the playground.
+What is the school above? playground
+
+The studio is south of the garden.
+The garden is south of the park.
+What is south of the garden? studio
+
+The market is south of the restaurant.
+The restaurant is south of the park.
+What is the restaurant south of? park
+
+The playground is north of the studio.
+The studio is north of the kitchen.
+What is the studio north of? kitchen
+
+The bedroom is west of the playground.
+The playground is west of the hallway.
+What is the playground west of? hallway
+
+The garden is south of the hallway.
+The hallway is south of the school.
+What is south of the hallway? garden
+
+The office is south of the kitchen.
+The kitchen is south of the playground.
+What is the kitchen south of? playground
+
+The park is north of the restaurant.
+The restaurant is north of the bathroom.
+What is north of the restaurant? park
+
+The studio is west of the hallway.
+The hallway is west of the garden.
+What is west of the hallway? studio
+
+The garden is north of the hallway.
+The hallway is north of the kitchen.
+What is north of the hallway? garden
+
+The kitchen is north of the playground.
+The playground is north of the market.
+What is the playground north of? market
+
+The studio is above the restaurant.
+The restaurant is above the office.
+What is the restaurant above? office
+
+The market is east of the restaurant.
+The restaurant is east of the hallway.
+What is east of the restaurant? market
+
+The kitchen is east of the bathroom.
+The bathroom is east of the hallway.
+What is the bathroom east of? hallway
+
+The studio is east of the restaurant.
+The restaurant is east of the hallway.
+What is the restaurant east of? hallway
+
+The garden is north of the restaurant.
+The restaurant is north of the bathroom.
+What is north of the restaurant? garden
+
+The market is above the office.
+The office is above the playground.
+What is above the office? market
+
+The garden is west of the kitchen.
+The kitchen is west of the bedroom.
+What is west of the kitchen? garden
+
+The restaurant is east of the park.
+The park is east of the garden.
+What is the park east of? garden
+
+The bathroom is south of the garden.
+The garden is south of the park.
+What is south of the garden? bathroom
+
+The bathroom is west of the school.
+The school is west of the garden.
+What is west of the school? bathroom
+
+The market is north of the restaurant.
+The restaurant is north of the studio.
+What is the restaurant north of? studio
+
+The hallway is above the restaurant.
+The restaurant is above the studio.
+What is above the restaurant? hallway
+
+The park is above the studio.
+The studio is above the hallway.
+What is the studio above? hallway
+
+The bedroom is south of the studio.
+The studio is south of the restaurant.
+What is south of the studio? bedroom
+
+The park is south of the restaurant.
+The restaurant is south of the studio.
+What is south of the restaurant? park
+
+The school is south of the office.
+The office is south of the hallway.
+What is south of the office? school
+
+The studio is above the playground.
+The playground is above the office.
+What is the playground above? office
+
+The restaurant is south of the playground.
+The playground is south of the bathroom.
+What is south of the playground? restaurant
+
+The restaurant is south of the office.
+The office is south of the school.
+What is the office south of? school
+
+The market is above the bedroom.
+The bedroom is above the playground.
+What is the bedroom above? playground
+
+The school is above the garden.
+The garden is above the restaurant.
+What is above the garden? school
+
+The studio is above the market.
+The market is above the park.
+What is above the market? studio
+
+The park is north of the kitchen.
+The kitchen is north of the playground.
+What is north of the kitchen? park
+
+The bedroom is south of the kitchen.
+The kitchen is south of the market.
+What is south of the kitchen? bedroom
+
+The bedroom is south of the office.
+The office is south of the market.
+What is the office south of? market
+
+The restaurant is above the office.
+The office is above the bathroom.
+What is above the office? restaurant
+
+The hallway is above the garden.
+The garden is above the studio.
+What is the garden above? studio
+
+The restaurant is west of the market.
+The market is west of the playground.
+What is west of the market? restaurant
+
+The restaurant is west of the office.
+The office is west of the kitchen.
+What is west of the office? restaurant
+
+The market is north of the school.
+The school is north of the playground.
+What is north of the school? market
+
+The office is west of the bathroom.
+The bathroom is west of the studio.
+What is the bathroom west of? studio
+
+The market is above the restaurant.
+The restaurant is above the school.
+What is the restaurant above? school
+
+The studio is east of the bathroom.
+The bathroom is east of the market.
+What is east of the bathroom? studio
+
+The market is south of the garden.
+The garden is south of the bedroom.
+What is the garden south of? bedroom
+
+The garden is west of the park.
+The park is west of the kitchen.
+What is west of the park? garden
+
+The office is above the bedroom.
+The bedroom is above the market.
+What is the bedroom above? market
+
+The kitchen is south of the school.
+The school is south of the hallway.
+What is south of the school? kitchen
+
+The school is above the studio.
+The studio is above the kitchen.
+What is the studio above? kitchen
+
+The office is above the hallway.
+The hallway is above the studio.
+What is above the hallway? office
+
+The restaurant is south of the school.
+The school is south of the playground.
+What is the school south of? playground
+
+The playground is south of the garden.
+The garden is south of the restaurant.
+What is south of the garden? playground
+
+The playground is east of the park.
+The park is east of the garden.
+What is east of the park? playground
+
+The bathroom is west of the studio.
+The studio is west of the playground.
+What is the studio west of? playground
+
+The market is east of the kitchen.
+The kitchen is east of the garden.
+What is east of the kitchen? market
+
+The market is north of the school.
+The school is north of the park.
+What is north of the school? market
+
+The playground is above the office.
+The office is above the kitchen.
+What is the office above? kitchen
+
+The school is west of the playground.
+The playground is west of the market.
+What is west of the playground? school
+
+The office is east of the market.
+The market is east of the bathroom.
+What is the market east of? bathroom
+
+The garden is above the bedroom.
+The bedroom is above the playground.
+What is above the bedroom? garden
+
+The garden is west of the bathroom.
+The bathroom is west of the market.
+What is the bathroom west of? market
+
+The bathroom is north of the playground.
+The playground is north of the park.
+What is the playground north of? park
+
+The bedroom is east of the kitchen.
+The kitchen is east of the hallway.
+What is east of the kitchen? bedroom
+
+The studio is west of the bathroom.
+The bathroom is west of the office.
+What is west of the bathroom? studio
+
+The market is east of the park.
+The park is east of the restaurant.
+What is east of the park? market
+
+The market is north of the garden.
+The garden is north of the playground.
+What is the garden north of? playground
+
+The studio is north of the garden.
+The garden is north of the restaurant.
+What is the garden north of? restaurant
+
+The garden is north of the school.
+The school is north of the playground.
+What is north of the school? garden
+
+The market is north of the office.
+The office is north of the studio.
+What is north of the office? market
+
+The hallway is north of the park.
+The park is north of the market.
+What is north of the park? hallway
+
+The playground is west of the bathroom.
+The bathroom is west of the bedroom.
+What is the bathroom west of? bedroom
+
+The playground is east of the office.
+The office is east of the bedroom.
+What is the office east of? bedroom
+
+The restaurant is north of the market.
+The market is north of the school.
+What is the market north of? school
+
+The playground is north of the bedroom.
+The bedroom is north of the garden.
+What is north of the bedroom? playground
+
+The studio is above the park.
+The park is above the playground.
+What is the park above? playground
+
+The office is south of the bathroom.
+The bathroom is south of the school.
+What is south of the bathroom? office
+
+The market is south of the playground.
+The playground is south of the bedroom.
+What is south of the playground? market
+
+The studio is north of the office.
+The office is north of the bathroom.
+What is north of the office? studio
+
+The studio is west of the kitchen.
+The kitchen is west of the playground.
+What is the kitchen west of? playground
+
+The garden is east of the office.
+The office is east of the restaurant.
+What is east of the office? garden
+
+The market is north of the restaurant.
+The restaurant is north of the bathroom.
+What is north of the restaurant? market
+
+The garden is west of the bathroom.
+The bathroom is west of the school.
+What is west of the bathroom? garden
+
+The studio is above the market.
+The market is above the office.
+What is above the market? studio
+
+The studio is west of the school.
+The school is west of the market.
+What is west of the school? studio
+
+The school is west of the bathroom.
+The bathroom is west of the market.
+What is west of the bathroom? school
+
+The school is west of the bedroom.
+The bedroom is west of the restaurant.
+What is west of the bedroom? school
+
+The school is above the office.
+The office is above the hallway.
+What is above the office? school
+
+The market is east of the studio.
+The studio is east of the garden.
+What is the studio east of? garden
+
+The bedroom is east of the playground.
+The playground is east of the bathroom.
+What is the playground east of? bathroom
+
+The market is north of the garden.
+The garden is north of the restaurant.
+What is the garden north of? restaurant
+
+The market is above the kitchen.
+The kitchen is above the studio.
+What is above the kitchen? market
+
+The studio is above the bathroom.
+The bathroom is above the kitchen.
+What is above the bathroom? studio
+
+The playground is east of the hallway.
+The hallway is east of the bedroom.
+What is east of the hallway? playground
+
+The studio is west of the office.
+The office is west of the bedroom.
+What is the office west of? bedroom
+
+The garden is above the park.
+The park is above the school.
+What is above the park? garden
+
+The bathroom is above the studio.
+The studio is above the bedroom.
+What is above the studio? bathroom
+
+The bedroom is above the restaurant.
+The restaurant is above the studio.
+What is the restaurant above? studio
+
+The bedroom is north of the hallway.
+The hallway is north of the school.
+What is north of the hallway? bedroom
+
+The hallway is east of the bathroom.
+The bathroom is east of the garden.
+What is east of the bathroom? hallway
+
+The kitchen is above the market.
+The market is above the bathroom.
+What is the market above? bathroom
+
+The school is west of the park.
+The park is west of the hallway.
+What is the park west of? hallway
+
+The kitchen is north of the market.
+The market is north of the school.
+What is the market north of? school
+
+The playground is east of the market.
+The market is east of the office.
+What is the market east of? office
+
+The studio is west of the bedroom.
+The bedroom is west of the park.
+What is west of the bedroom? studio
+
+The market is east of the garden.
+The garden is east of the playground.
+What is east of the garden? market
+
+The bathroom is east of the playground.
+The playground is east of the park.
+What is the playground east of? park
+
+The school is above the hallway.
+The hallway is above the market.
+What is above the hallway? school
+
+The bedroom is south of the hallway.
+The hallway is south of the restaurant.
+What is south of the hallway? bedroom
+
+The market is south of the office.
+The office is south of the bathroom.
+What is south of the office? market
+
+The school is south of the studio.
+The studio is south of the garden.
+What is south of the studio? school
+
+The school is west of the garden.
+The garden is west of the hallway.
+What is west of the garden? school
+
+The bedroom is south of the studio.
+The studio is south of the market.
+What is south of the studio? bedroom
+
+The playground is south of the kitchen.
+The kitchen is south of the studio.
+What is south of the kitchen? playground
+
+The office is west of the bedroom.
+The bedroom is west of the playground.
+What is the bedroom west of? playground
+
+The studio is east of the market.
+The market is east of the kitchen.
+What is the market east of? kitchen
+
+The bathroom is west of the hallway.
+The hallway is west of the studio.
+What is the hallway west of? studio
+
+The bedroom is above the bathroom.
+The bathroom is above the park.
+What is above the bathroom? bedroom
+
+The studio is above the bedroom.
+The bedroom is above the restaurant.
+What is above the bedroom? studio
+
+The restaurant is west of the market.
+The market is west of the school.
+What is the market west of? school
+
+The garden is west of the bathroom.
+The bathroom is west of the park.
+What is west of the bathroom? garden
+
+The kitchen is above the bathroom.
+The bathroom is above the playground.
+What is the bathroom above? playground
+
+The bedroom is south of the studio.
+The studio is south of the garden.
+What is south of the studio? bedroom
+
+The studio is above the restaurant.
+The restaurant is above the kitchen.
+What is the restaurant above? kitchen
+
+The garden is south of the restaurant.
+The restaurant is south of the hallway.
+What is the restaurant south of? hallway
+
+The playground is above the kitchen.
+The kitchen is above the park.
+What is above the kitchen? playground
+
+The kitchen is south of the playground.
+The playground is south of the park.
+What is the playground south of? park
+
+The hallway is above the park.
+The park is above the school.
+What is the park above? school
+
+The restaurant is west of the studio.
+The studio is west of the garden.
+What is west of the studio? restaurant
+
+The hallway is east of the bathroom.
+The bathroom is east of the garden.
+What is the bathroom east of? garden
+
+The playground is south of the park.
+The park is south of the office.
+What is south of the park? playground
+
+The restaurant is above the kitchen.
+The kitchen is above the studio.
+What is above the kitchen? restaurant
+
+The kitchen is east of the park.
+The park is east of the bathroom.
+What is east of the park? kitchen
+
+The garden is above the bedroom.
+The bedroom is above the park.
+What is above the bedroom? garden
+
+The playground is east of the park.
+The park is east of the studio.
+What is the park east of? studio
+
+The market is west of the park.
+The park is west of the bathroom.
+What is the park west of? bathroom
+
+The playground is east of the hallway.
+The hallway is east of the bedroom.
+What is the hallway east of? bedroom
+
+The hallway is above the office.
+The office is above the market.
+What is above the office? hallway
+
+The restaurant is north of the park.
+The park is north of the bedroom.
+What is the park north of? bedroom
+
+The hallway is south of the bedroom.
+The bedroom is south of the garden.
+What is the bedroom south of? garden
+
+The market is south of the kitchen.
+The kitchen is south of the garden.
+What is south of the kitchen? market
+
+The studio is north of the park.
+The park is north of the garden.
+What is north of the park? studio
+
+The school is north of the garden.
+The garden is north of the studio.
+What is the garden north of? studio
+
+The park is east of the studio.
+The studio is east of the playground.
+What is the studio east of? playground
+
+The studio is west of the kitchen.
+The kitchen is west of the bedroom.
+What is west of the kitchen? studio
+
+The bathroom is east of the market.
+The market is east of the playground.
+What is east of the market? bathroom
+
+The studio is south of the playground.
+The playground is south of the market.
+What is the playground south of? market
+
+The market is south of the kitchen.
+The kitchen is south of the school.
+What is the kitchen south of? school
+
+The bedroom is west of the garden.
+The garden is west of the office.
+What is west of the garden? bedroom
+
+The park is south of the restaurant.
+The restaurant is south of the studio.
+What is the restaurant south of? studio
+
+The restaurant is above the garden.
+The garden is above the market.
+What is above the garden? restaurant
+
+The playground is east of the studio.
+The studio is east of the school.
+What is the studio east of? school
+
+The office is south of the bathroom.
+The bathroom is south of the studio.
+What is south of the bathroom? office
+
+The park is east of the studio.
+The studio is east of the kitchen.
+What is east of the studio? park
+
+The playground is north of the garden.
+The garden is north of the restaurant.
+What is the garden north of? restaurant
+
+The school is east of the garden.
+The garden is east of the playground.
+What is the garden east of? playground
+
+The studio is west of the office.
+The office is west of the hallway.
+What is the office west of? hallway
+
+The bathroom is west of the school.
+The school is west of the hallway.
+What is the school west of? hallway
+
+The market is east of the bathroom.
+The bathroom is east of the restaurant.
+What is east of the bathroom? market
+
+The school is north of the playground.
+The playground is north of the market.
+What is the playground north of? market
+
+The restaurant is above the school.
+The school is above the garden.
+What is the school above? garden
+
+The hallway is south of the school.
+The school is south of the market.
+What is the school south of? market
+
+The office is west of the bedroom.
+The bedroom is west of the bathroom.
+What is the bedroom west of? bathroom
+
+The bathroom is south of the restaurant.
+The restaurant is south of the office.
+What is south of the restaurant? bathroom
+
+The bathroom is south of the studio.
+The studio is south of the school.
+What is the studio south of? school
+
+The garden is above the restaurant.
+The restaurant is above the hallway.
+What is above the restaurant? garden
+
+The playground is east of the kitchen.
+The kitchen is east of the hallway.
+What is the kitchen east of? hallway

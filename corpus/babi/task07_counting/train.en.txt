@@ -1,0 +1,5903 @@
+Bob picked up the cup.
+Bob dropped the cup.
+How many objects is Bob holding? none
+
+Ann picked up the bottle.
+Ann dropped the bottle.
+Ann picked up the bottle.
+Ann dropped the bottle.
+Ann picked up the box.
+How many objects is Ann holding? one
+
+Peter picked up the cup.
+Peter picked up the apple.
+Peter dropped the cup.
+Peter picked up the milk.
+Peter picked up the bottle.
+Peter picked up the pen.
+How many objects is Peter holding? four
+
+Peter picked up the key.
+Peter picked up the milk.
+Peter picked up the apple.
+How many objects is Peter holding? three
+
+Rick picked up the book.
+Rick picked up the apple.
+Rick dropped the apple.
+Rick picked up the milk.
+Rick picked up the bag.
+How many objects is Rick holding? three
+
+Peter picked up the cup.
+Peter dropped the cup.
+Peter picked up the cup.
+Peter picked up the hat.
+Peter dropped the cup.
+How many objects is Peter holding? one
+
+Daniel picked up the pen.
+Daniel picked up the book.
+Daniel picked up the bottle.
+How many objects is Daniel holding? three
+
+Daniel picked up the pen.
+Daniel picked up the milk.
+Daniel picked up the hat.
+Daniel picked up the book.
+How many objects is Daniel holding? four
+
+Kate picked up the hat.
+Kate picked up the key.
+Kate dropped the hat.
+How many objects is Kate holding? one
+
+Susan picked up the pen.
+Susan dropped the pen.
+Susan picked up the key.
+Susan picked up the cup.
+Susan picked up the bottle.
+How many objects is Susan holding? three
+
+Bob picked up the key.
+Bob picked up the pen.
+Bob picked up the bag.
+How many objects is Bob holding? three
+
+Bob picked up the bag.
+Bob picked up the key.
+Bob picked up the bottle.
+How many objects is Bob holding? three
+
+Susan picked up the book.
+Susan dropped the book.
+Susan picked up the cup.
+Susan picked up the bag.
+How many objects is Susan holding? two
+
+Eve picked up the apple.
+Eve dropped the apple.
+Eve picked up the key.
+Eve picked up the cup.
+Eve picked up the hat.
+Eve dropped the hat.
+How many objects is Eve holding? two
+
+Rick picked up the milk.
+Rick dropped the milk.
+How many objects is Rick holding? none
+
+Tom picked up the hat.
+Tom picked up the ball.
+Tom picked up the milk.
+Tom dropped the hat.
+Tom picked up the hat.
+Tom dropped the hat.
+How many objects is Tom holding? two
+
+Sam picked up the ball.
+Sam picked up the bottle.
+How many objects is Sam holding? two
+
+Susan picked up the key.
+Susan dropped the key.
+Susan picked up the bottle.
+Susan picked up the apple.
+Susan picked up the key.
+How many objects is Susan holding? three
+
+Peter picked up the shoe.
+Peter picked up the hat.
+Peter dropped the shoe.
+Peter picked up the key.
+How many objects is Peter holding? two
+
+Bill picked up the apple.
+Bill dropped the apple.
+Bill picked up the cup.
+Bill picked up the hat.
+Bill picked up the bottle.
+How many objects is Bill holding? three
+
+Rick picked up the key.
+Rick picked up the cup.
+Rick picked up the ball.
+Rick dropped the key.
+Rick picked up the box.
+How many objects is Rick holding? three
+
+Ann picked up the box.
+Ann dropped the box.
+Ann picked up the bottle.
+Ann picked up the milk.
+How many objects is Ann holding? two
+
+Daniel picked up the hat.
+Daniel dropped the hat.
+Daniel picked up the bottle.
+Daniel picked up the milk.
+How many objects is Daniel holding? two
+
+Sam picked up the pen.
+Sam picked up the ball.
+Sam dropped the pen.
+Sam picked up the hat.
+How many objects is Sam holding? two
+
+Alice picked up the cup.
+Alice dropped the cup.
+How many objects is Alice holding? none
+
+Nina picked up the apple.
+Nina dropped the apple.
+Nina picked up the bag.
+Nina picked up the milk.
+Nina picked up the shoe.
+How many objects is Nina holding? three
+
+John picked up the book.
+John picked up the shoe.
+John picked up the pen.
+John dropped the shoe.
+John picked up the bottle.
+John dropped the bottle.
+How many objects is John holding? two
+
+Lucy picked up the ball.
+Lucy dropped the ball.
+Lucy picked up the book.
+How many objects is Lucy holding? one
+
+Rick picked up the key.
+Rick picked up the milk.
+Rick dropped the key.
+Rick picked up the book.
+Rick dropped the milk.
+Rick picked up the ball.
+How many objects is Rick holding? two
+
+Mary picked up the bottle.
+Mary picked up the cup.
+Mary picked up the key.
+Mary picked up the apple.
+How many objects is Mary holding? four
+
+Fred picked up the book.
+Fred picked up the key.
+Fred picked up the box.
+Fred picked up the cup.
+Fred dropped the box.
+Fred dropped the key.
+How many objects is Fred holding? two
+
+Bill picked up the book.
+Bill picked up the bag.
+Bill dropped the book.
+Bill picked up the pen.
+Bill dropped the pen.
+How many objects is Bill holding? one
+
+Kate picked up the milk.
+Kate dropped the milk.
+Kate picked up the bag.
+Kate dropped the bag.
+How many objects is Kate holding? none
+
+Alice picked up the key.
+Alice picked up the shoe.
+Alice dropped the shoe.
+Alice picked up the hat.
+How many objects is Alice holding? two
+
+Peter picked up the key.
+Peter picked up the apple.
+Peter dropped the apple.
+Peter dropped the key.
+How many objects is Peter holding? none
+
+Bob picked up the box.
+Bob dropped the box.
+How many objects is Bob holding? none
+
+Bill picked up the box.
+Bill picked up the hat.
+Bill picked up the apple.
+Bill picked up the cup.
+Bill dropped the apple.
+How many objects is Bill holding? three
+
+Alice picked up the pen.
+Alice dropped the pen.
+Alice picked up the cup.
+Alice picked up the milk.
+Alice picked up the hat.
+Alice picked up the pen.
+How many objects is Alice holding? four
+
+Alice picked up the box.
+Alice dropped the box.
+Alice picked up the milk.
+Alice picked up the bag.
+How many objects is Alice holding? two
+
+Kate picked up the milk.
+Kate dropped the milk.
+How many objects is Kate holding? none
+
+Sandra picked up the shoe.
+Sandra picked up the apple.
+Sandra picked up the bottle.
+Sandra dropped the shoe.
+Sandra dropped the apple.
+How many objects is Sandra holding? one
+
+Susan picked up the cup.
+Susan dropped the cup.
+How many objects is Susan holding? none
+
+Rick picked up the ball.
+Rick dropped the ball.
+Rick picked up the ball.
+Rick picked up the bag.
+Rick picked up the bottle.
+How many objects is Rick holding? three
+
+Daniel picked up the shoe.
+Daniel picked up the book.
+Daniel picked up the ball.
+Daniel dropped the ball.
+Daniel picked up the bottle.
+Daniel picked up the key.
+How many objects is Daniel holding? four
+
+Daniel picked up the ball.
+Daniel dropped the ball.
+Daniel picked up the pen.
+Daniel picked up the apple.
+Daniel dropped the pen.
+How many objects is Daniel holding? one
+
+Lucy picked up the cup.
+Lucy picked up the book.
+Lucy picked up the ball.
+Lucy picked up the milk.
+How many objects is Lucy holding? four
+
+Peter picked up the apple.
+Peter picked up the hat.
+How many objects is Peter holding? two
+
+Lucy picked up the hat.
+Lucy picked up the book.
+How many objects is Lucy holding? two
+
+Tom picked up the shoe.
+Tom picked up the bottle.
+Tom picked up the apple.
+Tom picked up the cup.
+How many objects is Tom holding? four
+
+Sandra picked up the milk.
+Sandra dropped the milk.
+How many objects is Sandra holding? none
+
+David picked up the bag.
+David picked up the bottle.
+How many objects is David holding? two
+
+Kate picked up the cup.
+Kate picked up the key.
+Kate dropped the key.
+Kate picked up the shoe.
+Kate picked up the book.
+How many objects is Kate holding? three
+
+Susan picked up the cup.
+Susan picked up the hat.
+Susan picked up the box.
+Susan picked up the shoe.
+How many objects is Susan holding? four
+
+Sandra picked up the hat.
+Sandra picked up the bag.
+How many objects is Sandra holding? two
+
+Bob picked up the book.
+Bob dropped the book.
+Bob picked up the apple.
+Bob picked up the pen.
+How many objects is Bob holding? two
+
+Fred picked up the shoe.
+Fred picked up the key.
+How many objects is Fred holding? two
+
+Susan picked up the apple.
+Susan dropped the apple.
+How many objects is Susan holding? none
+
+Nina picked up the ball.
+Nina dropped the ball.
+How many objects is Nina holding? none
+
+Kate picked up the cup.
+Kate dropped the cup.
+How many objects is Kate holding? none
+
+Nina picked up the apple.
+Nina dropped the apple.
+How many objects is Nina holding? none
+
+Alice picked up the milk.
+Alice dropped the milk.
+How many objects is Alice holding? none
+
+Frank picked up the pen.
+Frank picked up the hat.
+Frank picked up the cup.
+Frank dropped the pen.
+How many objects is Frank holding? two
+
+Tom picked up the apple.
+Tom picked up the hat.
+Tom picked up the book.
+Tom dropped the book.
+Tom picked up the milk.
+How many objects is Tom holding? three
+
+Mary picked up the bottle.
+Mary picked up the hat.
+How many objects is Mary holding? two
+
+Lucy picked up the box.
+Lucy dropped the box.
+Lucy picked up the bottle.
+How many objects is Lucy holding? one
+
+Nina picked up the key.
+Nina picked up the bag.
+How many objects is Nina holding? two
+
+Bill picked up the bag.
+Bill picked up the pen.
+Bill dropped the bag.
+How many objects is Bill holding? one
+
+Bill picked up the key.
+Bill dropped the key.
+How many objects is Bill holding? none
+
+Rick picked up the cup.
+Rick picked up the ball.
+Rick dropped the cup.
+Rick dropped the ball.
+Rick picked up the shoe.
+Rick dropped the shoe.
+How many objects is Rick holding? none
+
+Rick picked up the ball.
+Rick dropped the ball.
+Rick picked up the shoe.
+How many objects is Rick holding? one
+
+Sandra picked up the cup.
+Sandra picked up the bottle.
+Sandra picked up the key.
+Sandra picked up the ball.
+How many objects is Sandra holding? four
+
+Peter picked up the key.
+Peter picked up the bottle.
+Peter picked up the shoe.
+Peter picked up the milk.
+Peter dropped the milk.
+Peter picked up the book.
+How many objects is Peter holding? four
+
+Nina picked up the pen.
+Nina picked up the milk.
+Nina picked up the ball.
+Nina picked up the shoe.
+How many objects is Nina holding? four
+
+Rick picked up the box.
+Rick dropped the box.
+Rick picked up the key.
+Rick picked up the apple.
+Rick picked up the box.
+Rick picked up the ball.
+How many objects is Rick holding? four
+
+David picked up the ball.
+David picked up the pen.
+David picked up the box.
+David dropped the ball.
+How many objects is David holding? two
+
+Tom picked up the bag.
+Tom dropped the bag.
+Tom picked up the apple.
+How many objects is Tom holding? one
+
+Nina picked up the hat.
+Nina picked up the apple.
+Nina picked up the ball.
+Nina picked up the box.
+How many objects is Nina holding? four
+
+David picked up the apple.
+David picked up the ball.
+David picked up the cup.
+David picked up the pen.
+David dropped the ball.
+How many objects is David holding? three
+
+Susan picked up the bag.
+Susan picked up the bottle.
+Susan picked up the book.
+Susan dropped the bottle.
+Susan picked up the bottle.
+How many objects is Susan holding? three
+
+Tom picked up the apple.
+Tom dropped the apple.
+How many objects is Tom holding? none
+
+Daniel picked up the shoe.
+Daniel picked up the pen.
+Daniel picked up the book.
+How many objects is Daniel holding? three
+
+Bill picked up the ball.
+Bill picked up the pen.
+Bill picked up the shoe.
+How many objects is Bill holding? three
+
+Peter picked up the bag.
+Peter picked up the book.
+How many objects is Peter holding? two
+
+Kate picked up the bottle.
+Kate picked up the book.
+Kate picked up the bag.
+Kate picked up the apple.
+Kate dropped the book.
+How many objects is Kate holding? three
+
+John picked up the cup.
+John picked up the apple.
+John picked up the bag.
+John dropped the apple.
+How many objects is John holding? two
+
+Frank picked up the bag.
+Frank picked up the book.
+How many objects is Frank holding? two
+
+Sandra picked up the milk.
+Sandra picked up the apple.
+Sandra dropped the apple.
+How many objects is Sandra holding? one
+
+Sandra picked up the book.
+Sandra dropped the book.
+How many objects is Sandra holding? none
+
+Peter picked up the bottle.
+Peter picked up the bag.
+Peter dropped the bottle.
+Peter dropped the bag.
+Peter picked up the hat.
+Peter picked up the ball.
+How many objects is Peter holding? two
+
+David picked up the box.
+David picked up the book.
+David picked up the shoe.
+David dropped the box.
+How many objects is David holding? two
+
+Alice picked up the shoe.
+Alice picked up the hat.
+How many objects is Alice holding? two
+
+Peter picked up the hat.
+Peter dropped the hat.
+Peter picked up the key.
+Peter picked up the pen.
+How many objects is Peter holding? two
+
+David picked up the book.
+David dropped the book.
+David picked up the book.
+David dropped the book.
+David picked up the pen.
+David dropped the pen.
+How many objects is David holding? none
+
+Sam picked up the milk.
+Sam picked up the book.
+Sam dropped the book.
+Sam picked up the shoe.
+Sam dropped the milk.
+How many objects is Sam holding? one
+
+Rick picked up the book.
+Rick dropped the book.
+Rick picked up the apple.
+Rick dropped the apple.
+Rick picked up the cup.
+How many objects is Rick holding? one
+
+Sandra picked up the ball.
+Sandra dropped the ball.
+Sandra picked up the box.
+Sandra picked up the key.
+Sandra dropped the key.
+How many objects is Sandra holding? one
+
+John picked up the cup.
+John picked up the shoe.
+John dropped the cup.
+John picked up the box.
+How many objects is John holding? two
+
+Ann picked up the shoe.
+Ann dropped the shoe.
+Ann picked up the shoe.
+Ann picked up the key.
+How many objects is Ann holding? two
+
+Fred picked up the cup.
+Fred dropped the cup.
+Fred picked up the shoe.
+Fred dropped the shoe.
+How many objects is Fred holding? none
+
+Sandra picked up the pen.
+Sandra picked up the milk.
+How many objects is Sandra holding? two
+
+Sam picked up the ball.
+Sam dropped the ball.
+How many objects is Sam holding? none
+
+Daniel picked up the hat.
+Daniel picked up the pen.
+Daniel dropped the pen.
+Daniel dropped the hat.
+How many objects is Daniel holding? none
+
+David picked up the key.
+David picked up the ball.
+David dropped the ball.
+David picked up the apple.
+David dropped the apple.
+How many objects is David holding? one
+
+Susan picked up the cup.
+Susan picked up the book.
+Susan dropped the cup.
+How many objects is Susan holding? one
+
+John picked up the bag.
+John dropped the bag.
+John picked up the cup.
+John dropped the cup.
+John picked up the milk.
+How many objects is John holding? one
+
+Fred picked up the shoe.
+Fred dropped the shoe.
+Fred picked up the apple.
+Fred dropped the apple.
+How many objects is Fred holding? none
+
+Tom picked up the cup.
+Tom dropped the cup.
+How many objects is Tom holding? none
+
+Fred picked up the box.
+Fred picked up the ball.
+Fred dropped the ball.
+How many objects is Fred holding? one
+
+Kate picked up the bag.
+Kate dropped the bag.
+Kate picked up the hat.
+Kate dropped the hat.
+Kate picked up the pen.
+How many objects is Kate holding? one
+
+Sandra picked up the bottle.
+Sandra picked up the cup.
+Sandra picked up the book.
+Sandra picked up the bag.
+Sandra picked up the pen.
+Sandra dropped the pen.
+How many objects is Sandra holding? four
+
+Bob picked up the milk.
+Bob dropped the milk.
+Bob picked up the bag.
+Bob picked up the shoe.
+Bob picked up the ball.
+Bob dropped the shoe.
+How many objects is Bob holding? two
+
+David picked up the bottle.
+David dropped the bottle.
+David picked up the pen.
+David picked up the key.
+How many objects is David holding? two
+
+John picked up the apple.
+John picked up the cup.
+John dropped the cup.
+John picked up the box.
+John picked up the hat.
+John picked up the bag.
+How many objects is John holding? four
+
+Daniel picked up the cup.
+Daniel picked up the key.
+How many objects is Daniel holding? two
+
+Kate picked up the hat.
+Kate dropped the hat.
+Kate picked up the bottle.
+Kate dropped the bottle.
+Kate picked up the pen.
+How many objects is Kate holding? one
+
+Fred picked up the ball.
+Fred picked up the pen.
+Fred picked up the cup.
+Fred picked up the bottle.
+How many objects is Fred holding? four
+
+Daniel picked up the bag.
+Daniel picked up the apple.
+Daniel dropped the bag.
+How many objects is Daniel holding? one
+
+Nina picked up the apple.
+Nina dropped the apple.
+Nina picked up the key.
+Nina dropped the key.
+Nina picked up the bottle.
+How many objects is Nina holding? one
+
+Sam picked up the pen.
+Sam picked up the hat.
+How many objects is Sam holding? two
+
+Kate picked up the box.
+Kate picked up the bag.
+Kate picked up the book.
+Kate picked up the key.
+How many objects is Kate holding? four
+
+Sam picked up the hat.
+Sam dropped the hat.
+Sam picked up the shoe.
+Sam picked up the milk.
+How many objects is Sam holding? two
+
+Bill picked up the ball.
+Bill picked up the key.
+Bill dropped the ball.
+How many objects is Bill holding? one
+
+Ann picked up the cup.
+Ann picked up the shoe.
+How many objects is Ann holding? two
+
+John picked up the pen.
+John dropped the pen.
+John picked up the apple.
+John picked up the pen.
+John picked up the book.
+John dropped the apple.
+How many objects is John holding? two
+
+Ann picked up the key.
+Ann picked up the pen.
+Ann dropped the key.
+Ann picked up the milk.
+Ann picked up the apple.
+How many objects is Ann holding? three
+
+Lucy picked up the cup.
+Lucy picked up the milk.
+Lucy picked up the book.
+Lucy dropped the book.
+How many objects is Lucy holding? two
+
+Fred picked up the ball.
+Fred dropped the ball.
+Fred picked up the box.
+How many objects is Fred holding? one
+
+David picked up the key.
+David picked up the bottle.
+How many objects is David holding? two
+
+Rick picked up the bag.
+Rick picked up the ball.
+Rick dropped the ball.
+Rick dropped the bag.
+How many objects is Rick holding? none
+
+Kate picked up the hat.
+Kate dropped the hat.
+How many objects is Kate holding? none
+
+Nina picked up the book.
+Nina picked up the key.
+How many objects is Nina holding? two
+
+Sandra picked up the milk.
+Sandra dropped the milk.
+Sandra picked up the cup.
+Sandra picked up the bottle.
+Sandra dropped the bottle.
+How many objects is Sandra holding? one
+
+Frank picked up the book.
+Frank dropped the book.
+Frank picked up the cup.
+How many objects is Frank holding? one
+
+Sandra picked up the bag.
+Sandra dropped the bag.
+Sandra picked up the book.
+Sandra picked up the pen.
+Sandra dropped the pen.
+Sandra picked up the key.
+How many objects is Sandra holding? two
+
+Rick picked up the bag.
+Rick dropped the bag.
+Rick picked up the bag.
+Rick dropped the bag.
+Rick picked up the key.
+How many objects is Rick holding? one
+
+Bill picked up the pen.
+Bill picked up the key.
+Bill picked up the box.
+Bill picked up the apple.
+Bill picked up the bag.
+Bill dropped the key.
+How many objects is Bill holding? four
+
+Peter picked up the cup.
+Peter picked up the pen.
+Peter picked up the milk.
+Peter dropped the pen.
+How many objects is Peter holding? two
+
+Lucy picked up the bag.
+Lucy picked up the box.
+How many objects is Lucy holding? two
+
+Peter picked up the apple.
+Peter dropped the apple.
+Peter picked up the bottle.
+Peter picked up the key.
+How many objects is Peter holding? two
+
+Bob picked up the milk.
+Bob dropped the milk.
+Bob picked up the key.
+Bob dropped the key.
+Bob picked up the bottle.
+How many objects is Bob holding? one
+
+Fred picked up the box.
+Fred dropped the box.
+Fred picked up the pen.
+Fred picked up the book.
+How many objects is Fred holding? two
+
+Ann picked up the pen.
+Ann picked up the shoe.
+Ann dropped the pen.
+Ann dropped the shoe.
+How many objects is Ann holding? none
+
+Eve picked up the milk.
+Eve picked up the box.
+Eve picked up the bottle.
+Eve picked up the bag.
+Eve dropped the box.
+How many objects is Eve holding? three
+
+Rick picked up the pen.
+Rick picked up the shoe.
+Rick picked up the key.
+Rick picked up the cup.
+Rick dropped the key.
+How many objects is Rick holding? three
+
+Kate picked up the book.
+Kate picked up the hat.
+Kate picked up the bottle.
+Kate dropped the bottle.
+Kate picked up the bag.
+Kate picked up the pen.
+How many objects is Kate holding? four
+
+Nina picked up the apple.
+Nina dropped the apple.
+Nina picked up the milk.
+How many objects is Nina holding? one
+
+Kate picked up the box.
+Kate picked up the shoe.
+How many objects is Kate holding? two
+
+Lucy picked up the apple.
+Lucy picked up the bottle.
+Lucy dropped the bottle.
+Lucy picked up the hat.
+How many objects is Lucy holding? two
+
+Susan picked up the apple.
+Susan dropped the apple.
+Susan picked up the milk.
+Susan picked up the shoe.
+Susan dropped the milk.
+How many objects is Susan holding? one
+
+David picked up the ball.
+David picked up the cup.
+David dropped the cup.
+How many objects is David holding? one
+
+Alice picked up the shoe.
+Alice dropped the shoe.
+Alice picked up the milk.
+Alice picked up the shoe.
+Alice dropped the shoe.
+How many objects is Alice holding? one
+
+Tom picked up the key.
+Tom picked up the apple.
+Tom picked up the hat.
+How many objects is Tom holding? three
+
+Bob picked up the bag.
+Bob picked up the apple.
+Bob dropped the bag.
+How many objects is Bob holding? one
+
+David picked up the apple.
+David dropped the apple.
+David picked up the shoe.
+David picked up the key.
+David picked up the box.
+How many objects is David holding? three
+
+Tom picked up the ball.
+Tom dropped the ball.
+How many objects is Tom holding? none
+
+Lucy picked up the shoe.
+Lucy picked up the ball.
+Lucy picked up the apple.
+Lucy picked up the bottle.
+How many objects is Lucy holding? four
+
+Fred picked up the bag.
+Fred picked up the milk.
+How many objects is Fred holding? two
+
+David picked up the apple.
+David picked up the hat.
+David dropped the apple.
+David picked up the cup.
+David picked up the pen.
+David picked up the key.
+How many objects is David holding? four
+
+Rick picked up the shoe.
+Rick picked up the pen.
+How many objects is Rick holding? two
+
+Peter picked up the book.
+Peter picked up the hat.
+How many objects is Peter holding? two
+
+Eve picked up the book.
+Eve picked up the hat.
+How many objects is Eve holding? two
+
+Eve picked up the milk.
+Eve dropped the milk.
+How many objects is Eve holding? none
+
+Sandra picked up the bag.
+Sandra picked up the book.
+How many objects is Sandra holding? two
+
+Mary picked up the box.
+Mary dropped the box.
+Mary picked up the book.
+How many objects is Mary holding? one
+
+Ann picked up the box.
+Ann picked up the ball.
+Ann dropped the ball.
+Ann picked up the key.
+Ann picked up the pen.
+How many objects is Ann holding? three
+
+Rick picked up the pen.
+Rick dropped the pen.
+Rick picked up the apple.
+Rick picked up the bag.
+Rick picked up the book.
+How many objects is Rick holding? three
+
+Susan picked up the shoe.
+Susan picked up the apple.
+Susan dropped the shoe.
+Susan dropped the apple.
+How many objects is Susan holding? none
+
+Nina picked up the key.
+Nina picked up the ball.
+Nina picked up the milk.
+How many objects is Nina holding? three
+
+Fred picked up the milk.
+Fred picked up the shoe.
+How many objects is Fred holding? two
+
+Eve picked up the bottle.
+Eve dropped the bottle.
+Eve picked up the milk.
+How many objects is Eve holding? one
+
+Sandra picked up the box.
+Sandra picked up the pen.
+Sandra picked up the book.
+Sandra dropped the book.
+Sandra picked up the hat.
+How many objects is Sandra holding? three
+
+Peter picked up the apple.
+Peter dropped the apple.
+How many objects is Peter holding? none
+
+Ann picked up the book.
+Ann picked up the hat.
+Ann picked up the shoe.
+How many objects is Ann holding? three
+
+Eve picked up the shoe.
+Eve dropped the shoe.
+Eve picked up the bottle.
+Eve dropped the bottle.
+Eve picked up the box.
+How many objects is Eve holding? one
+
+Kate picked up the bag.
+Kate dropped the bag.
+Kate picked up the shoe.
+Kate picked up the key.
+How many objects is Kate holding? two
+
+Alice picked up the shoe.
+Alice dropped the shoe.
+Alice picked up the key.
+Alice picked up the hat.
+Alice picked up the milk.
+How many objects is Alice holding? three
+
+Tom picked up the box.
+Tom dropped the box.
+Tom picked up the cup.
+Tom dropped the cup.
+Tom picked up the box.
+How many objects is Tom holding? one
+
+Alice picked up the bottle.
+Alice dropped the bottle.
+How many objects is Alice holding? none
+
+Nina picked up the bag.
+Nina picked up the cup.
+Nina dropped the bag.
+Nina picked up the box.
+Nina dropped the box.
+Nina dropped the cup.
+How many objects is Nina holding? none
+
+Alice picked up the milk.
+Alice dropped the milk.
+Alice picked up the pen.
+Alice dropped the pen.
+Alice picked up the book.
+How many objects is Alice holding? one
+
+Sam picked up the book.
+Sam picked up the pen.
+Sam dropped the pen.
+How many objects is Sam holding? one
+
+Sam picked up the ball.
+Sam dropped the ball.
+Sam picked up the bottle.
+Sam picked up the key.
+Sam picked up the book.
+How many objects is Sam holding? three
+
+John picked up the hat.
+John dropped the hat.
+How many objects is John holding? none
+
+Fred picked up the key.
+Fred picked up the pen.
+How many objects is Fred holding? two
+
+Ann picked up the box.
+Ann picked up the pen.
+Ann picked up the key.
+How many objects is Ann holding? three
+
+Sandra picked up the key.
+Sandra picked up the pen.
+How many objects is Sandra holding? two
+
+Frank picked up the shoe.
+Frank picked up the pen.
+Frank picked up the milk.
+Frank dropped the pen.
+Frank picked up the apple.
+How many objects is Frank holding? three
+
+Sandra picked up the apple.
+Sandra picked up the pen.
+How many objects is Sandra holding? two
+
+David picked up the hat.
+David dropped the hat.
+David picked up the bag.
+David picked up the milk.
+David picked up the hat.
+David picked up the ball.
+How many objects is David holding? four
+
+Ann picked up the hat.
+Ann dropped the hat.
+Ann picked up the hat.
+How many objects is Ann holding? one
+
+Peter picked up the key.
+Peter picked up the hat.
+Peter picked up the shoe.
+Peter dropped the hat.
+Peter picked up the apple.
+How many objects is Peter holding? three
+
+David picked up the pen.
+David picked up the ball.
+David dropped the pen.
+David picked up the bottle.
+David picked up the key.
+David dropped the bottle.
+How many objects is David holding? two
+
+Susan picked up the hat.
+Susan picked up the book.
+How many objects is Susan holding? two
+
+Daniel picked up the book.
+Daniel dropped the book.
+Daniel picked up the bag.
+Daniel dropped the bag.
+How many objects is Daniel holding? none
+
+John picked up the pen.
+John dropped the pen.
+John picked up the book.
+John picked up the key.
+John picked up the box.
+How many objects is John holding? three
+
+David picked up the key.
+David picked up the milk.
+David dropped the key.
+David dropped the milk.
+David picked up the milk.
+David dropped the milk.
+How many objects is David holding? none
+
+Alice picked up the key.
+Alice dropped the key.
+Alice picked up the box.
+Alice picked up the bottle.
+Alice picked up the ball.
+How many objects is Alice holding? three
+
+Mary picked up the hat.
+Mary picked up the milk.
+Mary dropped the hat.
+How many objects is Mary holding? one
+
+Lucy picked up the pen.
+Lucy picked up the ball.
+Lucy picked up the milk.
+Lucy picked up the shoe.
+Lucy dropped the shoe.
+How many objects is Lucy holding? three
+
+Mary picked up the bottle.
+Mary dropped the bottle.
+Mary picked up the milk.
+Mary picked up the book.
+Mary dropped the milk.
+How many objects is Mary holding? one
+
+John picked up the bottle.
+John picked up the shoe.
+John dropped the bottle.
+How many objects is John holding? one
+
+Ann picked up the bag.
+Ann dropped the bag.
+How many objects is Ann holding? none
+
+Susan picked up the shoe.
+Susan dropped the shoe.
+Susan picked up the bottle.
+Susan picked up the cup.
+How many objects is Susan holding? two
+
+Bill picked up the ball.
+Bill dropped the ball.
+Bill picked up the ball.
+Bill picked up the bottle.
+Bill picked up the pen.
+How many objects is Bill holding? three
+
+Frank picked up the box.
+Frank picked up the book.
+Frank picked up the cup.
+Frank dropped the book.
+Frank picked up the shoe.
+Frank dropped the cup.
+How many objects is Frank holding? two
+
+Bob picked up the apple.
+Bob picked up the hat.
+Bob dropped the apple.
+Bob picked up the bag.
+Bob picked up the box.
+Bob dropped the box.
+How many objects is Bob holding? two
+
+Sandra picked up the book.
+Sandra picked up the box.
+Sandra picked up the bottle.
+How many objects is Sandra holding? three
+
+Lucy picked up the milk.
+Lucy picked up the bag.
+Lucy dropped the bag.
+Lucy picked up the apple.
+How many objects is Lucy holding? two
+
+Daniel picked up the book.
+Daniel dropped the book.
+Daniel picked up the ball.
+How many objects is Daniel holding? one
+
+Peter picked up the bag.
+Peter picked up the pen.
+How many objects is Peter holding? two
+
+Tom picked up the box.
+Tom picked up the milk.
+Tom picked up the bottle.
+Tom dropped the milk.
+How many objects is Tom holding? two
+
+Nina picked up the bottle.
+Nina picked up the book.
+Nina picked up the bag.
+Nina dropped the bag.
+Nina picked up the hat.
+Nina picked up the cup.
+How many objects is Nina holding? four
+
+Frank picked up the shoe.
+Frank picked up the key.
+Frank picked up the bottle.
+Frank dropped the bottle.
+Frank dropped the key.
+Frank picked up the hat.
+How many objects is Frank holding? two
+
+Eve picked up the ball.
+Eve picked up the shoe.
+Eve picked up the milk.
+Eve picked up the key.
+Eve dropped the shoe.
+How many objects is Eve holding? three
+
+Lucy picked up the bottle.
+Lucy picked up the bag.
+Lucy picked up the box.
+How many objects is Lucy holding? three
+
+Daniel picked up the bag.
+Daniel picked up the book.
+Daniel dropped the bag.
+Daniel picked up the ball.
+Daniel dropped the ball.
+How many objects is Daniel holding? one
+
+Tom picked up the shoe.
+Tom picked up the box.
+Tom dropped the shoe.
+Tom picked up the bottle.
+Tom picked up the hat.
+Tom dropped the box.
+How many objects is Tom holding? two
+
+Lucy picked up the bag.
+Lucy picked up the apple.
+Lucy dropped the bag.
+How many objects is Lucy holding? one
+
+Alice picked up the apple.
+Alice picked up the cup.
+How many objects is Alice holding? two
+
+Alice picked up the cup.
+Alice dropped the cup.
+Alice picked up the ball.
+Alice dropped the ball.
+Alice picked up the ball.
+How many objects is Alice holding? one
+
+Sandra picked up the box.
+Sandra picked up the apple.
+Sandra dropped the box.
+Sandra picked up the book.
+How many objects is Sandra holding? two
+
+Lucy picked up the milk.
+Lucy picked up the shoe.
+How many objects is Lucy holding? two
+
+Daniel picked up the book.
+Daniel picked up the bottle.
+Daniel dropped the book.
+How many objects is Daniel holding? one
+
+Daniel picked up the ball.
+Daniel dropped the ball.
+Daniel picked up the pen.
+Daniel dropped the pen.
+How many objects is Daniel holding? none
+
+Sam picked up the ball.
+Sam dropped the ball.
+Sam picked up the box.
+How many objects is Sam holding? one
+
+Frank picked up the box.
+Frank picked up the pen.
+Frank picked up the apple.
+How many objects is Frank holding? three
+
+Daniel picked up the pen.
+Daniel dropped the pen.
+How many objects is Daniel holding? none
+
+Tom picked up the shoe.
+Tom picked up the bag.
+Tom picked up the book.
+Tom dropped the shoe.
+Tom dropped the bag.
+Tom picked up the milk.
+How many objects is Tom holding? two
+
+Peter picked up the bag.
+Peter picked up the shoe.
+Peter picked up the key.
+Peter picked up the apple.
+Peter dropped the key.
+Peter picked up the pen.
+How many objects is Peter holding? four
+
+Alice picked up the bag.
+Alice picked up the book.
+Alice picked up the key.
+Alice dropped the bag.
+Alice picked up the apple.
+How many objects is Alice holding? three
+
+Mary picked up the bag.
+Mary picked up the cup.
+Mary picked up the book.
+Mary picked up the key.
+How many objects is Mary holding? four
+
+Alice picked up the hat.
+Alice picked up the milk.
+Alice picked up the apple.
+Alice picked up the ball.
+Alice dropped the ball.
+Alice dropped the hat.
+How many objects is Alice holding? two
+
+Sam picked up the apple.
+Sam picked up the bottle.
+How many objects is Sam holding? two
+
+Daniel picked up the bottle.
+Daniel picked up the shoe.
+Daniel dropped the bottle.
+Daniel dropped the shoe.
+Daniel picked up the apple.
+How many objects is Daniel holding? one
+
+David picked up the cup.
+David dropped the cup.
+David picked up the ball.
+David picked up the milk.
+David picked up the pen.
+How many objects is David holding? three
+
+Susan picked up the book.
+Susan picked up the box.
+Susan dropped the box.
+How many objects is Susan holding? one
+
+Fred picked up the apple.
+Fred picked up the box.
+Fred picked up the shoe.
+Fred picked up the pen.
+How many objects is Fred holding? four
+
+Alice picked up the ball.
+Alice picked up the pen.
+Alice dropped the ball.
+Alice picked up the cup.
+Alice picked up the bag.
+How many objects is Alice holding? three
+
+Mary picked up the pen.
+Mary dropped the pen.
+How many objects is Mary holding? none
+
+Eve picked up the box.
+Eve dropped the box.
+How many objects is Eve holding? none
+
+Peter picked up the apple.
+Peter picked up the pen.
+Peter dropped the apple.
+Peter picked up the ball.
+Peter picked up the key.
+Peter dropped the ball.
+How many objects is Peter holding? two
+
+Lucy picked up the bag.
+Lucy picked up the key.
+Lucy picked up the bottle.
+Lucy picked up the book.
+How many objects is Lucy holding? four
+
+Peter picked up the pen.
+Peter picked up the bottle.
+Peter dropped the pen.
+Peter picked up the bag.
+Peter dropped the bottle.
+How many objects is Peter holding? one
+
+Ann picked up the bag.
+Ann picked up the ball.
+Ann picked up the book.
+Ann picked up the shoe.
+Ann dropped the ball.
+How many objects is Ann holding? three
+
+Lucy picked up the hat.
+Lucy picked up the bottle.
+Lucy picked up the key.
+Lucy picked up the shoe.
+Lucy picked up the apple.
+Lucy dropped the bottle.
+How many objects is Lucy holding? four
+
+Fred picked up the milk.
+Fred dropped the milk.
+Fred picked up the box.
+How many objects is Fred holding? one
+
+Frank picked up the ball.
+Frank picked up the apple.
+Frank dropped the apple.
+Frank picked up the hat.
+Frank dropped the hat.
+How many objects is Frank holding? one
+
+Susan picked up the cup.
+Susan picked up the pen.
+Susan dropped the pen.
+Susan picked up the box.
+Susan picked up the key.
+Susan picked up the milk.
+How many objects is Susan holding? four
+
+Sandra picked up the shoe.
+Sandra dropped the shoe.
+Sandra picked up the hat.
+How many objects is Sandra holding? one
+
+David picked up the box.
+David dropped the box.
+David picked up the key.
+How many objects is David holding? one
+
+Susan picked up the ball.
+Susan picked up the key.
+How many objects is Susan holding? two
+
+Bob picked up the apple.
+Bob picked up the book.
+Bob dropped the book.
+How many objects is Bob holding? one
+
+Rick picked up the apple.
+Rick picked up the hat.
+Rick picked up the box.
+Rick picked up the bag.
+Rick picked up the bottle.
+Rick dropped the bag.
+How many objects is Rick holding? four
+
+Susan picked up the book.
+Susan dropped the book.
+Susan picked up the book.
+Susan picked up the shoe.
+Susan picked up the bag.
+How many objects is Susan holding? three
+
+Frank picked up the box.
+Frank picked up the shoe.
+How many objects is Frank holding? two
+
+Sandra picked up the shoe.
+Sandra picked up the cup.
+How many objects is Sandra holding? two
+
+Susan picked up the bag.
+Susan dropped the bag.
+Susan picked up the bottle.
+Susan dropped the bottle.
+How many objects is Susan holding? none
+
+Tom picked up the bottle.
+Tom picked up the cup.
+Tom dropped the cup.
+Tom dropped the bottle.
+How many objects is Tom holding? none
+
+Eve picked up the bottle.
+Eve picked up the cup.
+How many objects is Eve holding? two
+
+Ann picked up the pen.
+Ann picked up the bottle.
+Ann picked up the apple.
+Ann picked up the milk.
+How many objects is Ann holding? four
+
+Frank picked up the pen.
+Frank picked up the bottle.
+Frank dropped the bottle.
+Frank dropped the pen.
+Frank picked up the ball.
+Frank dropped the ball.
+How many objects is Frank holding? none
+
+Tom picked up the bottle.
+Tom picked up the bag.
+How many objects is Tom holding? two
+
+Susan picked up the box.
+Susan dropped the box.
+Susan picked up the book.
+Susan picked up the hat.
+Susan picked up the shoe.
+Susan dropped the shoe.
+How many objects is Susan holding? two
+
+Tom picked up the shoe.
+Tom picked up the key.
+How many objects is Tom holding? two
+
+Kate picked up the key.
+Kate picked up the pen.
+Kate dropped the key.
+Kate dropped the pen.
+How many objects is Kate holding? none
+
+Eve picked up the apple.
+Eve picked up the key.
+Eve dropped the apple.
+Eve picked up the pen.
+Eve dropped the key.
+Eve picked up the milk.
+How many objects is Eve holding? two
+
+Nina picked up the bottle.
+Nina dropped the bottle.
+How many objects is Nina holding? none
+
+Eve picked up the key.
+Eve picked up the milk.
+Eve picked up the shoe.
+Eve picked up the cup.
+How many objects is Eve holding? four
+
+Sam picked up the apple.
+Sam picked up the bottle.
+Sam dropped the apple.
+Sam dropped the bottle.
+Sam picked up the milk.
+Sam picked up the bottle.
+How many objects is Sam holding? two
+
+Daniel picked up the pen.
+Daniel dropped the pen.
+Daniel picked up the shoe.
+Daniel dropped the shoe.
+How many objects is Daniel holding? none
+
+Fred picked up the book.
+Fred picked up the bottle.
+How many objects is Fred holding? two
+
+Alice picked up the apple.
+Alice picked up the hat.
+How many objects is Alice holding? two
+
+Daniel picked up the apple.
+Daniel dropped the apple.
+Daniel picked up the shoe.
+How many objects is Daniel holding? one
+
+Tom picked up the bag.
+Tom picked up the ball.
+Tom picked up the box.
+How many objects is Tom holding? three
+
+Sam picked up the pen.
+Sam picked up the milk.
+How many objects is Sam holding? two
+
+Peter picked up the bag.
+Peter picked up the hat.
+Peter dropped the hat.
+Peter dropped the bag.
+Peter picked up the cup.
+How many objects is Peter holding? one
+
+John picked up the box.
+John dropped the box.
+How many objects is John holding? none
+
+Sam picked up the bag.
+Sam dropped the bag.
+Sam picked up the cup.
+Sam picked up the milk.
+How many objects is Sam holding? two
+
+Eve picked up the book.
+Eve dropped the book.
+Eve picked up the cup.
+Eve picked up the book.
+Eve dropped the book.
+How many objects is Eve holding? one
+
+John picked up the shoe.
+John picked up the key.
+How many objects is John holding? two
+
+Sandra picked up the bag.
+Sandra dropped the bag.
+Sandra picked up the book.
+Sandra picked up the milk.
+Sandra picked up the apple.
+How many objects is Sandra holding? three
+
+Ann picked up the milk.
+Ann dropped the milk.
+Ann picked up the ball.
+How many objects is Ann holding? one
+
+Frank picked up the bottle.
+Frank picked up the hat.
+Frank dropped the bottle.
+Frank picked up the book.
+Frank dropped the book.
+Frank picked up the apple.
+How many objects is Frank holding? two
+
+Eve picked up the book.
+Eve picked up the ball.
+Eve picked up the box.
+Eve dropped the ball.
+Eve picked up the shoe.
+How many objects is Eve holding? three
+
+John picked up the ball.
+John picked up the apple.
+John picked up the hat.
+John dropped the hat.
+John dropped the ball.
+John picked up the cup.
+How many objects is John holding? two
+
+Nina picked up the bag.
+Nina picked up the ball.
+How many objects is Nina holding? two
+
+David picked up the bottle.
+David picked up the milk.
+David picked up the bag.
+David dropped the bag.
+David picked up the ball.
+How many objects is David holding? three
+
+Nina picked up the hat.
+Nina picked up the box.
+Nina dropped the hat.
+How many objects is Nina holding? one
+
+Fred picked up the key.
+Fred picked up the box.
+Fred picked up the apple.
+Fred dropped the box.
+Fred picked up the book.
+Fred picked up the bottle.
+How many objects is Fred holding? four
+
+David picked up the box.
+David picked up the key.
+How many objects is David holding? two
+
+Ann picked up the milk.
+Ann picked up the bag.
+How many objects is Ann holding? two
+
+Sam picked up the apple.
+Sam picked up the key.
+Sam dropped the key.
+Sam picked up the book.
+How many objects is Sam holding? two
+
+Rick picked up the milk.
+Rick dropped the milk.
+Rick picked up the ball.
+How many objects is Rick holding? one
+
+Rick picked up the apple.
+Rick picked up the box.
+Rick picked up the key.
+Rick picked up the hat.
+How many objects is Rick holding? four
+
+Eve picked up the apple.
+Eve picked up the cup.
+How many objects is Eve holding? two
+
+Nina picked up the box.
+Nina picked up the cup.
+Nina dropped the cup.
+Nina picked up the cup.
+Nina dropped the cup.
+Nina dropped the box.
+How many objects is Nina holding? none
+
+Ann picked up the milk.
+Ann picked up the apple.
+How many objects is Ann holding? two
+
+Rick picked up the milk.
+Rick dropped the milk.
+Rick picked up the key.
+How many objects is Rick holding? one
+
+Bob picked up the cup.
+Bob dropped the cup.
+Bob picked up the shoe.
+Bob dropped the shoe.
+Bob picked up the box.
+Bob picked up the ball.
+How many objects is Bob holding? two
+
+Daniel picked up the box.
+Daniel dropped the box.
+Daniel picked up the milk.
+Daniel picked up the cup.
+Daniel picked up the ball.
+How many objects is Daniel holding? three
+
+Alice picked up the cup.
+Alice picked up the pen.
+Alice dropped the pen.
+How many objects is Alice holding? one
+
+Lucy picked up the hat.
+Lucy picked up the cup.
+Lucy picked up the milk.
+Lucy picked up the shoe.
+Lucy dropped the hat.
+How many objects is Lucy holding? three
+
+Rick picked up the milk.
+Rick picked up the hat.
+Rick dropped the milk.
+Rick picked up the shoe.
+Rick picked up the book.
+Rick picked up the bottle.
+How many objects is Rick holding? four
+
+Daniel picked up the cup.
+Daniel dropped the cup.
+Daniel picked up the bag.
+Daniel picked up the bottle.
+Daniel picked up the hat.
+How many objects is Daniel holding? three
+
+Rick picked up the apple.
+Rick dropped the apple.
+Rick picked up the pen.
+Rick dropped the pen.
+Rick picked up the key.
+How many objects is Rick holding? one
+
+Fred picked up the ball.
+Fred picked up the milk.
+How many objects is Fred holding? two
+
+Mary picked up the bottle.
+Mary picked up the bag.
+Mary picked up the book.
+Mary picked up the box.
+How many objects is Mary holding? four
+
+Tom picked up the ball.
+Tom picked up the box.
+How many objects is Tom holding? two
+
+Frank picked up the bag.
+Frank picked up the hat.
+Frank picked up the book.
+Frank dropped the book.
+Frank dropped the hat.
+How many objects is Frank holding? one
+
+Kate picked up the key.
+Kate picked up the apple.
+How many objects is Kate holding? two
+
+Tom picked up the key.
+Tom dropped the key.
+Tom picked up the bag.
+Tom picked up the milk.
+Tom picked up the cup.
+Tom picked up the apple.
+How many objects is Tom holding? four
+
+Frank picked up the hat.
+Frank picked up the box.
+Frank picked up the key.
+Frank dropped the box.
+Frank dropped the hat.
+Frank picked up the cup.
+How many objects is Frank holding? two
+
+Alice picked up the bottle.
+Alice picked up the book.
+Alice dropped the book.
+How many objects is Alice holding? one
+
+Bob picked up the key.
+Bob dropped the key.
+Bob picked up the bottle.
+Bob dropped the bottle.
+Bob picked up the shoe.
+How many objects is Bob holding? one
+
+Rick picked up the hat.
+Rick dropped the hat.
+Rick picked up the box.
+Rick picked up the milk.
+How many objects is Rick holding? two
+
+Fred picked up the milk.
+Fred dropped the milk.
+How many objects is Fred holding? none
+
+Peter picked up the key.
+Peter dropped the key.
+Peter picked up the cup.
+Peter picked up the box.
+Peter picked up the book.
+Peter picked up the bag.
+How many objects is Peter holding? four
+
+Bob picked up the apple.
+Bob picked up the ball.
+Bob picked up the pen.
+Bob picked up the bag.
+How many objects is Bob holding? four
+
+Susan picked up the shoe.
+Susan picked up the pen.
+How many objects is Susan holding? two
+
+Sam picked up the book.
+Sam picked up the cup.
+Sam picked up the bottle.
+Sam picked up the apple.
+Sam dropped the bottle.
+How many objects is Sam holding? three
+
+Lucy picked up the box.
+Lucy picked up the book.
+Lucy dropped the book.
+Lucy picked up the pen.
+Lucy picked up the key.
+How many objects is Lucy holding? three
+
+Peter picked up the cup.
+Peter picked up the book.
+Peter picked up the shoe.
+Peter picked up the apple.
+How many objects is Peter holding? four
+
+Sam picked up the key.
+Sam dropped the key.
+How many objects is Sam holding? none
+
+John picked up the hat.
+John picked up the cup.
+John picked up the bag.
+How many objects is John holding? three
+
+John picked up the bottle.
+John picked up the apple.
+John dropped the bottle.
+John dropped the apple.
+John picked up the box.
+John dropped the box.
+How many objects is John holding? none
+
+Rick picked up the ball.
+Rick dropped the ball.
+How many objects is Rick holding? none
+
+Eve picked up the pen.
+Eve picked up the shoe.
+Eve dropped the pen.
+How many objects is Eve holding? one
+
+David picked up the cup.
+David dropped the cup.
+David picked up the key.
+David dropped the key.
+David picked up the milk.
+David picked up the cup.
+How many objects is David holding? two
+
+Bill picked up the key.
+Bill picked up the ball.
+How many objects is Bill holding? two
+
+Eve picked up the bottle.
+Eve picked up the shoe.
+Eve dropped the bottle.
+Eve picked up the bottle.
+How many objects is Eve holding? two
+
+Lucy picked up the cup.
+Lucy picked up the box.
+Lucy picked up the bottle.
+Lucy dropped the cup.
+How many objects is Lucy holding? two
+
+John picked up the box.
+John picked up the bottle.
+John picked up the bag.
+How many objects is John holding? three
+
+Fred picked up the cup.
+Fred picked up the shoe.
+How many objects is Fred holding? two
+
+Kate picked up the hat.
+Kate picked up the milk.
+Kate picked up the shoe.
+Kate picked up the ball.
+Kate dropped the hat.
+Kate picked up the pen.
+How many objects is Kate holding? four
+
+Sam picked up the milk.
+Sam picked up the apple.
+Sam picked up the pen.
+Sam picked up the book.
+Sam dropped the pen.
+Sam picked up the bag.
+How many objects is Sam holding? four
+
+Peter picked up the milk.
+Peter dropped the milk.
+Peter picked up the bottle.
+Peter picked up the bag.
+Peter picked up the apple.
+Peter dropped the bottle.
+How many objects is Peter holding? two
+
+Peter picked up the milk.
+Peter picked up the cup.
+How many objects is Peter holding? two
+
+Alice picked up the cup.
+Alice picked up the milk.
+Alice picked up the box.
+Alice dropped the box.
+Alice picked up the shoe.
+How many objects is Alice holding? three
+
+Bill picked up the hat.
+Bill dropped the hat.
+Bill picked up the key.
+Bill picked up the hat.
+Bill picked up the ball.
+How many objects is Bill holding? three
+
+Nina picked up the cup.
+Nina picked up the bottle.
+How many objects is Nina holding? two
+
+Eve picked up the box.
+Eve picked up the key.
+How many objects is Eve holding? two
+
+Susan picked up the pen.
+Susan picked up the key.
+Susan picked up the cup.
+Susan picked up the bag.
+Susan picked up the book.
+Susan dropped the book.
+How many objects is Susan holding? four
+
+Ann picked up the milk.
+Ann dropped the milk.
+Ann picked up the apple.
+Ann dropped the apple.
+Ann picked up the pen.
+How many objects is Ann holding? one
+
+Peter picked up the book.
+Peter picked up the cup.
+How many objects is Peter holding? two
+
+Rick picked up the bag.
+Rick dropped the bag.
+How many objects is Rick holding? none
+
+Nina picked up the key.
+Nina picked up the apple.
+Nina dropped the key.
+Nina dropped the apple.
+Nina picked up the box.
+How many objects is Nina holding? one
+
+Fred picked up the milk.
+Fred picked up the shoe.
+Fred picked up the box.
+How many objects is Fred holding? three
+
+David picked up the milk.
+David picked up the ball.
+David picked up the hat.
+David picked up the box.
+David dropped the hat.
+How many objects is David holding? three
+
+Bill picked up the bottle.
+Bill picked up the ball.
+Bill dropped the bottle.
+Bill picked up the shoe.
+How many objects is Bill holding? two
+
+Susan picked up the bottle.
+Susan picked up the ball.
+How many objects is Susan holding? two
+
+Rick picked up the pen.
+Rick dropped the pen.
+Rick picked up the ball.
+How many objects is Rick holding? one
+
+Rick picked up the cup.
+Rick picked up the hat.
+How many objects is Rick holding? two
+
+Bill picked up the box.
+Bill picked up the apple.
+How many objects is Bill holding? two
+
+Tom picked up the box.
+Tom picked up the shoe.
+How many objects is Tom holding? two
+
+John picked up the shoe.
+John picked up the apple.
+How many objects is John holding? two
+
+Daniel picked up the box.
+Daniel picked up the hat.
+Daniel dropped the box.
+How many objects is Daniel holding? one
+
+Frank picked up the apple.
+Frank dropped the apple.
+Frank picked up the pen.
+Frank dropped the pen.
+Frank picked up the pen.
+Frank picked up the book.
+How many objects is Frank holding? two
+
+Nina picked up the cup.
+Nina dropped the cup.
+Nina picked up the key.
+Nina picked up the shoe.
+Nina dropped the shoe.
+How many objects is Nina holding? one
+
+Lucy picked up the box.
+Lucy picked up the milk.
+How many objects is Lucy holding? two
+
+Susan picked up the bag.
+Susan dropped the bag.
+Susan picked up the bag.
+How many objects is Susan holding? one
+
+Bill picked up the box.
+Bill picked up the cup.
+Bill dropped the box.
+How many objects is Bill holding? one
+
+Ann picked up the key.
+Ann dropped the key.
+How many objects is Ann holding? none
+
+Peter picked up the pen.
+Peter dropped the pen.
+How many objects is Peter holding? none
+
+David picked up the shoe.
+David picked up the milk.
+David dropped the milk.
+David picked up the hat.
+David picked up the bottle.
+How many objects is David holding? three
+
+Rick picked up the milk.
+Rick dropped the milk.
+Rick picked up the shoe.
+Rick dropped the shoe.
+How many objects is Rick holding? none
+
+John picked up the book.
+John picked up the milk.
+John dropped the book.
+John picked up the bottle.
+John picked up the box.
+John picked up the key.
+How many objects is John holding? four
+
+Rick picked up the hat.
+Rick dropped the hat.
+Rick picked up the apple.
+Rick picked up the shoe.
+Rick picked up the hat.
+Rick picked up the pen.
+How many objects is Rick holding? four
+
+Ann picked up the box.
+Ann dropped the box.
+How many objects is Ann holding? none
+
+Susan picked up the ball.
+Susan picked up the milk.
+Susan picked up the book.
+How many objects is Susan holding? three
+
+John picked up the bottle.
+John dropped the bottle.
+John picked up the bag.
+John picked up the hat.
+John picked up the shoe.
+How many objects is John holding? three
+
+Peter picked up the cup.
+Peter dropped the cup.
+Peter picked up the ball.
+Peter dropped the ball.
+Peter picked up the shoe.
+How many objects is Peter holding? one
+
+Kate picked up the apple.
+Kate picked up the ball.
+Kate dropped the ball.
+Kate picked up the key.
+Kate picked up the bottle.
+How many objects is Kate holding? three
+
+Peter picked up the box.
+Peter picked up the shoe.
+Peter picked up the milk.
+Peter picked up the bottle.
+How many objects is Peter holding? four
+
+Nina picked up the ball.
+Nina picked up the hat.
+Nina dropped the ball.
+Nina picked up the key.
+How many objects is Nina holding? two
+
+Bill picked up the bottle.
+Bill picked up the hat.
+Bill picked up the book.
+Bill picked up the ball.
+Bill picked up the milk.
+Bill dropped the hat.
+How many objects is Bill holding? four
+
+David picked up the box.
+David dropped the box.
+David picked up the pen.
+David picked up the key.
+David picked up the book.
+How many objects is David holding? three
+
+John picked up the pen.
+John picked up the shoe.
+John picked up the apple.
+John picked up the ball.
+John dropped the ball.
+How many objects is John holding? three
+
+Lucy picked up the bottle.
+Lucy dropped the bottle.
+Lucy picked up the cup.
+How many objects is Lucy holding? one
+
+Sandra picked up the hat.
+Sandra picked up the ball.
+Sandra picked up the cup.
+How many objects is Sandra holding? three
+
+Alice picked up the ball.
+Alice picked up the bottle.
+Alice picked up the hat.
+Alice picked up the apple.
+Alice dropped the bottle.
+Alice dropped the apple.
+How many objects is Alice holding? two
+
+Bill picked up the pen.
+Bill picked up the apple.
+Bill picked up the key.
+Bill picked up the milk.
+How many objects is Bill holding? four
+
+David picked up the bag.
+David dropped the bag.
+How many objects is David holding? none
+
+Eve picked up the shoe.
+Eve picked up the cup.
+Eve picked up the box.
+Eve dropped the shoe.
+Eve dropped the box.
+Eve dropped the cup.
+How many objects is Eve holding? none
+
+Ann picked up the pen.
+Ann dropped the pen.
+Ann picked up the box.
+Ann dropped the box.
+Ann picked up the bottle.
+How many objects is Ann holding? one
+
+Peter picked up the apple.
+Peter dropped the apple.
+Peter picked up the apple.
+Peter picked up the ball.
+Peter dropped the apple.
+Peter dropped the ball.
+How many objects is Peter holding? none
+
+David picked up the key.
+David picked up the pen.
+How many objects is David holding? two
+
+Lucy picked up the apple.
+Lucy dropped the apple.
+Lucy picked up the book.
+Lucy picked up the key.
+How many objects is Lucy holding? two
+
+Sandra picked up the apple.
+Sandra dropped the apple.
+Sandra picked up the milk.
+Sandra picked up the bag.
+Sandra picked up the pen.
+How many objects is Sandra holding? three
+
+Nina picked up the hat.
+Nina dropped the hat.
+Nina picked up the ball.
+Nina picked up the hat.
+How many objects is Nina holding? two
+
+Frank picked up the book.
+Frank picked up the bottle.
+Frank dropped the bottle.
+How many objects is Frank holding? one
+
+Rick picked up the bag.
+Rick picked up the milk.
+How many objects is Rick holding? two
+
+Lucy picked up the key.
+Lucy dropped the key.
+Lucy picked up the shoe.
+Lucy dropped the shoe.
+Lucy picked up the apple.
+How many objects is Lucy holding? one
+
+Sam picked up the bottle.
+Sam picked up the cup.
+Sam dropped the bottle.
+Sam picked up the milk.
+Sam picked up the hat.
+How many objects is Sam holding? three
+
+Ann picked up the bottle.
+Ann picked up the ball.
+Ann dropped the ball.
+Ann picked up the key.
+How many objects is Ann holding? two
+
+Alice picked up the ball.
+Alice dropped the ball.
+Alice picked up the box.
+Alice picked up the key.
+How many objects is Alice holding? two
+
+Peter picked up the cup.
+Peter dropped the cup.
+How many objects is Peter holding? none
+
+Ann picked up the key.
+Ann picked up the pen.
+How many objects is Ann holding? two
+
+Tom picked up the milk.
+Tom picked up the ball.
+How many objects is Tom holding? two
+
+Peter picked up the milk.
+Peter picked up the apple.
+Peter picked up the book.
+Peter dropped the milk.
+Peter picked up the bottle.
+How many objects is Peter holding? three
+
+Susan picked up the book.
+Susan picked up the bottle.
+Susan dropped the bottle.
+Susan picked up the shoe.
+Susan picked up the pen.
+How many objects is Susan holding? three
+
+David picked up the shoe.
+David picked up the cup.
+David dropped the shoe.
+How many objects is David holding? one
+
+Fred picked up the hat.
+Fred picked up the book.
+How many objects is Fred holding? two
+
+Eve picked up the shoe.
+Eve dropped the shoe.
+Eve picked up the hat.
+Eve picked up the book.
+Eve picked up the shoe.
+How many objects is Eve holding? three
+
+Bob picked up the hat.
+Bob picked up the shoe.
+Bob dropped the shoe.
+Bob dropped the hat.
+How many objects is Bob holding? none
+
+Nina picked up the box.
+Nina dropped the box.
+Nina picked up the milk.
+Nina dropped the milk.
+How many objects is Nina holding? none
+
+Daniel picked up the bottle.
+Daniel picked up the hat.
+Daniel picked up the apple.
+Daniel dropped the bottle.
+Daniel dropped the hat.
+How many objects is Daniel holding? one
+
+Kate picked up the shoe.
+Kate picked up the hat.
+Kate dropped the hat.
+Kate dropped the shoe.
+Kate picked up the apple.
+How many objects is Kate holding? one
+
+Eve picked up the box.
+Eve picked up the pen.
+Eve picked up the apple.
+How many objects is Eve holding? three
+
+Tom picked up the shoe.
+Tom dropped the shoe.
+How many objects is Tom holding? none
+
+Daniel picked up the ball.
+Daniel picked up the book.
+Daniel dropped the book.
+How many objects is Daniel holding? one
+
+Nina picked up the milk.
+Nina dropped the milk.
+Nina picked up the cup.
+Nina dropped the cup.
+Nina picked up the ball.
+Nina dropped the ball.
+How many objects is Nina holding? none
+
+Susan picked up the cup.
+Susan picked up the hat.
+Susan picked up the key.
+Susan picked up the box.
+How many objects is Susan holding? four
+
+Sam picked up the milk.
+Sam picked up the cup.
+Sam dropped the milk.
+Sam picked up the hat.
+How many objects is Sam holding? two
+
+Bob picked up the shoe.
+Bob dropped the shoe.
+Bob picked up the ball.
+How many objects is Bob holding? one
+
+Peter picked up the ball.
+Peter dropped the ball.
+Peter picked up the cup.
+Peter picked up the apple.
+Peter picked up the ball.
+Peter picked up the milk.
+How many objects is Peter holding? four
+
+Alice picked up the apple.
+Alice dropped the apple.
+Alice picked up the box.
+Alice picked up the pen.
+Alice picked up the book.
+Alice picked up the key.
+How many objects is Alice holding? four
+
+Frank picked up the shoe.
+Frank picked up the apple.
+How many objects is Frank holding? two
+
+David picked up the hat.
+David dropped the hat.
+How many objects is David holding? none
+
+John picked up the bag.
+John dropped the bag.
+How many objects is John holding? none
+
+Tom picked up the milk.
+Tom picked up the bag.
+Tom dropped the milk.
+Tom picked up the key.
+Tom picked up the ball.
+How many objects is Tom holding? three
+
+Sandra picked up the bag.
+Sandra picked up the book.
+Sandra picked up the key.
+Sandra picked up the box.
+Sandra picked up the apple.
+Sandra dropped the book.
+How many objects is Sandra holding? four
+
+John picked up the key.
+John dropped the key.
+John picked up the cup.
+John picked up the ball.
+How many objects is John holding? two
+
+Tom picked up the milk.
+Tom dropped the milk.
+How many objects is Tom holding? none
+
+Nina picked up the ball.
+Nina picked up the pen.
+Nina dropped the ball.
+Nina picked up the ball.
+Nina dropped the ball.
+How many objects is Nina holding? one
+
+Lucy picked up the pen.
+Lucy picked up the book.
+Lucy picked up the cup.
+How many objects is Lucy holding? three
+
+John picked up the box.
+John dropped the box.
+John picked up the bottle.
+How many objects is John holding? one
+
+Mary picked up the apple.
+Mary picked up the milk.
+Mary picked up the hat.
+How many objects is Mary holding? three
+
+Bob picked up the book.
+Bob picked up the pen.
+How many objects is Bob holding? two
+
+Peter picked up the key.
+Peter picked up the bottle.
+Peter dropped the bottle.
+How many objects is Peter holding? one
+
+Lucy picked up the box.
+Lucy dropped the box.
+Lucy picked up the hat.
+How many objects is Lucy holding? one
+
+Nina picked up the book.
+Nina picked up the milk.
+Nina picked up the pen.
+How many objects is Nina holding? three
+
+Ann picked up the milk.
+Ann picked up the bag.
+Ann dropped the bag.
+Ann dropped the milk.
+How many objects is Ann holding? none
+
+Daniel picked up the shoe.
+Daniel dropped the shoe.
+Daniel picked up the box.
+Daniel dropped the box.
+Daniel picked up the key.
+How many objects is Daniel holding? one
+
+Nina picked up the ball.
+Nina picked up the apple.
+Nina picked up the pen.
+Nina picked up the milk.
+Nina picked up the book.
+Nina dropped the milk.
+How many objects is Nina holding? four
+
+Frank picked up the cup.
+Frank picked up the bag.
+Frank picked up the shoe.
+Frank picked up the pen.
+How many objects is Frank holding? four
+
+John picked up the pen.
+John picked up the milk.
+John dropped the pen.
+John dropped the milk.
+How many objects is John holding? none
+
+Lucy picked up the ball.
+Lucy picked up the milk.
+Lucy picked up the apple.
+How many objects is Lucy holding? three
+
+Fred picked up the book.
+Fred picked up the cup.
+Fred dropped the cup.
+Fred picked up the pen.
+Fred dropped the book.
+How many objects is Fred holding? one
+
+David picked up the cup.
+David picked up the ball.
+David picked up the bottle.
+David picked up the milk.
+David dropped the ball.
+How many objects is David holding? three
+
+Susan picked up the apple.
+Susan picked up the bag.
+How many objects is Susan holding? two
+
+Frank picked up the bag.
+Frank picked up the pen.
+Frank dropped the bag.
+Frank dropped the pen.
+Frank picked up the ball.
+How many objects is Frank holding? one
+
+Nina picked up the key.
+Nina dropped the key.
+Nina picked up the book.
+Nina picked up the ball.
+Nina dropped the book.
+Nina picked up the bag.
+How many objects is Nina holding? two
+
+Alice picked up the book.
+Alice picked up the key.
+Alice picked up the box.
+How many objects is Alice holding? three
+
+Daniel picked up the box.
+Daniel dropped the box.
+Daniel picked up the milk.
+Daniel picked up the bottle.
+How many objects is Daniel holding? two
+
+Kate picked up the apple.
+Kate picked up the key.
+How many objects is Kate holding? two
+
+Eve picked up the bottle.
+Eve dropped the bottle.
+Eve picked up the cup.
+Eve picked up the milk.
+Eve picked up the book.
+How many objects is Eve holding? three
+
+Kate picked up the book.
+Kate dropped the book.
+Kate picked up the box.
+Kate dropped the box.
+How many objects is Kate holding? none
+
+Kate picked up the book.
+Kate picked up the shoe.
+How many objects is Kate holding? two
+
+Rick picked up the shoe.
+Rick picked up the key.
+Rick picked up the milk.
+How many objects is Rick holding? three
+
+Sam picked up the ball.
+Sam picked up the bag.
+Sam picked up the key.
+Sam picked up the apple.
+Sam dropped the apple.
+How many objects is Sam holding? three
+
+Sam picked up the bag.
+Sam dropped the bag.
+Sam picked up the book.
+How many objects is Sam holding? one
+
+Alice picked up the milk.
+Alice picked up the bottle.
+Alice dropped the bottle.
+Alice dropped the milk.
+Alice picked up the ball.
+How many objects is Alice holding? one
+
+Mary picked up the key.
+Mary picked up the ball.
+Mary picked up the pen.
+Mary picked up the shoe.
+Mary dropped the shoe.
+Mary picked up the bag.
+How many objects is Mary holding? four
+
+Ann picked up the hat.
+Ann picked up the milk.
+Ann picked up the key.
+Ann dropped the milk.
+How many objects is Ann holding? two
+
+Frank picked up the bag.
+Frank picked up the ball.
+How many objects is Frank holding? two
+
+Bob picked up the hat.
+Bob picked up the cup.
+Bob picked up the shoe.
+How many objects is Bob holding? three
+
+Fred picked up the cup.
+Fred dropped the cup.
+Fred picked up the cup.
+How many objects is Fred holding? one
+
+Susan picked up the box.
+Susan picked up the milk.
+How many objects is Susan holding? two
+
+Bob picked up the shoe.
+Bob picked up the bottle.
+Bob picked up the bag.
+Bob picked up the key.
+How many objects is Bob holding? four
+
+Rick picked up the milk.
+Rick picked up the apple.
+Rick picked up the hat.
+Rick picked up the pen.
+How many objects is Rick holding? four
+
+Mary picked up the shoe.
+Mary picked up the apple.
+Mary dropped the apple.
+Mary picked up the apple.
+Mary picked up the cup.
+How many objects is Mary holding? three
+
+Sandra picked up the ball.
+Sandra picked up the pen.
+Sandra picked up the shoe.
+How many objects is Sandra holding? three
+
+Kate picked up the book.
+Kate dropped the book.
+Kate picked up the milk.
+How many objects is Kate holding? one
+
+Bob picked up the bag.
+Bob picked up the apple.
+Bob picked up the milk.
+Bob picked up the hat.
+How many objects is Bob holding? four
+
+Kate picked up the bag.
+Kate dropped the bag.
+Kate picked up the ball.
+Kate picked up the bottle.
+Kate dropped the ball.
+Kate picked up the pen.
+How many objects is Kate holding? two
+
+Rick picked up the bottle.
+Rick picked up the cup.
+Rick dropped the cup.
+Rick dropped the bottle.
+How many objects is Rick holding? none
+
+Sandra picked up the hat.
+Sandra picked up the shoe.
+Sandra dropped the shoe.
+Sandra dropped the hat.
+Sandra picked up the box.
+How many objects is Sandra holding? one
+
+Kate picked up the pen.
+Kate picked up the box.
+Kate picked up the hat.
+Kate dropped the hat.
+How many objects is Kate holding? two
+
+David picked up the book.
+David dropped the book.
+David picked up the apple.
+David picked up the bottle.
+David picked up the ball.
+How many objects is David holding? three
+
+Sam picked up the pen.
+Sam picked up the box.
+How many objects is Sam holding? two
+
+Eve picked up the shoe.
+Eve picked up the apple.
+Eve picked up the bag.
+How many objects is Eve holding? three
+
+Alice picked up the shoe.
+Alice picked up the key.
+Alice dropped the key.
+Alice dropped the shoe.
+Alice picked up the bag.
+How many objects is Alice holding? one
+
+Sam picked up the hat.
+Sam picked up the bag.
+Sam picked up the bottle.
+Sam dropped the hat.
+Sam picked up the ball.
+Sam picked up the cup.
+How many objects is Sam holding? four
+
+Frank picked up the key.
+Frank picked up the milk.
+Frank picked up the ball.
+Frank dropped the key.
+How many objects is Frank holding? two
+
+John picked up the cup.
+John picked up the key.
+John dropped the key.
+John dropped the cup.
+How many objects is John holding? none
+
+Lucy picked up the key.
+Lucy picked up the bag.
+Lucy picked up the pen.
+Lucy picked up the shoe.
+How many objects is Lucy holding? four
+
+Frank picked up the shoe.
+Frank picked up the milk.
+How many objects is Frank holding? two
+
+Rick picked up the bottle.
+Rick picked up the apple.
+Rick picked up the book.
+How many objects is Rick holding? three
+
+Bob picked up the ball.
+Bob picked up the cup.
+Bob picked up the pen.
+How many objects is Bob holding? three
+
+Daniel picked up the ball.
+Daniel picked up the bottle.
+Daniel dropped the bottle.
+How many objects is Daniel holding? one
+
+Kate picked up the shoe.
+Kate picked up the box.
+Kate dropped the shoe.
+Kate picked up the milk.
+Kate picked up the key.
+Kate picked up the apple.
+How many objects is Kate holding? four
+
+Kate picked up the apple.
+Kate dropped the apple.
+Kate picked up the ball.
+Kate picked up the apple.
+Kate picked up the hat.
+Kate picked up the key.
+How many objects is Kate holding? four
+
+Mary picked up the bag.
+Mary picked up the box.
+Mary picked up the milk.
+How many objects is Mary holding? three
+
+Alice picked up the milk.
+Alice dropped the milk.
+Alice picked up the pen.
+Alice dropped the pen.
+How many objects is Alice holding? none
+
+Susan picked up the box.
+Susan dropped the box.
+How many objects is Susan holding? none
+
+Rick picked up the shoe.
+Rick dropped the shoe.
+Rick picked up the hat.
+Rick dropped the hat.
+Rick picked up the bag.
+How many objects is Rick holding? one
+
+Tom picked up the bag.
+Tom picked up the hat.
+How many objects is Tom holding? two
+
+Eve picked up the book.
+Eve picked up the pen.
+How many objects is Eve holding? two
+
+John picked up the ball.
+John picked up the key.
+John dropped the ball.
+John picked up the bottle.
+How many objects is John holding? two
+
+Tom picked up the shoe.
+Tom picked up the pen.
+Tom dropped the shoe.
+Tom picked up the apple.
+How many objects is Tom holding? two
+
+Kate picked up the milk.
+Kate dropped the milk.
+Kate picked up the ball.
+How many objects is Kate holding? one
+
+Sam picked up the key.
+Sam dropped the key.
+Sam picked up the box.
+How many objects is Sam holding? one
+
+Ann picked up the bottle.
+Ann picked up the book.
+Ann dropped the bottle.
+How many objects is Ann holding? one
+
+Rick picked up the cup.
+Rick dropped the cup.
+Rick picked up the key.
+Rick picked up the box.
+How many objects is Rick holding? two
+
+Rick picked up the book.
+Rick dropped the book.
+How many objects is Rick holding? none
+
+John picked up the bottle.
+John picked up the box.
+John dropped the box.
+How many objects is John holding? one
+
+Daniel picked up the box.
+Daniel picked up the cup.
+Daniel picked up the shoe.
+Daniel picked up the bag.
+Daniel dropped the box.
+How many objects is Daniel holding? three
+
+Sam picked up the hat.
+Sam dropped the hat.
+Sam picked up the ball.
+Sam dropped the ball.
+Sam picked up the hat.
+How many objects is Sam holding? one
+
+Mary picked up the shoe.
+Mary dropped the shoe.
+Mary picked up the bag.
+How many objects is Mary holding? one
+
+John picked up the milk.
+John dropped the milk.
+How many objects is John holding? none
+
+Rick picked up the ball.
+Rick picked up the shoe.
+Rick dropped the ball.
+Rick picked up the cup.
+How many objects is Rick holding? two
+
+Bob picked up the bag.
+Bob picked up the shoe.
+Bob dropped the bag.
+Bob picked up the book.
+Bob picked up the key.
+Bob dropped the shoe.
+How many objects is Bob holding? two
+
+Nina picked up the bottle.
+Nina picked up the pen.
+Nina dropped the pen.
+Nina dropped the bottle.
+Nina picked up the pen.
+How many objects is Nina holding? one
+
+Ann picked up the key.
+Ann picked up the shoe.
+Ann dropped the key.
+How many objects is Ann holding? one
+
+Mary picked up the book.
+Mary dropped the book.
+Mary picked up the bottle.
+Mary picked up the apple.
+How many objects is Mary holding? two
+
+Daniel picked up the cup.
+Daniel picked up the bag.
+How many objects is Daniel holding? two
+
+Peter picked up the cup.
+Peter picked up the bottle.
+Peter picked up the box.
+Peter picked up the hat.
+How many objects is Peter holding? four
+
+Eve picked up the bottle.
+Eve picked up the shoe.
+Eve picked up the ball.
+Eve picked up the key.
+How many objects is Eve holding? four
+
+Tom picked up the apple.
+Tom dropped the apple.
+Tom picked up the shoe.
+How many objects is Tom holding? one
+
+Ann picked up the hat.
+Ann dropped the hat.
+Ann picked up the bottle.
+How many objects is Ann holding? one
+
+Tom picked up the key.
+Tom picked up the apple.
+How many objects is Tom holding? two
+
+Mary picked up the milk.
+Mary picked up the shoe.
+How many objects is Mary holding? two
+
+Kate picked up the cup.
+Kate picked up the bag.
+Kate picked up the shoe.
+Kate dropped the cup.
+Kate dropped the bag.
+How many objects is Kate holding? one
+
+Sandra picked up the hat.
+Sandra picked up the box.
+Sandra picked up the cup.
+How many objects is Sandra holding? three
+
+Lucy picked up the apple.
+Lucy picked up the shoe.
+Lucy picked up the bottle.
+Lucy dropped the shoe.
+Lucy picked up the key.
+How many objects is Lucy holding? three
+
+Susan picked up the hat.
+Susan picked up the pen.
+How many objects is Susan holding? two
+
+Sam picked up the bottle.
+Sam dropped the bottle.
+How many objects is Sam holding? none
+
+Mary picked up the milk.
+Mary picked up the bag.
+Mary dropped the milk.
+Mary dropped the bag.
+How many objects is Mary holding? none
+
+Bill picked up the ball.
+Bill picked up the hat.
+Bill picked up the key.
+How many objects is Bill holding? three
+
+Ann picked up the bottle.
+Ann picked up the bag.
+How many objects is Ann holding? two
+
+Kate picked up the apple.
+Kate picked up the hat.
+Kate picked up the shoe.
+Kate dropped the hat.
+How many objects is Kate holding? two
+
+Eve picked up the cup.
+Eve picked up the shoe.
+Eve picked up the apple.
+Eve picked up the ball.
+How many objects is Eve holding? four
+
+David picked up the milk.
+David picked up the bag.
+David dropped the milk.
+David picked up the shoe.
+David picked up the pen.
+How many objects is David holding? three
+
+Mary picked up the book.
+Mary picked up the milk.
+How many objects is Mary holding? two
+
+Daniel picked up the bag.
+Daniel picked up the milk.
+Daniel dropped the milk.
+Daniel dropped the bag.
+How many objects is Daniel holding? none
+
+John picked up the book.
+John dropped the book.
+John picked up the bag.
+John picked up the cup.
+John picked up the key.
+How many objects is John holding? three
+
+Eve picked up the box.
+Eve picked up the hat.
+Eve picked up the key.
+Eve dropped the hat.
+How many objects is Eve holding? two
+
+Eve picked up the hat.
+Eve picked up the box.
+How many objects is Eve holding? two
+
+Sam picked up the box.
+Sam picked up the bottle.
+Sam picked up the milk.
+How many objects is Sam holding? three
+
+Susan picked up the cup.
+Susan picked up the book.
+Susan picked up the shoe.
+Susan dropped the cup.
+Susan picked up the cup.
+How many objects is Susan holding? three
+
+Mary picked up the pen.
+Mary picked up the cup.
+Mary picked up the hat.
+Mary dropped the pen.
+How many objects is Mary holding? two
+
+Nina picked up the bag.
+Nina picked up the apple.
+Nina picked up the bottle.
+Nina dropped the bag.
+How many objects is Nina holding? two
+
+Sandra picked up the ball.
+Sandra dropped the ball.
+Sandra picked up the cup.
+Sandra picked up the ball.
+Sandra picked up the pen.
+How many objects is Sandra holding? three
+
+Peter picked up the pen.
+Peter picked up the cup.
+Peter picked up the ball.
+Peter dropped the pen.
+How many objects is Peter holding? two
+
+Tom picked up the pen.
+Tom picked up the ball.
+Tom picked up the box.
+How many objects is Tom holding? three
+
+Frank picked up the bottle.
+Frank dropped the bottle.
+Frank picked up the shoe.
+How many objects is Frank holding? one
+
+Susan picked up the box.
+Susan picked up the key.
+How many objects is Susan holding? two
+
+Fred picked up the cup.
+Fred picked up the bottle.
+Fred dropped the cup.
+Fred picked up the bag.
+Fred picked up the book.
+How many objects is Fred holding? three
+
+Bob picked up the ball.
+Bob picked up the shoe.
+Bob picked up the milk.
+Bob dropped the milk.
+How many objects is Bob holding? two
+
+Alice picked up the shoe.
+Alice picked up the bag.
+Alice picked up the ball.
+How many objects is Alice holding? three
+
+Rick picked up the bag.
+Rick picked up the shoe.
+Rick dropped the shoe.
+Rick dropped the bag.
+Rick picked up the bag.
+Rick dropped the bag.
+How many objects is Rick holding? none
+
+Alice picked up the pen.
+Alice picked up the cup.
+Alice dropped the pen.
+Alice picked up the ball.
+Alice picked up the book.
+How many objects is Alice holding? three
+
+Sandra picked up the pen.
+Sandra dropped the pen.
+Sandra picked up the apple.
+How many objects is Sandra holding? one
+
+Tom picked up the bottle.
+Tom dropped the bottle.
+Tom picked up the ball.
+How many objects is Tom holding? one
+
+Sam picked up the hat.
+Sam dropped the hat.
+Sam picked up the key.
+Sam picked up the ball.
+How many objects is Sam holding? two
+
+Frank picked up the cup.
+Frank picked up the book.
+Frank dropped the book.
+Frank dropped the cup.
+Frank picked up the book.
+Frank picked up the pen.
+How many objects is Frank holding? two
+
+Bill picked up the key.
+Bill dropped the key.
+Bill picked up the apple.
+Bill picked up the box.
+Bill picked up the bottle.
+How many objects is Bill holding? three
+
+Peter picked up the key.
+Peter dropped the key.
+Peter picked up the book.
+How many objects is Peter holding? one
+
+Mary picked up the bottle.
+Mary dropped the bottle.
+Mary picked up the key.
+Mary picked up the hat.
+How many objects is Mary holding? two
+
+Rick picked up the shoe.
+Rick picked up the hat.
+Rick dropped the hat.
+Rick picked up the box.
+How many objects is Rick holding? two
+
+Peter picked up the pen.
+Peter dropped the pen.
+Peter picked up the ball.
+Peter dropped the ball.
+Peter picked up the hat.
+How many objects is Peter holding? one
+
+Nina picked up the key.
+Nina dropped the key.
+Nina picked up the box.
+Nina picked up the milk.
+Nina picked up the key.
+How many objects is Nina holding? three
+
+Nina picked up the cup.
+Nina dropped the cup.
+Nina picked up the milk.
+Nina picked up the box.
+How many objects is Nina holding? two
+
+Lucy picked up the hat.
+Lucy dropped the hat.
+Lucy picked up the shoe.
+Lucy picked up the bottle.
+Lucy picked up the bag.
+How many objects is Lucy holding? three
+
+Frank picked up the bag.
+Frank picked up the pen.
+Frank dropped the pen.
+How many objects is Frank holding? one
+
+Lucy picked up the box.
+Lucy picked up the cup.
+Lucy dropped the cup.
+Lucy picked up the milk.
+Lucy dropped the box.
+Lucy dropped the milk.
+How many objects is Lucy holding? none
+
+Nina picked up the apple.
+Nina picked up the ball.
+Nina dropped the apple.
+Nina picked up the pen.
+Nina picked up the milk.
+Nina picked up the apple.
+How many objects is Nina holding? four
+
+Kate picked up the box.
+Kate picked up the shoe.
+Kate picked up the bag.
+Kate picked up the apple.
+Kate picked up the cup.
+Kate dropped the cup.
+How many objects is Kate holding? four
+
+Mary picked up the shoe.
+Mary picked up the box.
+How many objects is Mary holding? two
+
+Bob picked up the bag.
+Bob dropped the bag.
+Bob picked up the cup.
+Bob dropped the cup.
+How many objects is Bob holding? none
+
+Fred picked up the ball.
+Fred picked up the book.
+Fred picked up the shoe.
+Fred picked up the cup.
+Fred picked up the bottle.
+Fred dropped the bottle.
+How many objects is Fred holding? four
+
+Bob picked up the cup.
+Bob picked up the key.
+Bob picked up the hat.
+Bob dropped the cup.
+How many objects is Bob holding? two
+
+Fred picked up the book.
+Fred picked up the bottle.
+Fred picked up the pen.
+Fred picked up the key.
+How many objects is Fred holding? four
+
+Bob picked up the ball.
+Bob picked up the pen.
+Bob picked up the box.
+Bob dropped the ball.
+Bob picked up the bottle.
+How many objects is Bob holding? three
+
+Kate picked up the milk.
+Kate picked up the hat.
+Kate dropped the hat.
+Kate picked up the pen.
+Kate dropped the milk.
+How many objects is Kate holding? one
+
+David picked up the milk.
+David picked up the ball.
+David dropped the milk.
+David dropped the ball.
+David picked up the pen.
+David picked up the shoe.
+How many objects is David holding? two
+
+Bill picked up the ball.
+Bill dropped the ball.
+How many objects is Bill holding? none
+
+Lucy picked up the box.
+Lucy picked up the ball.
+Lucy dropped the box.
+Lucy picked up the apple.
+Lucy dropped the ball.
+Lucy picked up the pen.
+How many objects is Lucy holding? two
+
+David picked up the cup.
+David picked up the bag.
+David dropped the bag.
+David dropped the cup.
+David picked up the bottle.
+How many objects is David holding? one
+
+Fred picked up the apple.
+Fred picked up the pen.
+Fred dropped the pen.
+How many objects is Fred holding? one
+
+Tom picked up the bag.
+Tom picked up the shoe.
+How many objects is Tom holding? two
+
+Rick picked up the box.
+Rick picked up the cup.
+How many objects is Rick holding? two
+
+Nina picked up the book.
+Nina picked up the box.
+Nina dropped the book.
+How many objects is Nina holding? one
+
+Daniel picked up the milk.
+Daniel picked up the pen.
+Daniel picked up the cup.
+Daniel picked up the hat.
+How many objects is Daniel holding? four
+
+Alice picked up the shoe.
+Alice picked up the bag.
+How many objects is Alice holding? two
+
+Susan picked up the apple.
+Susan dropped the apple.
+Susan picked up the apple.
+Susan picked up the shoe.
+Susan picked up the bottle.
+How many objects is Susan holding? three
+
+Rick picked up the ball.
+Rick dropped the ball.
+Rick picked up the bottle.
+How many objects is Rick holding? one
+
+Alice picked up the key.
+Alice picked up the hat.
+Alice picked up the ball.
+Alice dropped the key.
+Alice dropped the hat.
+Alice picked up the hat.
+How many objects is Alice holding? two
+
+Mary picked up the bottle.
+Mary dropped the bottle.
+How many objects is Mary holding? none
+
+Peter picked up the bag.
+Peter dropped the bag.
+Peter picked up the book.
+Peter dropped the book.
+Peter picked up the pen.
+Peter dropped the pen.
+How many objects is Peter holding? none
+
+Eve picked up the shoe.
+Eve dropped the shoe.
+How many objects is Eve holding? none
+
+Bill picked up the bottle.
+Bill picked up the pen.
+Bill dropped the pen.
+Bill picked up the book.
+How many objects is Bill holding? two
+
+Bill picked up the bag.
+Bill picked up the milk.
+Bill picked up the book.
+How many objects is Bill holding? three
+
+Bob picked up the shoe.
+Bob picked up the cup.
+Bob picked up the bag.
+Bob dropped the cup.
+Bob dropped the bag.
+Bob picked up the ball.
+How many objects is Bob holding? two
+
+Fred picked up the ball.
+Fred picked up the apple.
+How many objects is Fred holding? two
+
+Rick picked up the bag.
+Rick dropped the bag.
+Rick picked up the book.
+Rick picked up the cup.
+Rick picked up the ball.
+Rick dropped the cup.
+How many objects is Rick holding? two
+
+Bill picked up the milk.
+Bill picked up the hat.
+Bill dropped the hat.
+How many objects is Bill holding? one
+
+Tom picked up the hat.
+Tom dropped the hat.
+Tom picked up the key.
+Tom picked up the hat.
+Tom picked up the bottle.
+Tom picked up the pen.
+How many objects is Tom holding? four
+
+Daniel picked up the cup.
+Daniel dropped the cup.
+Daniel picked up the ball.
+How many objects is Daniel holding? one
+
+Frank picked up the milk.
+Frank picked up the cup.
+Frank picked up the bottle.
+Frank picked up the ball.
+How many objects is Frank holding? four
+
+Ann picked up the bag.
+Ann dropped the bag.
+Ann picked up the ball.
+How many objects is Ann holding? one
+
+Bob picked up the cup.
+Bob picked up the box.
+Bob dropped the cup.
+Bob picked up the cup.
+Bob picked up the bag.
+Bob picked up the apple.
+How many objects is Bob holding? four
+
+Sandra picked up the milk.
+Sandra picked up the bag.
+Sandra dropped the bag.
+How many objects is Sandra holding? one
+
+Susan picked up the milk.
+Susan picked up the bag.
+Susan picked up the ball.
+Susan picked up the pen.
+Susan picked up the bottle.
+Susan dropped the ball.
+How many objects is Susan holding? four
+
+Fred picked up the book.
+Fred picked up the bag.
+Fred picked up the pen.
+Fred picked up the bottle.
+Fred dropped the book.
+How many objects is Fred holding? three
+
+Fred picked up the shoe.
+Fred dropped the shoe.
+Fred picked up the key.
+Fred dropped the key.
+How many objects is Fred holding? none
+
+Eve picked up the box.
+Eve dropped the box.
+Eve picked up the key.
+How many objects is Eve holding? one
+
+Kate picked up the shoe.
+Kate picked up the apple.
+How many objects is Kate holding? two
+
+Bob picked up the pen.
+Bob picked up the book.
+Bob dropped the pen.
+Bob picked up the box.
+How many objects is Bob holding? two
+
+Mary picked up the book.
+Mary picked up the ball.
+Mary dropped the book.
+How many objects is Mary holding? one
+
+Ann picked up the shoe.
+Ann picked up the book.
+How many objects is Ann holding? two
+
+Lucy picked up the hat.
+Lucy picked up the key.
+Lucy picked up the pen.
+Lucy picked up the bag.
+Lucy dropped the pen.
+How many objects is Lucy holding? three
+
+Frank picked up the apple.
+Frank picked up the bag.
+Frank picked up the ball.
+How many objects is Frank holding? three
+
+Mary picked up the ball.
+Mary picked up the bag.
+Mary picked up the hat.
+Mary dropped the hat.
+Mary dropped the ball.
+How many objects is Mary holding? one
+
+David picked up the shoe.
+David dropped the shoe.
+How many objects is David holding? none
+
+Peter picked up the shoe.
+Peter picked up the milk.
+Peter dropped the shoe.
+How many objects is Peter holding? one
+
+Daniel picked up the hat.
+Daniel dropped the hat.
+Daniel picked up the book.
+How many objects is Daniel holding? one
+
+Kate picked up the ball.
+Kate picked up the pen.
+Kate dropped the ball.
+Kate dropped the pen.
+Kate picked up the bottle.
+Kate picked up the box.
+How many objects is Kate holding? two
+
+Rick picked up the pen.
+Rick picked up the milk.
+Rick picked up the cup.
+Rick dropped the milk.
+Rick picked up the ball.
+How many objects is Rick holding? three
+
+Ann picked up the bottle.
+Ann picked up the hat.
+Ann picked up the key.
+Ann dropped the key.
+Ann picked up the cup.
+How many objects is Ann holding? three
+
+Daniel picked up the apple.
+Daniel dropped the apple.
+How many objects is Daniel holding? none
+
+Rick picked up the ball.
+Rick dropped the ball.
+Rick picked up the milk.
+Rick picked up the bag.
+How many objects is Rick holding? two
+
+Alice picked up the hat.
+Alice dropped the hat.
+Alice picked up the milk.
+Alice dropped the milk.
+Alice picked up the book.
+How many objects is Alice holding? one
+
+Daniel picked up the bottle.
+Daniel dropped the bottle.
+Daniel picked up the key.
+Daniel picked up the bottle.
+Daniel picked up the milk.
+Daniel picked up the box.
+How many objects is Daniel holding? four
+
+Bill picked up the apple.
+Bill picked up the bag.
+Bill dropped the apple.
+How many objects is Bill holding? one
+
+Sam picked up the bag.
+Sam picked up the book.
+How many objects is Sam holding? two
+
+Peter picked up the key.
+Peter picked up the shoe.
+Peter dropped the key.
+Peter dropped the shoe.
+How many objects is Peter holding? none
+
+Susan picked up the key.
+Susan picked up the book.
+Susan dropped the key.
+Susan picked up the hat.
+Susan picked up the milk.
+Susan dropped the book.
+How many objects is Susan holding? two
+
+Bill picked up the hat.
+Bill dropped the hat.
+Bill picked up the key.
+Bill picked up the bottle.
+Bill picked up the box.
+Bill dropped the key.
+How many objects is Bill holding? two
+
+Sandra picked up the pen.
+Sandra picked up the hat.
+Sandra dropped the hat.
+Sandra picked up the book.
+Sandra dropped the book.
+Sandra dropped the pen.
+How many objects is Sandra holding? none
+
+Lucy picked up the bottle.
+Lucy picked up the key.
+Lucy picked up the cup.
+Lucy picked up the bag.
+How many objects is Lucy holding? four
+
+Tom picked up the bag.
+Tom picked up the book.
+Tom dropped the book.
+How many objects is Tom holding? one
+
+Eve picked up the milk.
+Eve dropped the milk.
+Eve picked up the bottle.
+Eve picked up the cup.
+How many objects is Eve holding? two
+
+Frank picked up the cup.
+Frank dropped the cup.
+Frank picked up the apple.
+Frank picked up the box.
+Frank dropped the apple.
+Frank picked up the book.
+How many objects is Frank holding? two
+
+Sam picked up the shoe.
+Sam dropped the shoe.
+Sam picked up the pen.
+Sam picked up the book.
+Sam dropped the pen.
+How many objects is Sam holding? one
+
+Susan picked up the milk.
+Susan picked up the book.
+Susan picked up the cup.
+Susan dropped the cup.
+How many objects is Susan holding? two
+
+Lucy picked up the book.
+Lucy picked up the hat.
+How many objects is Lucy holding? two
+
+Sam picked up the pen.
+Sam dropped the pen.
+Sam picked up the key.
+Sam picked up the pen.
+Sam dropped the pen.
+Sam dropped the key.
+How many objects is Sam holding? none
+
+Eve picked up the pen.
+Eve picked up the book.
+Eve picked up the box.
+Eve dropped the box.
+Eve picked up the bottle.
+How many objects is Eve holding? three
+
+Kate picked up the bag.
+Kate picked up the pen.
+Kate dropped the bag.
+Kate dropped the pen.
+How many objects is Kate holding? none
+
+John picked up the pen.
+John dropped the pen.
+John picked up the pen.
+How many objects is John holding? one
+
+Kate picked up the cup.
+Kate picked up the book.
+Kate picked up the hat.
+Kate picked up the bottle.
+How many objects is Kate holding? four
+
+Nina picked up the hat.
+Nina picked up the pen.
+Nina picked up the bottle.
+Nina dropped the bottle.
+Nina dropped the hat.
+Nina picked up the hat.
+How many objects is Nina holding? two
+
+Ann picked up the cup.
+Ann picked up the box.
+Ann picked up the bottle.
+How many objects is Ann holding? three
+
+Frank picked up the pen.
+Frank picked up the cup.
+Frank dropped the pen.
+Frank picked up the hat.
+Frank picked up the box.
+Frank dropped the cup.
+How many objects is Frank holding? two
+
+Bob picked up the book.
+Bob picked up the pen.
+Bob dropped the pen.
+Bob picked up the pen.
+Bob picked up the apple.
+How many objects is Bob holding? three
+
+Susan picked up the shoe.
+Susan picked up the box.
+Susan dropped the shoe.
+Susan picked up the apple.
+How many objects is Susan holding? two
+
+Kate picked up the milk.
+Kate picked up the shoe.
+Kate picked up the ball.
+Kate dropped the shoe.
+Kate dropped the milk.
+How many objects is Kate holding? one
+
+Lucy picked up the pen.
+Lucy picked up the apple.
+Lucy dropped the apple.
+Lucy picked up the box.
+Lucy picked up the shoe.
+How many objects is Lucy holding? three
+
+John picked up the milk.
+John picked up the box.
+John dropped the milk.
+John picked up the key.
+John picked up the shoe.
+John dropped the key.
+How many objects is John holding? two
+
+Sandra picked up the cup.
+Sandra picked up the shoe.
+Sandra picked up the apple.
+Sandra picked up the box.
+Sandra dropped the apple.
+Sandra dropped the shoe.
+How many objects is Sandra holding? two
+
+Tom picked up the cup.
+Tom picked up the key.
+Tom dropped the key.
+Tom dropped the cup.
+Tom picked up the milk.
+How many objects is Tom holding? one
+
+Nina picked up the key.
+Nina picked up the apple.
+Nina picked up the cup.
+How many objects is Nina holding? three
+
+Bob picked up the shoe.
+Bob dropped the shoe.
+Bob picked up the book.
+Bob dropped the book.
+Bob picked up the apple.
+How many objects is Bob holding? one
+
+Daniel picked up the milk.
+Daniel dropped the milk.
+Daniel picked up the hat.
+Daniel picked up the cup.
+Daniel picked up the bottle.
+How many objects is Daniel holding? three
+
+Fred picked up the bottle.
+Fred picked up the hat.
+Fred dropped the bottle.
+Fred dropped the hat.
+Fred picked up the bag.
+Fred dropped the bag.
+How many objects is Fred holding? none
+
+Mary picked up the book.
+Mary picked up the milk.
+Mary dropped the milk.
+How many objects is Mary holding? one
+
+Alice picked up the hat.
+Alice picked up the book.
+Alice picked up the bottle.
+Alice dropped the bottle.
+Alice picked up the bag.
+How many objects is Alice holding? three
+
+John picked up the bottle.
+John picked up the milk.
+John picked up the key.
+John dropped the milk.
+John picked up the milk.
+John picked up the shoe.
+How many objects is John holding? four
+
+Nina picked up the book.
+Nina picked up the milk.
+Nina dropped the book.
+Nina dropped the milk.
+How many objects is Nina holding? none
+
+Nina picked up the pen.
+Nina picked up the apple.
+Nina dropped the apple.
+Nina dropped the pen.
+Nina picked up the book.
+Nina picked up the pen.
+How many objects is Nina holding? two
+
+David picked up the pen.
+David dropped the pen.
+David picked up the shoe.
+How many objects is David holding? one
+
+Bill picked up the key.
+Bill dropped the key.
+Bill picked up the cup.
+Bill picked up the box.
+How many objects is Bill holding? two
+
+Sam picked up the ball.
+Sam dropped the ball.
+Sam picked up the key.
+Sam picked up the shoe.
+How many objects is Sam holding? two
+
+Kate picked up the hat.
+Kate dropped the hat.
+Kate picked up the book.
+Kate picked up the shoe.
+Kate picked up the apple.
+Kate picked up the pen.
+How many objects is Kate holding? four
+
+Sam picked up the cup.
+Sam dropped the cup.
+Sam picked up the cup.
+How many objects is Sam holding? one
+
+Sam picked up the pen.
+Sam picked up the cup.
+Sam picked up the bag.
+How many objects is Sam holding? three
+
+Susan picked up the hat.
+Susan dropped the hat.
+Susan picked up the pen.
+Susan picked up the book.
+How many objects is Susan holding? two
+
+Nina picked up the milk.
+Nina dropped the milk.
+Nina picked up the book.
+Nina picked up the hat.
+Nina picked up the bottle.
+How many objects is Nina holding? three
+
+Bob picked up the ball.
+Bob picked up the bag.
+Bob dropped the ball.
+Bob picked up the ball.
+Bob picked up the book.
+Bob picked up the pen.
+How many objects is Bob holding? four
+
+Ann picked up the milk.
+Ann picked up the apple.
+Ann picked up the bag.
+Ann picked up the pen.
+How many objects is Ann holding? four
+
+Mary picked up the hat.
+Mary dropped the hat.
+Mary picked up the book.
+Mary dropped the book.
+How many objects is Mary holding? none
+
+Sam picked up the apple.
+Sam picked up the bag.
+Sam picked up the key.
+Sam picked up the cup.
+Sam dropped the cup.
+Sam dropped the apple.
+How many objects is Sam holding? two
+
+Rick picked up the shoe.
+Rick picked up the cup.
+Rick dropped the shoe.
+How many objects is Rick holding? one
+
+Nina picked up the bag.
+Nina picked up the cup.
+Nina picked up the ball.
+Nina dropped the cup.
+How many objects is Nina holding? two
+
+Frank picked up the ball.
+Frank picked up the bag.
+How many objects is Frank holding? two
+
+Sandra picked up the box.
+Sandra picked up the hat.
+Sandra picked up the bag.
+Sandra picked up the key.
+Sandra dropped the hat.
+Sandra dropped the box.
+How many objects is Sandra holding? two
+
+Bob picked up the box.
+Bob dropped the box.
+Bob picked up the shoe.
+How many objects is Bob holding? one
+
+Kate picked up the apple.
+Kate picked up the hat.
+Kate dropped the hat.
+Kate picked up the cup.
+Kate dropped the apple.
+How many objects is Kate holding? one
+
+Ann picked up the shoe.
+Ann dropped the shoe.
+Ann picked up the milk.
+Ann picked up the key.
+Ann picked up the apple.
+How many objects is Ann holding? three
+
+Mary picked up the ball.
+Mary dropped the ball.
+Mary picked up the apple.
+How many objects is Mary holding? one
+
+Mary picked up the key.
+Mary picked up the bottle.
+Mary dropped the key.
+How many objects is Mary holding? one
+
+David picked up the ball.
+David picked up the book.
+David picked up the apple.
+David picked up the milk.
+How many objects is David holding? four
+
+Susan picked up the cup.
+Susan picked up the ball.
+Susan dropped the cup.
+Susan dropped the ball.
+Susan picked up the key.
+Susan picked up the hat.
+How many objects is Susan holding? two
+
+Bob picked up the pen.
+Bob dropped the pen.
+Bob picked up the bag.
+Bob picked up the book.
+How many objects is Bob holding? two
+
+Bill picked up the hat.
+Bill picked up the book.
+How many objects is Bill holding? two
+
+Eve picked up the milk.
+Eve picked up the bottle.
+Eve picked up the bag.
+How many objects is Eve holding? three
+
+Nina picked up the milk.
+Nina picked up the hat.
+Nina picked up the cup.
+Nina picked up the box.
+How many objects is Nina holding? four
+
+Ann picked up the bag.
+Ann picked up the book.
+How many objects is Ann holding? two
+
+Peter picked up the hat.
+Peter dropped the hat.
+Peter picked up the book.
+How many objects is Peter holding? one
+
+Peter picked up the box.
+Peter dropped the box.
+Peter picked up the pen.
+Peter picked up the milk.
+How many objects is Peter holding? two
+
+Kate picked up the book.
+Kate dropped the book.
+Kate picked up the box.
+Kate dropped the box.
+Kate picked up the pen.
+How many objects is Kate holding? one
+
+Sandra picked up the shoe.
+Sandra picked up the key.
+Sandra picked up the bottle.
+Sandra dropped the key.
+Sandra dropped the bottle.
+How many objects is Sandra holding? one
+
+Bob picked up the shoe.
+Bob picked up the bottle.
+Bob picked up the key.
+Bob picked up the apple.
+Bob picked up the pen.
+Bob dropped the key.
+How many objects is Bob holding? four
+
+Susan picked up the bottle.
+Susan dropped the bottle.
+Susan picked up the shoe.
+Susan picked up the ball.
+Susan picked up the hat.
+Susan picked up the bottle.
+How many objects is Susan holding? four
+
+Susan picked up the bottle.
+Susan picked up the pen.
+How many objects is Susan holding? two
+
+Fred picked up the pen.
+Fred dropped the pen.
+How many objects is Fred holding? none
+
+Fred picked up the book.
+Fred picked up the key.
+Fred picked up the bag.
+Fred picked up the shoe.
+Fred dropped the key.
+How many objects is Fred holding? three
+
+Mary picked up the milk.
+Mary dropped the milk.
+Mary picked up the ball.
+Mary picked up the shoe.
+How many objects is Mary holding? two
+
+Susan picked up the shoe.
+Susan picked up the apple.
+Susan dropped the apple.
+Susan dropped the shoe.
+How many objects is Susan holding? none
+
+Lucy picked up the shoe.
+Lucy picked up the apple.
+Lucy dropped the shoe.
+Lucy picked up the hat.
+How many objects is Lucy holding? two
+
+Daniel picked up the cup.
+Daniel picked up the ball.
+Daniel dropped the ball.
+Daniel picked up the bottle.
+Daniel dropped the bottle.
+Daniel dropped the cup.
+How many objects is Daniel holding? none
+
+Sandra picked up the hat.
+Sandra dropped the hat.
+How many objects is Sandra holding? none
+
+Frank picked up the book.
+Frank dropped the book.
+Frank picked up the shoe.
+Frank dropped the shoe.
+Frank picked up the box.
+Frank dropped the box.
+How many objects is Frank holding? none
+
+Nina picked up the cup.
+Nina picked up the apple.
+Nina picked up the ball.
+Nina picked up the shoe.
+Nina dropped the ball.
+Nina dropped the shoe.
+How many objects is Nina holding? two
+
+Susan picked up the hat.
+Susan picked up the book.
+Susan dropped the book.
+Susan dropped the hat.
+How many objects is Susan holding? none
+
+Mary picked up the book.
+Mary picked up the milk.
+Mary picked up the hat.
+How many objects is Mary holding? three
+
+Bill picked up the key.
+Bill dropped the key.
+Bill picked up the key.
+How many objects is Bill holding? one
+
+Eve picked up the milk.
+Eve picked up the pen.
+How many objects is Eve holding? two
+
+Ann picked up the milk.
+Ann picked up the book.
+How many objects is Ann holding? two
+
+Fred picked up the ball.
+Fred picked up the bottle.
+Fred picked up the pen.
+Fred dropped the bottle.
+How many objects is Fred holding? two
+
+Eve picked up the hat.
+Eve picked up the apple.
+Eve picked up the cup.
+How many objects is Eve holding? three
+
+Tom picked up the apple.
+Tom dropped the apple.
+Tom picked up the key.
+Tom picked up the milk.
+How many objects is Tom holding? two
+
+Peter picked up the bag.
+Peter dropped the bag.
+Peter picked up the milk.
+Peter picked up the cup.
+How many objects is Peter holding? two
+
+Lucy picked up the ball.
+Lucy picked up the milk.
+Lucy picked up the box.
+Lucy picked up the pen.
+How many objects is Lucy holding? four
+
+Sam picked up the shoe.
+Sam picked up the pen.
+Sam dropped the pen.
+Sam picked up the pen.
+Sam picked up the key.
+How many objects is Sam holding? three
+
+Peter picked up the bottle.
+Peter picked up the ball.
+Peter dropped the ball.
+Peter dropped the bottle.
+Peter picked up the milk.
+How many objects is Peter holding? one
+
+Mary picked up the box.
+Mary dropped the box.
+Mary picked up the hat.
+How many objects is Mary holding? one
+
+Fred picked up the bag.
+Fred picked up the book.
+Fred dropped the bag.
+Fred picked up the cup.
+How many objects is Fred holding? two
+
+John picked up the book.
+John dropped the book.
+John picked up the hat.
+How many objects is John holding? one
+
+Lucy picked up the box.
+Lucy picked up the milk.
+Lucy picked up the apple.
+How many objects is Lucy holding? three
+
+Bob picked up the book.
+Bob dropped the book.
+Bob picked up the ball.
+Bob picked up the hat.
+Bob picked up the pen.
+How many objects is Bob holding? three
+
+John picked up the apple.
+John dropped the apple.
+John picked up the box.
+John dropped the box.
+John picked up the ball.
+How many objects is John holding? one
+
+Sam picked up the ball.
+Sam picked up the bottle.
+Sam dropped the ball.
+How many objects is Sam holding? one
+
+Frank picked up the shoe.
+Frank dropped the shoe.
+How many objects is Frank holding? none
+
+Lucy picked up the pen.
+Lucy dropped the pen.
+Lucy picked up the book.
+Lucy dropped the book.
+Lucy picked up the shoe.
+How many objects is Lucy holding? one
+
+Tom picked up the hat.
+Tom dropped the hat.
+Tom picked up the key.
+Tom dropped the key.
+How many objects is Tom holding? none
+
+Daniel picked up the hat.
+Daniel picked up the shoe.
+Daniel dropped the shoe.
+Daniel dropped the hat.
+Daniel picked up the key.
+How many objects is Daniel holding? one
+
+Sam picked up the cup.
+Sam dropped the cup.
+Sam picked up the shoe.
+How many objects is Sam holding? one
+
+Nina picked up the apple.
+Nina dropped the apple.
+Nina picked up the cup.
+Nina picked up the book.
+Nina picked up the shoe.
+Nina dropped the shoe.
+How many objects is Nina holding? two
+
+Fred picked up the hat.
+Fred picked up the shoe.
+Fred picked up the key.
+Fred picked up the box.
+Fred dropped the hat.
+How many objects is Fred holding? three
+
+John picked up the shoe.
+John picked up the pen.
+John picked up the ball.
+John dropped the shoe.
+John picked up the milk.
+John picked up the bag.
+How many objects is John holding? four
+
+Eve picked up the apple.
+Eve picked up the milk.
+How many objects is Eve holding? two
+
+Bob picked up the cup.
+Bob picked up the ball.
+Bob picked up the book.
+Bob picked up the pen.
+Bob dropped the ball.
+How many objects is Bob holding? three
+
+Sandra picked up the bag.
+Sandra picked up the apple.
+Sandra dropped the apple.
+Sandra picked up the box.
+How many objects is Sandra holding? two
+
+Susan picked up the apple.
+Susan picked up the ball.
+Susan dropped the ball.
+Susan picked up the book.
+How many objects is Susan holding? two
+
+Nina picked up the ball.
+Nina picked up the book.
+Nina picked up the key.
+How many objects is Nina holding? three
+
+Lucy picked up the hat.
+Lucy picked up the milk.
+Lucy dropped the milk.
+Lucy picked up the key.
+Lucy picked up the pen.
+Lucy picked up the book.
+How many objects is Lucy holding? four
+
+Mary picked up the milk.
+Mary dropped the milk.
+How many objects is Mary holding? none
+
+Sandra picked up the apple.
+Sandra picked up the book.
+Sandra dropped the apple.
+How many objects is Sandra holding? one
+
+Alice picked up the pen.
+Alice picked up the book.
+Alice dropped the book.
+How many objects is Alice holding? one
+
+Ann picked up the box.
+Ann dropped the box.
+Ann picked up the bottle.
+Ann dropped the bottle.
+How many objects is Ann holding? none
+
+Sandra picked up the shoe.
+Sandra picked up the ball.
+Sandra picked up the bottle.
+Sandra picked up the milk.
+How many objects is Sandra holding? four
+
+Tom picked up the cup.
+Tom dropped the cup.
+Tom picked up the pen.
+How many objects is Tom holding? one
+
+Alice picked up the book.
+Alice picked up the apple.
+How many objects is Alice holding? two
+
+David picked up the bag.
+David picked up the ball.
+David dropped the ball.
+David picked up the bottle.
+How many objects is David holding? two
+
+Rick picked up the milk.
+Rick picked up the book.
+Rick picked up the pen.
+How many objects is Rick holding? three
+
+Fred picked up the milk.
+Fred dropped the milk.
+Fred picked up the cup.
+Fred picked up the key.
+Fred dropped the key.
+Fred picked up the key.
+How many objects is Fred holding? two
+
+Tom picked up the pen.
+Tom picked up the bottle.
+Tom picked up the cup.
+Tom picked up the box.
+Tom dropped the bottle.
+Tom picked up the apple.
+How many objects is Tom holding? four
+
+David picked up the bag.
+David dropped the bag.
+David picked up the ball.
+How many objects is David holding? one
+
+Frank picked up the bag.
+Frank picked up the milk.
+Frank dropped the milk.
+Frank dropped the bag.
+How many objects is Frank holding? none
+
+Rick picked up the apple.
+Rick dropped the apple.
+Rick picked up the shoe.
+Rick picked up the cup.
+Rick picked up the hat.
+How many objects is Rick holding? three
+
+Fred picked up the key.
+Fred picked up the box.
+Fred dropped the box.
+Fred picked up the book.
+Fred dropped the book.
+Fred picked up the shoe.
+How many objects is Fred holding? two
+
+Lucy picked up the hat.
+Lucy picked up the apple.
+Lucy dropped the hat.
+How many objects is Lucy holding? one
+
+Daniel picked up the cup.
+Daniel picked up the ball.
+Daniel picked up the book.
+Daniel picked up the hat.
+How many objects is Daniel holding? four
+
+Mary picked up the key.
+Mary picked up the bag.
+How many objects is Mary holding? two
+
+Peter picked up the key.
+Peter dropped the key.
+Peter picked up the bag.
+Peter dropped the bag.
+Peter picked up the ball.
+Peter picked up the shoe.
+How many objects is Peter holding? two
+
+Bob picked up the apple.
+Bob picked up the cup.
+How many objects is Bob holding? two
+
+Sam picked up the bottle.
+Sam dropped the bottle.
+Sam picked up the apple.
+How many objects is Sam holding? one
+
+Eve picked up the hat.
+Eve dropped the hat.
+Eve picked up the milk.
+Eve picked up the ball.
+Eve picked up the box.
+Eve dropped the milk.
+How many objects is Eve holding? two
+
+Susan picked up the ball.
+Susan picked up the box.
+Susan dropped the ball.
+Susan dropped the box.
+Susan picked up the box.
+How many objects is Susan holding? one
+
+David picked up the bottle.
+David picked up the book.
+How many objects is David holding? two
+
+Fred picked up the bag.
+Fred picked up the ball.
+Fred dropped the ball.
+How many objects is Fred holding? one
+
+Frank picked up the pen.
+Frank dropped the pen.
+Frank picked up the key.
+How many objects is Frank holding? one
+
+Kate picked up the box.
+Kate dropped the box.
+Kate picked up the bag.
+Kate picked up the ball.
+How many objects is Kate holding? two
+
+Eve picked up the milk.
+Eve picked up the bag.
+Eve dropped the bag.
+Eve picked up the hat.
+How many objects is Eve holding? two
+
+Peter picked up the bottle.
+Peter picked up the bag.
+How many objects is Peter holding? two
+
+Tom picked up the milk.
+Tom dropped the milk.
+Tom picked up the cup.
+Tom dropped the cup.
+Tom picked up the pen.
+Tom dropped the pen.
+How many objects is Tom holding? none
+
+Bill picked up the apple.
+Bill picked up the hat.
+Bill dropped the hat.
+Bill dropped the apple.
+Bill picked up the apple.
+How many objects is Bill holding? one
+
+Mary picked up the apple.
+Mary dropped the apple.
+Mary picked up the bag.
+Mary dropped the bag.
+Mary picked up the ball.
+Mary dropped the ball.
+How many objects is Mary holding? none
+
+Alice picked up the milk.
+Alice dropped the milk.
+Alice picked up the hat.
+Alice picked up the bottle.
+How many objects is Alice holding? two
+
+Bill picked up the ball.
+Bill picked up the cup.
+Bill picked up the pen.
+Bill picked up the bottle.
+Bill dropped the bottle.
+How many objects is Bill holding? three
+
+Alice picked up the cup.
+Alice picked up the shoe.
+Alice dropped the shoe.
+How many objects is Alice holding? one
+
+Sam picked up the cup.
+Sam picked up the milk.
+Sam picked up the bag.
+Sam picked up the bottle.
+Sam dropped the cup.
+How many objects is Sam holding? three
+
+Ann picked up the bag.
+Ann dropped the bag.
+Ann picked up the box.
+How many objects is Ann holding? one
+
+Mary picked up the bag.
+Mary picked up the key.
+Mary dropped the bag.
+How many objects is Mary holding? one
+
+Tom picked up the apple.
+Tom picked up the key.
+Tom dropped the key.
+Tom dropped the apple.
+Tom picked up the bag.
+Tom picked up the bottle.
+How many objects is Tom holding? two
+
+Peter picked up the milk.
+Peter picked up the cup.
+Peter picked up the apple.
+How many objects is Peter holding? three
+
+Bill picked up the apple.
+Bill picked up the pen.
+Bill picked up the milk.
+How many objects is Bill holding? three
+
+Mary picked up the cup.
+Mary picked up the ball.
+Mary dropped the cup.
+How many objects is Mary holding? one
+
+Frank picked up the book.
+Frank picked up the bag.
+Frank picked up the apple.
+How many objects is Frank holding? three
+
+Kate picked up the cup.
+Kate dropped the cup.
+Kate picked up the book.
+How many objects is Kate holding? one
+
+Susan picked up the book.
+Susan dropped the book.
+Susan picked up the book.
+Susan picked up the shoe.
+Susan picked up the cup.
+How many objects is Susan holding? three
+
+Susan picked up the bag.
+Susan picked up the book.
+Susan dropped the book.
+How many objects is Susan holding? one
+
+Sam picked up the book.
+Sam dropped the book.
+Sam picked up the milk.
+Sam dropped the milk.
+Sam picked up the ball.
+Sam picked up the book.
+How many objects is Sam holding? two
+
+Peter picked up the ball.
+Peter picked up the hat.
+Peter picked up the shoe.
+Peter dropped the hat.
+How many objects is Peter holding? two
+
+Bill picked up the bottle.
+Bill picked up the bag.
+Bill dropped the bottle.
+Bill dropped the bag.
+Bill picked up the shoe.
+Bill dropped the shoe.
+How many objects is Bill holding? none
+
+Susan picked up the hat.
+Susan dropped the hat.
+How many objects is Susan holding? none
+
+David picked up the ball.
+David picked up the key.
+David dropped the ball.
+How many objects is David holding? one
+
+Eve picked up the shoe.
+Eve dropped the shoe.
+Eve picked up the book.
+Eve dropped the book.
+Eve picked up the book.
+How many objects is Eve holding? one
+
+David picked up the box.
+David picked up the hat.
+David picked up the bottle.
+David dropped the hat.
+David dropped the bottle.
+How many objects is David holding? one
+
+Frank picked up the milk.
+Frank picked up the box.
+Frank picked up the hat.
+Frank dropped the box.
+How many objects is Frank holding? two
+
+Sam picked up the box.
+Sam picked up the cup.
+How many objects is Sam holding? two
+
+Alice picked up the apple.
+Alice picked up the book.
+Alice dropped the book.
+Alice picked up the shoe.
+Alice picked up the key.
+How many objects is Alice holding? three
+
+Kate picked up the pen.
+Kate picked up the key.
+How many objects is Kate holding? two
+
+Sandra picked up the book.
+Sandra picked up the bag.
+Sandra dropped the bag.
+Sandra dropped the book.
+Sandra picked up the hat.
+How many objects is Sandra holding? one
+
+Alice picked up the bottle.
+Alice picked up the cup.
+Alice picked up the book.
+How many objects is Alice holding? three
+
+Eve picked up the ball.
+Eve picked up the hat.
+Eve picked up the apple.
+Eve picked up the book.
+How many objects is Eve holding? four
+
+Lucy picked up the cup.
+Lucy picked up the key.
+Lucy picked up the box.
+Lucy picked up the pen.
+Lucy dropped the pen.
+How many objects is Lucy holding? three
+
+Tom picked up the bag.
+Tom dropped the bag.
+Tom picked up the bag.
+Tom dropped the bag.
+How many objects is Tom holding? none
+
+Nina picked up the book.
+Nina picked up the ball.
+Nina picked up the key.
+Nina dropped the book.
+Nina dropped the ball.
+How many objects is Nina holding? one
+
+Bob picked up the shoe.
+Bob picked up the bottle.
+Bob picked up the ball.
+Bob dropped the bottle.
+How many objects is Bob holding? two
+
+Sam picked up the pen.
+Sam picked up the hat.
+Sam dropped the hat.
+Sam dropped the pen.
+Sam picked up the box.
+Sam picked up the bottle.
+How many objects is Sam holding? two
+
+Peter picked up the bag.
+Peter dropped the bag.
+Peter picked up the ball.
+How many objects is Peter holding? one
+
+Frank picked up the box.
+Frank picked up the pen.
+How many objects is Frank holding? two
+
+Bill picked up the pen.
+Bill picked up the bottle.
+Bill picked up the book.
+Bill picked up the milk.
+Bill dropped the pen.
+Bill picked up the bag.
+How many objects is Bill holding? four
+
+Rick picked up the pen.
+Rick picked up the book.
+Rick picked up the key.
+How many objects is Rick holding? three
+
+Ann picked up the ball.
+Ann picked up the hat.
+How many objects is Ann holding? two
+
+Frank picked up the hat.
+Frank picked up the ball.
+Frank picked up the shoe.
+Frank picked up the cup.
+Frank dropped the ball.
+How many objects is Frank holding? three
+
+Rick picked up the hat.
+Rick picked up the milk.
+Rick dropped the hat.
+Rick dropped the milk.
+Rick picked up the bottle.
+How many objects is Rick holding? one
+
+Eve picked up the apple.
+Eve picked up the box.
+Eve picked up the hat.
+Eve dropped the hat.
+Eve dropped the box.
+How many objects is Eve holding? one
+
+John picked up the shoe.
+John picked up the key.
+John picked up the bottle.
+John dropped the shoe.
+John picked up the ball.
+How many objects is John holding? three
+
+Alice picked up the apple.
+Alice dropped the apple.
+Alice picked up the book.
+Alice picked up the ball.
+How many objects is Alice holding? two
+
+Daniel picked up the bag.
+Daniel dropped the bag.
+Daniel picked up the box.
+Daniel dropped the box.
+How many objects is Daniel holding? none
+
+Nina picked up the key.
+Nina picked up the milk.
+How many objects is Nina holding? two
+
+Alice picked up the apple.
+Alice dropped the apple.
+Alice picked up the box.
+How many objects is Alice holding? one
+
+Peter picked up the box.
+Peter picked up the shoe.
+Peter dropped the shoe.
+Peter picked up the pen.
+How many objects is Peter holding? two
+
+Sandra picked up the bottle.
+Sandra dropped the bottle.
+How many objects is Sandra holding? none
+
+Fred picked up the bottle.
+Fred dropped the bottle.
+Fred picked up the milk.
+Fred picked up the apple.
+Fred dropped the apple.
+How many objects is Fred holding? one
+
+Mary picked up the shoe.
+Mary picked up the ball.
+Mary picked up the bag.
+Mary picked up the bottle.
+How many objects is Mary holding? four
+
+Sandra picked up the book.
+Sandra picked up the box.
+Sandra picked up the milk.
+How many objects is Sandra holding? three
+
+Rick picked up the pen.
+Rick dropped the pen.
+Rick picked up the bag.
+Rick picked up the pen.
+How many objects is Rick holding? two
+
+Bob picked up the book.
+Bob dropped the book.
+Bob picked up the hat.
+Bob dropped the hat.
+How many objects is Bob holding? none
+
+Ann picked up the bag.
+Ann picked up the hat.
+Ann picked up the box.
+Ann picked up the shoe.
+Ann dropped the hat.
+Ann picked up the apple.
+How many objects is Ann holding? four
+
+Sam picked up the milk.
+Sam dropped the milk.
+Sam picked up the box.
+How many objects is Sam holding? one
+
+Alice picked up the apple.
+Alice dropped the apple.
+Alice picked up the bag.
+Alice picked up the shoe.
+Alice picked up the cup.
+How many objects is Alice holding? three
+
+Mary picked up the pen.
+Mary picked up the apple.
+Mary picked up the bag.
+Mary dropped the pen.
+Mary picked up the key.
+How many objects is Mary holding? three
+
+Kate picked up the pen.
+Kate picked up the box.
+Kate dropped the box.
+Kate picked up the bag.
+How many objects is Kate holding? two
+
+Peter picked up the pen.
+Peter picked up the book.
+Peter picked up the box.
+How many objects is Peter holding? three
+
+Susan picked up the milk.
+Susan picked up the cup.
+Susan picked up the bottle.
+Susan picked up the box.
+Susan dropped the bottle.
+Susan dropped the cup.
+How many objects is Susan holding? two
+
+John picked up the bottle.
+John dropped the bottle.
+How many objects is John holding? none
+
+Lucy picked up the book.
+Lucy dropped the book.
+How many objects is Lucy holding? none
+
+Eve picked up the book.
+Eve dropped the book.
+Eve picked up the milk.
+Eve picked up the bag.
+Eve dropped the bag.
+How many objects is Eve holding? one
+
+Peter picked up the bag.
+Peter picked up the book.
+Peter picked up the key.
+Peter picked up the apple.
+How many objects is Peter holding? four
+
+Tom picked up the milk.
+Tom picked up the bag.
+How many objects is Tom holding? two
+
+Susan picked up the bottle.
+Susan dropped the bottle.
+Susan picked up the box.
+How many objects is Susan holding? one
+
+Rick picked up the bottle.
+Rick picked up the bag.
+Rick dropped the bag.
+How many objects is Rick holding? one
+
+Susan picked up the cup.
+Susan dropped the cup.
+Susan picked up the cup.
+Susan dropped the cup.
+Susan picked up the milk.
+Susan picked up the hat.
+How many objects is Susan holding? two
+
+Bill picked up the milk.
+Bill dropped the milk.
+Bill picked up the book.
+Bill picked up the ball.
+Bill dropped the book.
+How many objects is Bill holding? one
+
+Bill picked up the book.
+Bill picked up the box.
+Bill picked up the apple.
+Bill dropped the book.
+How many objects is Bill holding? two
+
+Kate picked up the key.
+Kate picked up the box.
+Kate picked up the apple.
+Kate picked up the ball.
+How many objects is Kate holding? four
+
+Bob picked up the bag.
+Bob dropped the bag.
+Bob picked up the apple.
+Bob dropped the apple.
+Bob picked up the apple.
+How many objects is Bob holding? one
+
+Bill picked up the shoe.
+Bill picked up the pen.
+Bill picked up the cup.
+How many objects is Bill holding? three
+
+Alice picked up the bag.
+Alice dropped the bag.
+How many objects is Alice holding? none
+
+Bob picked up the hat.
+Bob picked up the bag.
+Bob dropped the bag.
+Bob picked up the key.
+Bob picked up the box.
+Bob picked up the pen.
+How many objects is Bob holding? four
+
+Sam picked up the book.
+Sam picked up the shoe.
+Sam dropped the book.
+Sam picked up the box.
+How many objects is Sam holding? two
+
+Mary picked up the bottle.
+Mary dropped the bottle.
+Mary picked up the key.
+How many objects is Mary holding? one
+
+Nina picked up the bottle.
+Nina picked up the shoe.
+Nina picked up the cup.
+Nina dropped the bottle.
+Nina picked up the ball.
+How many objects is Nina holding? three
+
+Bob picked up the apple.
+Bob picked up the bottle.
+Bob picked up the book.
+Bob picked up the ball.
+How many objects is Bob holding? four
+
+Nina picked up the cup.
+Nina dropped the cup.
+Nina picked up the bag.
+Nina picked up the hat.
+How many objects is Nina holding? two
+
+Daniel picked up the apple.
+Daniel picked up the bottle.
+Daniel dropped the apple.
+Daniel picked up the key.
+Daniel picked up the cup.
+How many objects is Daniel holding? three
+
+John picked up the ball.
+John dropped the ball.
+John picked up the hat.
+John dropped the hat.
+How many objects is John holding? none
+
+Sam picked up the bottle.
+Sam dropped the bottle.
+Sam picked up the shoe.
+Sam dropped the shoe.
+How many objects is Sam holding? none
+
+Rick picked up the shoe.
+Rick picked up the key.
+Rick dropped the shoe.
+Rick dropped the key.
+Rick picked up the cup.
+Rick picked up the book.
+How many objects is Rick holding? two
+
+Rick picked up the book.
+Rick dropped the book.
+Rick picked up the apple.
+How many objects is Rick holding? one
+
+Peter picked up the pen.
+Peter picked up the book.
+Peter picked up the hat.
+How many objects is Peter holding? three
+
+Peter picked up the book.
+Peter picked up the milk.
+Peter picked up the key.
+How many objects is Peter holding? three
+
+Peter picked up the milk.
+Peter dropped the milk.
+Peter picked up the hat.
+Peter picked up the bag.
+How many objects is Peter holding? two
+
+Eve picked up the key.
+Eve picked up the ball.
+Eve picked up the cup.
+How many objects is Eve holding? three
+
+David picked up the bottle.
+David picked up the key.
+David picked up the pen.
+David dropped the key.
+How many objects is David holding? two
+
+Alice picked up the cup.
+Alice picked up the apple.
+Alice dropped the cup.
+Alice dropped the apple.
+Alice picked up the ball.
+How many objects is Alice holding? one
+
+Alice picked up the ball.
+Alice picked up the key.
+Alice picked up the milk.
+Alice dropped the ball.
+How many objects is Alice holding? two
+
+Nina picked up the milk.
+Nina picked up the bottle.
+Nina dropped the bottle.
+How many objects is Nina holding? one
+
+Lucy picked up the hat.
+Lucy dropped the hat.
+Lucy picked up the ball.
+Lucy picked up the book.
+How many objects is Lucy holding? two
+
+Mary picked up the bottle.
+Mary picked up the pen.
+Mary picked up the key.
+Mary picked up the milk.
+Mary dropped the key.
+Mary picked up the bag.
+How many objects is Mary holding? four
+
+Frank picked up the cup.
+Frank picked up the book.
+Frank picked up the ball.
+Frank dropped the ball.
+Frank dropped the cup.
+Frank picked up the box.
+How many objects is Frank holding? two
+
+Rick picked up the key.
+Rick picked up the apple.
+How many objects is Rick holding? two
+
+Rick picked up the bottle.
+Rick picked up the box.
+How many objects is Rick holding? two
+
+Sandra picked up the cup.
+Sandra picked up the hat.
+Sandra picked up the book.
+Sandra picked up the box.
+How many objects is Sandra holding? four
+
+Bill picked up the bottle.
+Bill dropped the bottle.
+How many objects is Bill holding? none
+
+Ann picked up the apple.
+Ann picked up the book.
+Ann picked up the milk.
+How many objects is Ann holding? three
+
+Lucy picked up the box.
+Lucy dropped the box.
+Lucy picked up the pen.
+Lucy dropped the pen.
+Lucy picked up the cup.
+Lucy picked up the box.
+How many objects is Lucy holding? two
+
+Nina picked up the cup.
+Nina dropped the cup.
+Nina picked up the apple.
+How many objects is Nina holding? one
+
+Mary picked up the bag.
+Mary dropped the bag.
+Mary picked up the hat.
+Mary picked up the shoe.
+Mary picked up the cup.
+Mary picked up the book.
+How many objects is Mary holding? four
+
+Sam picked up the shoe.
+Sam picked up the book.
+Sam dropped the shoe.
+Sam picked up the apple.
+Sam picked up the pen.
+Sam picked up the box.
+How many objects is Sam holding? four
+
+Ann picked up the book.
+Ann picked up the milk.
+Ann dropped the book.
+Ann dropped the milk.
+Ann picked up the pen.
+Ann dropped the pen.
+How many objects is Ann holding? none
+
+Sam picked up the hat.
+Sam picked up the book.
+Sam dropped the book.
+Sam picked up the pen.
+Sam picked up the box.
+Sam picked up the apple.
+How many objects is Sam holding? four
+
+Tom picked up the milk.
+Tom dropped the milk.
+Tom picked up the milk.
+Tom picked up the cup.
+Tom picked up the ball.
+How many objects is Tom holding? three
+
+Tom picked up the box.
+Tom picked up the milk.
+Tom picked up the bag.
+Tom dropped the bag.
+Tom picked up the bag.
+Tom dropped the box.
+How many objects is Tom holding? two
+
+Sam picked up the milk.
+Sam picked up the box.
+How many objects is Sam holding? two
+
+Nina picked up the shoe.
+Nina picked up the ball.
+Nina dropped the ball.
+Nina picked up the book.
+Nina picked up the cup.
+How many objects is Nina holding? three
+
+Bob picked up the bag.
+Bob dropped the bag.
+Bob picked up the pen.
+Bob picked up the shoe.
+Bob picked up the milk.
+Bob picked up the bag.
+How many objects is Bob holding? four
+
+Nina picked up the hat.
+Nina picked up the milk.
+Nina dropped the hat.
+Nina picked up the apple.
+Nina picked up the book.
+Nina picked up the cup.
+How many objects is Nina holding? four
+
+Bob picked up the bag.
+Bob dropped the bag.
+Bob picked up the milk.
+Bob picked up the key.
+Bob dropped the milk.
+Bob picked up the bottle.
+How many objects is Bob holding? two
+
+Daniel picked up the box.
+Daniel picked up the milk.
+Daniel picked up the hat.
+Daniel picked up the bag.
+Daniel dropped the bag.
+How many objects is Daniel holding? three
+
+Ann picked up the apple.
+Ann picked up the bottle.
+Ann picked up the bag.
+Ann dropped the bottle.
+How many objects is Ann holding? two
+
+Daniel picked up the key.
+Daniel picked up the milk.
+Daniel picked up the book.
+Daniel picked up the hat.
+How many objects is Daniel holding? four
+
+Susan picked up the bottle.
+Susan picked up the ball.
+Susan picked up the bag.
+Susan picked up the shoe.
+How many objects is Susan holding? four
+
+Ann picked up the hat.
+Ann picked up the milk.
+Ann picked up the apple.
+Ann picked up the shoe.
+How many objects is Ann holding? four
+
+Alice picked up the book.
+Alice picked up the pen.
+How many objects is Alice holding? two
+
+Alice picked up the milk.
+Alice dropped the milk.
+Alice picked up the cup.
+How many objects is Alice holding? one
+
+John picked up the milk.
+John picked up the book.
+John picked up the bottle.
+John picked up the ball.
+How many objects is John holding? four
+
+Nina picked up the box.
+Nina picked up the milk.
+Nina picked up the apple.
+Nina dropped the milk.
+How many objects is Nina holding? two
+
+Sandra picked up the bag.
+Sandra dropped the bag.
+Sandra picked up the milk.
+Sandra picked up the pen.
+How many objects is Sandra holding? two
+
+Eve picked up the apple.
+Eve picked up the cup.
+Eve picked up the pen.
+How many objects is Eve holding? three
+
+David picked up the bottle.
+David dropped the bottle.
+David picked up the shoe.
+David picked up the hat.
+David picked up the pen.
+David picked up the apple.
+How many objects is David holding? four
+
+Peter picked up the shoe.
+Peter picked up the milk.
+How many objects is Peter holding? two
+
+Sandra picked up the box.
+Sandra picked up the ball.
+Sandra picked up the key.
+Sandra dropped the box.
+Sandra dropped the key.
+Sandra dropped the ball.
+How many objects is Sandra holding? none
+
+Sandra picked up the ball.
+Sandra dropped the ball.
+Sandra picked up the key.
+Sandra dropped the key.
+How many objects is Sandra holding? none
+
+Rick picked up the hat.
+Rick picked up the apple.
+Rick picked up the box.
+Rick picked up the pen.
+How many objects is Rick holding? four
+
+Daniel picked up the pen.
+Daniel picked up the book.
+Daniel picked up the bottle.
+Daniel picked up the apple.
+How many objects is Daniel holding? four
+
+Tom picked up the bottle.
+Tom picked up the bag.
+Tom picked up the cup.
+How many objects is Tom holding? three
+
+Alice picked up the apple.
+Alice dropped the apple.
+How many objects is Alice holding? none
+
+Lucy picked up the bottle.
+Lucy picked up the ball.
+Lucy dropped the bottle.
+Lucy picked up the box.
+How many objects is Lucy holding? two
+
+Sam picked up the pen.
+Sam picked up the apple.
+Sam dropped the apple.
+Sam picked up the key.
+Sam picked up the shoe.
+Sam picked up the apple.
+How many objects is Sam holding? four
+
+Susan picked up the shoe.
+Susan picked up the bottle.
+Susan picked up the hat.
+Susan picked up the box.
+Susan dropped the shoe.
+Susan picked up the cup.
+How many objects is Susan holding? four
+
+Eve picked up the hat.
+Eve picked up the box.
+Eve picked up the cup.
+Eve dropped the hat.
+Eve dropped the box.
+Eve picked up the key.
+How many objects is Eve holding? two
+
+Bob picked up the bag.
+Bob picked up the shoe.
+Bob picked up the box.
+Bob dropped the box.
+How many objects is Bob holding? two
+
+David picked up the pen.
+David picked up the bag.
+David dropped the bag.
+David picked up the hat.
+How many objects is David holding? two
+
+Sandra picked up the pen.
+Sandra dropped the pen.
+Sandra picked up the hat.
+How many objects is Sandra holding? one
+
+Bill picked up the apple.
+Bill picked up the milk.
+How many objects is Bill holding? two
+
+Eve picked up the pen.
+Eve picked up the shoe.
+Eve picked up the book.
+How many objects is Eve holding? three
+
+Rick picked up the book.
+Rick picked up the hat.
+Rick picked up the bag.
+Rick dropped the book.
+Rick picked up the bottle.
+Rick dropped the bottle.
+How many objects is Rick holding? two
+
+Sam picked up the cup.
+Sam dropped the cup.
+Sam picked up the ball.
+How many objects is Sam holding? one
+
+Tom picked up the pen.
+Tom picked up the box.
+How many objects is Tom holding? two
+
+Tom picked up the milk.
+Tom picked up the bag.
+Tom dropped the milk.
+Tom picked up the pen.
+Tom dropped the bag.
+Tom picked up the shoe.
+How many objects is Tom holding? two
+
+David picked up the bottle.
+David picked up the book.
+David picked up the pen.
+David picked up the hat.
+David picked up the apple.
+David dropped the apple.
+How many objects is David holding? four
+
+Sam picked up the bottle.
+Sam picked up the key.
+Sam picked up the ball.
+How many objects is Sam holding? three
+
+Nina picked up the box.
+Nina picked up the pen.
+Nina picked up the bottle.
+How many objects is Nina holding? three
+
+Mary picked up the cup.
+Mary dropped the cup.
+Mary picked up the apple.
+Mary picked up the box.
+How many objects is Mary holding? two
+
+Frank picked up the box.
+Frank picked up the bag.
+Frank picked up the hat.
+Frank dropped the hat.
+How many objects is Frank holding? two
+
+David picked up the key.
+David picked up the shoe.
+David picked up the pen.
+David picked up the apple.
+How many objects is David holding? four
+
+Peter picked up the shoe.
+Peter dropped the shoe.
+How many objects is Peter holding? none
+
+Bob picked up the bottle.
+Bob picked up the key.
+Bob picked up the book.
+Bob picked up the cup.
+Bob dropped the bottle.
+How many objects is Bob holding? three
+
+Peter picked up the bottle.
+Peter picked up the key.
+Peter dropped the key.
+Peter picked up the pen.
+Peter dropped the bottle.
+Peter picked up the cup.
+How many objects is Peter holding? two
+
+Peter picked up the bottle.
+Peter picked up the ball.
+How many objects is Peter holding? two
+
+Peter picked up the ball.
+Peter picked up the pen.
+Peter dropped the ball.
+How many objects is Peter holding? one
+
+Sandra picked up the ball.
+Sandra picked up the key.
+Sandra dropped the ball.
+Sandra picked up the book.
+Sandra picked up the box.
+Sandra dropped the book.
+How many objects is Sandra holding? two
+
+Fred picked up the ball.
+Fred picked up the shoe.
+How many objects is Fred holding? two
+
+Kate picked up the apple.
+Kate picked up the box.
+Kate picked up the pen.
+Kate picked up the bottle.
+How many objects is Kate holding? four
+
+Lucy picked up the bottle.
+Lucy picked up the key.
+Lucy dropped the key.
+Lucy picked up the milk.
+Lucy dropped the milk.
+How many objects is Lucy holding? one
+
+Eve picked up the box.
+Eve picked up the bottle.
+How many objects is Eve holding? two
+
+Mary picked up the cup.
+Mary picked up the key.
+How many objects is Mary holding? two
+
+Ann picked up the apple.
+Ann dropped the apple.
+Ann picked up the ball.
+Ann picked up the hat.
+Ann picked up the book.
+Ann picked up the pen.
+How many objects is Ann holding? four
+
+Ann picked up the milk.
+Ann picked up the apple.
+Ann picked up the cup.
+Ann picked up the bag.
+How many objects is Ann holding? four
+
+Sandra picked up the milk.
+Sandra dropped the milk.
+Sandra picked up the shoe.
+Sandra picked up the bag.
+Sandra picked up the hat.
+Sandra picked up the ball.
+How many objects is Sandra holding? four
+
+Lucy picked up the pen.
+Lucy picked up the book.
+Lucy picked up the box.
+Lucy picked up the bottle.
+Lucy picked up the milk.
+Lucy dropped the bottle.
+How many objects is Lucy holding? four
+
+Mary picked up the apple.
+Mary picked up the ball.
+Mary picked up the milk.
+Mary picked up the bottle.
+How many objects is Mary holding? four
+
+Susan picked up the shoe.
+Susan picked up the bottle.
+Susan picked up the cup.
+Susan dropped the shoe.
+Susan picked up the milk.
+How many objects is Susan holding? three
+
+Mary picked up the apple.
+Mary picked up the hat.
+How many objects is Mary holding? two
+
+David picked up the pen.
+David picked up the cup.
+David picked up the box.
+David picked up the milk.
+How many objects is David holding? four
+
+Alice picked up the hat.
+Alice dropped the hat.
+How many objects is Alice holding? none
+
+Alice picked up the bottle.
+Alice dropped the bottle.
+Alice picked up the hat.
+Alice dropped the hat.
+Alice picked up the box.
+Alice dropped the box.
+How many objects is Alice holding? none
+
+Alice picked up the bottle.
+Alice picked up the hat.
+Alice dropped the hat.
+Alice dropped the bottle.
+How many objects is Alice holding? none
+
+Lucy picked up the bag.
+Lucy picked up the hat.
+Lucy picked up the shoe.
+Lucy picked up the key.
+How many objects is Lucy holding? four
+
+Bill picked up the key.
+Bill dropped the key.
+Bill picked up the box.
+Bill picked up the milk.
+Bill picked up the hat.
+How many objects is Bill holding? three
+
+Sam picked up the apple.
+Sam dropped the apple.
+Sam picked up the key.
+How many objects is Sam holding? one
+
+Bob picked up the cup.
+Bob dropped the cup.
+Bob picked up the ball.
+How many objects is Bob holding? one
+
+Bill picked up the book.
+Bill dropped the book.
+How many objects is Bill holding? none
+
+Alice picked up the shoe.
+Alice picked up the bag.
+Alice picked up the cup.
+Alice dropped the shoe.
+Alice dropped the cup.
+Alice picked up the milk.
+How many objects is Alice holding? two
+
+Susan picked up the pen.
+Susan dropped the pen.
+Susan picked up the apple.
+How many objects is Susan holding? one
+
+Bill picked up the key.
+Bill picked up the bag.
+Bill dropped the key.
+How many objects is Bill holding? one
+
+Bob picked up the hat.
+Bob picked up the bag.
+Bob picked up the box.
+Bob picked up the ball.
+How many objects is Bob holding? four
+
+Sam picked up the box.
+Sam dropped the box.
+Sam picked up the box.
+How many objects is Sam holding? one
+
+Lucy picked up the shoe.
+Lucy picked up the pen.
+How many objects is Lucy holding? two
+
+Bob picked up the pen.
+Bob dropped the pen.
+Bob picked up the pen.
+How many objects is Bob holding? one
+
+Susan picked up the ball.
+Susan picked up the bag.
+How many objects is Susan holding? two
+
+Rick picked up the pen.
+Rick picked up the shoe.
+Rick picked up the box.
+Rick picked up the ball.
+Rick dropped the box.
+Rick picked up the hat.
+How many objects is Rick holding? four
+
+Bill picked up the cup.
+Bill dropped the cup.
+Bill picked up the milk.
+Bill picked up the key.
+How many objects is Bill holding? two
+
+Nina picked up the book.
+Nina dropped the book.
+Nina picked up the pen.
+How many objects is Nina holding? one
+
+Ann picked up the shoe.
+Ann picked up the bag.
+Ann dropped the bag.
+How many objects is Ann holding? one
+
+Nina picked up the hat.
+Nina picked up the box.
+How many objects is Nina holding? two
+
+Sam picked up the apple.
+Sam picked up the book.
+How many objects is Sam holding? two
+
+Bill picked up the apple.
+Bill dropped the apple.
+How many objects is Bill holding? none
+
+Nina picked up the bottle.
+Nina picked up the pen.
+Nina picked up the box.
+Nina picked up the book.
+How many objects is Nina holding? four
+
+Alice picked up the box.
+Alice dropped the box.
+Alice picked up the bag.
+Alice picked up the shoe.
+Alice dropped the shoe.
+How many objects is Alice holding? one
+
+Daniel picked up the shoe.
+Daniel picked up the key.
+Daniel picked up the box.
+Daniel picked up the pen.
+How many objects is Daniel holding? four
+
+Mary picked up the key.
+Mary dropped the key.
+Mary picked up the milk.
+Mary picked up the pen.
+Mary picked up the box.
+How many objects is Mary holding? three
+
+Alice picked up the pen.
+Alice dropped the pen.
+Alice picked up the bag.
+How many objects is Alice holding? one
+
+Bob picked up the bag.
+Bob dropped the bag.
+Bob picked up the hat.
+Bob picked up the apple.
+How many objects is Bob holding? two
+
+Nina picked up the cup.
+Nina picked up the box.
+How many objects is Nina holding? two
+
+Tom picked up the pen.
+Tom picked up the bottle.
+How many objects is Tom holding? two
+
+Frank picked up the hat.
+Frank dropped the hat.
+Frank picked up the box.
+Frank dropped the box.
+Frank picked up the milk.
+Frank picked up the hat.
+How many objects is Frank holding? two
+
+Eve picked up the apple.
+Eve dropped the apple.
+How many objects is Eve holding? none
+
+Daniel picked up the bag.
+Daniel picked up the hat.
+Daniel picked up the key.
+Daniel picked up the ball.
+How many objects is Daniel holding? four
+
+John picked up the cup.
+John dropped the cup.
+How many objects is John holding? none
+
+Ann picked up the bottle.
+Ann dropped the bottle.
+Ann picked up the bag.
+Ann picked up the ball.
+Ann picked up the hat.
+How many objects is Ann holding? three
+
+Sandra picked up the key.
+Sandra dropped the key.
+How many objects is Sandra holding? none
+
+Peter picked up the book.
+Peter dropped the book.
+Peter picked up the apple.
+Peter picked up the bottle.
+How many objects is Peter holding? two
+
+Frank picked up the book.
+Frank picked up the bag.
+Frank dropped the bag.
+Frank picked up the shoe.
+How many objects is Frank holding? two
+
+Kate picked up the hat.
+Kate picked up the milk.
+Kate picked up the bag.
+Kate dropped the hat.
+Kate picked up the pen.
+How many objects is Kate holding? three
+
+Eve picked up the book.
+Eve dropped the book.
+Eve picked up the hat.
+Eve dropped the hat.
+How many objects is Eve holding? none
+
+Bob picked up the cup.
+Bob picked up the key.
+How many objects is Bob holding? two
+
+Mary picked up the key.
+Mary picked up the bottle.
+Mary picked up the bag.
+How many objects is Mary holding? three
+
+Peter picked up the bottle.
+Peter picked up the milk.
+Peter dropped the milk.
+Peter dropped the bottle.
+How many objects is Peter holding? none
+
+John picked up the ball.
+John picked up the pen.
+How many objects is John holding? two
+
+Sam picked up the cup.
+Sam picked up the key.
+Sam picked up the bottle.
+Sam picked up the shoe.
+Sam dropped the bottle.
+Sam picked up the box.
+How many objects is Sam holding? four
+
+John picked up the cup.
+John dropped the cup.
+John picked up the cup.
+John picked up the bag.
+John dropped the cup.
+How many objects is John holding? one
+
+Sam picked up the bag.
+Sam dropped the bag.
+Sam picked up the apple.
+How many objects is Sam holding? one
+
+Peter picked up the bag.
+Peter picked up the bottle.
+How many objects is Peter holding? two
+
+John picked up the bottle.
+John dropped the bottle.
+John picked up the apple.
+How many objects is John holding? one
+
+Lucy picked up the book.
+Lucy picked up the key.
+Lucy dropped the key.
+Lucy dropped the book.
+How many objects is Lucy holding? none
+
+John picked up the shoe.
+John picked up the milk.
+How many objects is John holding? two
+
+Mary picked up the apple.
+Mary picked up the box.
+Mary dropped the apple.
+How many objects is Mary holding? one
+
+Alice picked up the shoe.
+Alice picked up the apple.
+How many objects is Alice holding? two
+
+Eve picked up the bottle.
+Eve picked up the hat.
+Eve dropped the hat.
+How many objects is Eve holding? one
+
+Susan picked up the hat.
+Susan picked up the box.
+Susan dropped the hat.
+How many objects is Susan holding? one
+
+John picked up the pen.
+John picked up the apple.
+John picked up the hat.
+How many objects is John holding? three
+
+Ann picked up the apple.
+Ann picked up the cup.
+Ann picked up the ball.
+Ann picked up the milk.
+How many objects is Ann holding? four
+
+Eve picked up the hat.
+Eve dropped the hat.
+Eve picked up the bag.
+Eve picked up the ball.
+Eve picked up the cup.
+How many objects is Eve holding? three
+
+John picked up the apple.
+John dropped the apple.
+John picked up the book.
+John picked up the pen.
+John picked up the hat.
+How many objects is John holding? three
+
+David picked up the apple.
+David dropped the apple.
+David picked up the ball.
+David picked up the key.
+David picked up the pen.
+David picked up the bag.
+How many objects is David holding? four
+
+Tom picked up the bag.
+Tom dropped the bag.
+Tom picked up the cup.
+Tom picked up the shoe.
+Tom picked up the ball.
+Tom picked up the apple.
+How many objects is Tom holding? four
+
+Sandra picked up the ball.
+Sandra dropped the ball.
+Sandra picked up the ball.
+Sandra picked up the bottle.
+How many objects is Sandra holding? two
+
+Nina picked up the key.
+Nina picked up the apple.
+How many objects is Nina holding? two
+
+Peter picked up the shoe.
+Peter dropped the shoe.
+Peter picked up the bottle.
+How many objects is Peter holding? one
+
+David picked up the cup.
+David dropped the cup.
+David picked up the cup.
+David picked up the milk.
+David picked up the apple.
+How many objects is David holding? three
+
+Bob picked up the bottle.
+Bob picked up the pen.
+Bob dropped the pen.
+Bob picked up the ball.
+Bob dropped the bottle.
+How many objects is Bob holding? one
+
+Frank picked up the bottle.
+Frank picked up the apple.
+Frank picked up the milk.
+How many objects is Frank holding? three
+
+Daniel picked up the hat.
+Daniel dropped the hat.
+How many objects is Daniel holding? none

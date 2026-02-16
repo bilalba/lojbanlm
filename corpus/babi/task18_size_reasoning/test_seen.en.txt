@@ -1,0 +1,799 @@
+The box fits in the shoe.
+The shoe fits in the bag.
+Will the shoe fit in the bag? yes
+
+The shoe fits in the ball.
+The ball fits in the hat.
+Will the hat fit in the shoe? no
+
+The milk fits in the pen.
+The pen fits in the hat.
+Will the pen fit in the hat? yes
+
+The hat fits in the box.
+The box fits in the milk.
+Will the hat fit in the milk? yes
+
+The bag fits in the pen.
+The pen fits in the box.
+Will the bag fit in the box? yes
+
+The cup fits in the book.
+The book fits in the box.
+Will the book fit in the box? yes
+
+The key fits in the bag.
+The bag fits in the bottle.
+Will the bottle fit in the key? no
+
+The bottle fits in the hat.
+The hat fits in the milk.
+Will the bottle fit in the milk? yes
+
+The pen fits in the cup.
+The cup fits in the hat.
+Will the pen fit in the hat? yes
+
+The ball fits in the apple.
+The apple fits in the bottle.
+Will the bottle fit in the ball? no
+
+The ball fits in the cup.
+The cup fits in the apple.
+Will the cup fit in the apple? yes
+
+The box fits in the bottle.
+The bottle fits in the hat.
+Will the bottle fit in the hat? yes
+
+The pen fits in the bag.
+The bag fits in the shoe.
+Will the pen fit in the shoe? yes
+
+The shoe fits in the bottle.
+The bottle fits in the hat.
+Will the hat fit in the shoe? no
+
+The apple fits in the shoe.
+The shoe fits in the book.
+Will the apple fit in the book? yes
+
+The hat fits in the key.
+The key fits in the apple.
+Will the hat fit in the apple? yes
+
+The box fits in the hat.
+The hat fits in the key.
+Will the key fit in the box? no
+
+The apple fits in the milk.
+The milk fits in the box.
+Will the milk fit in the box? yes
+
+The shoe fits in the bottle.
+The bottle fits in the box.
+Will the bottle fit in the box? yes
+
+The shoe fits in the box.
+The box fits in the cup.
+Will the shoe fit in the cup? yes
+
+The milk fits in the box.
+The box fits in the cup.
+Will the box fit in the cup? yes
+
+The apple fits in the pen.
+The pen fits in the box.
+Will the pen fit in the box? yes
+
+The milk fits in the book.
+The book fits in the hat.
+Will the hat fit in the milk? no
+
+The apple fits in the key.
+The key fits in the hat.
+Will the key fit in the hat? yes
+
+The hat fits in the bag.
+The bag fits in the book.
+Will the bag fit in the book? yes
+
+The key fits in the hat.
+The hat fits in the ball.
+Will the hat fit in the ball? yes
+
+The hat fits in the book.
+The book fits in the milk.
+Will the book fit in the milk? yes
+
+The cup fits in the box.
+The box fits in the hat.
+Will the box fit in the hat? yes
+
+The hat fits in the ball.
+The ball fits in the cup.
+Will the ball fit in the cup? yes
+
+The book fits in the box.
+The box fits in the pen.
+Will the pen fit in the book? no
+
+The box fits in the ball.
+The ball fits in the bag.
+Will the box fit in the bag? yes
+
+The pen fits in the bag.
+The bag fits in the cup.
+Will the cup fit in the pen? no
+
+The hat fits in the cup.
+The cup fits in the pen.
+Will the cup fit in the pen? yes
+
+The key fits in the apple.
+The apple fits in the bag.
+Will the bag fit in the key? no
+
+The book fits in the pen.
+The pen fits in the cup.
+Will the pen fit in the cup? yes
+
+The box fits in the book.
+The book fits in the bottle.
+Will the book fit in the bottle? yes
+
+The shoe fits in the bag.
+The bag fits in the book.
+Will the shoe fit in the book? yes
+
+The cup fits in the apple.
+The apple fits in the book.
+Will the cup fit in the book? yes
+
+The cup fits in the pen.
+The pen fits in the hat.
+Will the pen fit in the hat? yes
+
+The ball fits in the bottle.
+The bottle fits in the key.
+Will the key fit in the ball? no
+
+The shoe fits in the hat.
+The hat fits in the ball.
+Will the hat fit in the ball? yes
+
+The bottle fits in the key.
+The key fits in the ball.
+Will the ball fit in the bottle? no
+
+The shoe fits in the pen.
+The pen fits in the hat.
+Will the hat fit in the shoe? no
+
+The box fits in the apple.
+The apple fits in the milk.
+Will the milk fit in the box? no
+
+The box fits in the bag.
+The bag fits in the milk.
+Will the box fit in the milk? yes
+
+The shoe fits in the apple.
+The apple fits in the bag.
+Will the apple fit in the bag? yes
+
+The hat fits in the cup.
+The cup fits in the box.
+Will the hat fit in the box? yes
+
+The pen fits in the hat.
+The hat fits in the milk.
+Will the milk fit in the pen? no
+
+The pen fits in the box.
+The box fits in the key.
+Will the box fit in the key? yes
+
+The bottle fits in the cup.
+The cup fits in the book.
+Will the book fit in the bottle? no
+
+The bottle fits in the pen.
+The pen fits in the box.
+Will the pen fit in the box? yes
+
+The book fits in the cup.
+The cup fits in the bottle.
+Will the bottle fit in the book? no
+
+The hat fits in the book.
+The book fits in the bottle.
+Will the bottle fit in the hat? no
+
+The hat fits in the ball.
+The ball fits in the box.
+Will the box fit in the hat? no
+
+The bottle fits in the key.
+The key fits in the milk.
+Will the bottle fit in the milk? yes
+
+The cup fits in the milk.
+The milk fits in the bottle.
+Will the bottle fit in the cup? no
+
+The ball fits in the book.
+The book fits in the bag.
+Will the book fit in the bag? yes
+
+The bag fits in the book.
+The book fits in the ball.
+Will the book fit in the ball? yes
+
+The hat fits in the book.
+The book fits in the pen.
+Will the book fit in the pen? yes
+
+The cup fits in the key.
+The key fits in the bag.
+Will the key fit in the bag? yes
+
+The pen fits in the hat.
+The hat fits in the milk.
+Will the hat fit in the milk? yes
+
+The key fits in the shoe.
+The shoe fits in the box.
+Will the shoe fit in the box? yes
+
+The cup fits in the key.
+The key fits in the hat.
+Will the hat fit in the cup? no
+
+The hat fits in the bag.
+The bag fits in the shoe.
+Will the shoe fit in the hat? no
+
+The ball fits in the key.
+The key fits in the milk.
+Will the milk fit in the ball? no
+
+The shoe fits in the box.
+The box fits in the bag.
+Will the shoe fit in the bag? yes
+
+The key fits in the bottle.
+The bottle fits in the cup.
+Will the cup fit in the key? no
+
+The cup fits in the bottle.
+The bottle fits in the hat.
+Will the cup fit in the hat? yes
+
+The shoe fits in the bottle.
+The bottle fits in the ball.
+Will the bottle fit in the ball? yes
+
+The key fits in the apple.
+The apple fits in the ball.
+Will the key fit in the ball? yes
+
+The pen fits in the hat.
+The hat fits in the ball.
+Will the hat fit in the ball? yes
+
+The ball fits in the bottle.
+The bottle fits in the milk.
+Will the ball fit in the milk? yes
+
+The shoe fits in the apple.
+The apple fits in the pen.
+Will the apple fit in the pen? yes
+
+The milk fits in the book.
+The book fits in the bag.
+Will the bag fit in the milk? no
+
+The book fits in the apple.
+The apple fits in the milk.
+Will the apple fit in the milk? yes
+
+The milk fits in the bottle.
+The bottle fits in the hat.
+Will the hat fit in the milk? no
+
+The shoe fits in the key.
+The key fits in the bottle.
+Will the key fit in the bottle? yes
+
+The hat fits in the key.
+The key fits in the bag.
+Will the hat fit in the bag? yes
+
+The ball fits in the bag.
+The bag fits in the book.
+Will the bag fit in the book? yes
+
+The pen fits in the milk.
+The milk fits in the apple.
+Will the milk fit in the apple? yes
+
+The pen fits in the book.
+The book fits in the shoe.
+Will the shoe fit in the pen? no
+
+The ball fits in the cup.
+The cup fits in the hat.
+Will the cup fit in the hat? yes
+
+The bottle fits in the key.
+The key fits in the shoe.
+Will the bottle fit in the shoe? yes
+
+The apple fits in the key.
+The key fits in the cup.
+Will the apple fit in the cup? yes
+
+The hat fits in the bottle.
+The bottle fits in the book.
+Will the bottle fit in the book? yes
+
+The apple fits in the bag.
+The bag fits in the bottle.
+Will the apple fit in the bottle? yes
+
+The pen fits in the bottle.
+The bottle fits in the cup.
+Will the pen fit in the cup? yes
+
+The book fits in the shoe.
+The shoe fits in the cup.
+Will the shoe fit in the cup? yes
+
+The milk fits in the apple.
+The apple fits in the box.
+Will the milk fit in the box? yes
+
+The ball fits in the pen.
+The pen fits in the bottle.
+Will the pen fit in the bottle? yes
+
+The box fits in the apple.
+The apple fits in the ball.
+Will the ball fit in the box? no
+
+The pen fits in the key.
+The key fits in the hat.
+Will the pen fit in the hat? yes
+
+The box fits in the key.
+The key fits in the pen.
+Will the box fit in the pen? yes
+
+The ball fits in the apple.
+The apple fits in the pen.
+Will the pen fit in the ball? no
+
+The ball fits in the milk.
+The milk fits in the cup.
+Will the cup fit in the ball? no
+
+The cup fits in the book.
+The book fits in the key.
+Will the book fit in the key? yes
+
+The box fits in the bottle.
+The bottle fits in the hat.
+Will the box fit in the hat? yes
+
+The box fits in the shoe.
+The shoe fits in the milk.
+Will the box fit in the milk? yes
+
+The bag fits in the ball.
+The ball fits in the cup.
+Will the ball fit in the cup? yes
+
+The hat fits in the milk.
+The milk fits in the book.
+Will the book fit in the hat? no
+
+The key fits in the book.
+The book fits in the box.
+Will the book fit in the box? yes
+
+The cup fits in the apple.
+The apple fits in the shoe.
+Will the cup fit in the shoe? yes
+
+The pen fits in the hat.
+The hat fits in the key.
+Will the pen fit in the key? yes
+
+The pen fits in the cup.
+The cup fits in the ball.
+Will the ball fit in the pen? no
+
+The ball fits in the bag.
+The bag fits in the pen.
+Will the bag fit in the pen? yes
+
+The milk fits in the cup.
+The cup fits in the box.
+Will the milk fit in the box? yes
+
+The milk fits in the book.
+The book fits in the bag.
+Will the milk fit in the bag? yes
+
+The key fits in the hat.
+The hat fits in the bag.
+Will the key fit in the bag? yes
+
+The bottle fits in the ball.
+The ball fits in the milk.
+Will the ball fit in the milk? yes
+
+The bottle fits in the apple.
+The apple fits in the book.
+Will the apple fit in the book? yes
+
+The shoe fits in the ball.
+The ball fits in the cup.
+Will the shoe fit in the cup? yes
+
+The milk fits in the book.
+The book fits in the hat.
+Will the book fit in the hat? yes
+
+The bottle fits in the cup.
+The cup fits in the apple.
+Will the bottle fit in the apple? yes
+
+The ball fits in the book.
+The book fits in the box.
+Will the book fit in the box? yes
+
+The shoe fits in the box.
+The box fits in the ball.
+Will the box fit in the ball? yes
+
+The milk fits in the key.
+The key fits in the hat.
+Will the key fit in the hat? yes
+
+The hat fits in the milk.
+The milk fits in the cup.
+Will the milk fit in the cup? yes
+
+The bottle fits in the hat.
+The hat fits in the pen.
+Will the hat fit in the pen? yes
+
+The apple fits in the ball.
+The ball fits in the book.
+Will the book fit in the apple? no
+
+The shoe fits in the cup.
+The cup fits in the pen.
+Will the pen fit in the shoe? no
+
+The bottle fits in the shoe.
+The shoe fits in the bag.
+Will the bottle fit in the bag? yes
+
+The bag fits in the shoe.
+The shoe fits in the ball.
+Will the ball fit in the bag? no
+
+The cup fits in the shoe.
+The shoe fits in the bottle.
+Will the shoe fit in the bottle? yes
+
+The milk fits in the box.
+The box fits in the hat.
+Will the milk fit in the hat? yes
+
+The box fits in the shoe.
+The shoe fits in the cup.
+Will the shoe fit in the cup? yes
+
+The hat fits in the pen.
+The pen fits in the shoe.
+Will the hat fit in the shoe? yes
+
+The bottle fits in the ball.
+The ball fits in the bag.
+Will the ball fit in the bag? yes
+
+The shoe fits in the key.
+The key fits in the book.
+Will the book fit in the shoe? no
+
+The bottle fits in the ball.
+The ball fits in the shoe.
+Will the bottle fit in the shoe? yes
+
+The shoe fits in the hat.
+The hat fits in the apple.
+Will the hat fit in the apple? yes
+
+The bag fits in the hat.
+The hat fits in the box.
+Will the bag fit in the box? yes
+
+The pen fits in the bottle.
+The bottle fits in the bag.
+Will the bottle fit in the bag? yes
+
+The book fits in the shoe.
+The shoe fits in the box.
+Will the shoe fit in the box? yes
+
+The box fits in the book.
+The book fits in the ball.
+Will the ball fit in the box? no
+
+The shoe fits in the pen.
+The pen fits in the bottle.
+Will the shoe fit in the bottle? yes
+
+The pen fits in the bag.
+The bag fits in the ball.
+Will the bag fit in the ball? yes
+
+The key fits in the book.
+The book fits in the milk.
+Will the book fit in the milk? yes
+
+The key fits in the bag.
+The bag fits in the book.
+Will the bag fit in the book? yes
+
+The cup fits in the box.
+The box fits in the ball.
+Will the ball fit in the cup? no
+
+The bag fits in the box.
+The box fits in the shoe.
+Will the shoe fit in the bag? no
+
+The cup fits in the bag.
+The bag fits in the hat.
+Will the bag fit in the hat? yes
+
+The bag fits in the bottle.
+The bottle fits in the apple.
+Will the bag fit in the apple? yes
+
+The box fits in the cup.
+The cup fits in the key.
+Will the key fit in the box? no
+
+The cup fits in the shoe.
+The shoe fits in the pen.
+Will the pen fit in the cup? no
+
+The key fits in the bottle.
+The bottle fits in the cup.
+Will the key fit in the cup? yes
+
+The pen fits in the hat.
+The hat fits in the shoe.
+Will the shoe fit in the pen? no
+
+The box fits in the cup.
+The cup fits in the book.
+Will the box fit in the book? yes
+
+The key fits in the ball.
+The ball fits in the shoe.
+Will the ball fit in the shoe? yes
+
+The bag fits in the apple.
+The apple fits in the cup.
+Will the apple fit in the cup? yes
+
+The bottle fits in the milk.
+The milk fits in the book.
+Will the book fit in the bottle? no
+
+The pen fits in the shoe.
+The shoe fits in the bottle.
+Will the shoe fit in the bottle? yes
+
+The milk fits in the hat.
+The hat fits in the shoe.
+Will the hat fit in the shoe? yes
+
+The box fits in the apple.
+The apple fits in the key.
+Will the box fit in the key? yes
+
+The book fits in the hat.
+The hat fits in the apple.
+Will the hat fit in the apple? yes
+
+The apple fits in the ball.
+The ball fits in the box.
+Will the box fit in the apple? no
+
+The book fits in the milk.
+The milk fits in the cup.
+Will the book fit in the cup? yes
+
+The key fits in the shoe.
+The shoe fits in the book.
+Will the shoe fit in the book? yes
+
+The ball fits in the bottle.
+The bottle fits in the hat.
+Will the bottle fit in the hat? yes
+
+The pen fits in the key.
+The key fits in the hat.
+Will the hat fit in the pen? no
+
+The milk fits in the ball.
+The ball fits in the bag.
+Will the bag fit in the milk? no
+
+The key fits in the apple.
+The apple fits in the cup.
+Will the key fit in the cup? yes
+
+The cup fits in the ball.
+The ball fits in the book.
+Will the book fit in the cup? no
+
+The pen fits in the milk.
+The milk fits in the box.
+Will the milk fit in the box? yes
+
+The hat fits in the key.
+The key fits in the apple.
+Will the key fit in the apple? yes
+
+The key fits in the milk.
+The milk fits in the cup.
+Will the cup fit in the key? no
+
+The apple fits in the pen.
+The pen fits in the cup.
+Will the cup fit in the apple? no
+
+The box fits in the ball.
+The ball fits in the hat.
+Will the box fit in the hat? yes
+
+The milk fits in the apple.
+The apple fits in the book.
+Will the book fit in the milk? no
+
+The milk fits in the key.
+The key fits in the cup.
+Will the cup fit in the milk? no
+
+The ball fits in the key.
+The key fits in the apple.
+Will the apple fit in the ball? no
+
+The book fits in the bottle.
+The bottle fits in the apple.
+Will the bottle fit in the apple? yes
+
+The book fits in the bag.
+The bag fits in the box.
+Will the box fit in the book? no
+
+The key fits in the milk.
+The milk fits in the hat.
+Will the milk fit in the hat? yes
+
+The key fits in the bag.
+The bag fits in the hat.
+Will the key fit in the hat? yes
+
+The apple fits in the ball.
+The ball fits in the bag.
+Will the bag fit in the apple? no
+
+The ball fits in the box.
+The box fits in the pen.
+Will the box fit in the pen? yes
+
+The book fits in the hat.
+The hat fits in the bag.
+Will the bag fit in the book? no
+
+The hat fits in the shoe.
+The shoe fits in the apple.
+Will the shoe fit in the apple? yes
+
+The milk fits in the bag.
+The bag fits in the shoe.
+Will the milk fit in the shoe? yes
+
+The milk fits in the bag.
+The bag fits in the pen.
+Will the pen fit in the milk? no
+
+The milk fits in the book.
+The book fits in the bottle.
+Will the bottle fit in the milk? no
+
+The box fits in the shoe.
+The shoe fits in the bag.
+Will the box fit in the bag? yes
+
+The pen fits in the key.
+The key fits in the milk.
+Will the milk fit in the pen? no
+
+The book fits in the key.
+The key fits in the milk.
+Will the book fit in the milk? yes
+
+The apple fits in the shoe.
+The shoe fits in the bag.
+Will the bag fit in the apple? no
+
+The cup fits in the ball.
+The ball fits in the milk.
+Will the milk fit in the cup? no
+
+The box fits in the apple.
+The apple fits in the milk.
+Will the box fit in the milk? yes
+
+The hat fits in the milk.
+The milk fits in the pen.
+Will the pen fit in the hat? no
+
+The bag fits in the ball.
+The ball fits in the key.
+Will the bag fit in the key? yes
+
+The ball fits in the box.
+The box fits in the pen.
+Will the ball fit in the pen? yes
+
+The bag fits in the book.
+The book fits in the cup.
+Will the bag fit in the cup? yes
+
+The box fits in the bottle.
+The bottle fits in the book.
+Will the bottle fit in the book? yes
+
+The key fits in the bottle.
+The bottle fits in the bag.
+Will the bag fit in the key? no
+
+The bottle fits in the bag.
+The bag fits in the box.
+Will the box fit in the bottle? no
+
+The box fits in the bag.
+The bag fits in the hat.
+Will the hat fit in the box? no
+
+The cup fits in the bag.
+The bag fits in the pen.
+Will the cup fit in the pen? yes
+
+The pen fits in the bottle.
+The bottle fits in the shoe.
+Will the bottle fit in the shoe? yes
+
+The bottle fits in the milk.
+The milk fits in the book.
+Will the milk fit in the book? yes
+
+The pen fits in the milk.
+The milk fits in the book.
+Will the milk fit in the book? yes
+
+The shoe fits in the hat.
+The hat fits in the ball.
+Will the ball fit in the shoe? no

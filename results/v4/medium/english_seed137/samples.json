@@ -1,0 +1,402 @@
+[
+  {
+    "prompt": " did Tom go to the school? apple\n\nPeter went to the office.\nPeter got the milk.\nFred went to the restaurant.\nFred got the key.\nWhy",
+    "generated": " the playground.\nIs Peter in the garden? no\n\nBill went to the office.\nKate went to the garden.\nTom went to the bedroom.\nIs Tom in the studio? yes\n\nMary went to the park.\nFrank went to the kitchen.\nIs Daniel in the hallway? yes\n\nRick went to the kitchen.\nTom went to the restaurant.\nIs Daniel in the restaurant? no\n\nLucy went to the office.\nSusan went to the park.\nIs Alice in the bedroom? yes\n\nBob went to the studio.\nLucy went to the park.\nIs Kate in the bedroom? yes\n\nSandra went to the hallway.\nIs Bill in the studio",
+    "full": " did Tom go to the school? apple\n\nPeter went to the office.\nPeter got the milk.\nFred went to the restaurant.\nFred got the key.\nWhy the playground.\nIs Peter in the garden? no\n\nBill went to the office.\nKate went to the garden.\nTom went to the bedroom.\nIs Tom in the studio? yes\n\nMary went to the park.\nFrank went to the kitchen.\nIs Daniel in the hallway? yes\n\nRick went to the kitchen.\nTom went to the restaurant.\nIs Daniel in the restaurant? no\n\nLucy went to the office.\nSusan went to the park.\nIs Alice in the bedroom? yes\n\nBob went to the studio.\nLucy went to the park.\nIs Kate in the bedroom? yes\n\nSandra went to the hallway.\nIs Bill in the studio",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " studio.\nBill got the cup.\nWhy did Bill go to the studio? cup\n\nAnn went to the studio.\nAnn got the book.\nTom went to the",
+    "generated": " hallway.\nWhere is Nina? playground\n\nSam was in the garden.\nThen he traveled to the park.\nWhere is Sandra? office\n\nDaniel was in the office.\nThen he traveled to the restaurant.\nWhere is Sam? school\n\nBill was in the hallway.\nThen she traveled to the bathroom.\nWhere is Bob? playground\n\nDavid was in the studio.\nThen he traveled to the bathroom.\nWhere is Bill? office\n\nBob was in the playground.\nThen he traveled to the studio.\nWhere is Frank? market\n\nJohn was in the garden.\nThen he traveled to the studio.\nWhere is Kate? school\n\nSam was in the office.",
+    "full": " studio.\nBill got the cup.\nWhy did Bill go to the studio? cup\n\nAnn went to the studio.\nAnn got the book.\nTom went to the hallway.\nWhere is Nina? playground\n\nSam was in the garden.\nThen he traveled to the park.\nWhere is Sandra? office\n\nDaniel was in the office.\nThen he traveled to the restaurant.\nWhere is Sam? school\n\nBill was in the hallway.\nThen she traveled to the bathroom.\nWhere is Bob? playground\n\nDavid was in the studio.\nThen he traveled to the bathroom.\nWhere is Bill? office\n\nBob was in the playground.\nThen he traveled to the studio.\nWhere is Frank? market\n\nJohn was in the garden.\nThen he traveled to the studio.\nWhere is Kate? school\n\nSam was in the office.",
+    "source": "in_domain",
+    "lcs_length": 13,
+    "is_memorized": false
+  },
+  {
+    "prompt": " apple\n\nFred went to the kitchen.\nFred got the cup.\nDaniel went to the garden.\nDaniel got the key.\nWhy did Fred go to the kitchen?",
+    "generated": " garden\n\nJohn could in the garden.\nEve picked up the apple.\nJohn was in the park.\nWhere is Alice before the apple? market\n\nSandra went to the office.\nThen Eve in the bathroom.\nThen Kate in the playground? school\n\nTom went to the kitchen.\nDavid went to the restaurant.\nSam went to the market.\nWhere is Rick? hallway\n\nFred went to the school.\nDavid was in the kitchen.\nThen Eve in the restaurant? bedroom\n\nDavid was in the school.\nThen Fred in the market? playground\n\nAlice went to the garden.\nThen Lucy in the kitchen? restaurant\n\nLucy went to the office.\nThen",
+    "full": " apple\n\nFred went to the kitchen.\nFred got the cup.\nDaniel went to the garden.\nDaniel got the key.\nWhy did Fred go to the kitchen? garden\n\nJohn could in the garden.\nEve picked up the apple.\nJohn was in the park.\nWhere is Alice before the apple? market\n\nSandra went to the office.\nThen Eve in the bathroom.\nThen Kate in the playground? school\n\nTom went to the kitchen.\nDavid went to the restaurant.\nSam went to the market.\nWhere is Rick? hallway\n\nFred went to the school.\nDavid was in the kitchen.\nThen Eve in the restaurant? bedroom\n\nDavid was in the school.\nThen Fred in the market? playground\n\nAlice went to the garden.\nThen Lucy in the kitchen? restaurant\n\nLucy went to the office.\nThen",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " to the bedroom.\nFred got the pen.\nWhy did Fred go to the bedroom? pen\n\nBill went to the playground.\nBill got the key.\nWhy did",
+    "generated": " in the office.\nThis morning Frank went to the playground.\nThis morning Peter before the office? hallway\n\nTom was in the park.\nYesterday Fred went to the park.\nThen he traveled to the playground.\nWhere was in the office? hallway\n\nEve was in the bathroom.\nThen she traveled to the playground.\nWhere was in the hallway? garden\n\nKate was in the garden.\nThen she traveled to the market.\nWhere was in the park? park\n\nDaniel was in the park.\nThen he traveled to the park.\nThen he traveled to the playground.\nWhere of the kitchen? school\n\nBill was in the park.\nThen he traveled to",
+    "full": " to the bedroom.\nFred got the pen.\nWhy did Fred go to the bedroom? pen\n\nBill went to the playground.\nBill got the key.\nWhy did in the office.\nThis morning Frank went to the playground.\nThis morning Peter before the office? hallway\n\nTom was in the park.\nYesterday Fred went to the park.\nThen he traveled to the playground.\nWhere was in the office? hallway\n\nEve was in the bathroom.\nThen she traveled to the playground.\nWhere was in the hallway? garden\n\nKate was in the garden.\nThen she traveled to the market.\nWhere was in the park? park\n\nDaniel was in the park.\nThen he traveled to the park.\nThen he traveled to the playground.\nWhere of the kitchen? school\n\nBill was in the park.\nThen he traveled to",
+    "source": "in_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": "\nMary went to the restaurant.\nMary got the milk.\nDaniel went to the park.\nDaniel got the cup.\nWhy did Mary go to the restaurant? milk\n",
+    "generated": "\nFrank picked up the bottle.\nDavid went to the market.\nWhere is Peter holding? playground\n\nPeter picked up the shoe.\nDaniel went to the hat.\nWhere is Sam holding? book\n\nPeter picked up the box.\nMary went to the playground.\nLucy went to the bedroom.\nSandra went to the bedroom.\nWhere is Ann? market\n\nEve picked up the shoe.\nAlice went to the bathroom.\nFred went to the office.\nWhere is Fred? school\n\nTom went to the bathroom.\nDaniel went to the school.\nTom went to the bedroom.\nKate went to the studio.\nWhere is Eve? hallway\n\nFrank went to the playground.",
+    "full": "\nMary went to the restaurant.\nMary got the milk.\nDaniel went to the park.\nDaniel got the cup.\nWhy did Mary go to the restaurant? milk\n\nFrank picked up the bottle.\nDavid went to the market.\nWhere is Peter holding? playground\n\nPeter picked up the shoe.\nDaniel went to the hat.\nWhere is Sam holding? book\n\nPeter picked up the box.\nMary went to the playground.\nLucy went to the bedroom.\nSandra went to the bedroom.\nWhere is Ann? market\n\nEve picked up the shoe.\nAlice went to the bathroom.\nFred went to the office.\nWhere is Fred? school\n\nTom went to the bathroom.\nDaniel went to the school.\nTom went to the bedroom.\nKate went to the studio.\nWhere is Eve? hallway\n\nFrank went to the playground.",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " the market.\nBob got the book.\nSandra went to the garden.\nSandra got the cup.\nAnn went to the hallway.\nAnn got the ball.\nWhy did",
+    "generated": " in the garden.\nThis evening Alice in the hallway.\nIn the cup? park\n\nMary is either in the hallway.\nThen she traveled to the studio.\nWhere is Rick? garden\n\nBob was in the park.\nThen he traveled to the restaurant.\nAlice was in the office.\nWhere is Fred? restaurant\n\nKate was in the studio.\nThen he traveled to the kitchen.\nWhere is David? park\n\nEve was in the school.\nThen he traveled to the kitchen.\nWhere is Sam? playground\n\nPeter was in the playground.\nThen he traveled to the bathroom.\nWhere is Kate? office\n\nKate was in the office.\nThen he traveled",
+    "full": " the market.\nBob got the book.\nSandra went to the garden.\nSandra got the cup.\nAnn went to the hallway.\nAnn got the ball.\nWhy did in the garden.\nThis evening Alice in the hallway.\nIn the cup? park\n\nMary is either in the hallway.\nThen she traveled to the studio.\nWhere is Rick? garden\n\nBob was in the park.\nThen he traveled to the restaurant.\nAlice was in the office.\nWhere is Fred? restaurant\n\nKate was in the studio.\nThen he traveled to the kitchen.\nWhere is David? park\n\nEve was in the school.\nThen he traveled to the kitchen.\nWhere is Sam? playground\n\nPeter was in the playground.\nThen he traveled to the bathroom.\nWhere is Kate? office\n\nKate was in the office.\nThen he traveled",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": "\nJohn got the box.\nNina went to the garden.\nNina got the book.\nWhy did John go to the school? box\n\nSandra went to the kitchen.",
+    "generated": "\nThis evening Sam went to the park.\nWhere was in the studio.\nIn the restaurant? park\n\nNina was in the hallway.\nYesterday Frank went to the market.\nYesterday Daniel before the studio.\nThis morning Fred before the hallway? studio\n\nIn the afternoon Bob went to the restaurant.\nThis morning Bob went to the restaurant.\nThis evening Mary went to the bathroom.\nWhere was Fred? market\n\nThis morning Nina went to the kitchen.\nThis morning Lucy went to the garden.\nYesterday Fred went to the office.\nWhere was Bob? school\n\nThis evening Rick went to the hallway.\nThis morning Fred went to the office.\nThis evening Alice went",
+    "full": "\nJohn got the box.\nNina went to the garden.\nNina got the book.\nWhy did John go to the school? box\n\nSandra went to the kitchen.\nThis evening Sam went to the park.\nWhere was in the studio.\nIn the restaurant? park\n\nNina was in the hallway.\nYesterday Frank went to the market.\nYesterday Daniel before the studio.\nThis morning Fred before the hallway? studio\n\nIn the afternoon Bob went to the restaurant.\nThis morning Bob went to the restaurant.\nThis evening Mary went to the bathroom.\nWhere was Fred? market\n\nThis morning Nina went to the kitchen.\nThis morning Lucy went to the garden.\nYesterday Fred went to the office.\nWhere was Bob? school\n\nThis evening Rick went to the hallway.\nThis morning Fred went to the office.\nThis evening Alice went",
+    "source": "in_domain",
+    "lcs_length": 19,
+    "is_memorized": false
+  },
+  {
+    "prompt": " to the bathroom? bag\n\nAlice went to the office.\nAlice got the bottle.\nFrank went to the playground.\nFrank got the pen.\nEve went to the",
+    "generated": " playground.\nWhere is the milk? restaurant\n\nLucy picked up the hat.\nKate went to the school.\nKate went to the playground.\nEve went to the studio.\nWhere is the cup? school\n\nSusan went to the garden.\nDaniel went to the market.\nMary went to the playground.\nWhere is the restaurant.\nHow many objects is Sam? playground\n\nFred picked up the park.\nPeter went to the kitchen.\nRick went to the garden.\nDavid went to the bathroom.\nWhere is Ann? school\n\nFrank picked up the park.\nAlice went to the studio.\nPeter went to the studio.\nWhere is Nina? studio\n\nRick picked up",
+    "full": " to the bathroom? bag\n\nAlice went to the office.\nAlice got the bottle.\nFrank went to the playground.\nFrank got the pen.\nEve went to the playground.\nWhere is the milk? restaurant\n\nLucy picked up the hat.\nKate went to the school.\nKate went to the playground.\nEve went to the studio.\nWhere is the cup? school\n\nSusan went to the garden.\nDaniel went to the market.\nMary went to the playground.\nWhere is the restaurant.\nHow many objects is Sam? playground\n\nFred picked up the park.\nPeter went to the kitchen.\nRick went to the garden.\nDavid went to the bathroom.\nWhere is Ann? school\n\nFrank picked up the park.\nAlice went to the studio.\nPeter went to the studio.\nWhere is Nina? studio\n\nRick picked up",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " the market to the garden? west\n\nThe garden is east of the hallway.\nThe hallway is north of the bathroom.\nHow do you go from the hallway to",
+    "generated": " the office.\nWhat is the market? bedroom\n\nThe kitchen is west of the school.\nThe office is above the studio is south of the hallway.\nWhat is north of the restaurant? office\n\nThe kitchen is south of the park.\nThe hallway is east of the hallway.\nWhat is south of the bathroom? bedroom\n\nThe restaurant is east of the office.\nThe office is north of the market.\nThe pen.\nThe school is south of the school.\nWhat is above? office\n\nThe park is west of the school.\nThe playground is south of the school.\nWhat is the bathroom? bedroom\n\nThe park is north of the office.",
+    "full": " the market to the garden? west\n\nThe garden is east of the hallway.\nThe hallway is north of the bathroom.\nHow do you go from the hallway to the office.\nWhat is the market? bedroom\n\nThe kitchen is west of the school.\nThe office is above the studio is south of the hallway.\nWhat is north of the restaurant? office\n\nThe kitchen is south of the park.\nThe hallway is east of the hallway.\nWhat is south of the bathroom? bedroom\n\nThe restaurant is east of the office.\nThe office is north of the market.\nThe pen.\nThe school is south of the school.\nWhat is above? office\n\nThe park is west of the school.\nThe playground is south of the school.\nWhat is the bathroom? bedroom\n\nThe park is north of the office.",
+    "source": "in_domain",
+    "lcs_length": 14,
+    "is_memorized": false
+  },
+  {
+    "prompt": ".\nDavid went to the hallway.\nDavid got the shoe.\nWhy did Susan go to the playground? apple\n\nLucy went to the park.\nLucy got the box",
+    "generated": ".\nThe hat.\nWhere is Frank in the apple? garden\n\nPeter was in the school.\nThen she traveled to the bedroom.\nThen he traveled to the park.\nWhere is Fred? market\n\nBill was in the restaurant.\nThen he traveled to the office.\nWhere is Kate? restaurant\n\nBill was in the bedroom.\nThen he traveled to the garden.\nWhere is Fred? hallway\n\nRick went to the studio.\nThen he traveled to the market.\nWhere is Fred? restaurant\n\nKate was in the office.\nThen she traveled to the bathroom.\nWhere is Sam? bathroom\n\nFrank was in the park.\nThen he traveled to the garden.",
+    "full": ".\nDavid went to the hallway.\nDavid got the shoe.\nWhy did Susan go to the playground? apple\n\nLucy went to the park.\nLucy got the box.\nThe hat.\nWhere is Frank in the apple? garden\n\nPeter was in the school.\nThen she traveled to the bedroom.\nThen he traveled to the park.\nWhere is Fred? market\n\nBill was in the restaurant.\nThen he traveled to the office.\nWhere is Kate? restaurant\n\nBill was in the bedroom.\nThen he traveled to the garden.\nWhere is Fred? hallway\n\nRick went to the studio.\nThen he traveled to the market.\nWhere is Fred? restaurant\n\nKate was in the office.\nThen she traveled to the bathroom.\nWhere is Sam? bathroom\n\nFrank was in the park.\nThen he traveled to the garden.",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": ".\nEve went to the playground.\nEve got the bag.\nFrank went to the kitchen.\nFrank got the milk.\nWhy did Lucy go to the restaurant? cup",
+    "generated": "\n\nAlice was in the hallway.\nThen Frank before the school.\nThis morning Lucy went to the bedroom.\nIn the bedroom.\nYesterday Frank before the garden? bedroom\n\nYesterday Alice went to the school.\nWhere was Sandra went to the office? garden\n\nIn the bathroom.\nYesterday Alice went to the school.\nThis evening David went to the restaurant.\nThis evening Rick went to the hallway.\nWhere was Fred before the kitchen? playground\n\nThis morning Sam went to the office.\nIn the market.\nWhere was Bill before the bathroom? bathroom\n\nThis morning Rick went to the hallway.\nWhere was Tom before the afternoon Tom before the studio? park\n",
+    "full": ".\nEve went to the playground.\nEve got the bag.\nFrank went to the kitchen.\nFrank got the milk.\nWhy did Lucy go to the restaurant? cup\n\nAlice was in the hallway.\nThen Frank before the school.\nThis morning Lucy went to the bedroom.\nIn the bedroom.\nYesterday Frank before the garden? bedroom\n\nYesterday Alice went to the school.\nWhere was Sandra went to the office? garden\n\nIn the bathroom.\nYesterday Alice went to the school.\nThis evening David went to the restaurant.\nThis evening Rick went to the hallway.\nWhere was Fred before the kitchen? playground\n\nThis morning Sam went to the office.\nIn the market.\nWhere was Bill before the bathroom? bathroom\n\nThis morning Rick went to the hallway.\nWhere was Tom before the afternoon Tom before the studio? park\n",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " got the shoe.\nMary went to the restaurant.\nMary got the box.\nLucy went to the hallway.\nLucy got the cup.\nWhy did Ann go to the",
+    "generated": " school.\nWhere is Kate? shoe\n\nDavid did in the shoe.\nThen they went to the playground.\nWhere is Nina? school\n\nRick went to the office.\nMary was in the bathroom.\nThen they went to the kitchen.\nWhere is Alice? hallway\n\nNina was in the afternoon Rick in the office.\nThen they went to the school.\nThen he traveled to the bathroom.\nWhere is Sam? park\n\nFrank was in the playground.\nThen they went to the restaurant.\nWhere is Alice? market\n\nRick was in the studio.\nThen they went to the park.\nWhere is David? playground\n\nFrank was in the restaurant.\nThen they",
+    "full": " got the shoe.\nMary went to the restaurant.\nMary got the box.\nLucy went to the hallway.\nLucy got the cup.\nWhy did Ann go to the school.\nWhere is Kate? shoe\n\nDavid did in the shoe.\nThen they went to the playground.\nWhere is Nina? school\n\nRick went to the office.\nMary was in the bathroom.\nThen they went to the kitchen.\nWhere is Alice? hallway\n\nNina was in the afternoon Rick in the office.\nThen they went to the school.\nThen he traveled to the bathroom.\nWhere is Sam? park\n\nFrank was in the playground.\nThen they went to the restaurant.\nWhere is Alice? market\n\nRick was in the studio.\nThen they went to the park.\nWhere is David? playground\n\nFrank was in the restaurant.\nThen they",
+    "source": "in_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": " ball\n\nJohn went to the bedroom.\nJohn got the box.\nAlice went to the hallway.\nAlice got the pen.\nRick went to the playground.\nRick got",
+    "generated": " the studio.\nWhere is the shoe? market\n\nFred picked up the pen.\nFrank went to the pen.\nWhere is Alice holding? studio\n\nMary is Sam went to the bathroom.\nBill went to the playground.\nNina went to the playground.\nWhere is Ann? studio\n\nNina went to the office.\nJohn went to the bedroom.\nDaniel went to the kitchen.\nRick went to the restaurant.\nWhere is Fred? bedroom\n\nJohn went to the bedroom.\nSusan went to the office.\nNina went to the restaurant.\nWhere is Peter? kitchen\n\nJohn went to the hallway.\nFrank went to the studio.\nFred went to the market.\nWhere",
+    "full": " ball\n\nJohn went to the bedroom.\nJohn got the box.\nAlice went to the hallway.\nAlice got the pen.\nRick went to the playground.\nRick got the studio.\nWhere is the shoe? market\n\nFred picked up the pen.\nFrank went to the pen.\nWhere is Alice holding? studio\n\nMary is Sam went to the bathroom.\nBill went to the playground.\nNina went to the playground.\nWhere is Ann? studio\n\nNina went to the office.\nJohn went to the bedroom.\nDaniel went to the kitchen.\nRick went to the restaurant.\nWhere is Fred? bedroom\n\nJohn went to the bedroom.\nSusan went to the office.\nNina went to the restaurant.\nWhere is Peter? kitchen\n\nJohn went to the hallway.\nFrank went to the studio.\nFred went to the market.\nWhere",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": ".\nJohn got the box.\nWhy did Sam go to the studio? bag\n\nSam went to the restaurant.\nSam got the key.\nAlice went to the office",
+    "generated": ".\nWhere is south of the hat? park\n\nTom picked up the milk.\nKate went to the garden.\nWhere is the hat? bedroom\n\nNina went to the bedroom.\nSandra went to the bedroom.\nFred went to the playground.\nRick went to the bedroom.\nWhere is the bedroom? office\n\nSam went to the restaurant.\nNina went to the park.\nWhere is the bathroom.\nDaniel went to the bathroom.\nWhere is Nina? hallway\n\nDaniel went to the kitchen.\nDavid went to the office.\nMary went to the restaurant.\nWhere is Bill? market\n\nDavid went to the kitchen.\nNina went to the school.\nFred went to",
+    "full": ".\nJohn got the box.\nWhy did Sam go to the studio? bag\n\nSam went to the restaurant.\nSam got the key.\nAlice went to the office.\nWhere is south of the hat? park\n\nTom picked up the milk.\nKate went to the garden.\nWhere is the hat? bedroom\n\nNina went to the bedroom.\nSandra went to the bedroom.\nFred went to the playground.\nRick went to the bedroom.\nWhere is the bedroom? office\n\nSam went to the restaurant.\nNina went to the park.\nWhere is the bathroom.\nDaniel went to the bathroom.\nWhere is Nina? hallway\n\nDaniel went to the kitchen.\nDavid went to the office.\nMary went to the restaurant.\nWhere is Bill? market\n\nDavid went to the kitchen.\nNina went to the school.\nFred went to",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " got the hat.\nFred went to the bathroom.\nFred got the pen.\nWhy did Bill go to the restaurant? hat\n\nEve went to the playground.\nEve",
+    "generated": " was in the bedroom.\nThen they went to the kitchen.\nWhere is Kate? garden\n\nFrank evening Rick in the restaurant.\nThen they went to the park.\nWhere is Peter? garden\n\nAnn was in the school.\nThen they went to the hallway.\nWhere is Kate? playground\n\nSandra was in the restaurant.\nThen they went to the hallway.\nThen they went to the playground.\nWhere is Bob? playground\n\nRick was in the bedroom.\nThen they went to the studio.\nThen they went to the market.\nWhere is Peter? garden\n\nKate was in the playground.\nThen they went to the bathroom.\nWhere is Sandra? market\n",
+    "full": " got the hat.\nFred went to the bathroom.\nFred got the pen.\nWhy did Bill go to the restaurant? hat\n\nEve went to the playground.\nEve was in the bedroom.\nThen they went to the kitchen.\nWhere is Kate? garden\n\nFrank evening Rick in the restaurant.\nThen they went to the park.\nWhere is Peter? garden\n\nAnn was in the school.\nThen they went to the hallway.\nWhere is Kate? playground\n\nSandra was in the restaurant.\nThen they went to the hallway.\nThen they went to the playground.\nWhere is Bob? playground\n\nRick was in the bedroom.\nThen they went to the studio.\nThen they went to the market.\nWhere is Peter? garden\n\nKate was in the playground.\nThen they went to the bathroom.\nWhere is Sandra? market\n",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": "\nAnn went to the playground.\nAnn got the key.\nWhy did Ann go to the playground? key\n\nSusan went to the hallway.\nSusan got the key.",
+    "generated": "\nThis morning Susan went to the market.\nIn the school.\nThis evening Mary went to the garden.\nWhere was Fred before the afternoon Fred before the market? garden\n\nThis morning Peter went to the restaurant.\nIn the afternoon Sandra went to the school.\nIn the afternoon Tom went to the bathroom.\nYesterday Bob went to the studio.\nWhere was Alice before the restaurant? park\n\nYesterday Nina went to the restaurant.\nYesterday Rick went to the kitchen.\nWhere was Ann before the hallway? park\n\nThis morning Sam went to the market.\nIn the afternoon Bob went to the kitchen.\nThis evening Peter went to the playground.\nThis evening Nina went to",
+    "full": "\nAnn went to the playground.\nAnn got the key.\nWhy did Ann go to the playground? key\n\nSusan went to the hallway.\nSusan got the key.\nThis morning Susan went to the market.\nIn the school.\nThis evening Mary went to the garden.\nWhere was Fred before the afternoon Fred before the market? garden\n\nThis morning Peter went to the restaurant.\nIn the afternoon Sandra went to the school.\nIn the afternoon Tom went to the bathroom.\nYesterday Bob went to the studio.\nWhere was Alice before the restaurant? park\n\nYesterday Nina went to the restaurant.\nYesterday Rick went to the kitchen.\nWhere was Ann before the hallway? park\n\nThis morning Sam went to the market.\nIn the afternoon Bob went to the kitchen.\nThis evening Peter went to the playground.\nThis evening Nina went to",
+    "source": "in_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": "\nSandra got the ball.\nFrank went to the park.\nFrank got the box.\nAnn went to the kitchen.\nAnn got the bottle.\nWhy did Sandra go to",
+    "generated": " the park.\nWhere is Alice holding? kitchen\n\nEve is either in the restaurant.\nJohn did in the market.\nThen he traveled to the hallway.\nWhere is Alice? studio\n\nMary went to the bathroom.\nKate was in the studio.\nThen he traveled to the bedroom.\nWhere is Mary? restaurant\n\nEve was in the bedroom.\nThen they went to the park.\nAnn was in the studio.\nThen he traveled to the school.\nWhere is Sandra? kitchen\n\nBob went to the studio.\nThen she traveled to the bathroom.\nWhere is Peter? restaurant\n\nSusan went to the bedroom.\nThen he traveled to the office.\nWhere is Bob",
+    "full": "\nSandra got the ball.\nFrank went to the park.\nFrank got the box.\nAnn went to the kitchen.\nAnn got the bottle.\nWhy did Sandra go to the park.\nWhere is Alice holding? kitchen\n\nEve is either in the restaurant.\nJohn did in the market.\nThen he traveled to the hallway.\nWhere is Alice? studio\n\nMary went to the bathroom.\nKate was in the studio.\nThen he traveled to the bedroom.\nWhere is Mary? restaurant\n\nEve was in the bedroom.\nThen they went to the park.\nAnn was in the studio.\nThen he traveled to the school.\nWhere is Sandra? kitchen\n\nBob went to the studio.\nThen she traveled to the bathroom.\nWhere is Peter? restaurant\n\nSusan went to the bedroom.\nThen he traveled to the office.\nWhere is Bob",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " the key.\nAlice went to the kitchen.\nAlice got the apple.\nWhy did Fred go to the studio? key\n\nFrank went to the bedroom.\nFrank got",
+    "generated": " the market.\nThis morning Alice went to the school.\nThis evening Lucy went to the park.\nWhere was Alice before the office? park\n\nThis morning Lucy went to the park.\nIn the office.\nWhere was Peter before the market? kitchen\n\nIn the market.\nYesterday Bob went to the afternoon Mary went to the bedroom.\nThis morning Tom went to the bedroom.\nWhere was Ann before the park? school\n\nIn the afternoon David went to the hallway.\nThis evening Sam went to the office.\nThis evening Eve went to the hallway.\nWhere was Daniel before the studio? office\n\nIn the kitchen.\nYesterday Nina went to the bathroom.\nThis",
+    "full": " the key.\nAlice went to the kitchen.\nAlice got the apple.\nWhy did Fred go to the studio? key\n\nFrank went to the bedroom.\nFrank got the market.\nThis morning Alice went to the school.\nThis evening Lucy went to the park.\nWhere was Alice before the office? park\n\nThis morning Lucy went to the park.\nIn the office.\nWhere was Peter before the market? kitchen\n\nIn the market.\nYesterday Bob went to the afternoon Mary went to the bedroom.\nThis morning Tom went to the bedroom.\nWhere was Ann before the park? school\n\nIn the afternoon David went to the hallway.\nThis evening Sam went to the office.\nThis evening Eve went to the hallway.\nWhere was Daniel before the studio? office\n\nIn the kitchen.\nYesterday Nina went to the bathroom.\nThis",
+    "source": "in_domain",
+    "lcs_length": 19,
+    "is_memorized": false
+  },
+  {
+    "prompt": " the studio? shoe\n\nAlice went to the studio.\nAlice got the pen.\nWhy did Alice go to the studio? pen\n\nKate went to the playground.",
+    "generated": "\nDaniel and John went to the playground.\nThen she traveled to the office.\nWhere is Nina? kitchen\n\nRick was in the restaurant.\nThen they went to the office.\nThen she traveled to the market.\nWhere is David? office\n\nSam was in the kitchen.\nThen they went to the bathroom.\nWhere is Nina? bathroom\n\nTom was in the bedroom.\nThen he traveled to the market.\nWhere is Kate? bedroom\n\nBill was in the studio.\nThen they went to the bedroom.\nThen they went to the kitchen.\nWhere is Mary? kitchen\nThe school\n\nSusan was in the studio.\nThen they went to the garden.\nThen they",
+    "full": " the studio? shoe\n\nAlice went to the studio.\nAlice got the pen.\nWhy did Alice go to the studio? pen\n\nKate went to the playground.\nDaniel and John went to the playground.\nThen she traveled to the office.\nWhere is Nina? kitchen\n\nRick was in the restaurant.\nThen they went to the office.\nThen she traveled to the market.\nWhere is David? office\n\nSam was in the kitchen.\nThen they went to the bathroom.\nWhere is Nina? bathroom\n\nTom was in the bedroom.\nThen he traveled to the market.\nWhere is Kate? bedroom\n\nBill was in the studio.\nThen they went to the bedroom.\nThen they went to the kitchen.\nWhere is Mary? kitchen\nThe school\n\nSusan was in the studio.\nThen they went to the garden.\nThen they",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " go to the bedroom? bottle\n\nFred went to the park.\nFred got the pen.\nWhy did Fred go to the park? pen\n\nEve went to the",
+    "generated": " bathroom.\nThe studio.\nThis evening Alice is Bob went to the restaurant.\nWhere is Lucy? restaurant\n\nAnn was in the park.\nYesterday Alice went to the bathroom.\nThen he traveled to the kitchen.\nWhere is Frank? hallway\n\nPeter was in the kitchen.\nThen she traveled to the hallway.\nWhere is Ann? school\n\nFrank was in the bedroom.\nThen he traveled to the bathroom.\nWhere is Ann? market\n\nPeter was in the playground.\nThen she traveled to the park.\nWhere is Bob? market\n\nKate was in the school.\nThen he traveled to the studio.\nThen they went to the school.\nWhere is John?",
+    "full": " go to the bedroom? bottle\n\nFred went to the park.\nFred got the pen.\nWhy did Fred go to the park? pen\n\nEve went to the bathroom.\nThe studio.\nThis evening Alice is Bob went to the restaurant.\nWhere is Lucy? restaurant\n\nAnn was in the park.\nYesterday Alice went to the bathroom.\nThen he traveled to the kitchen.\nWhere is Frank? hallway\n\nPeter was in the kitchen.\nThen she traveled to the hallway.\nWhere is Ann? school\n\nFrank was in the bedroom.\nThen he traveled to the bathroom.\nWhere is Ann? market\n\nPeter was in the playground.\nThen she traveled to the park.\nWhere is Bob? market\n\nKate was in the school.\nThen he traveled to the studio.\nThen they went to the school.\nWhere is John?",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " from the office to the hallway? east\n\nThe bedroom is north of the playground.\nThe kitchen is east of the bedroom.\nThe playground is west of the garden",
+    "generated": ".\nWhat is north of the park? park\n\nThe studio is south of the bathroom.\nThe school is above the market.\nThe hallway is south of the studio.\nWhat is south of the kitchen? park\n\nThe kitchen is above the school.\nThe bedroom is above the hallway.\nWhat is the restaurant west of the garden? playground\n\nThe hallway is above the school.\nThe bedroom is south of the park.\nThe restaurant is south of the bathroom.\nWhat is the office? hallway\n\nThe park is south of the playground.\nThe playground is east of the studio.\nWhat is south of the office? studio\n\nThe bedroom is south of the",
+    "full": " from the office to the hallway? east\n\nThe bedroom is north of the playground.\nThe kitchen is east of the bedroom.\nThe playground is west of the garden.\nWhat is north of the park? park\n\nThe studio is south of the bathroom.\nThe school is above the market.\nThe hallway is south of the studio.\nWhat is south of the kitchen? park\n\nThe kitchen is above the school.\nThe bedroom is above the hallway.\nWhat is the restaurant west of the garden? playground\n\nThe hallway is above the school.\nThe bedroom is south of the park.\nThe restaurant is south of the bathroom.\nWhat is the office? hallway\n\nThe park is south of the playground.\nThe playground is east of the studio.\nWhat is south of the office? studio\n\nThe bedroom is south of the",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " east of the restaurant.\nHow do you go from the market to the restaurant? north\n\nThe school is east of the office.\nThe market is east of the",
+    "generated": " office.\nThe park is north of the restaurant.\nWhat is west of the school? playground\n\nThe studio is above the studio.\nWhat is south of the bathroom? kitchen\n\nThe garden is north of the market.\nThe playground is east of the bathroom.\nWhat is the garden west of the kitchen west of the office? studio\n\nThe garden.\nThe bedroom is east of the bedroom.\nWhat is above the garden? office\n\nThe school is west of the school.\nWhat is west of the bathroom\n\nThe garden is above the studio.\nThe office is above the playground.\nWhat is east of the bathroom? park\n\nThe bedroom is east of",
+    "full": " east of the restaurant.\nHow do you go from the market to the restaurant? north\n\nThe school is east of the office.\nThe market is east of the office.\nThe park is north of the restaurant.\nWhat is west of the school? playground\n\nThe studio is above the studio.\nWhat is south of the bathroom? kitchen\n\nThe garden is north of the market.\nThe playground is east of the bathroom.\nWhat is the garden west of the kitchen west of the office? studio\n\nThe garden.\nThe bedroom is east of the bedroom.\nWhat is above the garden? office\n\nThe school is west of the school.\nWhat is west of the bathroom\n\nThe garden is above the studio.\nThe office is above the playground.\nWhat is east of the bathroom? park\n\nThe bedroom is east of",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " the apple.\nWhy did Peter go to the bathroom? hat\n\nPeter went to the playground.\nPeter got the shoe.\nJohn went to the park.\nJohn got",
+    "generated": " the market.\nIs Alice in the kitchen? yes\n\nBob went to the hallway.\nPeter went to the bathroom.\nIs Ann in the hallway? no\n\nEve went to the garden.\nIs Frank in the kitchen? no\n\nEve went to the studio.\nDavid went to the bathroom.\nIs David in the hallway? yes\n\nAnn went to the kitchen.\nDavid went to the playground.\nDavid went to the park.\nIs Sam in the school? no\n\nDavid went to the bathroom.\nNina went to the studio.\nIs Sam in the hallway? no\n\nEve went to the garden.\nPeter went to the kitchen.\nIs Lucy in the studio",
+    "full": " the apple.\nWhy did Peter go to the bathroom? hat\n\nPeter went to the playground.\nPeter got the shoe.\nJohn went to the park.\nJohn got the market.\nIs Alice in the kitchen? yes\n\nBob went to the hallway.\nPeter went to the bathroom.\nIs Ann in the hallway? no\n\nEve went to the garden.\nIs Frank in the kitchen? no\n\nEve went to the studio.\nDavid went to the bathroom.\nIs David in the hallway? yes\n\nAnn went to the kitchen.\nDavid went to the playground.\nDavid went to the park.\nIs Sam in the school? no\n\nDavid went to the bathroom.\nNina went to the studio.\nIs Sam in the hallway? no\n\nEve went to the garden.\nPeter went to the kitchen.\nIs Lucy in the studio",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " playground.\nFrank got the pen.\nAnn went to the restaurant.\nAnn got the pen.\nWhy did Bob go to the kitchen? pen\n\nSusan went to the",
+    "generated": " hallway.\nIn the school.\nThis evening Bob went to the bathroom.\nWhere is Rick holding? bedroom\n\nBob was in the hallway.\nThen she traveled to the restaurant.\nWhere is Susan? hallway\n\nTom was in the market.\nThen he traveled to the park.\nWhere is John? restaurant\n\nDaniel was in the restaurant.\nThen he traveled to the market.\nWhere is Eve? school\n\nAnn was in the bathroom.\nThen he traveled to the garden.\nWhere is Sandra? office\n\nKate was in the studio.\nThen she traveled to the park.\nWhere is Bill? restaurant\n\nDaniel was in the hallway.\nThen he traveled to the park",
+    "full": " playground.\nFrank got the pen.\nAnn went to the restaurant.\nAnn got the pen.\nWhy did Bob go to the kitchen? pen\n\nSusan went to the hallway.\nIn the school.\nThis evening Bob went to the bathroom.\nWhere is Rick holding? bedroom\n\nBob was in the hallway.\nThen she traveled to the restaurant.\nWhere is Susan? hallway\n\nTom was in the market.\nThen he traveled to the park.\nWhere is John? restaurant\n\nDaniel was in the restaurant.\nThen he traveled to the market.\nWhere is Eve? school\n\nAnn was in the bathroom.\nThen he traveled to the garden.\nWhere is Sandra? office\n\nKate was in the studio.\nThen she traveled to the park.\nWhere is Bill? restaurant\n\nDaniel was in the hallway.\nThen he traveled to the park",
+    "source": "in_domain",
+    "lcs_length": 14,
+    "is_memorized": false
+  },
+  {
+    "prompt": " to the playground.\nAlice got the apple.\nWhy did Bill go to the kitchen? shoe\n\nLucy went to the playground.\nLucy got the key.\nJohn went",
+    "generated": " to the playground.\nFred went to the park.\nWhere is Mary? playground\n\nRick went to the playground.\nPeter went to the park.\nWhere is David? office\n\nPeter went to the park.\nFred went to the office.\nIs Fred? restaurant\n\nPeter went to the kitchen.\nDavid went to the studio.\nSam went to the market.\nWhere is Kate? hallway\n\nJohn went to the market.\nAnn went to the park.\nFred went to the park.\nWhere is Eve? bedroom\n\nBob went to the market.\nTom went to the playground.\nBill went to the studio.\nWhere is John? garden\n\nSusan went to the studio",
+    "full": " to the playground.\nAlice got the apple.\nWhy did Bill go to the kitchen? shoe\n\nLucy went to the playground.\nLucy got the key.\nJohn went to the playground.\nFred went to the park.\nWhere is Mary? playground\n\nRick went to the playground.\nPeter went to the park.\nWhere is David? office\n\nPeter went to the park.\nFred went to the office.\nIs Fred? restaurant\n\nPeter went to the kitchen.\nDavid went to the studio.\nSam went to the market.\nWhere is Kate? hallway\n\nJohn went to the market.\nAnn went to the park.\nFred went to the park.\nWhere is Eve? bedroom\n\nBob went to the market.\nTom went to the playground.\nBill went to the studio.\nWhere is John? garden\n\nSusan went to the studio",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " to the playground.\nPeter got the apple.\nDaniel went to the office.\nDaniel got the apple.\nBob went to the bedroom.\nBob got the key.\nWhy",
+    "generated": " the school.\nWhere was in the ball? studio\n\nSam was in the market.\nThen he traveled to the bedroom.\nWhere is Bob? playground\n\nPeter was in the park.\nThen she traveled to the hallway.\nThen she traveled to the school.\nWhere is John? office\n\nMary was in the studio.\nThen she traveled to the market.\nWhere is Frank? studio\n\nPeter was in the bedroom.\nThen he traveled to the restaurant.\nWhere is Sam? restaurant\n\nMary was in the office.\nThen she traveled to the playground.\nWhere is Bob? garden\n\nPeter was in the restaurant.\nThen she traveled to the hallway.\nWhere is",
+    "full": " to the playground.\nPeter got the apple.\nDaniel went to the office.\nDaniel got the apple.\nBob went to the bedroom.\nBob got the key.\nWhy the school.\nWhere was in the ball? studio\n\nSam was in the market.\nThen he traveled to the bedroom.\nWhere is Bob? playground\n\nPeter was in the park.\nThen she traveled to the hallway.\nThen she traveled to the school.\nWhere is John? office\n\nMary was in the studio.\nThen she traveled to the market.\nWhere is Frank? studio\n\nPeter was in the bedroom.\nThen he traveled to the restaurant.\nWhere is Sam? restaurant\n\nMary was in the office.\nThen she traveled to the playground.\nWhere is Bob? garden\n\nPeter was in the restaurant.\nThen she traveled to the hallway.\nWhere is",
+    "source": "in_domain",
+    "lcs_length": 13,
+    "is_memorized": false
+  },
+  {
+    "prompt": " got the pen.\nWhy did Nina go to the playground? bag\n\nNina went to the bedroom.\nNina got the hat.\nFred went to the school.\nFred",
+    "generated": " went to the bedroom.\nWhere is Bill? market\n\nBob went to the school.\nPeter went to the playground.\nFred went to the office.\nAlice went to the school.\nWhere is Eve? market\n\nTom went to the studio.\nFred went to the playground.\nEve went to the office.\nWhere is Daniel? bedroom\n\nDavid went to the market.\nAlice went to the market.\nWhere is Frank? office\n\nAlice went to the bedroom.\nBill went to the studio.\nSandra went to the playground.\nWhere is Susan? park\n\nPeter went to the bedroom.\nFrank went to the office.\nFrank went to the school.\nFrank went to",
+    "full": " got the pen.\nWhy did Nina go to the playground? bag\n\nNina went to the bedroom.\nNina got the hat.\nFred went to the school.\nFred went to the bedroom.\nWhere is Bill? market\n\nBob went to the school.\nPeter went to the playground.\nFred went to the office.\nAlice went to the school.\nWhere is Eve? market\n\nTom went to the studio.\nFred went to the playground.\nEve went to the office.\nWhere is Daniel? bedroom\n\nDavid went to the market.\nAlice went to the market.\nWhere is Frank? office\n\nAlice went to the bedroom.\nBill went to the studio.\nSandra went to the playground.\nWhere is Susan? park\n\nPeter went to the bedroom.\nFrank went to the office.\nFrank went to the school.\nFrank went to",
+    "source": "in_domain",
+    "lcs_length": 14,
+    "is_memorized": false
+  },
+  {
+    "prompt": " went to the bathroom.\nRick got the box.\nWhy did Nina go to the garden? bottle\n\nRick went to the park.\nRick got the ball.\nKate",
+    "generated": " went to the hallway.\nWhere is Bob? garden\n\nRick went to the park.\nBob was in the restaurant.\nThen Susan went to the bathroom.\nWhere is Sam? bedroom\n\nTom went to the market.\nThen they went to the studio.\nWhere is Sam? park\n\nLucy went to the studio.\nWhere is David? bedroom\n\nDavid was in the park.\nThen they went to the market.\nWhere is Susan? kitchen\n\nKate was in the bathroom.\nThen they went to the school.\nWhere is David? playground\n\nSam was in the school.\nThen they went to the bedroom.\nWhere is Kate? restaurant\n\nBob was in the",
+    "full": " went to the bathroom.\nRick got the box.\nWhy did Nina go to the garden? bottle\n\nRick went to the park.\nRick got the ball.\nKate went to the hallway.\nWhere is Bob? garden\n\nRick went to the park.\nBob was in the restaurant.\nThen Susan went to the bathroom.\nWhere is Sam? bedroom\n\nTom went to the market.\nThen they went to the studio.\nWhere is Sam? park\n\nLucy went to the studio.\nWhere is David? bedroom\n\nDavid was in the park.\nThen they went to the market.\nWhere is Susan? kitchen\n\nKate was in the bathroom.\nThen they went to the school.\nWhere is David? playground\n\nSam was in the school.\nThen they went to the bedroom.\nWhere is Kate? restaurant\n\nBob was in the",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": ".\nBill went to the playground.\nBill got the apple.\nWhy did Tom go to the kitchen? shoe\n\nKate went to the park.\nKate got the key",
+    "generated": ".\nAlice went to the playground.\nWhere is Sam? bedroom\n\nTom went to the market.\nAnn went to the afternoon Eve went to the office.\nWhere is Sandra? office\n\nLucy went to the hallway.\nFred went to the kitchen.\nWhere is Susan? playground\n\nKate went to the garden.\nEve went the garden.\nDavid went to the market.\nFrank went to the park.\nWhere is Tom? market\n\nAlice went to the office.\nSam went to the market.\nFred was in the bedroom.\nThen Frank? bedroom\n\nDaniel was in the bedroom.\nThen Eve in the market.\nWhere is Daniel? market\n\nLucy was in the",
+    "full": ".\nBill went to the playground.\nBill got the apple.\nWhy did Tom go to the kitchen? shoe\n\nKate went to the park.\nKate got the key.\nAlice went to the playground.\nWhere is Sam? bedroom\n\nTom went to the market.\nAnn went to the afternoon Eve went to the office.\nWhere is Sandra? office\n\nLucy went to the hallway.\nFred went to the kitchen.\nWhere is Susan? playground\n\nKate went to the garden.\nEve went the garden.\nDavid went to the market.\nFrank went to the park.\nWhere is Tom? market\n\nAlice went to the office.\nSam went to the market.\nFred was in the bedroom.\nThen Frank? bedroom\n\nDaniel was in the bedroom.\nThen Eve in the market.\nWhere is Daniel? market\n\nLucy was in the",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " to the park.\nBob got the ball.\nSandra went to the hallway.\nSandra got the hat.\nTom went to the market.\nTom got the pen.\nWhy",
+    "generated": " in the playground.\nIs Rick in the market? no\n\nRick was in the market.\nThen they went to the kitchen.\nThen they went to the afternoon Tom? yes\n\nRick was in the bedroom.\nThen they went to the school.\nBob went to the kitchen.\nWhere is Sam? yes\n\nBill was in the park.\n\nFred was in the bathroom.\nThen they went to the bedroom.\nThen they went to the market.\nThen they went to the bedroom.\nWhere is Ann? no\n\nSusan was in the restaurant.\nThen they went to the kitchen.\nIs Peter? yes\n\nSandra went to the school or the park.\nDaniel",
+    "full": " to the park.\nBob got the ball.\nSandra went to the hallway.\nSandra got the hat.\nTom went to the market.\nTom got the pen.\nWhy in the playground.\nIs Rick in the market? no\n\nRick was in the market.\nThen they went to the kitchen.\nThen they went to the afternoon Tom? yes\n\nRick was in the bedroom.\nThen they went to the school.\nBob went to the kitchen.\nWhere is Sam? yes\n\nBill was in the park.\n\nFred was in the bathroom.\nThen they went to the bedroom.\nThen they went to the market.\nThen they went to the bedroom.\nWhere is Ann? no\n\nSusan was in the restaurant.\nThen they went to the kitchen.\nIs Peter? yes\n\nSandra went to the school or the park.\nDaniel",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": ".\nWhy did Fred go to the bedroom? pen\n\nBill went to the playground.\nBill got the key.\nWhy did Bill go to the playground? key\n",
+    "generated": "\nAlice went to the market.\nSam was in the restaurant.\n\nLucy was in the garden.\nThen he traveled to the market.\nWhere is Peter? school\n\nRick was in the restaurant.\nThen answered the studio.\nThen Peter? playground\n\nAnn went to the garden.\nThen he traveled to the bathroom.\nAnn went to the hallway.\nWhere is Eve? studio\n\nSandra was in the office.\nThen it to the restaurant.\nThen he traveled to the park.\nWhere is Tom? park\n\nFrank went to the hallway.\nBill was in the restaurant.\nThen he traveled to the office.\nWhere is Bob? bedroom\n\nFrank was in the office",
+    "full": ".\nWhy did Fred go to the bedroom? pen\n\nBill went to the playground.\nBill got the key.\nWhy did Bill go to the playground? key\n\nAlice went to the market.\nSam was in the restaurant.\n\nLucy was in the garden.\nThen he traveled to the market.\nWhere is Peter? school\n\nRick was in the restaurant.\nThen answered the studio.\nThen Peter? playground\n\nAnn went to the garden.\nThen he traveled to the bathroom.\nAnn went to the hallway.\nWhere is Eve? studio\n\nSandra was in the office.\nThen it to the restaurant.\nThen he traveled to the park.\nWhere is Tom? park\n\nFrank went to the hallway.\nBill was in the restaurant.\nThen he traveled to the office.\nWhere is Bob? bedroom\n\nFrank was in the office",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " go to the park? box\n\nNina went to the bedroom.\nNina got the apple.\nBob went to the kitchen.\nBob got the hat.\nWhy did Nina",
+    "generated": " went to the restaurant.\nWhere is Fred? playground\n\nDaniel was in the bedroom.\nThen Rick in the school.\nThen he traveled to the market.\nWhere is Fred? bedroom\n\nNina was in the restaurant.\nThen he traveled to the kitchen.\nWhere is John? office\n\nFred was in the garden.\nThen he traveled to the bedroom.\nWhere is Eve? office\n\nAlice was in the bathroom.\nThen he traveled to the kitchen.\nWhere is Alice? kitchen\n\nDaniel was in the market.\nThen he traveled to the hallway.\nWhere is Kate? playground\n\nDaniel was in the studio.\nThen she traveled to the hallway.\nWhere is John",
+    "full": " go to the park? box\n\nNina went to the bedroom.\nNina got the apple.\nBob went to the kitchen.\nBob got the hat.\nWhy did Nina went to the restaurant.\nWhere is Fred? playground\n\nDaniel was in the bedroom.\nThen Rick in the school.\nThen he traveled to the market.\nWhere is Fred? bedroom\n\nNina was in the restaurant.\nThen he traveled to the kitchen.\nWhere is John? office\n\nFred was in the garden.\nThen he traveled to the bedroom.\nWhere is Eve? office\n\nAlice was in the bathroom.\nThen he traveled to the kitchen.\nWhere is Alice? kitchen\n\nDaniel was in the market.\nThen he traveled to the hallway.\nWhere is Kate? playground\n\nDaniel was in the studio.\nThen she traveled to the hallway.\nWhere is John",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " the garden.\nThe garden is west of the market.\nThe market is north of the kitchen.\nHow do you go from the market to the garden? west\n",
+    "generated": "\nThe playground is above the restaurant.\nThe park is south of the kitchen.\nThe bathroom is west of the playground.\nWhat is north of the playground? school\n\nThe studio is north of the playground.\nWhat is south of the playground? kitchen\n\nThe restaurant is south of the office.\nThe hallway is above the garden.\nThe studio is south of the park.\nWhat is east of the garden? school\n\nThe studio is east of the kitchen.\nThe hallway is south of the playground.\nWhat is above the garden? playground\n\nThe restaurant is east of the studio.\nThe kitchen is above the garden.\nWhat is above? school\n\nThe market",
+    "full": " the garden.\nThe garden is west of the market.\nThe market is north of the kitchen.\nHow do you go from the market to the garden? west\n\nThe playground is above the restaurant.\nThe park is south of the kitchen.\nThe bathroom is west of the playground.\nWhat is north of the playground? school\n\nThe studio is north of the playground.\nWhat is south of the playground? kitchen\n\nThe restaurant is south of the office.\nThe hallway is above the garden.\nThe studio is south of the park.\nWhat is east of the garden? school\n\nThe studio is east of the kitchen.\nThe hallway is south of the playground.\nWhat is above the garden? playground\n\nThe restaurant is east of the studio.\nThe kitchen is above the garden.\nWhat is above? school\n\nThe market",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": "\nSam got the box.\nLucy went to the office.\nLucy got the book.\nWhy did Sam go to the market? box\n\nSandra went to the playground.",
+    "generated": "\nAlice was in the restaurant.\nThen he traveled to the restaurant.\nWhere is Sandra? market\n\nAlice was in the studio.\nThen he traveled to the park.\nYesterday John? school\n\nFrank was in the market.\nThen she traveled to the market.\nWhere is John? market\n\nDavid was in the kitchen.\nThen she traveled to the restaurant.\nWhere is Susan? bathroom\n\nAlice went to the bedroom.\nThen he traveled to the bedroom.\nWhere is Bob? hallway\n\nBob was in the restaurant.\nThen he traveled to the bedroom.\nWhere is Lucy? school\n\nSandra was in the studio.\nThen she traveled to the bedroom.\nWhere is",
+    "full": "\nSam got the box.\nLucy went to the office.\nLucy got the book.\nWhy did Sam go to the market? box\n\nSandra went to the playground.\nAlice was in the restaurant.\nThen he traveled to the restaurant.\nWhere is Sandra? market\n\nAlice was in the studio.\nThen he traveled to the park.\nYesterday John? school\n\nFrank was in the market.\nThen she traveled to the market.\nWhere is John? market\n\nDavid was in the kitchen.\nThen she traveled to the restaurant.\nWhere is Susan? bathroom\n\nAlice went to the bedroom.\nThen he traveled to the bedroom.\nWhere is Bob? hallway\n\nBob was in the restaurant.\nThen he traveled to the bedroom.\nWhere is Lucy? school\n\nSandra was in the studio.\nThen she traveled to the bedroom.\nWhere is",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " did Bob go to the garden? shoe\n\nKate went to the playground.\nKate got the ball.\nDaniel went to the park.\nDaniel got the cup.\nWhy",
+    "generated": " the restaurant.\nWhere is the bag? hallway\n\nNina was in the playground.\nThen they went to the kitchen.\nThen they went to the school.\nWhere is Sandra? restaurant\n\nFred and Frank went to the park.\nThen they went to the restaurant.\nWhere is Eve? playground\n\nDavid and Daniel went to the bathroom.\nThen they went to the park.\nWhere is Daniel? school\n\nFred and Nina went to the studio.\nThen they went to the studio.\nWhere is Alice? restaurant\n\nSusan and Peter went to the playground.\nThen they went to the bedroom.\nWhere is David? playground\n\nAlice and Sandra went to the school.",
+    "full": " did Bob go to the garden? shoe\n\nKate went to the playground.\nKate got the ball.\nDaniel went to the park.\nDaniel got the cup.\nWhy the restaurant.\nWhere is the bag? hallway\n\nNina was in the playground.\nThen they went to the kitchen.\nThen they went to the school.\nWhere is Sandra? restaurant\n\nFred and Frank went to the park.\nThen they went to the restaurant.\nWhere is Eve? playground\n\nDavid and Daniel went to the bathroom.\nThen they went to the park.\nWhere is Daniel? school\n\nFred and Nina went to the studio.\nThen they went to the studio.\nWhere is Alice? restaurant\n\nSusan and Peter went to the playground.\nThen they went to the bedroom.\nWhere is David? playground\n\nAlice and Sandra went to the school.",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " got the hat.\nNina went to the restaurant.\nNina got the bottle.\nWhy did Lucy go to the office? hat\n\nDaniel went to the market.\nDaniel",
+    "generated": " was in the green triangle.\nThen he traveled to the hallway.\nWhere is Alice? hallway\n\nTom was in the kitchen.\nThen he traveled to the bedroom.\nWhere is Bill? school\n\nTom was in the kitchen.\nThen he traveled to the market.\nWhere is Nina? hallway\n\nJohn was in the garden.\nThen he traveled to the market.\nWhere is Sam? kitchen\n\nLucy was in the bathroom.\nThen he traveled to the hallway.\nWhere is Bill? kitchen\n\nTom was in the playground.\nThen she traveled to the market.\nWhere is John? office\n\nBill was in the market.\nThen she traveled to the garden.\nWhere",
+    "full": " got the hat.\nNina went to the restaurant.\nNina got the bottle.\nWhy did Lucy go to the office? hat\n\nDaniel went to the market.\nDaniel was in the green triangle.\nThen he traveled to the hallway.\nWhere is Alice? hallway\n\nTom was in the kitchen.\nThen he traveled to the bedroom.\nWhere is Bill? school\n\nTom was in the kitchen.\nThen he traveled to the market.\nWhere is Nina? hallway\n\nJohn was in the garden.\nThen he traveled to the market.\nWhere is Sam? kitchen\n\nLucy was in the bathroom.\nThen he traveled to the hallway.\nWhere is Bill? kitchen\n\nTom was in the playground.\nThen she traveled to the market.\nWhere is John? office\n\nBill was in the market.\nThen she traveled to the garden.\nWhere",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " studio.\nJohn got the bottle.\nKate went to the restaurant.\nKate got the bottle.\nPeter went to the bathroom.\nPeter got the shoe.\nWhy did John",
+    "generated": " went to the hallway.\nWhere is Alice? hallway\n\nSandra picked up the bottle.\nSandra went to the office.\nWhere is Bob holding? bedroom\n\nNina picked up the milk.\nLucy went to the bedroom.\nKate went to the school.\nWhere is Sandra holding? playground\n\nFred picked up the milk.\nBob went to the restaurant.\nJohn went to the bedroom.\nRick went to the office.\nAlice went to the kitchen.\nWhere is Alice? restaurant\n\nNina went to the bedroom.\nBill went to the office.\nBob went to the bathroom.\nAlice went to the garden.\nWhere is David? park\n\nJohn went to the market.\nJohn",
+    "full": " studio.\nJohn got the bottle.\nKate went to the restaurant.\nKate got the bottle.\nPeter went to the bathroom.\nPeter got the shoe.\nWhy did John went to the hallway.\nWhere is Alice? hallway\n\nSandra picked up the bottle.\nSandra went to the office.\nWhere is Bob holding? bedroom\n\nNina picked up the milk.\nLucy went to the bedroom.\nKate went to the school.\nWhere is Sandra holding? playground\n\nFred picked up the milk.\nBob went to the restaurant.\nJohn went to the bedroom.\nRick went to the office.\nAlice went to the kitchen.\nWhere is Alice? restaurant\n\nNina went to the bedroom.\nBill went to the office.\nBob went to the bathroom.\nAlice went to the garden.\nWhere is David? park\n\nJohn went to the market.\nJohn",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " go to the market? bottle\n\nAnn went to the garden.\nAnn got the hat.\nJohn went to the bathroom.\nJohn got the cup.\nWhy did Ann",
+    "generated": " before the playground.\nYesterday Mary before the bedroom? playground\n\nKate was in the garden.\nIn the afternoon Alice went to the studio.\nThis evening Mary went to the hallway.\nWhere was Kate before the bathroom? hallway\n\nYesterday Tom went to the bedroom.\nThis morning Nina went to the park.\nIn the playground.\nThis morning David went to the hallway.\nWhere was Daniel before the bedroom? playground\n\nThis morning Sam went to the bedroom.\nWhere was Kate before the studio? bathroom\n\nThis evening Daniel went to the school.\nIn the park.\nThis morning Peter went to the bedroom.\nWhere was Susan before the market? park\n\nYesterday Bob",
+    "full": " go to the market? bottle\n\nAnn went to the garden.\nAnn got the hat.\nJohn went to the bathroom.\nJohn got the cup.\nWhy did Ann before the playground.\nYesterday Mary before the bedroom? playground\n\nKate was in the garden.\nIn the afternoon Alice went to the studio.\nThis evening Mary went to the hallway.\nWhere was Kate before the bathroom? hallway\n\nYesterday Tom went to the bedroom.\nThis morning Nina went to the park.\nIn the playground.\nThis morning David went to the hallway.\nWhere was Daniel before the bedroom? playground\n\nThis morning Sam went to the bedroom.\nWhere was Kate before the studio? bathroom\n\nThis evening Daniel went to the school.\nIn the park.\nThis morning Peter went to the bedroom.\nWhere was Susan before the market? park\n\nYesterday Bob",
+    "source": "in_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": " to the market.\nRick got the apple.\nWhy did Bill go to the school? bag\n\nEve went to the school.\nEve got the bag.\nAnn went",
+    "generated": " to the restaurant.\nWhere is the market? school\n\nTom picked up the key.\nBill went to the office.\nWhere is Alice holding? park\n\nPeter went to the office.\nKate went to the office.\nWhere is David? bedroom\n\nSam went to the restaurant.\nTom went to the park.\nPeter went to the playground.\nWhere is Bob? restaurant\n\nJohn went to the bathroom.\nWhere is Fred?\nThe restaurant\n\nPeter went to the studio.\nBill went to the restaurant.\nWhere is Peter? park\n\nFrank went to the kitchen.\nBob went to the bathroom.\nNina went to the hallway.\nWhere is Rick.\nWhere is Eve",
+    "full": " to the market.\nRick got the apple.\nWhy did Bill go to the school? bag\n\nEve went to the school.\nEve got the bag.\nAnn went to the restaurant.\nWhere is the market? school\n\nTom picked up the key.\nBill went to the office.\nWhere is Alice holding? park\n\nPeter went to the office.\nKate went to the office.\nWhere is David? bedroom\n\nSam went to the restaurant.\nTom went to the park.\nPeter went to the playground.\nWhere is Bob? restaurant\n\nJohn went to the bathroom.\nWhere is Fred?\nThe restaurant\n\nPeter went to the studio.\nBill went to the restaurant.\nWhere is Peter? park\n\nFrank went to the kitchen.\nBob went to the bathroom.\nNina went to the hallway.\nWhere is Rick.\nWhere is Eve",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " went to the bedroom.\nPeter got the cup.\nSandra went to the bedroom.\nSandra got the bag.\nEve went to the playground.\nEve got the ball.",
+    "generated": "\nFred went to the restaurant.\nWhere is Frank? bedroom\n\nAlice was in the garden.\nThen she traveled to the playground.\nWhere is Frank? playground\n\nTom was in the kitchen.\nThen he traveled to the office.\nWhere is Frank? restaurant\n\nBill was in the park.\nThen he traveled to the garden.\nWhere is Peter? restaurant\n\nMary was in the studio.\nThen he traveled to the studio.\nWhere is Tom? office\n\nAlice was in the studio.\nThen she traveled to the hallway of the bathroom.\nWhere is David? hallway\n\nTom was in the office.\nThen he traveled to the office.\nThen he traveled to the",
+    "full": " went to the bedroom.\nPeter got the cup.\nSandra went to the bedroom.\nSandra got the bag.\nEve went to the playground.\nEve got the ball.\nFred went to the restaurant.\nWhere is Frank? bedroom\n\nAlice was in the garden.\nThen she traveled to the playground.\nWhere is Frank? playground\n\nTom was in the kitchen.\nThen he traveled to the office.\nWhere is Frank? restaurant\n\nBill was in the park.\nThen he traveled to the garden.\nWhere is Peter? restaurant\n\nMary was in the studio.\nThen he traveled to the studio.\nWhere is Tom? office\n\nAlice was in the studio.\nThen she traveled to the hallway of the bathroom.\nWhere is David? hallway\n\nTom was in the office.\nThen he traveled to the office.\nThen he traveled to the",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": "serting long pauses between the individual words to remove everything remarkable from his",
+    "generated": " barcute, and the rowed with this a fame and Iarly in the stand.\n\n\nThe Emeraldp of the buuained on the\nw, and a cer to tarde, and they could not feared.\n\nThe Lion had no dolds; ‘ands it was the Vhe had been tlind, and the Tin Woodman of the cl of the sraes, and he is to be man of the littleself!’\n\n‘Woerope, so the groes, but they was",
+    "full": "serting long pauses between the individual words to remove everything remarkable from his barcute, and the rowed with this a fame and Iarly in the stand.\n\n\nThe Emeraldp of the buuained on the\nw, and a cer to tarde, and they could not feared.\n\nThe Lion had no dolds; ‘ands it was the Vhe had been tlind, and the Tin Woodman of the cl of the sraes, and he is to be man of the littleself!’\n\n‘Woerope, so the groes, but they was",
+    "source": "out_of_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " should we do?\"\n\nThe sister only shrugged her shoulders as a sign of the perplex",
+    "generated": "miing, he was all and he will have a little seren, and the little waying the Scarecrow, I go; and he couldner that batihed to be, and a cuge and they, and taly, and the King:\n           feler, and the king, and see you were no willy\n17:012Rtinprises,” said the Witch of the Dords and froth!\n\n           tates, “I’t mad, the king:0020:00005:",
+    "full": " should we do?\"\n\nThe sister only shrugged her shoulders as a sign of the perplexmiing, he was all and he will have a little seren, and the little waying the Scarecrow, I go; and he couldner that batihed to be, and a cuge and they, and taly, and the King:\n           feler, and the king, and see you were no willy\n17:012Rtinprises,” said the Witch of the Dords and froth!\n\n           tates, “I’t mad, the king:0020:00005:",
+    "source": "out_of_domain",
+    "lcs_length": 19,
+    "is_memorized": false
+  },
+  {
+    "prompt": " had merged and were indistinguishable. His attentive sister must have observed a c",
+    "generated": "roger, and\nthe ranman of the ros, and the piulenthuow in the guy.\n\n\n\nMect and they was a pused, and fall of the Cater-ger. But the game, ‘and of the Worferherp of the king!\n\n           be of the Lion, and all so, with a croken.\nall and the cork of the king, and the bastseencer, for the Woed the cunt sur",
+    "full": " had merged and were indistinguishable. His attentive sister must have observed a croger, and\nthe ranman of the ros, and the piulenthuow in the guy.\n\n\n\nMect and they was a pused, and fall of the Cater-ger. But the game, ‘and of the Worferherp of the king!\n\n           be of the Lion, and all so, with a croken.\nall and the cork of the king, and the bastseencer, for the Woed the cunt sur",
+    "source": "out_of_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": " father called out \"Perhaps the gentlemen don't like the playing? It can be stopped at",
+    "generated": " the sraated.\n\n“1:004:00 And Alice were the died.\n\nall of the sent;001 And the Emeralde\n           the Lion went to be\n17:007:004:00009:0013:002   013 Then was, and the 00X:001:004 And Oz, the door, and she had the fest of the Mh, so all the wou you could not\n           to the When the Woodman.\n           tady\n17:00012:003",
+    "full": " father called out \"Perhaps the gentlemen don't like the playing? It can be stopped at the sraated.\n\n“1:004:00 And Alice were the died.\n\nall of the sent;001 And the Emeralde\n           the Lion went to be\n17:007:004:00009:0013:002   013 Then was, and the 00X:001:004 And Oz, the door, and she had the fest of the Mh, so all the wou you could not\n           to the When the Woodman.\n           tady\n17:00012:003",
+    "source": "out_of_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " sofa, bend down her ear to him, and he would then confide in her that he firmly intended",
+    "generated": "\n\n\n“I she had nost.\n\nThe man, “There’t what,” said the We the Scarecrow the Cat:\n\n\n\n“This is all, ‘I’t.\n           my Yys in the\nmonfing with the Dood, and, the gat the Woodman is fame, and the roadeny, for the cow the tare.\n\n\nThe Queen was not no longer in her dowly, she could go as you to be of him at a lroked his pad, “I re of the",
+    "full": " sofa, bend down her ear to him, and he would then confide in her that he firmly intended\n\n\n“I she had nost.\n\nThe man, “There’t what,” said the We the Scarecrow the Cat:\n\n\n\n“This is all, ‘I’t.\n           my Yys in the\nmonfing with the Dood, and, the gat the Woodman is fame, and the roadeny, for the cow the tare.\n\n\nThe Queen was not no longer in her dowly, she could go as you to be of him at a lroked his pad, “I re of the",
+    "source": "out_of_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": " scarcely wondered about the fact that recently he had had so little consideration for the other",
+    "generated": " waly for air, and pinle; and I’ts was worfing, and the laring, and Alice, and her a cuted to be gurbest, and the Ves, on the little head and the sranbe that the duss. But the sangy to glk in the Gold.\n\n\nThe Gien, but I’towed my delwonly, and the co the bingeed.\n‘Hand the Woodman was in the srs,’ Alice.\n\nThe",
+    "full": " scarcely wondered about the fact that recently he had had so little consideration for the other waly for air, and pinle; and I’ts was worfing, and the laring, and Alice, and her a cuted to be gurbest, and the Ves, on the little head and the sranbe that the duss. But the sangy to glk in the Gold.\n\n\nThe Gien, but I’towed my delwonly, and the co the bingeed.\n‘Hand the Woodman was in the srs,’ Alice.\n\nThe",
+    "source": "out_of_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " in her eyes.\n\nThe sister hurried over to her mother and held her forehead. The sister's words see",
+    "generated": " it was in a chall of Dorothy and a nuns, and wouked a cest of the Scarecrow, and fuhed me told to be of the Dood to be, in the jell, and cold and the Mock Turtle\n\n\n\nThe gracgh;008:001   I should be me.”\n\nThe Tin Woodman was be of the Tin Woodman, no longer to my din them.\n\nThe King, and the right of the Lion, and the Cat, and she had wind.\n\nThe Scarecrow is wind that he was to the right of the m",
+    "full": " in her eyes.\n\nThe sister hurried over to her mother and held her forehead. The sister's words see it was in a chall of Dorothy and a nuns, and wouked a cest of the Scarecrow, and fuhed me told to be of the Dood to be, in the jell, and cold and the Mock Turtle\n\n\n\nThe gracgh;008:001   I should be me.”\n\nThe Tin Woodman was be of the Tin Woodman, no longer to my din them.\n\nThe King, and the right of the Lion, and the Cat, and she had wind.\n\nThe Scarecrow is wind that he was to the right of the m",
+    "source": "out_of_domain",
+    "lcs_length": 24,
+    "is_memorized": false
+  },
+  {
+    "prompt": "k took him four hours) and arranged it in such a way that he was now completely concealed and",
+    "generated": " be be bratying, and pile, and the Wourn.\n\n           a jooe, and they be dlon of howedly to do all, I wiss, and the rober, and sragy of the Vitly fureed as she was be of\nthe Marpyer of the Tin Woodman had a graes, and srowse, and the gits, they had ferovantat of the slady tiing of the Scarecrow. She was a geling",
+    "full": "k took him four hours) and arranged it in such a way that he was now completely concealed and be be bratying, and pile, and the Wourn.\n\n           a jooe, and they be dlon of howedly to do all, I wiss, and the rober, and sragy of the Vitly fureed as she was be of\nthe Marpyer of the Tin Woodman had a graes, and srowse, and the gits, they had ferovantat of the slady tiing of the Scarecrow. She was a geling",
+    "source": "out_of_domain",
+    "lcs_length": 21,
+    "is_memorized": false
+  },
+  {
+    "prompt": "ready his father was knocking on one side door, weakly but with his fist. \"Gregor",
+    "generated": "ly storn doed to come as he said the\npadted with tent of\nheet, and, who, and said the Dorgahars, so she was stall a little day\n‘What did, and the datsing, and the girl, and so huainly mind,’ replied her.\n\n“They, and they must go, ‘Yy, I will not dren to get him.\n\n\n‘I shall seees\n“I’t’t of this pa, they were be her hate’t",
+    "full": "ready his father was knocking on one side door, weakly but with his fist. \"Gregorly storn doed to come as he said the\npadted with tent of\nheet, and, who, and said the Dorgahars, so she was stall a little day\n‘What did, and the datsing, and the girl, and so huainly mind,’ replied her.\n\n“They, and they must go, ‘Yy, I will not dren to get him.\n\n\n‘I shall seees\n“I’t’t of this pa, they were be her hate’t",
+    "source": "out_of_domain",
+    "lcs_length": 14,
+    "is_memorized": false
+  },
+  {
+    "prompt": "ly closed again. Someone presumably needed to come in but had then thought better of it. Gre",
+    "generated": "ins that I am not, so durme, and she had the house, who was bes tae.\n\n\nse, but I’mand they diard. Sll sast, but Dorothy was a met of the Queen the gast, ‘I canncade, and the fatbolkerinly on to the Scarecrow at the gal of\n           fat, and, I have wind them was, as he’seens, “I’ty was a cired, and sasts of the s",
+    "full": "ly closed again. Someone presumably needed to come in but had then thought better of it. Greins that I am not, so durme, and she had the house, who was bes tae.\n\n\nse, but I’mand they diard. Sll sast, but Dorothy was a met of the Queen the gast, ‘I canncade, and the fatbolkerinly on to the Scarecrow at the gal of\n           fat, and, I have wind them was, as he’seens, “I’ty was a cired, and sasts of the s",
+    "source": "out_of_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  }
+]

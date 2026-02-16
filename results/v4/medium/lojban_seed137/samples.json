@@ -1,0 +1,402 @@
+[
+  {
+    "prompt": "ninas. pu klama lo lumku'a\nla .ninas. pu cpacu lo ladru\nla .sam. pu klama lo kelci stuzi\nla .sam. pu cpacu lo tanxe\nla .alis",
+    "generated": ". pu klama lo briju\nxu la .sandr. cu zvati ma? mi pu klama lo larcu kumfa\nlo mapku lo lumku'a\nlo kabri? lo ckule\n\nla .an. pu klama lo larcu kumfa\n\nla .suz. cu zvati ma? lo jukpa kumfa\nla .frank. pu klama lo gusta\nla .iv. pu klama lo panka\nla .djan. pu klama lo sipna kumfa\nla .bab. pu klama lo lumku'a\n\nca lo briju\nla .pet. pu klama lo gusta\nla .tam. pu klama lo jukpa kumfa\nla .djan. lo panka\nla .iv. pu klama lo vrogai\nla .lus. cu zvati ma? lo kelci stuzi\n\nla .djan. cu",
+    "full": "ninas. pu klama lo lumku'a\nla .ninas. pu cpacu lo ladru\nla .sam. pu klama lo kelci stuzi\nla .sam. pu cpacu lo tanxe\nla .alis. pu klama lo briju\nxu la .sandr. cu zvati ma? mi pu klama lo larcu kumfa\nlo mapku lo lumku'a\nlo kabri? lo ckule\n\nla .an. pu klama lo larcu kumfa\n\nla .suz. cu zvati ma? lo jukpa kumfa\nla .frank. pu klama lo gusta\nla .iv. pu klama lo panka\nla .djan. pu klama lo sipna kumfa\nla .bab. pu klama lo lumku'a\n\nca lo briju\nla .pet. pu klama lo gusta\nla .tam. pu klama lo jukpa kumfa\nla .djan. lo panka\nla .iv. pu klama lo vrogai\nla .lus. cu zvati ma? lo kelci stuzi\n\nla .djan. cu",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " .an. pu klama lo kelci stuzi\nla .an. pu cpacu lo cutci\nla .iv. pu klama lo gusta\nla .iv. pu cpacu lo penbi\nla .keit.",
+    "generated": " pu klama lo larcu kumfa? lo lumku'a lo prulamdei la .rik. pu klama lo cerni la .frank. pu klama lo vrogai? lo nu klama lo nu klama lo vanci la .keit. pu zvati ma pu klama lo nu klama lo lumku'a\nma bevri xokau pu lo prulamdei la .lus. pu lo vrogai\nlo tanxe lo lumku'a\nla .sandr. pu klama lo sipna kumfa? lo cerni la .lus. pu lo donri la .pet. pu lo vrogai\n\nca lo lumku'a\n\nca lo ckule\n\nla .alis. pu klama lo kelci stuzi\nla .frank. pu lo lumku'a\nla .deiv. pu klama",
+    "full": " .an. pu klama lo kelci stuzi\nla .an. pu cpacu lo cutci\nla .iv. pu klama lo gusta\nla .iv. pu cpacu lo penbi\nla .keit. pu klama lo larcu kumfa? lo lumku'a lo prulamdei la .rik. pu klama lo cerni la .frank. pu klama lo vrogai? lo nu klama lo nu klama lo vanci la .keit. pu zvati ma pu klama lo nu klama lo lumku'a\nma bevri xokau pu lo prulamdei la .lus. pu lo vrogai\nlo tanxe lo lumku'a\nla .sandr. pu klama lo sipna kumfa? lo cerni la .lus. pu lo donri la .pet. pu lo vrogai\n\nca lo lumku'a\n\nca lo ckule\n\nla .alis. pu klama lo kelci stuzi\nla .frank. pu lo lumku'a\nla .deiv. pu klama",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " bolci\nla .suz. mu'i ma pu klama lo vrogai? lo bolci\n\nla .iv. pu klama lo jukpa kumfa\nla .iv. pu cpacu lo ckiku\nla",
+    "generated": " .suz. lo zarci\nla .sandr. ca lo purdi\nxu la .bil. pu klama lo vrogai\nla .bil. ca na zvati lo nu klama lo cerni la .pet. cu zvati lo zarci? go'i\n\nla .frank. pu klama lo panka? go'i\n\nla .deiv. pu klama lo larcu kumfa? na zvati lo ckule\nla .tam. pu klama lo larcu kumfa\nla .an. pu klama lo briju\nla .deiv. pu lo jukpa kumfa\nla .deiv. pu klama lo ckule\nla .sandr. pu klama lo jukpa kumfa\nla .daniyl. pu zvati lo larcu kumfa\nlo cutci cu zvati lo zarci\nla .pet. pu klama lo panka\nla .",
+    "full": " bolci\nla .suz. mu'i ma pu klama lo vrogai? lo bolci\n\nla .iv. pu klama lo jukpa kumfa\nla .iv. pu cpacu lo ckiku\nla .suz. lo zarci\nla .sandr. ca lo purdi\nxu la .bil. pu klama lo vrogai\nla .bil. ca na zvati lo nu klama lo cerni la .pet. cu zvati lo zarci? go'i\n\nla .frank. pu klama lo panka? go'i\n\nla .deiv. pu klama lo larcu kumfa? na zvati lo ckule\nla .tam. pu klama lo larcu kumfa\nla .an. pu klama lo briju\nla .deiv. pu lo jukpa kumfa\nla .deiv. pu klama lo ckule\nla .sandr. pu klama lo jukpa kumfa\nla .daniyl. pu zvati lo larcu kumfa\nlo cutci cu zvati lo zarci\nla .pet. pu klama lo panka\nla .",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " lumku'a\nla .sandr. pu cpacu lo plise\nla .suz. mu'i ma pu klama lo ckule? lo dakli\n\nla .sam. pu klama lo",
+    "generated": " cukta\nla .maris. pu klama lo panka\nla .sandr. pu lo botpi\nla .daniyl. pu klama lo sipna kumfa\nlo cutci cu zvati ma? lo zarci\n\nla .suz. pu klama lo cutci\nla .fred. pu klama lo panka\n\nla .frank. pu klama lo kelci stuzi\nla .alis. pu klama lo zarci\nlo tanxe cu zvati ma? lo larcu kumfa\nca lo lumku'a\n\nla .djan. pu klama lo larcu kumfa\n\nla .an. pu klama lo lumku'a\nla .ninas. pu klama lo larcu kumfa\nla .bil. pu klama lo larcu kumfa\nxu la .sandr. pu klama lo jukpa kumfa\nla .djan. pu klama lo zarci\nla .",
+    "full": " lumku'a\nla .sandr. pu cpacu lo plise\nla .suz. mu'i ma pu klama lo ckule? lo dakli\n\nla .sam. pu klama lo cukta\nla .maris. pu klama lo panka\nla .sandr. pu lo botpi\nla .daniyl. pu klama lo sipna kumfa\nlo cutci cu zvati ma? lo zarci\n\nla .suz. pu klama lo cutci\nla .fred. pu klama lo panka\n\nla .frank. pu klama lo kelci stuzi\nla .alis. pu klama lo zarci\nlo tanxe cu zvati ma? lo larcu kumfa\nca lo lumku'a\n\nla .djan. pu klama lo larcu kumfa\n\nla .an. pu klama lo lumku'a\nla .ninas. pu klama lo larcu kumfa\nla .bil. pu klama lo larcu kumfa\nxu la .sandr. pu klama lo jukpa kumfa\nla .djan. pu klama lo zarci\nla .",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": "bil. pu klama lo purdi\nla .bil. pu cpacu lo cutci\nla .bil. mu'i ma pu klama lo purdi? lo cutci\n\nla .maris.",
+    "generated": " pu klama lo zarci\nla .djan. cu zvati ma? lo panka\nla .alis. pu klama lo vanci la .pet. ja'i .daniyl. pu klama lo vrogai\n\nla .daniyl. pu klama lo kelci stuzi\nla .fred. pu klama lo kelci stuzi ji lo sipna kumfa\nla .bab. cu zvati ma? lo sipna kumfa\nla .daniyl. pu klama lo kelci stuzi\nla .bab. cu zvati ma? lo kelci stuzi\nxu la .pet. pu klama lo ckule\n\nca lo jukpa kumfa\nla .lus. pu klama lo lumku'a\nla .maris. pu klama lo zarci\nxu la .an. pu klama lo gusta\n\nla .alis. pu klama",
+    "full": "bil. pu klama lo purdi\nla .bil. pu cpacu lo cutci\nla .bil. mu'i ma pu klama lo purdi? lo cutci\n\nla .maris. pu klama lo zarci\nla .djan. cu zvati ma? lo panka\nla .alis. pu klama lo vanci la .pet. ja'i .daniyl. pu klama lo vrogai\n\nla .daniyl. pu klama lo kelci stuzi\nla .fred. pu klama lo kelci stuzi ji lo sipna kumfa\nla .bab. cu zvati ma? lo sipna kumfa\nla .daniyl. pu klama lo kelci stuzi\nla .bab. cu zvati ma? lo kelci stuzi\nxu la .pet. pu klama lo ckule\n\nca lo jukpa kumfa\nla .lus. pu klama lo lumku'a\nla .maris. pu klama lo zarci\nxu la .an. pu klama lo gusta\n\nla .alis. pu klama",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": "i ma pu klama lo panka? lo penbi\n\nla .bil. pu klama lo kelci stuzi\nla .bil. pu cpacu lo cutci\nla .rik. pu klama lo",
+    "generated": " gusta\nla .deiv. pu klama lo panka\nla .rik. pu klama lo kelci stuzi\nla .keit. pu klama lo larcu kumfa\nla .djan. pu klama lo kelci stuzi\nxu la .suz. pu klama lo larcu kumfa\nla .fred. pu klama lo larcu kumfa? lo purdi\nlo cutci cu zvati ma? lo purdi\nla .an. pu klama lo vrogai\nxu la .keit. pu klama lo vrogai\nla .pet. pu lebna lo jukpa kumfa\nla .keit. pu klama lo larcu kumfa\nla .suz. pu klama lo sipna kumfa\nla .rik. pu klama lo vrogai\nla .suz. pu klama lo larcu kumfa\n\nla .bab. pu klama lo lumku'a\nla .daniyl. cu",
+    "full": "i ma pu klama lo panka? lo penbi\n\nla .bil. pu klama lo kelci stuzi\nla .bil. pu cpacu lo cutci\nla .rik. pu klama lo gusta\nla .deiv. pu klama lo panka\nla .rik. pu klama lo kelci stuzi\nla .keit. pu klama lo larcu kumfa\nla .djan. pu klama lo kelci stuzi\nxu la .suz. pu klama lo larcu kumfa\nla .fred. pu klama lo larcu kumfa? lo purdi\nlo cutci cu zvati ma? lo purdi\nla .an. pu klama lo vrogai\nxu la .keit. pu klama lo vrogai\nla .pet. pu lebna lo jukpa kumfa\nla .keit. pu klama lo larcu kumfa\nla .suz. pu klama lo sipna kumfa\nla .rik. pu klama lo vrogai\nla .suz. pu klama lo larcu kumfa\n\nla .bab. pu klama lo lumku'a\nla .daniyl. cu",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": "deiv. pu cpacu lo kabri\nla .suz. pu klama lo lumku'a\nla .suz. pu cpacu lo bolci\nla .deiv. mu'i ma pu klama lo",
+    "generated": " sipna kumfa cu zvati ma ji lo purdi? lo panka\nla .keit. .daniyl. cu zvati lo jukpa kumfa\n\nla .iv. pu klama lo jukpa kumfa\nla .maris. pu klama lo purdi\nla .suz. pu klama lo sipna kumfa\nla .rik. pu zvati ma? lo zarci\nla .suz. pu klama lo sipna kumfa\nla .alis. cu zvati lo lumku'i\n\nla .fred. pu klama lo larcu kumfa\nca lo ckule\nla .frank. pu klama lo sipna kumfa\nla .keit. pu klama lo kelci stuzi\n\nla .iv. pu klama lo lumku'a? lo sipna kumfa\nlo tanxe cu zvati ma? lo jukpa kumfa\n\nla .ninas",
+    "full": "deiv. pu cpacu lo kabri\nla .suz. pu klama lo lumku'a\nla .suz. pu cpacu lo bolci\nla .deiv. mu'i ma pu klama lo sipna kumfa cu zvati ma ji lo purdi? lo panka\nla .keit. .daniyl. cu zvati lo jukpa kumfa\n\nla .iv. pu klama lo jukpa kumfa\nla .maris. pu klama lo purdi\nla .suz. pu klama lo sipna kumfa\nla .rik. pu zvati ma? lo zarci\nla .suz. pu klama lo sipna kumfa\nla .alis. cu zvati lo lumku'i\n\nla .fred. pu klama lo larcu kumfa\nca lo ckule\nla .frank. pu klama lo sipna kumfa\nla .keit. pu klama lo kelci stuzi\n\nla .iv. pu klama lo lumku'a? lo sipna kumfa\nlo tanxe cu zvati ma? lo jukpa kumfa\n\nla .ninas",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " lo ladru\nla .bab. pu klama lo ckule\nla .bab. pu cpacu lo botpi\nla .iv. mu'i ma pu klama lo larcu kumfa? lo tanxe\n",
+    "generated": "\nla .suz. pu klama lo lumku'a cu zvati xokau? lo kabri\nla .suz. pu klama lo lumku'ojme. pu klama lo sipna kumfa\n\nla .pet. pu klama lo ckule\nla .frank. pu klama lo vrogai\n\nlo mapku cu zvati ma? lo panka\nla .deiv. pu klama lo sipna kumfa\nla .alis. se vasru lo jukpa kumfa? lo purdi\nla .deiv. pu klama lo briju\nla .pet. pu klama lo gusta\nla .bab. ca lo purdi\n\nla .fred. pu klama lo kelci stuzi\nlo botpi cu zvati ma? lo purdi\nla .suz. pu klama lo vrogai\nla .sam. pu klama lo sipna kumfa\n",
+    "full": " lo ladru\nla .bab. pu klama lo ckule\nla .bab. pu cpacu lo botpi\nla .iv. mu'i ma pu klama lo larcu kumfa? lo tanxe\n\nla .suz. pu klama lo lumku'a cu zvati xokau? lo kabri\nla .suz. pu klama lo lumku'ojme. pu klama lo sipna kumfa\n\nla .pet. pu klama lo ckule\nla .frank. pu klama lo vrogai\n\nlo mapku cu zvati ma? lo panka\nla .deiv. pu klama lo sipna kumfa\nla .alis. se vasru lo jukpa kumfa? lo purdi\nla .deiv. pu klama lo briju\nla .pet. pu klama lo gusta\nla .bab. ca lo purdi\n\nla .fred. pu klama lo kelci stuzi\nlo botpi cu zvati ma? lo purdi\nla .suz. pu klama lo vrogai\nla .sam. pu klama lo sipna kumfa\n",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " cpacu lo dakli\nla .keit. pu klama lo panka\nla .keit. pu cpacu lo tanxe\nla .tam. mu'i ma pu klama lo lumku'a? lo",
+    "generated": " nu klama lo nu klama lo sipna kumfa\nxu la .alis. cu zvati ma? lo larcu kumfa\nla .keit. pu klama lo ckule\n\nla .suz. pu klama lo larcu kumfa? lo purdi\n\nca lo lumku'a cu zvati ma? lo gusta\nla .an. pu klama lo lumku'a\n\nla .alis. pu klama lo sipna kumfa\nla .fred. pu klama lo vanci la .fred. pu klama lo gusta\nca lo vanci la .suz. ca lo donri la .rik. pu lo donri la .sam. pu klama lo kelci stuzi\nba bo la .suz. pu klama lo lumku'a? lo nu klama lo purdi?",
+    "full": " cpacu lo dakli\nla .keit. pu klama lo panka\nla .keit. pu cpacu lo tanxe\nla .tam. mu'i ma pu klama lo lumku'a? lo nu klama lo nu klama lo sipna kumfa\nxu la .alis. cu zvati ma? lo larcu kumfa\nla .keit. pu klama lo ckule\n\nla .suz. pu klama lo larcu kumfa? lo purdi\n\nca lo lumku'a cu zvati ma? lo gusta\nla .an. pu klama lo lumku'a\n\nla .alis. pu klama lo sipna kumfa\nla .fred. pu klama lo vanci la .fred. pu klama lo gusta\nca lo vanci la .suz. ca lo donri la .rik. pu lo donri la .sam. pu klama lo kelci stuzi\nba bo la .suz. pu klama lo lumku'a? lo nu klama lo purdi?",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " klama lo panka? lo cutci\n\nla .an. pu klama lo briju\nla .an. pu cpacu lo penbi\nla .tam. pu klama lo purdi\nla .tam.",
+    "generated": " cu zvati ma? lo kelci stuzi\n\nla .pet. pu klama lo larcu kumfa\n\nla .sandr. pu klama lo briju\nla .tam. pu klama lo purdi\nla .djan. pu klama lo vrogai\nla .sandr. pu klama lo zarci\nla .bil. pu klama lo ckule\nla .keit. pu klama lo zarci\nla .djan. pu klama lo kelci stuzi\nla .sam. pu klama lo purdi\nla .frank. pu klama lo larcu kumfa\nla .rik. pu klama lo ckule\nla .rik. pu klama lo zarci\nla .djan. pu klama lo vrogai\nla .rik. pu klama lo jukpa kumfa\nla .bil. cu zvati ma? lo vrogai\nla .daniyl. pu klama lo",
+    "full": " klama lo panka? lo cutci\n\nla .an. pu klama lo briju\nla .an. pu cpacu lo penbi\nla .tam. pu klama lo purdi\nla .tam. cu zvati ma? lo kelci stuzi\n\nla .pet. pu klama lo larcu kumfa\n\nla .sandr. pu klama lo briju\nla .tam. pu klama lo purdi\nla .djan. pu klama lo vrogai\nla .sandr. pu klama lo zarci\nla .bil. pu klama lo ckule\nla .keit. pu klama lo zarci\nla .djan. pu klama lo kelci stuzi\nla .sam. pu klama lo purdi\nla .frank. pu klama lo larcu kumfa\nla .rik. pu klama lo ckule\nla .rik. pu klama lo zarci\nla .djan. pu klama lo vrogai\nla .rik. pu klama lo jukpa kumfa\nla .bil. cu zvati ma? lo vrogai\nla .daniyl. pu klama lo",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " lo mapku\nla .pet. pu klama lo sipna kumfa\nla .pet. pu cpacu lo mapku\nla .lus. pu klama lo panka\nla .lus. pu cpacu lo cukta\nla .",
+    "generated": "frank. pu klama lo purdi\nla .frank. pu klama lo jukpa kumfa\nla .djan. pu klama lo briju? lo purdi\nla .frank. pu klama lo ckule\nla .daniyl. ca na zvati ma pu klama lo gusta\nla .rik. pu klama lo jukpa kumfa\n\nla .sandr. pu zvati ma pu klama lo kelci stuzi\nla .deiv. pu klama lo briju\nla .an. pu klama lo ckule\nla .ninas. cu zvati ma? lo larcu kumfa\n\nla .sandr. cu zvati ma? lo kelci stuzi\n\nla .rik. pu klama lo zarci\nla .keit. pu klama lo panka\nla .iv. pu klama lo ckule\nla .keit. pu klama lo",
+    "full": " lo mapku\nla .pet. pu klama lo sipna kumfa\nla .pet. pu cpacu lo mapku\nla .lus. pu klama lo panka\nla .lus. pu cpacu lo cukta\nla .frank. pu klama lo purdi\nla .frank. pu klama lo jukpa kumfa\nla .djan. pu klama lo briju? lo purdi\nla .frank. pu klama lo ckule\nla .daniyl. ca na zvati ma pu klama lo gusta\nla .rik. pu klama lo jukpa kumfa\n\nla .sandr. pu zvati ma pu klama lo kelci stuzi\nla .deiv. pu klama lo briju\nla .an. pu klama lo ckule\nla .ninas. cu zvati ma? lo larcu kumfa\n\nla .sandr. cu zvati ma? lo kelci stuzi\n\nla .rik. pu klama lo zarci\nla .keit. pu klama lo panka\nla .iv. pu klama lo ckule\nla .keit. pu klama lo",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": "'i ma pu klama lo jukpa kumfa? lo cutci\n\nla .an. pu klama lo lumku'a\nla .an. pu cpacu lo dakli\nla .djan.",
+    "generated": " pu klama lo dakli\nla .sam. cu zvati ma? lo lumku'a\nla .deiv. pu klama lo zarci\n\nla .sandr. pu klama lo zarci\nla .daniyl. pu klama lo vrogai\nla .bil. pu klama lo lumku'a\nla .lus. pu klama lo gusta\n\nla .alis. pu klama lo vrogai\nla .daniyl. cu zvati ma? lo gusta\nla .frank. cu zvati ma? lo larcu kumfa\n\nla .sandr. pu klama lo gusta\nla .tam. pu klama lo lumku'a\nla .frank. pu klama lo lumku'a\nla .pet. pu klama lo kelci stuzi\n\nla .fred. pu klama lo larcu kumfa\nla .",
+    "full": "'i ma pu klama lo jukpa kumfa? lo cutci\n\nla .an. pu klama lo lumku'a\nla .an. pu cpacu lo dakli\nla .djan. pu klama lo dakli\nla .sam. cu zvati ma? lo lumku'a\nla .deiv. pu klama lo zarci\n\nla .sandr. pu klama lo zarci\nla .daniyl. pu klama lo vrogai\nla .bil. pu klama lo lumku'a\nla .lus. pu klama lo gusta\n\nla .alis. pu klama lo vrogai\nla .daniyl. cu zvati ma? lo gusta\nla .frank. cu zvati ma? lo larcu kumfa\n\nla .sandr. pu klama lo gusta\nla .tam. pu klama lo lumku'a\nla .frank. pu klama lo lumku'a\nla .pet. pu klama lo kelci stuzi\n\nla .fred. pu klama lo larcu kumfa\nla .",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " pu cpacu lo dakli\nla .keit. mu'i ma pu klama lo gusta? lo tanxe\n\nla .an. pu klama lo larcu kumfa\nla .an. pu",
+    "generated": " klama lo zarci\nla .djan. ku'a lo purdi\nla .sandr. pu klama lo zarci\nla .an. pu klama lo ckule\nla .djan. pu klama lo vrogai\nla .deiv. cu zvati ma? lo sipna kumfa\n\nla .tam. pu klama lo panka\nla .e la .daniyl. cu zvati ma? lo lumku'a\n\nla .suz. pu klama lo sipna kumfa\nla .sam. cu zvati ma? lo gusta\nla .alis. ca lo jukpa kumfa\nla .fred. se cu zvati ma? lo lumku'a\nla .sandr. pu klama lo ckule\nla .e la .maris. pu klama lo jukpa kumfa\nla .fred. pu klama lo sipna",
+    "full": " pu cpacu lo dakli\nla .keit. mu'i ma pu klama lo gusta? lo tanxe\n\nla .an. pu klama lo larcu kumfa\nla .an. pu klama lo zarci\nla .djan. ku'a lo purdi\nla .sandr. pu klama lo zarci\nla .an. pu klama lo ckule\nla .djan. pu klama lo vrogai\nla .deiv. cu zvati ma? lo sipna kumfa\n\nla .tam. pu klama lo panka\nla .e la .daniyl. cu zvati ma? lo lumku'a\n\nla .suz. pu klama lo sipna kumfa\nla .sam. cu zvati ma? lo gusta\nla .alis. ca lo jukpa kumfa\nla .fred. se cu zvati ma? lo lumku'a\nla .sandr. pu klama lo ckule\nla .e la .maris. pu klama lo jukpa kumfa\nla .fred. pu klama lo sipna",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " cpacu lo cutci\nla .suz. pu klama lo larcu kumfa\nla .suz. pu cpacu lo cutci\nla .rik. mu'i ma pu klama lo ckule? lo cutci",
+    "generated": " cu zvati lo gusta\n\nca lo panka\nla .deiv. pu klama lo botpi\nla .alis. pu klama lo jukpa kumfa\nla .sandr. pu klama lo briju\nla .an. pu klama lo larcu kumfa\nla .alis. cu zvati ma? lo gusta\nla .bab. pu klama lo lumku'a\nla .sam. pu klama lo zarci\n\nla .rik. pu klama lo sipna kumfa\nca lo larcu kumfa\nla .ninas. pu klama lo gusta\nxu la .bil. pu klama lo ckule\nla .deiv. pu klama lo lumku'a\nlo mapku cu zvati ma? lo kelci stuzi? na go'a\nla .iv. pu klama lo zarci\nla .ninas. pu klama lo gusta\nxu la",
+    "full": " cpacu lo cutci\nla .suz. pu klama lo larcu kumfa\nla .suz. pu cpacu lo cutci\nla .rik. mu'i ma pu klama lo ckule? lo cutci cu zvati lo gusta\n\nca lo panka\nla .deiv. pu klama lo botpi\nla .alis. pu klama lo jukpa kumfa\nla .sandr. pu klama lo briju\nla .an. pu klama lo larcu kumfa\nla .alis. cu zvati ma? lo gusta\nla .bab. pu klama lo lumku'a\nla .sam. pu klama lo zarci\n\nla .rik. pu klama lo sipna kumfa\nca lo larcu kumfa\nla .ninas. pu klama lo gusta\nxu la .bil. pu klama lo ckule\nla .deiv. pu klama lo lumku'a\nlo mapku cu zvati ma? lo kelci stuzi? na go'a\nla .iv. pu klama lo zarci\nla .ninas. pu klama lo gusta\nxu la",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " kelci stuzi\nla .sam. pu cpacu lo tanxe\nla .an. pu klama lo vrogai\nla .an. pu cpacu lo bolci\nla .sam. mu'i ma pu klama",
+    "generated": " lo purdi\nla .fred. pu klama lo sipna kumfa\nla .daniyl. cu zvati ma? lo panka\n\nla .deiv. pu klama lo sipna kumfa\nla .bab. pu klama lo sipna kumfa\nla .maris. pu klama lo cerni la .e la .djan. pu klama lo kelci stuzi\nla .pet. cu zvati ma? se vasru lo lumku'a\n\nla .iv. pu klama lo vrogai\n\nla .sandr. pu klama lo zarci\nla .bil. pu klama lo panka\nla .bab. pu lo briju\nla .fred. pu klama lo gusta\nla .an. pu klama lo panka\nla .alis. pu na zvati ma? lo sipna kumfa\nla .sam.",
+    "full": " kelci stuzi\nla .sam. pu cpacu lo tanxe\nla .an. pu klama lo vrogai\nla .an. pu cpacu lo bolci\nla .sam. mu'i ma pu klama lo purdi\nla .fred. pu klama lo sipna kumfa\nla .daniyl. cu zvati ma? lo panka\n\nla .deiv. pu klama lo sipna kumfa\nla .bab. pu klama lo sipna kumfa\nla .maris. pu klama lo cerni la .e la .djan. pu klama lo kelci stuzi\nla .pet. cu zvati ma? se vasru lo lumku'a\n\nla .iv. pu klama lo vrogai\n\nla .sandr. pu klama lo zarci\nla .bil. pu klama lo panka\nla .bab. pu lo briju\nla .fred. pu klama lo gusta\nla .an. pu klama lo panka\nla .alis. pu na zvati ma? lo sipna kumfa\nla .sam.",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " pu klama lo lumku'a\nla .ninas. pu cpacu lo ckiku\nla .suz. mu'i ma pu klama lo lumku'a? lo ladru\n\nla .",
+    "generated": "sandr. cu zvati lo prulamdei la .an. pu lo nu klama lo purdi\nxu la .tam. ca lo sipna kumfa\nla .bab. pu lo cerni la .fred. pu klama lo lumku'a pu lo panka? lo zarci\nla .frank. cu zvati ma? na go'i\n\nca lo zarci\nla .sandr. pu klama lo panka\nla .alis. pu zvati lo donri la .tam. pu klama lo donri la .suz. pu klama lo kelci stuzi? lo vrogai\n\nla .deiv. pu klama lo cerni la .suz. pu klama lo prulamdei la .an. pu'a? lo cerni la .iv. pu klama",
+    "full": " pu klama lo lumku'a\nla .ninas. pu cpacu lo ckiku\nla .suz. mu'i ma pu klama lo lumku'a? lo ladru\n\nla .sandr. cu zvati lo prulamdei la .an. pu lo nu klama lo purdi\nxu la .tam. ca lo sipna kumfa\nla .bab. pu lo cerni la .fred. pu klama lo lumku'a pu lo panka? lo zarci\nla .frank. cu zvati ma? na go'i\n\nca lo zarci\nla .sandr. pu klama lo panka\nla .alis. pu zvati lo donri la .tam. pu klama lo donri la .suz. pu klama lo kelci stuzi? lo vrogai\n\nla .deiv. pu klama lo cerni la .suz. pu klama lo prulamdei la .an. pu'a? lo cerni la .iv. pu klama",
+    "source": "in_domain",
+    "lcs_length": 21,
+    "is_memorized": false
+  },
+  {
+    "prompt": "\nla .bab. pu klama lo panka\nla .bab. pu cpacu lo cukta\nla .keit. pu klama lo gusta\nla .keit. pu cpacu lo tanxe\nla .bab.",
+    "generated": " pu klama lo panka\nla .deiv. pu klama lo panka\nla .iv. pu klama lo ckule\nla .an. cu zvati ma? lo donri la .sandr. pu lo cerni la .fred. pu klama lo sipna kumfa\n\nla .sandr. pu lo jukpa kumfa\n\nla .sandr. pu klama lo panka\nla .rik. cu zvati ma? lo vrogai\nxu la .rik. pu klama lo cerni la .bab. pu klama lo prulamdei la .lus. pu klama lo larcu kumfa\n\nca lo larcu kumfa\n\nla .bab. ca lo cerni la .ninas. pu .sam. pu klama lo cerni la .deiv. cu zvati ma?",
+    "full": "\nla .bab. pu klama lo panka\nla .bab. pu cpacu lo cukta\nla .keit. pu klama lo gusta\nla .keit. pu cpacu lo tanxe\nla .bab. pu klama lo panka\nla .deiv. pu klama lo panka\nla .iv. pu klama lo ckule\nla .an. cu zvati ma? lo donri la .sandr. pu lo cerni la .fred. pu klama lo sipna kumfa\n\nla .sandr. pu lo jukpa kumfa\n\nla .sandr. pu klama lo panka\nla .rik. cu zvati ma? lo vrogai\nxu la .rik. pu klama lo cerni la .bab. pu klama lo prulamdei la .lus. pu klama lo larcu kumfa\n\nca lo larcu kumfa\n\nla .bab. ca lo cerni la .ninas. pu .sam. pu klama lo cerni la .deiv. cu zvati ma?",
+    "source": "in_domain",
+    "lcs_length": 15,
+    "is_memorized": false
+  },
+  {
+    "prompt": " klama lo purdi\nla .lus. pu cpacu lo botpi\nla .lus. mu'i ma pu klama lo purdi? lo botpi\n\nla .djan. pu klama lo",
+    "generated": " panka\nxu la .keit. cu zvati ma? pa\n\nla .maris. pu klama lo panka\nla .bab. pu klama lo jukpa kumfa\nla .deiv. pu klama lo lumku'a\nla .rik. pu zvati ma? lo lumku'a\nla .fred. pu klama lo ckule\nla .lus. pu klama lo sipna kumfa\nba bo la .bab. pu klama lo zarci\nla .deiv. pu klama lo larcu kumfa\nla .bab. pu klama lo larcu kumfa\n\nla .lus. pu zvati ma? lo vrogai\nla .suz. pu klama lo sipna kumfa\nla .rik. pu klama lo kelci stuzi\n\nla .fred. pu klama lo larcu kumfa\nla .ninas. pu",
+    "full": " klama lo purdi\nla .lus. pu cpacu lo botpi\nla .lus. mu'i ma pu klama lo purdi? lo botpi\n\nla .djan. pu klama lo panka\nxu la .keit. cu zvati ma? pa\n\nla .maris. pu klama lo panka\nla .bab. pu klama lo jukpa kumfa\nla .deiv. pu klama lo lumku'a\nla .rik. pu zvati ma? lo lumku'a\nla .fred. pu klama lo ckule\nla .lus. pu klama lo sipna kumfa\nba bo la .bab. pu klama lo zarci\nla .deiv. pu klama lo larcu kumfa\nla .bab. pu klama lo larcu kumfa\n\nla .lus. pu zvati ma? lo vrogai\nla .suz. pu klama lo sipna kumfa\nla .rik. pu klama lo kelci stuzi\n\nla .fred. pu klama lo larcu kumfa\nla .ninas. pu",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " lo bolci\n\nla .frank. pu klama lo vrogai\nla .frank. pu cpacu lo ladru\nla .daniyl. pu klama lo gusta\nla .daniyl. pu cpacu lo tanxe\nla",
+    "generated": " .keit. pu klama lo cutci\nla .iv. pu klama lo panka\nla .maris. pu zvati ma pu lo lumku'a\nlo plise\nla .bab. pu klama lo nu klama lo larcu kumfa\nla .lus. pu klama lo ckule\nla .ninas. pu lo panka\nla .pet. pu klama lo lumku'a\nla .frank. pu kumfa? lo donri la .frank. pu klama lo vrogai\nca lo nu klama lo panka\nla .frank. pu klama lo nu klama lo zarci? lo jukpa kumfa\nla .rik. pu klama lo sipna kumfa\nla .keit. pu klama lo larcu kumfa\n\nla .bil. pu klama lo cerni la .ninas. pu klama lo sipna kumfa\nla",
+    "full": " lo bolci\n\nla .frank. pu klama lo vrogai\nla .frank. pu cpacu lo ladru\nla .daniyl. pu klama lo gusta\nla .daniyl. pu cpacu lo tanxe\nla .keit. pu klama lo cutci\nla .iv. pu klama lo panka\nla .maris. pu zvati ma pu lo lumku'a\nlo plise\nla .bab. pu klama lo nu klama lo larcu kumfa\nla .lus. pu klama lo ckule\nla .ninas. pu lo panka\nla .pet. pu klama lo lumku'a\nla .frank. pu kumfa? lo donri la .frank. pu klama lo vrogai\nca lo nu klama lo panka\nla .frank. pu klama lo nu klama lo zarci? lo jukpa kumfa\nla .rik. pu klama lo sipna kumfa\nla .keit. pu klama lo larcu kumfa\n\nla .bil. pu klama lo cerni la .ninas. pu klama lo sipna kumfa\nla",
+    "source": "in_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": " pu klama lo jukpa kumfa\nla .rik. pu cpacu lo dakli\nla .keit. mu'i ma pu klama lo ckule? lo dakli\n\nla .ninas. pu",
+    "generated": " lo kabri\nla .iv. pu klama lo purdi\nla .e la .bab. pu klama lo jukpa kumfa\nla .deiv. pu klama lo purdi\nla .suz. pu klama lo penbi\nla .keit. pu klama lo donri la .rik. pu klama lo jukpa kumfa\nla .keit. pu klama lo gusta\nla .rik. cu zvati ma? lo larcu kumfa\nca lo purdi? lo larcu kumfa\n\nla .frank. pu klama lo cerni la .deiv. pu klama lo vanci la .keit. pu klama lo purdi\n\nca lo vanci la .sam. pu lo gusta\nca lo cerni la .frank. pu klama lo panka\nla .tam. pu lo larcu kumfa\nla .sam",
+    "full": " pu klama lo jukpa kumfa\nla .rik. pu cpacu lo dakli\nla .keit. mu'i ma pu klama lo ckule? lo dakli\n\nla .ninas. pu lo kabri\nla .iv. pu klama lo purdi\nla .e la .bab. pu klama lo jukpa kumfa\nla .deiv. pu klama lo purdi\nla .suz. pu klama lo penbi\nla .keit. pu klama lo donri la .rik. pu klama lo jukpa kumfa\nla .keit. pu klama lo gusta\nla .rik. cu zvati ma? lo larcu kumfa\nca lo purdi? lo larcu kumfa\n\nla .frank. pu klama lo cerni la .deiv. pu klama lo vanci la .keit. pu klama lo purdi\n\nca lo vanci la .sam. pu lo gusta\nca lo cerni la .frank. pu klama lo panka\nla .tam. pu lo larcu kumfa\nla .sam",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " ma pu klama lo kelci stuzi? lo mapku\n\nla .sandr. pu klama lo ckule\nla .sandr. pu cpacu lo plise\nla .sandr. mu'i ma",
+    "generated": " pu klama lo kelci stuzi\nca lo panka\nla .tam. pu lo cutci\nla .djan. pu lo lumku'a? lo kelci stuzi\nla .fred. pu klama lo briju\nxu la .ninas. pu klama lo sipna kumfa\nba bo la .alis. pu klama lo purdi\n\nla .djan. pu klama lo sipna kumfa\nca lo ckule\nla .bil. pu klama lo purdi\nla .bab. cu zvati ma? lo sipna kumfa\nxu la .alis. cu zvati ma? lo jukpa kumfa\n\nla .e la .frank. pu klama lo ckule\nxu la .tam. pu klama lo gusta\nxu la .deiv. pu klama lo jukpa kumfa\nla .deiv. cu zvati ma? lo kelci",
+    "full": " ma pu klama lo kelci stuzi? lo mapku\n\nla .sandr. pu klama lo ckule\nla .sandr. pu cpacu lo plise\nla .sandr. mu'i ma pu klama lo kelci stuzi\nca lo panka\nla .tam. pu lo cutci\nla .djan. pu lo lumku'a? lo kelci stuzi\nla .fred. pu klama lo briju\nxu la .ninas. pu klama lo sipna kumfa\nba bo la .alis. pu klama lo purdi\n\nla .djan. pu klama lo sipna kumfa\nca lo ckule\nla .bil. pu klama lo purdi\nla .bab. cu zvati ma? lo sipna kumfa\nxu la .alis. cu zvati ma? lo jukpa kumfa\n\nla .e la .frank. pu klama lo ckule\nxu la .tam. pu klama lo gusta\nxu la .deiv. pu klama lo jukpa kumfa\nla .deiv. cu zvati ma? lo kelci",
+    "source": "in_domain",
+    "lcs_length": 24,
+    "is_memorized": false
+  },
+  {
+    "prompt": " klama lo gusta\nla .iv. pu cpacu lo botpi\nla .iv. mu'i ma pu klama lo gusta? lo botpi\n\nla .alis. pu klama lo",
+    "generated": " briju\nla .suz. ca lo ckule\nla .alis. pu klama lo sipna kumfa\nla .an. pu klama lo cerni la .lus. pu zvati ma pu klama lo donri la .ninas. pu klama lo sipna kumfa? lo briju\nla .an. pu klama lo sipna kumfa\n\nca lo zarci\nla .deiv. cu zvati ma? lo vanci la .maris. pu klama lo nu klama lo gusta\nla .frank. pu klama lo vanci la .maris. pu lo lumku'a\nla .bab. cu zvati ma? lo panka\nxu la .lus. pu klama lo kelci stuzi\nla .lus. ca lo kelci stuzi? lo larcu kumfa\nxu la .frank. pu klama",
+    "full": " klama lo gusta\nla .iv. pu cpacu lo botpi\nla .iv. mu'i ma pu klama lo gusta? lo botpi\n\nla .alis. pu klama lo briju\nla .suz. ca lo ckule\nla .alis. pu klama lo sipna kumfa\nla .an. pu klama lo cerni la .lus. pu zvati ma pu klama lo donri la .ninas. pu klama lo sipna kumfa? lo briju\nla .an. pu klama lo sipna kumfa\n\nca lo zarci\nla .deiv. cu zvati ma? lo vanci la .maris. pu klama lo nu klama lo gusta\nla .frank. pu klama lo vanci la .maris. pu lo lumku'a\nla .bab. cu zvati ma? lo panka\nxu la .lus. pu klama lo kelci stuzi\nla .lus. ca lo kelci stuzi? lo larcu kumfa\nxu la .frank. pu klama",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " ma pu klama lo vrogai? lo cukta\n\nla .lus. pu klama lo ckule\nla .lus. pu cpacu lo bolci\nla .rik. pu klama lo sipna kumfa\nla",
+    "generated": " .sandr. pu klama lo sipna kumfa\nxu la .deiv. cu zvati ma? lo panka\nla .ninas. pu klama lo gusta\nlo cutci cu zvati ma? lo kelci stuzi\n\nla .tam. pu klama lo lumku'a\nlo ladru cu zvati lo sipna kumfa\nla .tam. pu klama lo sipna kumfa\nla .sam. pu klama lo larcu kumfa\n\nla .keit. cu zvati ma? lo vrogai\nla .iv. pu klama lo jukpa kumfa\n\nla .ninas. pu klama lo kelci stuzi\n\nla .djan. pu klama lo purdi\nla .daniyl. pu klama lo lumku'a\nla .pet .alis. pu klama lo panka\nla .lus. cu zvati ma",
+    "full": " ma pu klama lo vrogai? lo cukta\n\nla .lus. pu klama lo ckule\nla .lus. pu cpacu lo bolci\nla .rik. pu klama lo sipna kumfa\nla .sandr. pu klama lo sipna kumfa\nxu la .deiv. cu zvati ma? lo panka\nla .ninas. pu klama lo gusta\nlo cutci cu zvati ma? lo kelci stuzi\n\nla .tam. pu klama lo lumku'a\nlo ladru cu zvati lo sipna kumfa\nla .tam. pu klama lo sipna kumfa\nla .sam. pu klama lo larcu kumfa\n\nla .keit. cu zvati ma? lo vrogai\nla .iv. pu klama lo jukpa kumfa\n\nla .ninas. pu klama lo kelci stuzi\n\nla .djan. pu klama lo purdi\nla .daniyl. pu klama lo lumku'a\nla .pet .alis. pu klama lo panka\nla .lus. cu zvati ma",
+    "source": "in_domain",
+    "lcs_length": 20,
+    "is_memorized": false
+  },
+  {
+    "prompt": "? lo ckiku\n\nla .bab. pu klama lo larcu kumfa\nla .bab. pu cpacu lo botpi\nla .iv. pu klama lo jukpa kumfa\nla .iv. pu",
+    "generated": " zvati ma pu lo penbi\nla .fred. cu zvati ma? lo sipna kumfa\n\nla .suz. pu klama lo mapku\nla .alis. pu lebna lo panka\nla .lus. pu klama lo penbi\nla .maris. pu klama lo briju\nla .tam. pu klama lo gusta\n\nla .sandr. pu klama lo ckule\nla .daniyl. pu klama lo plise\nla .alis. cu zvati ma? lo larcu kumfa\nxu la .alis. pu klama lo panka\nla .sam. pu klama lo gusta\nla .iv. pu klama lo kelci stuzi\nla .sandr. pu klama lo gusta\nla .djan. cu zvati ma? lo zarci\n\nla .rik. pu klama lo zarci\n\nla",
+    "full": "? lo ckiku\n\nla .bab. pu klama lo larcu kumfa\nla .bab. pu cpacu lo botpi\nla .iv. pu klama lo jukpa kumfa\nla .iv. pu zvati ma pu lo penbi\nla .fred. cu zvati ma? lo sipna kumfa\n\nla .suz. pu klama lo mapku\nla .alis. pu lebna lo panka\nla .lus. pu klama lo penbi\nla .maris. pu klama lo briju\nla .tam. pu klama lo gusta\n\nla .sandr. pu klama lo ckule\nla .daniyl. pu klama lo plise\nla .alis. cu zvati ma? lo larcu kumfa\nxu la .alis. pu klama lo panka\nla .sam. pu klama lo gusta\nla .iv. pu klama lo kelci stuzi\nla .sandr. pu klama lo gusta\nla .djan. cu zvati ma? lo zarci\n\nla .rik. pu klama lo zarci\n\nla",
+    "source": "in_domain",
+    "lcs_length": 23,
+    "is_memorized": false
+  },
+  {
+    "prompt": " pu klama lo purdi? lo kabri\n\nla .sandr. pu klama lo gusta\nla .sandr. pu cpacu lo plise\nla .keit. pu klama lo ckule\nla .keit",
+    "generated": ". pu klama lo botpi\nla .rik. pu zvati ma pu lo lumku'a\nla .daniyl. cu zvati ma? lo jukpa kumfa\n\nla .rik. pu klama lo gusta\n\nla .djan. pu klama lo gusta\nla .bab. pu klama lo kelci stuzi\nla .an. pu klama lo lumku'a\nla .iv. cu zvati ma? lo lumku'a\nla .daniyl. pu klama lo sipna kumfa\nla .iv. pu klama lo larcu kumfa\nla .an. pu klama lo zarci\nla .pet. pu klama lo purdi\nlo tanxe cu zvati ma? lo lumku'a\nla .bil. pu klama lo larcu kumfa\nla .alis. pu klama lo sipna kumfa\nla .",
+    "full": " pu klama lo purdi? lo kabri\n\nla .sandr. pu klama lo gusta\nla .sandr. pu cpacu lo plise\nla .keit. pu klama lo ckule\nla .keit. pu klama lo botpi\nla .rik. pu zvati ma pu lo lumku'a\nla .daniyl. cu zvati ma? lo jukpa kumfa\n\nla .rik. pu klama lo gusta\n\nla .djan. pu klama lo gusta\nla .bab. pu klama lo kelci stuzi\nla .an. pu klama lo lumku'a\nla .iv. cu zvati ma? lo lumku'a\nla .daniyl. pu klama lo sipna kumfa\nla .iv. pu klama lo larcu kumfa\nla .an. pu klama lo zarci\nla .pet. pu klama lo purdi\nlo tanxe cu zvati ma? lo lumku'a\nla .bil. pu klama lo larcu kumfa\nla .alis. pu klama lo sipna kumfa\nla .",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": ". mu'i ma pu klama lo panka? lo ladru\n\nla .ninas. pu klama lo jukpa kumfa\nla .ninas. pu cpacu lo ckiku\nla .bil.",
+    "generated": " pu klama lo gusta\nxu la .suz. pu klama lo gusta\nxu la .maris. pu klama lo lumku'a\nba bo la .djan. pu klama lo zarci\nla .bab. pu klama lo purdi? lo gusta\nla .djan. pu klama lo sipna kumfa\nla .djan. cu zvati ma? lo zarci\nba bo la .iv. pu klama lo jukpa kumfa\n\nla .suz. pu klama lo zarci\nba bo ry pu klama lo purdi\nla .frank. cu zvati ma? lo lumku'a\n\nla .lus. cu zvati ma? lo jukpa kumfa\nla .daniyl. pu klama lo kelci stuzi\nla .sam. cu zvati ma? lo purdi\n\nla .alis.",
+    "full": ". mu'i ma pu klama lo panka? lo ladru\n\nla .ninas. pu klama lo jukpa kumfa\nla .ninas. pu cpacu lo ckiku\nla .bil. pu klama lo gusta\nxu la .suz. pu klama lo gusta\nxu la .maris. pu klama lo lumku'a\nba bo la .djan. pu klama lo zarci\nla .bab. pu klama lo purdi? lo gusta\nla .djan. pu klama lo sipna kumfa\nla .djan. cu zvati ma? lo zarci\nba bo la .iv. pu klama lo jukpa kumfa\n\nla .suz. pu klama lo zarci\nba bo ry pu klama lo purdi\nla .frank. cu zvati ma? lo lumku'a\n\nla .lus. cu zvati ma? lo jukpa kumfa\nla .daniyl. pu klama lo kelci stuzi\nla .sam. cu zvati ma? lo purdi\n\nla .alis.",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": ". pu klama lo vrogai\nla .daniyl. pu cpacu lo ladru\nla .tam. mu'i ma pu klama lo gusta? lo tanxe\n\nla .sandr. pu",
+    "generated": " klama lo vrogai\nla .suz. pu klama lo gusta\nla .daniyl. pu klama lo zarci\nla .ninas. cu zvati ma? lo gusta\nla .djan. pu klama lo sipna kumfa\nla .daniyl. ca lo sipna kumfa\nxu la .daniyl. pu klama lo prulamdei la .maris. pu klama lo jukpa kumfa\nla .pet. pu klama lo gusta? lo zarci\n\nla .suz. pu klama lo donri la .deiv. pu klama lo prulamdei la .tam. pu klama lo larcu kumfa\nla .rik. pu lo cerni la .ninas. ca lo larcu kumfa\nla .ninas. pu zvati ma klama lo prulamdei la .bil. pu klama lo larcu kumfa\nla .suz",
+    "full": ". pu klama lo vrogai\nla .daniyl. pu cpacu lo ladru\nla .tam. mu'i ma pu klama lo gusta? lo tanxe\n\nla .sandr. pu klama lo vrogai\nla .suz. pu klama lo gusta\nla .daniyl. pu klama lo zarci\nla .ninas. cu zvati ma? lo gusta\nla .djan. pu klama lo sipna kumfa\nla .daniyl. ca lo sipna kumfa\nxu la .daniyl. pu klama lo prulamdei la .maris. pu klama lo jukpa kumfa\nla .pet. pu klama lo gusta? lo zarci\n\nla .suz. pu klama lo donri la .deiv. pu klama lo prulamdei la .tam. pu klama lo larcu kumfa\nla .rik. pu lo cerni la .ninas. ca lo larcu kumfa\nla .ninas. pu zvati ma klama lo prulamdei la .bil. pu klama lo larcu kumfa\nla .suz",
+    "source": "in_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " klama lo ckule\nla .alis. pu cpacu lo ckiku\nla .alis. mu'i ma pu klama lo ckule? lo ckiku\n\nla .maris. pu klama lo",
+    "generated": " kabri\nla .djan. pu klama lo lumku'a\n\nca lo vanci la .alis. pu klama lo lumku'a\nla .djan. pu klama lo vrogai\nla .pet. pu klama lo lumku'a? lo nu klama lo purdi\nla .fred. pu klama lo nu klama lo kelci stuzi\nla .fred. pu klama lo zarci\n\nca lo donri la .iv. pu klama lo cerni la .keit. pu klama lo panka\nla .lus. pu klama lo lumku'a\nla .iv. pu klama lo nu klama lo lumku'a\nla .maris. pu klama lo sipna kumfa\nla .keit. pu klama lo lumku'a\nla .frank. pu klama lo",
+    "full": " klama lo ckule\nla .alis. pu cpacu lo ckiku\nla .alis. mu'i ma pu klama lo ckule? lo ckiku\n\nla .maris. pu klama lo kabri\nla .djan. pu klama lo lumku'a\n\nca lo vanci la .alis. pu klama lo lumku'a\nla .djan. pu klama lo vrogai\nla .pet. pu klama lo lumku'a? lo nu klama lo purdi\nla .fred. pu klama lo nu klama lo kelci stuzi\nla .fred. pu klama lo zarci\n\nca lo donri la .iv. pu klama lo cerni la .keit. pu klama lo panka\nla .lus. pu klama lo lumku'a\nla .iv. pu klama lo nu klama lo lumku'a\nla .maris. pu klama lo sipna kumfa\nla .keit. pu klama lo lumku'a\nla .frank. pu klama lo",
+    "source": "in_domain",
+    "lcs_length": 23,
+    "is_memorized": false
+  },
+  {
+    "prompt": ". mu'i ma pu klama lo gusta? lo tanxe\n\nla .bab. pu klama lo panka\nla .bab. pu cpacu lo cukta\nla .bab. mu",
+    "generated": "'o � zvati lo donri la .alis. cu zvati lo vanci la .ninas. ca lo larcu kumfa\n\nla .alis. pu klama lo purdi\nca lo prulamdei la .alis. pu klama lo vrogai? lo larcu kumfa? lo vanci la .daniyl. pu klama lo purdi\nla .pet. pu klama lo lumku'a\nla .djan. pu lo panka\n\nca lo cerni la .rik. pu klama lo briju? lo purdi\n\nla .deiv. pu zvati ma pu lo panka\nla .frank. pu lo briju\nca go'a\nla .sandr. pu klama lo sipna kumfa\nla .alis. pu klama lo vanci la .bab. pu zvati ma",
+    "full": ". mu'i ma pu klama lo gusta? lo tanxe\n\nla .bab. pu klama lo panka\nla .bab. pu cpacu lo cukta\nla .bab. mu'o � zvati lo donri la .alis. cu zvati lo vanci la .ninas. ca lo larcu kumfa\n\nla .alis. pu klama lo purdi\nca lo prulamdei la .alis. pu klama lo vrogai? lo larcu kumfa? lo vanci la .daniyl. pu klama lo purdi\nla .pet. pu klama lo lumku'a\nla .djan. pu lo panka\n\nca lo cerni la .rik. pu klama lo briju? lo purdi\n\nla .deiv. pu zvati ma pu lo panka\nla .frank. pu lo briju\nca go'a\nla .sandr. pu klama lo sipna kumfa\nla .alis. pu klama lo vanci la .bab. pu zvati ma",
+    "source": "in_domain",
+    "lcs_length": 23,
+    "is_memorized": false
+  },
+  {
+    "prompt": " klama lo jukpa kumfa? lo dakli\n\nla .frank. pu klama lo zarci\nla .frank. pu cpacu lo penbi\nla .suz. pu klama lo kelci stuzi\nla .",
+    "generated": "sandr. pu klama lo zarci\nla .maris. pu klama lo zarci\nla .sandr. pu klama lo kelci stuzi\nla .keit. pu klama lo briju\nla .pet. pu klama lo panka\nla .iv. pu klama lo panka\nla .bab.? lo kelci stuzi\nla .sam. cu zvati ma? lo gusta\n\nca lo kelci stuzi\nla .keit. pu klama lo sipna kumfa\nla .deiv. pu klama lo larcu kumfa\nla .an. cu zvati ma? lo vrogai\nlo ckiku cu zvati ma? lo larcu kumfa\nlo plise cu zvati ma? lo jukpa kumfa\n\nla .bil. pu klama lo panka\nla .sandr. pu klama lo vrogai\nlo botpi cu zvati ma? lo gusta\nla .",
+    "full": " klama lo jukpa kumfa? lo dakli\n\nla .frank. pu klama lo zarci\nla .frank. pu cpacu lo penbi\nla .suz. pu klama lo kelci stuzi\nla .sandr. pu klama lo zarci\nla .maris. pu klama lo zarci\nla .sandr. pu klama lo kelci stuzi\nla .keit. pu klama lo briju\nla .pet. pu klama lo panka\nla .iv. pu klama lo panka\nla .bab.? lo kelci stuzi\nla .sam. cu zvati ma? lo gusta\n\nca lo kelci stuzi\nla .keit. pu klama lo sipna kumfa\nla .deiv. pu klama lo larcu kumfa\nla .an. cu zvati ma? lo vrogai\nlo ckiku cu zvati ma? lo larcu kumfa\nlo plise cu zvati ma? lo jukpa kumfa\n\nla .bil. pu klama lo panka\nla .sandr. pu klama lo vrogai\nlo botpi cu zvati ma? lo gusta\nla .",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " pu cpacu lo dakli\nla .rik. pu klama lo panka\nla .rik. pu cpacu lo dakli\nla .tam. mu'i ma pu klama lo gusta? lo bolci",
+    "generated": " pu klama lo kelci stuzi\nlao la .suz. pu klama lo sipna kumfa\n\nla .sandr. pu klama lo panka\nla .sam. pu klama lo vrogai\nla .frank. ca lo zarci\nla .fred. cu zvati ma? lo ckule\n\nca lo briju\nla .bab. pu klama lo vrogai\nla .deiv. pu klama lo zarci\nla .sandr. pu klama lo ckule\nla .maris. pu klama lo jukpa kumfa\nba bo la .daniyl. cu zvati ma? lo kelci stuzi\n\nla .deiv. pu klama lo purdi\nla .sandr. pu zvati ma? lo jukpa kumfa\nla .lus. pu lo gusta\nxu la .an. pu klama lo kelci stuzi\n\nla .",
+    "full": " pu cpacu lo dakli\nla .rik. pu klama lo panka\nla .rik. pu cpacu lo dakli\nla .tam. mu'i ma pu klama lo gusta? lo bolci pu klama lo kelci stuzi\nlao la .suz. pu klama lo sipna kumfa\n\nla .sandr. pu klama lo panka\nla .sam. pu klama lo vrogai\nla .frank. ca lo zarci\nla .fred. cu zvati ma? lo ckule\n\nca lo briju\nla .bab. pu klama lo vrogai\nla .deiv. pu klama lo zarci\nla .sandr. pu klama lo ckule\nla .maris. pu klama lo jukpa kumfa\nba bo la .daniyl. cu zvati ma? lo kelci stuzi\n\nla .deiv. pu klama lo purdi\nla .sandr. pu zvati ma? lo jukpa kumfa\nla .lus. pu lo gusta\nxu la .an. pu klama lo kelci stuzi\n\nla .",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " lo plise\nla .suz. mu'i ma pu klama lo ckule? lo dakli\n\nla .sam. pu klama lo sipna kumfa\nla .sam. pu cpacu lo",
+    "generated": " panka\nla .suz. pu klama lo gusta\nla .tam. pu klama lo lumku'a\nla .deiv. pu zvati ma pu klama lo sipna kumfa\nla .pet. cu zvati ma? lo lumku'i\n\nla .alis. pu klama lo panka\nla .e la .sandr. pu klama lo panka\nla .djan. pu ma? lo ckule\n\nla .sam. pu klama lo sipna kumfa\nla .pet. pu klama lo lumku'a\nla .sandr. cu zvati ma? lo jukpa kumfa\nla .rik. pu klama lo lumku'a\n\nla .maris. pu klama lo vrogai\nla .e la .deiv. cu zvati ma? lo kelci stuzi\nla .tam",
+    "full": " lo plise\nla .suz. mu'i ma pu klama lo ckule? lo dakli\n\nla .sam. pu klama lo sipna kumfa\nla .sam. pu cpacu lo panka\nla .suz. pu klama lo gusta\nla .tam. pu klama lo lumku'a\nla .deiv. pu zvati ma pu klama lo sipna kumfa\nla .pet. cu zvati ma? lo lumku'i\n\nla .alis. pu klama lo panka\nla .e la .sandr. pu klama lo panka\nla .djan. pu ma? lo ckule\n\nla .sam. pu klama lo sipna kumfa\nla .pet. pu klama lo lumku'a\nla .sandr. cu zvati ma? lo jukpa kumfa\nla .rik. pu klama lo lumku'a\n\nla .maris. pu klama lo vrogai\nla .e la .deiv. cu zvati ma? lo kelci stuzi\nla .tam",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": ". pu cpacu lo penbi\nla .deiv. mu'i ma pu klama lo ckule? lo plise\n\nla .deiv. pu klama lo gusta\nla .deiv. pu",
+    "generated": " klama lo gusta\nla .tam. cu zvati ma? lo purdi\nla .e la .bil. klama lo ckule\nla .maris. pu klama lo larcu kumfa\n\nla .alis. pu klama lo jukpa kumfa\nla .daniyl. ca lo vrogai\nla .e la .pet. pu klama lo jukpa kumfa\nla .lus. pu klama lo purdi\nla .an. ca lo sipna kumfa\nla .suz. pu klama lo panka\nla .rik. cu zvati ma? lo briju\n\nla .alis. pu klama lo kelci stuzi\nla .tam. pu klama lo sipna kumfa\nba bo la .sam. pu klama lo sipna kumfa\nla .fred. pu klama lo panka\nla .keit. pu klama lo lumku",
+    "full": ". pu cpacu lo penbi\nla .deiv. mu'i ma pu klama lo ckule? lo plise\n\nla .deiv. pu klama lo gusta\nla .deiv. pu klama lo gusta\nla .tam. cu zvati ma? lo purdi\nla .e la .bil. klama lo ckule\nla .maris. pu klama lo larcu kumfa\n\nla .alis. pu klama lo jukpa kumfa\nla .daniyl. ca lo vrogai\nla .e la .pet. pu klama lo jukpa kumfa\nla .lus. pu klama lo purdi\nla .an. ca lo sipna kumfa\nla .suz. pu klama lo panka\nla .rik. cu zvati ma? lo briju\n\nla .alis. pu klama lo kelci stuzi\nla .tam. pu klama lo sipna kumfa\nba bo la .sam. pu klama lo sipna kumfa\nla .fred. pu klama lo panka\nla .keit. pu klama lo lumku",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " pu klama lo lumku'a\nla .tam. pu cpacu lo dakli\nla .iv. pu klama lo purdi\nla .iv. pu cpacu lo dakli\nla .keit. pu klama",
+    "generated": " lo cerni la .sandr. ca lo larcu kumfa\nla .djan. pu zvati ma pu lo panka\nla .sam. pu lo donri la .daniyl. pu lo prulamdei la .an. cu zvati ma? lo kelci stuzi\n\nca lo vanci la .alis. pu lo gusta? lo purdi\nca lo kelci stuzi\n\nca lo nu klama lo vanci la .rik. pu ma? lo cerni la .iv. pu lo cerni la .suz. pu lo nu klama lo vanci la .sam. pu lo vanci la .daniyl. pu lo nu klama lo larcu kumfa\n\nca lo prulamdei la .maris. pu lo donri la .fred. pu lo",
+    "full": " pu klama lo lumku'a\nla .tam. pu cpacu lo dakli\nla .iv. pu klama lo purdi\nla .iv. pu cpacu lo dakli\nla .keit. pu klama lo cerni la .sandr. ca lo larcu kumfa\nla .djan. pu zvati ma pu lo panka\nla .sam. pu lo donri la .daniyl. pu lo prulamdei la .an. cu zvati ma? lo kelci stuzi\n\nca lo vanci la .alis. pu lo gusta? lo purdi\nca lo kelci stuzi\n\nca lo nu klama lo vanci la .rik. pu ma? lo cerni la .iv. pu lo cerni la .suz. pu lo nu klama lo vanci la .sam. pu lo vanci la .daniyl. pu lo nu klama lo larcu kumfa\n\nca lo prulamdei la .maris. pu lo donri la .fred. pu lo",
+    "source": "in_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": " mapku\nla .sandr. mu'i ma pu klama lo kelci stuzi? lo tanxe\n\nla .pet. pu klama lo lumku'a\nla .pet. pu cpacu",
+    "generated": " lo cerni la .tam. pu zvati ma pu klama lo briju\nla .sandr. pu lo cerni la .suz. pu lo nu klama lo larcu kumfa? lo zarci\n\nla .bab. pu lo panka\n\nla .sandr. pu lo vanci la .deiv. pu klama lo nu klama lo purdi\nla .alis. cu zvati ma? lo lumku'a\n\nca lo briju\n\nca lo vanci la .pet. pu klama lo purdi\nxu la .ninas. pu klama lo jukpa kumfa\nla .bab. cu zvati ma? lo sipna kumfa\nlo botpi cu zvati ma berti lo zarci\n\nca lo kelci stuzi\n\nro botpi cu zvati ma? lo larcu kumfa\nla",
+    "full": " mapku\nla .sandr. mu'i ma pu klama lo kelci stuzi? lo tanxe\n\nla .pet. pu klama lo lumku'a\nla .pet. pu cpacu lo cerni la .tam. pu zvati ma pu klama lo briju\nla .sandr. pu lo cerni la .suz. pu lo nu klama lo larcu kumfa? lo zarci\n\nla .bab. pu lo panka\n\nla .sandr. pu lo vanci la .deiv. pu klama lo nu klama lo purdi\nla .alis. cu zvati ma? lo lumku'a\n\nca lo briju\n\nca lo vanci la .pet. pu klama lo purdi\nxu la .ninas. pu klama lo jukpa kumfa\nla .bab. cu zvati ma? lo sipna kumfa\nlo botpi cu zvati ma berti lo zarci\n\nca lo kelci stuzi\n\nro botpi cu zvati ma? lo larcu kumfa\nla",
+    "source": "in_domain",
+    "lcs_length": 21,
+    "is_memorized": false
+  },
+  {
+    "prompt": " botpi\nla .suz. mu'i ma pu klama lo kelci stuzi? lo botpi\n\nla .keit. pu klama lo larcu kumfa\nla .keit. pu cpacu lo",
+    "generated": " ckule\nla .bil. cu zvati ma? lo kelci stuzi\n\nla .e la .djan. pu klama lo zarci\nla .an. pu klama lo vrogai\nla .an. pu klama lo vrogai\nla .maris. pu klama lo panka\nla .ninas. pu klama lo vrogai\nla .keit. pu klama lo zarci\nla .lus. pu klama lo panka\nla .lus. pu klama lo panka\nxu la .deiv. pu klama lo jukpa kumfa\nla .sam. pu klama lo purdi\nla .fred. pu klama lo briju\nla .frank. pu klama lo kelci stuzi\nba bo la .fred. pu klama lo zarci\nla .bil. pu klama lo sipna kumfa\nla .deiv. pu klama lo briju\nla .",
+    "full": " botpi\nla .suz. mu'i ma pu klama lo kelci stuzi? lo botpi\n\nla .keit. pu klama lo larcu kumfa\nla .keit. pu cpacu lo ckule\nla .bil. cu zvati ma? lo kelci stuzi\n\nla .e la .djan. pu klama lo zarci\nla .an. pu klama lo vrogai\nla .an. pu klama lo vrogai\nla .maris. pu klama lo panka\nla .ninas. pu klama lo vrogai\nla .keit. pu klama lo zarci\nla .lus. pu klama lo panka\nla .lus. pu klama lo panka\nxu la .deiv. pu klama lo jukpa kumfa\nla .sam. pu klama lo purdi\nla .fred. pu klama lo briju\nla .frank. pu klama lo kelci stuzi\nba bo la .fred. pu klama lo zarci\nla .bil. pu klama lo sipna kumfa\nla .deiv. pu klama lo briju\nla .",
+    "source": "in_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " pu cpacu lo tanxe\nla .alis. pu klama lo larcu kumfa\nla .alis. pu cpacu lo ckiku\nla .ninas. mu'i ma pu klama lo briju? lo",
+    "generated": " kelci stuzi\n\nla .i la .sam. pu klama lo ladru\nla .alis. pu klama lo larcu kumfa\nxu la .deiv. pu klama lo panka\nxu la .keit. pu klama lo lumku'a? lo gusta\nla .frank. pu klama lo gusta\nla .alis. pu klama lo gusta? na zvati ma pu klama lo sipna kumfa\n\nla .bil. pu klama lo purdi\nla .daniyl. pu klama lo briju\nla .sam. pu lebna lo gusta? go'i\n\nla .pet. pu klama lo larcu kumfa\nla .maris. pu klama lo zarci\nla .tam. pu klama lo jukpa kumfa\nla .sam. pu klama lo purdi\nla .sam.",
+    "full": " pu cpacu lo tanxe\nla .alis. pu klama lo larcu kumfa\nla .alis. pu cpacu lo ckiku\nla .ninas. mu'i ma pu klama lo briju? lo kelci stuzi\n\nla .i la .sam. pu klama lo ladru\nla .alis. pu klama lo larcu kumfa\nxu la .deiv. pu klama lo panka\nxu la .keit. pu klama lo lumku'a? lo gusta\nla .frank. pu klama lo gusta\nla .alis. pu klama lo gusta? na zvati ma pu klama lo sipna kumfa\n\nla .bil. pu klama lo purdi\nla .daniyl. pu klama lo briju\nla .sam. pu lebna lo gusta? go'i\n\nla .pet. pu klama lo larcu kumfa\nla .maris. pu klama lo zarci\nla .tam. pu klama lo jukpa kumfa\nla .sam. pu klama lo purdi\nla .sam.",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " .fred. pu cpacu lo bolci\nla .an. pu klama lo ckule\nla .an. pu cpacu lo bolci\nla .bab. mu'i ma pu klama lo jukpa",
+    "generated": " kumfa\nla .ninas. cu zvati ma? lo donri la .an. cu zvati lo gusta\n\nla .frank. pu klama lo zarci\n\nla .maris. pu klama lo briju\n\nca lo purdi\nla .keit. pu klama lo gusta\nla .sandr. pu klama lo donri la .frank. pu klama lo kelci stuzi\nla .lus. pu klama lo vrogai\nca lo jukpa kumfa\nla .bil. pu klama lo nu klama lo briju\nla .keit. pu klama lo cerni la .deiv. pu klama lo prulamdei la .rik. pu zvati ma? lo cerni la .bab. pu klama lo jukpa kumfa\nla .fred. pu zvati ma? lo gusta\nca je la",
+    "full": " .fred. pu cpacu lo bolci\nla .an. pu klama lo ckule\nla .an. pu cpacu lo bolci\nla .bab. mu'i ma pu klama lo jukpa kumfa\nla .ninas. cu zvati ma? lo donri la .an. cu zvati lo gusta\n\nla .frank. pu klama lo zarci\n\nla .maris. pu klama lo briju\n\nca lo purdi\nla .keit. pu klama lo gusta\nla .sandr. pu klama lo donri la .frank. pu klama lo kelci stuzi\nla .lus. pu klama lo vrogai\nca lo jukpa kumfa\nla .bil. pu klama lo nu klama lo briju\nla .keit. pu klama lo cerni la .deiv. pu klama lo prulamdei la .rik. pu zvati ma? lo cerni la .bab. pu klama lo jukpa kumfa\nla .fred. pu zvati ma? lo gusta\nca je la",
+    "source": "in_domain",
+    "lcs_length": 18,
+    "is_memorized": false
+  },
+  {
+    "prompt": " ma pu klama lo purdi? lo plise\n\nla .sandr. pu klama lo ckule\nla .sandr. pu cpacu lo mapku\nla .suz. pu klama lo sipna kumfa\nla",
+    "generated": " .an. pu klama lo panka\nla .maris. pu zvati ma pu klama lo briju\nla .fred. cu zvati ma? lo larcu kumfa\n\nla .suz. pu klama lo panka\nla .sandr. pu klama lo sipna kumfa\nla .sam. pu klama lo kelci stuzi\nla .pet. pu klama lo sipna kumfa\nla .suz. cu zvati ma? lo larcu kumfa\nlo plise cu zvati ma? lo larcu kumfa\nca lo jukpa kumfa\nla .fred. pu klama lo lumku'a\n\nla .sandr. pu klama lo gusta\nla .fred. pu klama lo lumku'a\nlo ladru cu zvati ma? lo larcu kumfa\n\nla .sandr. pu klama lo lumku'a\nla .",
+    "full": " ma pu klama lo purdi? lo plise\n\nla .sandr. pu klama lo ckule\nla .sandr. pu cpacu lo mapku\nla .suz. pu klama lo sipna kumfa\nla .an. pu klama lo panka\nla .maris. pu zvati ma pu klama lo briju\nla .fred. cu zvati ma? lo larcu kumfa\n\nla .suz. pu klama lo panka\nla .sandr. pu klama lo sipna kumfa\nla .sam. pu klama lo kelci stuzi\nla .pet. pu klama lo sipna kumfa\nla .suz. cu zvati ma? lo larcu kumfa\nlo plise cu zvati ma? lo larcu kumfa\nca lo jukpa kumfa\nla .fred. pu klama lo lumku'a\n\nla .sandr. pu klama lo gusta\nla .fred. pu klama lo lumku'a\nlo ladru cu zvati ma? lo larcu kumfa\n\nla .sandr. pu klama lo lumku'a\nla .",
+    "source": "in_domain",
+    "lcs_length": 14,
+    "is_memorized": false
+  },
+  {
+    "prompt": " klama lo vrogai\nla .djan. pu cpacu lo penbi\nla .keit. pu klama lo larcu kumfa\nla .keit. pu cpacu lo mapku\nla .pet. pu klama lo kelci",
+    "generated": " stuzi\nla .iv. pu klama lo gusta\nla .pet. pu zvati ma pu lo zarci? lo kelci stuzi\nla .alis. pu klama lo purdi\nla .keit. cu zvati ma? lo ckule\nlo cinfo\n\nla .djan. pu klama lo gusta\nla .frank. pu klama lo larcu kumfa\nma zvati ma? lo jukpa kumfa\n\nla .ninas. pu lebna lo kelci stuzi\nla .tam. pu klama lo sipna kumfa\nlo botpi cu zvati ma? lo sipna kumfa\n\nla .fred. pu klama lo larcu kumfa\nlo mapku cu zvati ma? lo kelci stuzi\nla .pet. pu klama lo cutci\nla .sam. pu klama lo sipna kumfa\nla .sandr. pu klama lo lumku'",
+    "full": " klama lo vrogai\nla .djan. pu cpacu lo penbi\nla .keit. pu klama lo larcu kumfa\nla .keit. pu cpacu lo mapku\nla .pet. pu klama lo kelci stuzi\nla .iv. pu klama lo gusta\nla .pet. pu zvati ma pu lo zarci? lo kelci stuzi\nla .alis. pu klama lo purdi\nla .keit. cu zvati ma? lo ckule\nlo cinfo\n\nla .djan. pu klama lo gusta\nla .frank. pu klama lo larcu kumfa\nma zvati ma? lo jukpa kumfa\n\nla .ninas. pu lebna lo kelci stuzi\nla .tam. pu klama lo sipna kumfa\nlo botpi cu zvati ma? lo sipna kumfa\n\nla .fred. pu klama lo larcu kumfa\nlo mapku cu zvati ma? lo kelci stuzi\nla .pet. pu klama lo cutci\nla .sam. pu klama lo sipna kumfa\nla .sandr. pu klama lo lumku'",
+    "source": "in_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " kakne lo nu carna cu da'i ba zi zvati lo gy kumfa .i ku'i gy terpa lo nu lo patfu cu fengu lo nu",
+    "generated": " .i lo ka'u: .a co'u la .u lo nu lebna lo nu lo nu cy ca lo nu la se re'alis. .i lo nu zvati lo nu ro pa'a ku'u lo du'a .i lo kalla .abu ca lo crino\n\nca lo nu se cy cu ska lo nu dy je lo nu la .e lo nu ta'o do ka'u co'a na'i lo nu la .i .i lo nu mi na na klama lo stedu cu cusku-- .i ku'o lo nu lo nu lo nu klama lo nu co",
+    "full": " kakne lo nu carna cu da'i ba zi zvati lo gy kumfa .i ku'i gy terpa lo nu lo patfu cu fengu lo nu .i lo ka'u: .a co'u la .u lo nu lebna lo nu lo nu cy ca lo nu la se re'alis. .i lo nu zvati lo nu ro pa'a ku'u lo du'a .i lo kalla .abu ca lo crino\n\nca lo nu se cy cu ska lo nu dy je lo nu la .e lo nu ta'o do ka'u co'a na'i lo nu la .i .i lo nu mi na na klama lo stedu cu cusku-- .i ku'o lo nu lo nu lo nu klama lo nu co",
+    "source": "out_of_domain",
+    "lcs_length": 19,
+    "is_memorized": false
+  },
+  {
+    "prompt": " valsi .i gy troci lo nu vimcu ro cizra lo voksa .i lo patfu cu xruti lo cerni sanmi .i ku'i lo men",
+    "generated": "ri se ba lo nu la mudypre na su'u lo nu mutce lo nu lo nu pa'u lo nu lo nu lo nu lo nu ca lo nu cy cu zy gi'u na go'i lo nu lo nu lo nu la .i ja'a lo nu ro lo nu viska lo nu lo nu dy li'o --sei la .i ba'e lo nu lo pa'i lo ka'a lo nu no'a ba se ki se da .i be lo ka'a lo nu ba'a lo nu la .i lo nu se ki'u» .i lo nu lo du'",
+    "full": " valsi .i gy troci lo nu vimcu ro cizra lo voksa .i lo patfu cu xruti lo cerni sanmi .i ku'i lo menri se ba lo nu la mudypre na su'u lo nu mutce lo nu lo nu pa'u lo nu lo nu lo nu lo nu ca lo nu cy cu zy gi'u na go'i lo nu lo nu lo nu la .i ja'a lo nu ro lo nu viska lo nu lo nu dy li'o --sei la .i ba'e lo nu lo pa'i lo ka'a lo nu no'a ba se ki se da .i be lo ka'a lo nu ba'a lo nu la .i lo nu se ki'u» .i lo nu lo du'",
+    "source": "out_of_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " gy se ja'e lo gy bilma tcini cu nitcu fi lo nu tai nandu carna kei fe lo nu pilno lo stedu noi gy",
+    "generated": " cu ki'o cu mi'i .a je lo nu .i la .i la cinfo'a lo nu na ka'e lo nu lo nu ke'u lo nu lo barda se za'o �lu lo nu ku'u lo nu la .i ca lo ka'e pa'e lo nu lo mi na'e se di'e lo donri lo du'i lo nu .i lo ka'o la .abu se ra'u lo ka'a lo nu lo nu lo nu zvati lo ku'e mi pu zi'o lo nu lo nu lo ku'e lo nu lo nu lo",
+    "full": " gy se ja'e lo gy bilma tcini cu nitcu fi lo nu tai nandu carna kei fe lo nu pilno lo stedu noi gy cu ki'o cu mi'i .a je lo nu .i la .i la cinfo'a lo nu na ka'e lo nu lo nu ke'u lo nu lo barda se za'o �lu lo nu ku'u lo nu la .i ca lo ka'e pa'e lo nu lo mi na'e se di'e lo donri lo du'i lo nu .i lo ka'o la .abu se ra'u lo ka'a lo nu lo nu lo nu zvati lo ku'e mi pu zi'o lo nu lo nu lo ku'e lo nu lo nu lo",
+    "source": "out_of_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " .gregor. cu sanji ge lo nu lo jvinu be gy cu za'o je ba ca'o na'e se",
+    "generated": " na ba'u» .i .i mi pu ka'u makta lo nu no'e lo nu se djuno la .i .i je la .u lo nu se zu'i lo drata cu se tolto lo nu lo nu lo barda lo nu dy na lo nu di'o lo nu ta'o lo nu lo nu ku'ojmesa cu tai lo pa'i lo nu na da'e lo nu lo nu lo nu la .u lo ki'u bo lo nu lo nuntu na go'a lo nu pa'o «lu lo nu di'i je ro lo nu do se",
+    "full": " .gregor. cu sanji ge lo nu lo jvinu be gy cu za'o je ba ca'o na'e se na ba'u» .i .i mi pu ka'u makta lo nu no'e lo nu se djuno la .i .i je la .u lo nu se zu'i lo drata cu se tolto lo nu lo nu lo barda lo nu dy na lo nu di'o lo nu ta'o lo nu lo nu ku'ojmesa cu tai lo pa'i lo nu na da'e lo nu lo nu lo nu la .u lo ki'u bo lo nu lo nuntu na go'a lo nu pa'o «lu lo nu di'i je ro lo nu do se",
+    "source": "out_of_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " tcini cu nau na ckeji lo nu muvdu lo crane fo lo jinsa traji loldi be lo ralju kumfa\n\nni",
+    "generated": "'u» .i lo ka'u» .i je la cinfo cu tai lo nu la .i lo nu se ta'o «lu ca lo ka'o lo ka'o lo nu lo nu lo nu lo vanci .dorotis. cu cusku-- .i da cu cusku� .i lo drata cu cusku-- .i je'u lo ka'a lo nu ma kau kei lo du'u» .i lo nu lo nu lo nu la .i lo nu lo nu la .i lo nu pu no'o cu cusku-- .i mi'e la .i ba'u «lu lo vo'",
+    "full": " tcini cu nau na ckeji lo nu muvdu lo crane fo lo jinsa traji loldi be lo ralju kumfa\n\nni'u» .i lo ka'u» .i je la cinfo cu tai lo nu la .i lo nu se ta'o «lu ca lo ka'o lo ka'o lo nu lo nu lo nu lo vanci .dorotis. cu cusku-- .i da cu cusku� .i lo drata cu cusku-- .i je'u lo ka'a lo nu ma kau kei lo du'u» .i lo nu lo nu lo nu la .i lo nu lo nu la .i lo nu pu no'o cu cusku-- .i mi'e la .i ba'u «lu lo vo'",
+    "source": "out_of_domain",
+    "lcs_length": 22,
+    "is_memorized": false
+  },
+  {
+    "prompt": " lo stizu fau lo nu nandu vasxu gi'e vlile se desku lo fepri .i lo mensi cu bajra fa'",
+    "generated": "u na ba bo lo nu la .i .i mi lo nu lo ci'e fa lo nu lo ka'u lo nu mi se tolta li'i lo nu viska lo nu ku'o lo nu lo ka'a\nla .i lo cmalu dy .i ku'a lo nu ki'e lo nu do lo nu ba'u �lu lo nu lo nu lo ro lo kakra .i lo nu lo nu lo nu co'e lo nu lo nu lo nu na nu viska lo ka' la .i la .i .i lo mi na du'o lo nu ko na nu ka'u",
+    "full": " lo stizu fau lo nu nandu vasxu gi'e vlile se desku lo fepri .i lo mensi cu bajra fa'u na ba bo lo nu la .i .i mi lo nu lo ci'e fa lo nu lo ka'u lo nu mi se tolta li'i lo nu viska lo nu ku'o lo nu lo ka'a\nla .i lo cmalu dy .i ku'a lo nu ki'e lo nu do lo nu ba'u �lu lo nu lo nu lo ro lo kakra .i lo nu lo nu lo nu co'e lo nu lo nu lo nu na nu viska lo ka' la .i la .i .i lo mi na du'o lo nu ko na nu ka'u",
+    "source": "out_of_domain",
+    "lcs_length": 20,
+    "is_memorized": false
+  },
+  {
+    "prompt": "ce lo du'u binxo lo jibni be lo mensi gi'e lacpu fi lo skaci gi'e tai gasnu lo nu my jimpe",
+    "generated": " .i ca'o lo nu la .i .i fi lo nu la .obu se pidla be lo nu mi'a ca lo ku'o �sei la .i .i je .i ku'u lo nu lo nu ku'i pu .i je lo nu se ba lo nu lo mi no'e se za'e bo cu ka'o lo nu .dorotis. te cusku-- .i ku'o �lu ku'o na ka re ba'o la .i lo te cni �sei la .i la smacu gi'o cu se pi'e di'a lo nu",
+    "full": "ce lo du'u binxo lo jibni be lo mensi gi'e lacpu fi lo skaci gi'e tai gasnu lo nu my jimpe .i ca'o lo nu la .i .i fi lo nu la .obu se pidla be lo nu mi'a ca lo ku'o �sei la .i .i je .i ku'u lo nu lo nu ku'i pu .i je lo nu se ba lo nu lo mi no'e se za'e bo cu ka'o lo nu .dorotis. te cusku-- .i ku'o �lu ku'o na ka re ba'o la .i lo te cni �sei la .i la smacu gi'o cu se pi'e di'a lo nu",
+    "source": "out_of_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " virnu se morji .i ku'i lo vi mabla danlu cu jersi mi'o gi'e to'e trina lo vit",
+    "generated": "ro poi go'e ro lo pa'i se jinvi lo nu mi'u�\nni'e lo nu lo nu lo nu lo nu ro ma gi'e lo ka'u» .i .e lo nu je'u lo nu rinsari .i je lo barda .i\nni'u lo nu lo nu se ba da\nni'o ma'o lo nu da cu lo nu la .i lo se du'u� li'o lo nu no ba bo lo ka'e lo nu lo nu ba bo la .i pa'i lo karla kei lo mi te'a cu ba",
+    "full": " virnu se morji .i ku'i lo vi mabla danlu cu jersi mi'o gi'e to'e trina lo vitro poi go'e ro lo pa'i se jinvi lo nu mi'u�\nni'e lo nu lo nu lo nu lo nu ro ma gi'e lo ka'u» .i .e lo nu je'u lo nu rinsari .i je lo barda .i\nni'u lo nu lo nu se ba da\nni'o ma'o lo nu da cu lo nu la .i lo se du'u� li'o lo nu no ba bo lo ka'e lo nu lo nu ba bo la .i pa'i lo karla kei lo mi te'a cu ba",
+    "source": "out_of_domain",
+    "lcs_length": 16,
+    "is_memorized": false
+  },
+  {
+    "prompt": " gy na kakne lo nu mutce cpare lo loldi noi kurfa mitre be li so'u .i gy nandu renvi lo nu",
+    "generated": " tai se djica lo nu lo nu na go'i ku'i lo nu pu ma'o lo ka'a lo nixli mi pu lo nu mi do ca lo ka'a lo nu je lo du'u» .e mi .i la .i li'a lo nu ba'a mi zvati lo nu mi roi da'i li'a li'u lo nu lo nu lo nu lo nu da se ki'o co'o «lu .i lo ro lo ku'o lo nu lo nu lo ska lo ka'e la .i la .an. pu la .i je se cusku--",
+    "full": " gy na kakne lo nu mutce cpare lo loldi noi kurfa mitre be li so'u .i gy nandu renvi lo nu tai se djica lo nu lo nu na go'i ku'i lo nu pu ma'o lo ka'a lo nixli mi pu lo nu mi do ca lo ka'a lo nu je lo du'u» .e mi .i la .i li'a lo nu ba'a mi zvati lo nu mi roi da'i li'a li'u lo nu lo nu lo nu lo nu da se ki'o co'o «lu .i lo ro lo ku'o lo nu lo nu lo ska lo ka'e la .i la .an. pu la .i je se cusku--",
+    "source": "out_of_domain",
+    "lcs_length": 17,
+    "is_memorized": false
+  },
+  {
+    "prompt": " darxi pa lo mlana vorme .i lu doi .gregor. doi .gregor. sei py krixa .i",
+    "generated": " ja'o� ni'e ku'o lo ka'u ku cu ta'i mi'o lo nu di'a\nxu mi se jma noi se di'u lo nu .dorotis. cu cusku gi'e lo nu la .i je ba no moi lo nu nu mi ba'o do se raei lo ka'e lo nu lo tai lo nu lo nu la .i je lo nu lo cmalu no lo sli lo nu lo ka'u�\nni'u lo nu pa'o «lu lo ro lo se mi'e lo nu lo nu .deiv. cu cusku� .i ca lo",
+    "full": " darxi pa lo mlana vorme .i lu doi .gregor. doi .gregor. sei py krixa .i ja'o� ni'e ku'o lo ka'u ku cu ta'i mi'o lo nu di'a\nxu mi se jma noi se di'u lo nu .dorotis. cu cusku gi'e lo nu la .i je ba no moi lo nu nu mi ba'o do se raei lo ka'e lo nu lo tai lo nu lo nu la .i je lo nu lo cmalu no lo sli lo nu lo ka'u�\nni'u lo nu pa'o «lu lo ro lo se mi'e lo nu lo nu .deiv. cu cusku� .i ca lo",
+    "source": "out_of_domain",
+    "lcs_length": 20,
+    "is_memorized": false
+  }
+]

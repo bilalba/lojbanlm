@@ -1,0 +1,1191 @@
+la .fred. cu gerku
+ro cinfo cu terpa lo mlatu
+ro mlatu cu terpa lo cipni
+ro gerku cu terpa lo cinfo
+la .fred. cu terpa ma? lo cinfo
+
+ro lanme cu terpa lo smacu
+la .maris. cu lanme
+ro xirma cu terpa lo lanme
+la .maris. cu terpa ma? lo smacu
+
+ro cinfo cu terpa lo cipni
+la .tam. cu cinfo
+ro lanme cu terpa lo xirma
+ro xirma cu terpa lo cinfo
+la .tam. cu terpa ma? lo cipni
+
+la .tam. cu labno
+ro labno cu terpa lo cipni
+ro cinfo cu terpa lo labno
+la .tam. cu terpa ma? lo cipni
+
+ro cinfo cu terpa lo gerku
+la .djan. cu smacu
+ro cipni cu terpa lo smacu
+ro labno cu terpa lo cipni
+ro smacu cu terpa lo cinfo
+la .djan. cu terpa ma? lo cinfo
+
+ro xirma cu terpa lo cinfo
+ro finpe cu terpa lo labno
+ro cipni cu terpa lo xirma
+la .djan. cu cipni
+ro labno cu terpa lo cipni
+la .djan. cu terpa ma? lo xirma
+
+la .deiv. cu cipni
+ro lanme cu terpa lo finpe
+ro cipni cu terpa lo lanme
+ro finpe cu terpa lo xirma
+ro mlatu cu terpa lo cipni
+la .deiv. cu terpa ma? lo lanme
+
+ro labno cu terpa lo xirma
+ro finpe cu terpa lo cinfo
+la .alis. cu lanme
+ro xirma cu terpa lo lanme
+ro lanme cu terpa lo finpe
+la .alis. cu terpa ma? lo finpe
+
+ro cipni cu terpa lo xirma
+ro xirma cu terpa lo lanme
+la .fred. cu cipni
+la .fred. cu terpa ma? lo xirma
+
+la .bil. cu cinfo
+ro finpe cu terpa lo xirma
+ro cipni cu terpa lo cinfo
+ro cinfo cu terpa lo finpe
+la .bil. cu terpa ma? lo finpe
+
+ro mlatu cu terpa lo cipni
+ro finpe cu terpa lo mlatu
+ro cipni cu terpa lo xirma
+la .bab. cu mlatu
+ro xirma cu terpa lo smacu
+la .bab. cu terpa ma? lo cipni
+
+la .iv. cu gerku
+ro xirma cu terpa lo finpe
+ro gerku cu terpa lo xirma
+la .iv. cu terpa ma? lo xirma
+
+la .keit. cu lanme
+ro xirma cu terpa lo cinfo
+ro cinfo cu terpa lo finpe
+ro cipni cu terpa lo xirma
+ro lanme cu terpa lo cipni
+la .keit. cu terpa ma? lo cipni
+
+ro cipni cu terpa lo lanme
+ro labno cu terpa lo xirma
+ro lanme cu terpa lo labno
+la .alis. cu lanme
+la .alis. cu terpa ma? lo labno
+
+ro cinfo cu terpa lo lanme
+la .bab. cu gerku
+ro mlatu cu terpa lo gerku
+ro gerku cu terpa lo cinfo
+la .bab. cu terpa ma? lo cinfo
+
+ro finpe cu terpa lo lanme
+la .frank. cu cipni
+ro gerku cu terpa lo cipni
+ro cipni cu terpa lo finpe
+la .frank. cu terpa ma? lo finpe
+
+ro cinfo cu terpa lo cipni
+ro cipni cu terpa lo finpe
+la .maris. cu cipni
+la .maris. cu terpa ma? lo finpe
+
+ro gerku cu terpa lo lanme
+la .sam. cu cinfo
+ro cinfo cu terpa lo gerku
+la .sam. cu terpa ma? lo gerku
+
+ro labno cu terpa lo lanme
+la .rik. cu cinfo
+ro cinfo cu terpa lo labno
+la .rik. cu terpa ma? lo labno
+
+ro smacu cu terpa lo labno
+la .djan. cu finpe
+ro cipni cu terpa lo mlatu
+ro mlatu cu terpa lo smacu
+ro finpe cu terpa lo cipni
+la .djan. cu terpa ma? lo cipni
+
+ro cipni cu terpa lo cinfo
+ro finpe cu terpa lo cipni
+ro mlatu cu terpa lo finpe
+la .an. cu finpe
+la .an. cu terpa ma? lo cipni
+
+ro lanme cu terpa lo labno
+ro smacu cu terpa lo lanme
+la .sam. cu xirma
+ro cinfo cu terpa lo smacu
+ro xirma cu terpa lo cinfo
+la .sam. cu terpa ma? lo cinfo
+
+ro smacu cu terpa lo finpe
+ro finpe cu terpa lo gerku
+la .sandr. cu smacu
+la .sandr. cu terpa ma? lo finpe
+
+ro lanme cu terpa lo mlatu
+ro cipni cu terpa lo lanme
+ro mlatu cu terpa lo smacu
+la .suz. cu lanme
+la .suz. cu terpa ma? lo mlatu
+
+la .frank. cu cipni
+ro labno cu terpa lo gerku
+ro cipni cu terpa lo xirma
+ro gerku cu terpa lo cipni
+la .frank. cu terpa ma? lo xirma
+
+la .pet. cu smacu
+ro smacu cu terpa lo finpe
+ro finpe cu terpa lo xirma
+la .pet. cu terpa ma? lo finpe
+
+ro cinfo cu terpa lo mlatu
+la .keit. cu lanme
+ro lanme cu terpa lo cinfo
+ro mlatu cu terpa lo smacu
+la .keit. cu terpa ma? lo cinfo
+
+la .pet. cu mlatu
+ro cipni cu terpa lo labno
+ro cinfo cu terpa lo lanme
+ro lanme cu terpa lo mlatu
+ro mlatu cu terpa lo cipni
+la .pet. cu terpa ma? lo cipni
+
+ro lanme cu terpa lo cinfo
+la .lus. cu gerku
+ro gerku cu terpa lo lanme
+la .lus. cu terpa ma? lo lanme
+
+ro labno cu terpa lo mlatu
+ro smacu cu terpa lo labno
+ro cinfo cu terpa lo cipni
+ro mlatu cu terpa lo cinfo
+la .fred. cu mlatu
+la .fred. cu terpa ma? lo cinfo
+
+ro cipni cu terpa lo xirma
+la .lus. cu cipni
+ro xirma cu terpa lo lanme
+la .lus. cu terpa ma? lo xirma
+
+la .an. cu mlatu
+ro cipni cu terpa lo smacu
+ro mlatu cu terpa lo xirma
+ro smacu cu terpa lo mlatu
+la .an. cu terpa ma? lo xirma
+
+ro lanme cu terpa lo smacu
+ro smacu cu terpa lo mlatu
+la .pet. cu lanme
+la .pet. cu terpa ma? lo smacu
+
+ro cipni cu terpa lo finpe
+ro labno cu terpa lo cipni
+la .an. cu finpe
+ro cinfo cu terpa lo lanme
+ro finpe cu terpa lo cinfo
+la .an. cu terpa ma? lo cinfo
+
+ro smacu cu terpa lo finpe
+ro finpe cu terpa lo cipni
+la .alis. cu finpe
+ro gerku cu terpa lo smacu
+la .alis. cu terpa ma? lo cipni
+
+la .deiv. cu mlatu
+ro mlatu cu terpa lo labno
+ro cipni cu terpa lo mlatu
+la .deiv. cu terpa ma? lo labno
+
+ro cipni cu terpa lo finpe
+la .daniyl. cu cinfo
+ro finpe cu terpa lo lanme
+ro cinfo cu terpa lo cipni
+ro lanme cu terpa lo smacu
+la .daniyl. cu terpa ma? lo cipni
+
+ro lanme cu terpa lo xirma
+ro xirma cu terpa lo smacu
+ro mlatu cu terpa lo lanme
+ro smacu cu terpa lo cipni
+la .keit. cu mlatu
+la .keit. cu terpa ma? lo lanme
+
+la .tam. cu xirma
+ro xirma cu terpa lo lanme
+ro gerku cu terpa lo xirma
+la .tam. cu terpa ma? lo lanme
+
+la .rik. cu labno
+ro lanme cu terpa lo cipni
+ro labno cu terpa lo mlatu
+ro cipni cu terpa lo labno
+la .rik. cu terpa ma? lo mlatu
+
+ro cipni cu terpa lo lanme
+ro labno cu terpa lo cipni
+ro smacu cu terpa lo labno
+la .sam. cu smacu
+la .sam. cu terpa ma? lo labno
+
+la .djan. cu finpe
+ro finpe cu terpa lo smacu
+ro mlatu cu terpa lo finpe
+ro smacu cu terpa lo lanme
+ro cinfo cu terpa lo mlatu
+la .djan. cu terpa ma? lo smacu
+
+ro mlatu cu terpa lo cipni
+la .iv. cu mlatu
+ro gerku cu terpa lo mlatu
+ro cipni cu terpa lo xirma
+la .iv. cu terpa ma? lo cipni
+
+ro mlatu cu terpa lo smacu
+ro finpe cu terpa lo mlatu
+ro labno cu terpa lo finpe
+la .an. cu labno
+la .an. cu terpa ma? lo finpe
+
+ro cipni cu terpa lo smacu
+la .bil. cu smacu
+ro smacu cu terpa lo gerku
+la .bil. cu terpa ma? lo gerku
+
+ro cipni cu terpa lo smacu
+ro smacu cu terpa lo labno
+ro lanme cu terpa lo cipni
+la .bab. cu cipni
+la .bab. cu terpa ma? lo smacu
+
+ro cipni cu terpa lo xirma
+ro lanme cu terpa lo mlatu
+la .sam. cu lanme
+ro mlatu cu terpa lo cipni
+la .sam. cu terpa ma? lo mlatu
+
+ro cinfo cu terpa lo xirma
+la .rik. cu lanme
+ro lanme cu terpa lo cinfo
+la .rik. cu terpa ma? lo cinfo
+
+ro smacu cu terpa lo gerku
+ro finpe cu terpa lo lanme
+la .daniyl. cu gerku
+ro gerku cu terpa lo finpe
+la .daniyl. cu terpa ma? lo finpe
+
+ro cipni cu terpa lo mlatu
+ro cinfo cu terpa lo xirma
+la .tam. cu cipni
+ro lanme cu terpa lo cipni
+ro mlatu cu terpa lo cinfo
+la .tam. cu terpa ma? lo mlatu
+
+ro xirma cu terpa lo lanme
+la .maris. cu lanme
+ro lanme cu terpa lo smacu
+la .maris. cu terpa ma? lo smacu
+
+la .keit. cu lanme
+ro labno cu terpa lo gerku
+ro lanme cu terpa lo finpe
+ro gerku cu terpa lo lanme
+la .keit. cu terpa ma? lo finpe
+
+ro smacu cu terpa lo gerku
+ro gerku cu terpa lo lanme
+la .suz. cu smacu
+la .suz. cu terpa ma? lo gerku
+
+ro gerku cu terpa lo xirma
+la .an. cu labno
+ro labno cu terpa lo gerku
+la .an. cu terpa ma? lo gerku
+
+ro cipni cu terpa lo finpe
+la .djan. cu cipni
+ro gerku cu terpa lo cipni
+la .djan. cu terpa ma? lo finpe
+
+ro finpe cu terpa lo cinfo
+ro mlatu cu terpa lo finpe
+la .lus. cu finpe
+ro cinfo cu terpa lo lanme
+la .lus. cu terpa ma? lo cinfo
+
+ro lanme cu terpa lo finpe
+ro xirma cu terpa lo lanme
+la .djan. cu lanme
+la .djan. cu terpa ma? lo finpe
+
+ro cipni cu terpa lo lanme
+ro smacu cu terpa lo cipni
+ro gerku cu terpa lo smacu
+la .pet. cu cipni
+la .pet. cu terpa ma? lo lanme
+
+la .djan. cu mlatu
+ro mlatu cu terpa lo labno
+ro cipni cu terpa lo mlatu
+la .djan. cu terpa ma? lo labno
+
+ro smacu cu terpa lo gerku
+la .suz. cu gerku
+ro gerku cu terpa lo finpe
+ro finpe cu terpa lo labno
+la .suz. cu terpa ma? lo finpe
+
+ro gerku cu terpa lo mlatu
+la .daniyl. cu gerku
+ro mlatu cu terpa lo xirma
+la .daniyl. cu terpa ma? lo mlatu
+
+ro cinfo cu terpa lo gerku
+ro gerku cu terpa lo labno
+ro labno cu terpa lo cipni
+la .sam. cu labno
+ro xirma cu terpa lo cinfo
+la .sam. cu terpa ma? lo cipni
+
+la .ninas. cu finpe
+ro cinfo cu terpa lo xirma
+ro finpe cu terpa lo cinfo
+la .ninas. cu terpa ma? lo cinfo
+
+ro smacu cu terpa lo xirma
+la .tam. cu labno
+ro labno cu terpa lo finpe
+ro finpe cu terpa lo smacu
+la .tam. cu terpa ma? lo finpe
+
+ro xirma cu terpa lo cipni
+ro smacu cu terpa lo xirma
+ro cipni cu terpa lo finpe
+la .frank. cu smacu
+ro finpe cu terpa lo mlatu
+la .frank. cu terpa ma? lo xirma
+
+ro cipni cu terpa lo labno
+ro smacu cu terpa lo cipni
+la .djan. cu smacu
+la .djan. cu terpa ma? lo cipni
+
+ro lanme cu terpa lo labno
+ro labno cu terpa lo xirma
+ro xirma cu terpa lo smacu
+la .alis. cu labno
+ro smacu cu terpa lo cinfo
+la .alis. cu terpa ma? lo xirma
+
+la .iv. cu gerku
+ro smacu cu terpa lo finpe
+ro gerku cu terpa lo mlatu
+ro finpe cu terpa lo gerku
+la .iv. cu terpa ma? lo mlatu
+
+ro gerku cu terpa lo lanme
+ro cipni cu terpa lo gerku
+ro labno cu terpa lo smacu
+la .suz. cu labno
+ro smacu cu terpa lo cipni
+la .suz. cu terpa ma? lo smacu
+
+la .suz. cu mlatu
+ro labno cu terpa lo gerku
+ro mlatu cu terpa lo cipni
+ro cipni cu terpa lo labno
+la .suz. cu terpa ma? lo cipni
+
+ro cinfo cu terpa lo cipni
+ro xirma cu terpa lo cinfo
+la .alis. cu cinfo
+la .alis. cu terpa ma? lo cipni
+
+ro smacu cu terpa lo xirma
+la .maris. cu xirma
+ro mlatu cu terpa lo labno
+ro xirma cu terpa lo mlatu
+la .maris. cu terpa ma? lo mlatu
+
+ro smacu cu terpa lo mlatu
+ro mlatu cu terpa lo cinfo
+la .fred. cu smacu
+la .fred. cu terpa ma? lo mlatu
+
+ro lanme cu terpa lo labno
+la .rik. cu lanme
+ro smacu cu terpa lo finpe
+ro labno cu terpa lo gerku
+ro finpe cu terpa lo lanme
+la .rik. cu terpa ma? lo labno
+
+la .bil. cu lanme
+ro lanme cu terpa lo xirma
+ro xirma cu terpa lo gerku
+la .bil. cu terpa ma? lo xirma
+
+ro cipni cu terpa lo cinfo
+la .bil. cu gerku
+ro gerku cu terpa lo smacu
+ro cinfo cu terpa lo gerku
+la .bil. cu terpa ma? lo smacu
+
+ro cipni cu terpa lo gerku
+la .lus. cu smacu
+ro smacu cu terpa lo cipni
+la .lus. cu terpa ma? lo cipni
+
+ro finpe cu terpa lo labno
+ro lanme cu terpa lo finpe
+la .lus. cu lanme
+la .lus. cu terpa ma? lo finpe
+
+ro lanme cu terpa lo cinfo
+ro finpe cu terpa lo lanme
+la .bab. cu mlatu
+ro gerku cu terpa lo finpe
+ro mlatu cu terpa lo gerku
+la .bab. cu terpa ma? lo gerku
+
+ro mlatu cu terpa lo lanme
+ro cipni cu terpa lo mlatu
+la .bab. cu lanme
+ro lanme cu terpa lo labno
+la .bab. cu terpa ma? lo labno
+
+la .fred. cu labno
+ro labno cu terpa lo lanme
+ro cipni cu terpa lo labno
+la .fred. cu terpa ma? lo lanme
+
+ro cipni cu terpa lo gerku
+ro labno cu terpa lo cipni
+la .daniyl. cu gerku
+ro gerku cu terpa lo mlatu
+la .daniyl. cu terpa ma? lo mlatu
+
+ro mlatu cu terpa lo gerku
+ro gerku cu terpa lo smacu
+la .deiv. cu mlatu
+la .deiv. cu terpa ma? lo gerku
+
+la .keit. cu finpe
+ro mlatu cu terpa lo finpe
+ro finpe cu terpa lo cinfo
+la .keit. cu terpa ma? lo cinfo
+
+la .bab. cu finpe
+ro xirma cu terpa lo labno
+ro smacu cu terpa lo finpe
+ro finpe cu terpa lo xirma
+la .bab. cu terpa ma? lo xirma
+
+la .sandr. cu xirma
+ro xirma cu terpa lo mlatu
+ro smacu cu terpa lo xirma
+la .sandr. cu terpa ma? lo mlatu
+
+ro cipni cu terpa lo gerku
+ro mlatu cu terpa lo cipni
+la .frank. cu cipni
+la .frank. cu terpa ma? lo gerku
+
+ro cinfo cu terpa lo labno
+la .sandr. cu xirma
+ro cipni cu terpa lo xirma
+ro lanme cu terpa lo cipni
+ro xirma cu terpa lo cinfo
+la .sandr. cu terpa ma? lo cinfo
+
+ro cinfo cu terpa lo mlatu
+la .maris. cu smacu
+ro xirma cu terpa lo smacu
+ro lanme cu terpa lo cinfo
+ro smacu cu terpa lo lanme
+la .maris. cu terpa ma? lo lanme
+
+ro gerku cu terpa lo mlatu
+la .frank. cu mlatu
+ro labno cu terpa lo gerku
+ro mlatu cu terpa lo smacu
+la .frank. cu terpa ma? lo smacu
+
+ro cipni cu terpa lo cinfo
+ro lanme cu terpa lo finpe
+ro cinfo cu terpa lo lanme
+la .pet. cu cinfo
+la .pet. cu terpa ma? lo lanme
+
+ro lanme cu terpa lo xirma
+ro xirma cu terpa lo gerku
+ro gerku cu terpa lo labno
+ro labno cu terpa lo cinfo
+la .lus. cu labno
+la .lus. cu terpa ma? lo cinfo
+
+ro labno cu terpa lo mlatu
+la .frank. cu finpe
+ro mlatu cu terpa lo smacu
+ro finpe cu terpa lo labno
+ro cinfo cu terpa lo finpe
+la .frank. cu terpa ma? lo labno
+
+ro xirma cu terpa lo smacu
+la .bil. cu mlatu
+ro mlatu cu terpa lo xirma
+la .bil. cu terpa ma? lo xirma
+
+ro cipni cu terpa lo labno
+ro labno cu terpa lo finpe
+ro xirma cu terpa lo cipni
+la .tam. cu labno
+la .tam. cu terpa ma? lo finpe
+
+ro cipni cu terpa lo cinfo
+ro mlatu cu terpa lo cipni
+la .tam. cu cipni
+la .tam. cu terpa ma? lo cinfo
+
+la .fred. cu lanme
+ro mlatu cu terpa lo labno
+ro lanme cu terpa lo xirma
+ro xirma cu terpa lo mlatu
+ro labno cu terpa lo cinfo
+la .fred. cu terpa ma? lo xirma
+
+ro gerku cu terpa lo labno
+ro labno cu terpa lo mlatu
+ro cipni cu terpa lo gerku
+la .maris. cu labno
+la .maris. cu terpa ma? lo mlatu
+
+ro finpe cu terpa lo lanme
+la .rik. cu smacu
+ro smacu cu terpa lo finpe
+ro cipni cu terpa lo smacu
+la .rik. cu terpa ma? lo finpe
+
+la .iv. cu mlatu
+ro cinfo cu terpa lo smacu
+ro mlatu cu terpa lo cinfo
+la .iv. cu terpa ma? lo cinfo
+
+ro cinfo cu terpa lo lanme
+ro labno cu terpa lo smacu
+la .deiv. cu cinfo
+ro smacu cu terpa lo cinfo
+la .deiv. cu terpa ma? lo lanme
+
+ro cinfo cu terpa lo xirma
+ro lanme cu terpa lo cinfo
+la .sam. cu lanme
+ro gerku cu terpa lo lanme
+la .sam. cu terpa ma? lo cinfo
+
+ro cinfo cu terpa lo gerku
+la .ninas. cu gerku
+ro gerku cu terpa lo lanme
+la .ninas. cu terpa ma? lo lanme
+
+ro mlatu cu terpa lo lanme
+la .frank. cu cipni
+ro cipni cu terpa lo mlatu
+ro lanme cu terpa lo cinfo
+la .frank. cu terpa ma? lo mlatu
+
+ro cinfo cu terpa lo mlatu
+la .keit. cu cinfo
+ro xirma cu terpa lo cinfo
+la .keit. cu terpa ma? lo mlatu
+
+ro mlatu cu terpa lo lanme
+ro finpe cu terpa lo mlatu
+la .deiv. cu finpe
+la .deiv. cu terpa ma? lo mlatu
+
+ro finpe cu terpa lo cipni
+ro cipni cu terpa lo cinfo
+ro mlatu cu terpa lo finpe
+ro cinfo cu terpa lo smacu
+la .fred. cu mlatu
+la .fred. cu terpa ma? lo finpe
+
+ro gerku cu terpa lo smacu
+ro mlatu cu terpa lo cipni
+la .deiv. cu smacu
+ro smacu cu terpa lo mlatu
+la .deiv. cu terpa ma? lo mlatu
+
+ro cipni cu terpa lo cinfo
+ro lanme cu terpa lo mlatu
+ro cinfo cu terpa lo lanme
+ro xirma cu terpa lo cipni
+la .rik. cu lanme
+la .rik. cu terpa ma? lo mlatu
+
+ro labno cu terpa lo smacu
+la .djan. cu labno
+ro lanme cu terpa lo labno
+la .djan. cu terpa ma? lo smacu
+
+ro mlatu cu terpa lo cinfo
+ro labno cu terpa lo gerku
+la .sam. cu gerku
+ro xirma cu terpa lo mlatu
+ro gerku cu terpa lo xirma
+la .sam. cu terpa ma? lo xirma
+
+ro xirma cu terpa lo cinfo
+ro cinfo cu terpa lo finpe
+ro smacu cu terpa lo xirma
+la .djan. cu cinfo
+la .djan. cu terpa ma? lo finpe
+
+la .bab. cu gerku
+ro gerku cu terpa lo cipni
+ro xirma cu terpa lo finpe
+ro smacu cu terpa lo xirma
+ro cipni cu terpa lo smacu
+la .bab. cu terpa ma? lo cipni
+
+la .deiv. cu gerku
+ro cipni cu terpa lo cinfo
+ro labno cu terpa lo cipni
+ro gerku cu terpa lo labno
+la .deiv. cu terpa ma? lo labno
+
+ro gerku cu terpa lo cinfo
+ro labno cu terpa lo xirma
+ro cinfo cu terpa lo labno
+la .ninas. cu cinfo
+la .ninas. cu terpa ma? lo labno
+
+ro gerku cu terpa lo smacu
+ro cipni cu terpa lo gerku
+ro smacu cu terpa lo finpe
+la .pet. cu smacu
+ro finpe cu terpa lo mlatu
+la .pet. cu terpa ma? lo finpe
+
+ro cipni cu terpa lo mlatu
+ro xirma cu terpa lo cinfo
+ro cinfo cu terpa lo cipni
+la .frank. cu cipni
+la .frank. cu terpa ma? lo mlatu
+
+la .tam. cu mlatu
+ro finpe cu terpa lo xirma
+ro mlatu cu terpa lo finpe
+ro smacu cu terpa lo cinfo
+ro xirma cu terpa lo smacu
+la .tam. cu terpa ma? lo finpe
+
+ro finpe cu terpa lo lanme
+la .ninas. cu finpe
+ro lanme cu terpa lo labno
+la .ninas. cu terpa ma? lo lanme
+
+la .iv. cu mlatu
+ro mlatu cu terpa lo lanme
+ro labno cu terpa lo mlatu
+ro cinfo cu terpa lo labno
+la .iv. cu terpa ma? lo lanme
+
+ro lanme cu terpa lo xirma
+ro xirma cu terpa lo mlatu
+la .rik. cu xirma
+la .rik. cu terpa ma? lo mlatu
+
+ro gerku cu terpa lo cipni
+ro labno cu terpa lo gerku
+la .ninas. cu labno
+la .ninas. cu terpa ma? lo gerku
+
+ro cinfo cu terpa lo smacu
+ro finpe cu terpa lo cinfo
+ro cipni cu terpa lo finpe
+la .djan. cu cinfo
+la .djan. cu terpa ma? lo smacu
+
+ro labno cu terpa lo finpe
+ro mlatu cu terpa lo gerku
+ro finpe cu terpa lo mlatu
+la .maris. cu mlatu
+la .maris. cu terpa ma? lo gerku
+
+la .lus. cu cipni
+ro cipni cu terpa lo gerku
+ro gerku cu terpa lo labno
+ro mlatu cu terpa lo cinfo
+ro labno cu terpa lo mlatu
+la .lus. cu terpa ma? lo gerku
+
+la .frank. cu lanme
+ro mlatu cu terpa lo xirma
+ro smacu cu terpa lo cipni
+ro cipni cu terpa lo lanme
+ro lanme cu terpa lo mlatu
+la .frank. cu terpa ma? lo mlatu
+
+ro labno cu terpa lo cinfo
+ro smacu cu terpa lo xirma
+ro cinfo cu terpa lo smacu
+la .iv. cu smacu
+la .iv. cu terpa ma? lo xirma
+
+ro cinfo cu terpa lo finpe
+la .fred. cu cinfo
+ro finpe cu terpa lo mlatu
+la .fred. cu terpa ma? lo finpe
+
+la .bil. cu labno
+ro labno cu terpa lo gerku
+ro cipni cu terpa lo labno
+la .bil. cu terpa ma? lo gerku
+
+ro mlatu cu terpa lo finpe
+ro finpe cu terpa lo gerku
+la .ninas. cu finpe
+ro cinfo cu terpa lo mlatu
+la .ninas. cu terpa ma? lo gerku
+
+la .sandr. cu smacu
+ro smacu cu terpa lo gerku
+ro finpe cu terpa lo lanme
+ro xirma cu terpa lo smacu
+ro lanme cu terpa lo xirma
+la .sandr. cu terpa ma? lo gerku
+
+ro cipni cu terpa lo cinfo
+ro xirma cu terpa lo lanme
+ro lanme cu terpa lo cipni
+ro mlatu cu terpa lo xirma
+la .deiv. cu lanme
+la .deiv. cu terpa ma? lo cipni
+
+ro lanme cu terpa lo finpe
+ro cipni cu terpa lo xirma
+ro labno cu terpa lo lanme
+ro finpe cu terpa lo cipni
+la .daniyl. cu cipni
+la .daniyl. cu terpa ma? lo xirma
+
+ro lanme cu terpa lo xirma
+ro gerku cu terpa lo smacu
+ro xirma cu terpa lo gerku
+la .sandr. cu lanme
+la .sandr. cu terpa ma? lo xirma
+
+ro labno cu terpa lo mlatu
+ro smacu cu terpa lo xirma
+ro xirma cu terpa lo labno
+la .alis. cu lanme
+ro lanme cu terpa lo smacu
+la .alis. cu terpa ma? lo smacu
+
+ro labno cu terpa lo gerku
+ro gerku cu terpa lo xirma
+la .ninas. cu labno
+la .ninas. cu terpa ma? lo gerku
+
+ro lanme cu terpa lo labno
+ro cinfo cu terpa lo lanme
+la .daniyl. cu cinfo
+ro finpe cu terpa lo cinfo
+la .daniyl. cu terpa ma? lo lanme
+
+la .lus. cu xirma
+ro xirma cu terpa lo labno
+ro labno cu terpa lo finpe
+la .lus. cu terpa ma? lo labno
+
+ro cinfo cu terpa lo xirma
+ro xirma cu terpa lo cipni
+la .frank. cu cinfo
+ro cipni cu terpa lo lanme
+ro smacu cu terpa lo cinfo
+la .frank. cu terpa ma? lo xirma
+
+la .an. cu xirma
+ro cipni cu terpa lo xirma
+ro xirma cu terpa lo lanme
+la .an. cu terpa ma? lo lanme
+
+ro smacu cu terpa lo labno
+ro finpe cu terpa lo smacu
+la .sandr. cu labno
+ro labno cu terpa lo gerku
+ro lanme cu terpa lo finpe
+la .sandr. cu terpa ma? lo gerku
+
+ro smacu cu terpa lo gerku
+la .frank. cu lanme
+ro cinfo cu terpa lo smacu
+ro lanme cu terpa lo cinfo
+ro cipni cu terpa lo lanme
+la .frank. cu terpa ma? lo cinfo
+
+ro cinfo cu terpa lo labno
+ro smacu cu terpa lo cinfo
+ro labno cu terpa lo gerku
+la .rik. cu smacu
+ro lanme cu terpa lo smacu
+la .rik. cu terpa ma? lo cinfo
+
+ro cipni cu terpa lo mlatu
+ro mlatu cu terpa lo smacu
+la .daniyl. cu cipni
+la .daniyl. cu terpa ma? lo mlatu
+
+ro labno cu terpa lo xirma
+la .pet. cu cipni
+ro cipni cu terpa lo labno
+la .pet. cu terpa ma? lo labno
+
+ro xirma cu terpa lo labno
+la .suz. cu xirma
+ro cinfo cu terpa lo xirma
+ro finpe cu terpa lo cinfo
+la .suz. cu terpa ma? lo labno
+
+ro gerku cu terpa lo cinfo
+la .ninas. cu mlatu
+ro mlatu cu terpa lo gerku
+la .ninas. cu terpa ma? lo gerku
+
+ro mlatu cu terpa lo lanme
+ro smacu cu terpa lo cipni
+la .bil. cu cipni
+ro cipni cu terpa lo mlatu
+la .bil. cu terpa ma? lo mlatu
+
+ro mlatu cu terpa lo lanme
+ro cinfo cu terpa lo finpe
+ro lanme cu terpa lo cinfo
+la .alis. cu mlatu
+la .alis. cu terpa ma? lo lanme
+
+la .iv. cu labno
+ro cinfo cu terpa lo mlatu
+ro cipni cu terpa lo gerku
+ro gerku cu terpa lo cinfo
+ro labno cu terpa lo cipni
+la .iv. cu terpa ma? lo cipni
+
+ro mlatu cu terpa lo gerku
+ro smacu cu terpa lo cipni
+ro gerku cu terpa lo smacu
+ro cinfo cu terpa lo mlatu
+la .bab. cu mlatu
+la .bab. cu terpa ma? lo gerku
+
+ro labno cu terpa lo mlatu
+la .sam. cu cinfo
+ro cinfo cu terpa lo cipni
+ro cipni cu terpa lo gerku
+ro gerku cu terpa lo labno
+la .sam. cu terpa ma? lo cipni
+
+ro cipni cu terpa lo smacu
+ro finpe cu terpa lo gerku
+ro smacu cu terpa lo cinfo
+ro cinfo cu terpa lo finpe
+la .alis. cu cinfo
+la .alis. cu terpa ma? lo finpe
+
+la .iv. cu cinfo
+ro cinfo cu terpa lo lanme
+ro lanme cu terpa lo gerku
+ro gerku cu terpa lo cipni
+la .iv. cu terpa ma? lo lanme
+
+la .frank. cu gerku
+ro smacu cu terpa lo cipni
+ro cipni cu terpa lo lanme
+ro lanme cu terpa lo gerku
+ro gerku cu terpa lo finpe
+la .frank. cu terpa ma? lo finpe
+
+ro gerku cu terpa lo smacu
+la .pet. cu lanme
+ro lanme cu terpa lo cinfo
+ro cinfo cu terpa lo gerku
+ro smacu cu terpa lo cipni
+la .pet. cu terpa ma? lo cinfo
+
+ro labno cu terpa lo xirma
+ro smacu cu terpa lo labno
+ro xirma cu terpa lo cinfo
+la .pet. cu xirma
+ro lanme cu terpa lo smacu
+la .pet. cu terpa ma? lo cinfo
+
+la .sam. cu gerku
+ro cipni cu terpa lo xirma
+ro xirma cu terpa lo gerku
+ro gerku cu terpa lo mlatu
+la .sam. cu terpa ma? lo mlatu
+
+la .maris. cu cipni
+ro mlatu cu terpa lo cipni
+ro gerku cu terpa lo mlatu
+ro cipni cu terpa lo xirma
+la .maris. cu terpa ma? lo xirma
+
+ro smacu cu terpa lo mlatu
+ro mlatu cu terpa lo labno
+ro xirma cu terpa lo finpe
+ro finpe cu terpa lo smacu
+la .deiv. cu finpe
+la .deiv. cu terpa ma? lo smacu
+
+ro finpe cu terpa lo cipni
+ro xirma cu terpa lo finpe
+la .rik. cu lanme
+ro gerku cu terpa lo lanme
+ro lanme cu terpa lo xirma
+la .rik. cu terpa ma? lo xirma
+
+la .bab. cu lanme
+ro lanme cu terpa lo mlatu
+ro smacu cu terpa lo lanme
+la .bab. cu terpa ma? lo mlatu
+
+la .maris. cu lanme
+ro finpe cu terpa lo smacu
+ro lanme cu terpa lo finpe
+ro smacu cu terpa lo mlatu
+ro mlatu cu terpa lo cipni
+la .maris. cu terpa ma? lo finpe
+
+la .maris. cu cinfo
+ro cinfo cu terpa lo mlatu
+ro mlatu cu terpa lo cipni
+la .maris. cu terpa ma? lo mlatu
+
+la .lus. cu smacu
+ro smacu cu terpa lo cinfo
+ro cinfo cu terpa lo cipni
+ro cipni cu terpa lo lanme
+la .lus. cu terpa ma? lo cinfo
+
+ro labno cu terpa lo finpe
+ro finpe cu terpa lo xirma
+la .bab. cu labno
+ro smacu cu terpa lo labno
+la .bab. cu terpa ma? lo finpe
+
+ro cipni cu terpa lo cinfo
+la .rik. cu cipni
+ro mlatu cu terpa lo cipni
+la .rik. cu terpa ma? lo cinfo
+
+ro xirma cu terpa lo lanme
+ro finpe cu terpa lo xirma
+la .daniyl. cu finpe
+la .daniyl. cu terpa ma? lo xirma
+
+ro mlatu cu terpa lo gerku
+ro gerku cu terpa lo cinfo
+la .alis. cu gerku
+ro cinfo cu terpa lo cipni
+la .alis. cu terpa ma? lo cinfo
+
+la .bab. cu cipni
+ro cinfo cu terpa lo smacu
+ro cipni cu terpa lo cinfo
+ro smacu cu terpa lo finpe
+la .bab. cu terpa ma? lo cinfo
+
+ro labno cu terpa lo gerku
+la .fred. cu lanme
+ro gerku cu terpa lo smacu
+ro smacu cu terpa lo lanme
+ro lanme cu terpa lo cinfo
+la .fred. cu terpa ma? lo cinfo
+
+la .deiv. cu gerku
+ro gerku cu terpa lo smacu
+ro smacu cu terpa lo lanme
+la .deiv. cu terpa ma? lo smacu
+
+ro mlatu cu terpa lo cinfo
+ro finpe cu terpa lo gerku
+la .sam. cu finpe
+ro cinfo cu terpa lo lanme
+ro gerku cu terpa lo mlatu
+la .sam. cu terpa ma? lo gerku
+
+ro gerku cu terpa lo xirma
+la .an. cu cinfo
+ro xirma cu terpa lo cinfo
+ro cinfo cu terpa lo smacu
+la .an. cu terpa ma? lo smacu
+
+ro labno cu terpa lo lanme
+ro cipni cu terpa lo gerku
+ro lanme cu terpa lo cinfo
+ro gerku cu terpa lo labno
+la .lus. cu lanme
+la .lus. cu terpa ma? lo cinfo
+
+la .deiv. cu smacu
+ro lanme cu terpa lo gerku
+ro smacu cu terpa lo lanme
+la .deiv. cu terpa ma? lo lanme
+
+la .ninas. cu gerku
+ro gerku cu terpa lo finpe
+ro finpe cu terpa lo mlatu
+la .ninas. cu terpa ma? lo finpe
+
+la .bab. cu cipni
+ro cipni cu terpa lo lanme
+ro labno cu terpa lo cipni
+ro cinfo cu terpa lo labno
+la .bab. cu terpa ma? lo lanme
+
+la .frank. cu lanme
+ro lanme cu terpa lo smacu
+ro cipni cu terpa lo lanme
+la .frank. cu terpa ma? lo smacu
+
+ro mlatu cu terpa lo cinfo
+ro gerku cu terpa lo mlatu
+ro xirma cu terpa lo gerku
+la .lus. cu mlatu
+la .lus. cu terpa ma? lo cinfo
+
+ro lanme cu terpa lo cipni
+ro cipni cu terpa lo smacu
+la .suz. cu cipni
+la .suz. cu terpa ma? lo smacu
+
+ro finpe cu terpa lo cinfo
+la .keit. cu mlatu
+ro mlatu cu terpa lo finpe
+la .keit. cu terpa ma? lo finpe
+
+ro smacu cu terpa lo finpe
+ro mlatu cu terpa lo cinfo
+ro finpe cu terpa lo mlatu
+ro cinfo cu terpa lo lanme
+la .suz. cu finpe
+la .suz. cu terpa ma? lo mlatu
+
+la .sam. cu finpe
+ro smacu cu terpa lo cinfo
+ro finpe cu terpa lo smacu
+la .sam. cu terpa ma? lo smacu
+
+la .iv. cu mlatu
+ro mlatu cu terpa lo lanme
+ro smacu cu terpa lo cinfo
+ro cinfo cu terpa lo xirma
+ro xirma cu terpa lo mlatu
+la .iv. cu terpa ma? lo lanme
+
+ro cinfo cu terpa lo labno
+ro gerku cu terpa lo cipni
+ro cipni cu terpa lo cinfo
+la .tam. cu gerku
+ro labno cu terpa lo finpe
+la .tam. cu terpa ma? lo cipni
+
+la .maris. cu gerku
+ro smacu cu terpa lo gerku
+ro gerku cu terpa lo labno
+la .maris. cu terpa ma? lo labno
+
+ro labno cu terpa lo mlatu
+la .maris. cu mlatu
+ro finpe cu terpa lo labno
+ro mlatu cu terpa lo lanme
+la .maris. cu terpa ma? lo lanme
+
+ro gerku cu terpa lo cinfo
+la .rik. cu cinfo
+ro cinfo cu terpa lo cipni
+la .rik. cu terpa ma? lo cipni
+
+ro smacu cu terpa lo labno
+ro labno cu terpa lo cipni
+ro lanme cu terpa lo finpe
+la .maris. cu cipni
+ro cipni cu terpa lo lanme
+la .maris. cu terpa ma? lo lanme
+
+ro mlatu cu terpa lo gerku
+ro smacu cu terpa lo mlatu
+la .frank. cu smacu
+la .frank. cu terpa ma? lo mlatu
+
+la .frank. cu mlatu
+ro labno cu terpa lo mlatu
+ro gerku cu terpa lo smacu
+ro mlatu cu terpa lo gerku
+la .frank. cu terpa ma? lo gerku
+
+ro gerku cu terpa lo cipni
+ro lanme cu terpa lo gerku
+la .daniyl. cu gerku
+la .daniyl. cu terpa ma? lo cipni
+
+ro cinfo cu terpa lo finpe
+la .frank. cu cinfo
+ro xirma cu terpa lo cinfo
+ro finpe cu terpa lo smacu
+la .frank. cu terpa ma? lo finpe
+
+ro smacu cu terpa lo mlatu
+ro cinfo cu terpa lo xirma
+ro xirma cu terpa lo lanme
+ro lanme cu terpa lo smacu
+la .frank. cu smacu
+la .frank. cu terpa ma? lo mlatu
+
+ro cipni cu terpa lo finpe
+ro labno cu terpa lo cipni
+la .tam. cu cipni
+la .tam. cu terpa ma? lo finpe
+
+ro mlatu cu terpa lo cipni
+ro smacu cu terpa lo mlatu
+la .maris. cu smacu
+ro labno cu terpa lo smacu
+la .maris. cu terpa ma? lo mlatu
+
+ro finpe cu terpa lo cipni
+ro cipni cu terpa lo labno
+ro mlatu cu terpa lo finpe
+la .frank. cu finpe
+ro gerku cu terpa lo mlatu
+la .frank. cu terpa ma? lo cipni
+
+ro mlatu cu terpa lo xirma
+ro smacu cu terpa lo cipni
+la .suz. cu smacu
+ro cipni cu terpa lo mlatu
+la .suz. cu terpa ma? lo cipni
+
+ro finpe cu terpa lo mlatu
+ro cinfo cu terpa lo cipni
+ro mlatu cu terpa lo cinfo
+la .keit. cu cinfo
+la .keit. cu terpa ma? lo cipni

@@ -1,0 +1,799 @@
+Eve and Lucy went to the market.
+Then they went to the kitchen.
+Where is Eve? kitchen
+
+Tom and Bill went to the studio.
+Then they went to the park.
+Where is Tom? park
+
+Alice and Susan went to the bathroom.
+Then they went to the school.
+Where is Alice? school
+
+Sandra and John went to the restaurant.
+Then they went to the park.
+Where is John? park
+
+Sandra and Ann went to the office.
+Then they went to the studio.
+Where is Sandra? studio
+
+Eve and Bill went to the hallway.
+Then they went to the kitchen.
+Where is Eve? kitchen
+
+Ann and David went to the bathroom.
+Then they went to the kitchen.
+Where is Ann? kitchen
+
+Sandra and Eve went to the market.
+Then they went to the kitchen.
+Where is Eve? kitchen
+
+Kate and Mary went to the bedroom.
+Then they went to the garden.
+Where is Mary? garden
+
+Lucy and Peter went to the market.
+Then they went to the park.
+Where is Peter? park
+
+Fred and Sam went to the playground.
+Then they went to the kitchen.
+Where is Fred? kitchen
+
+Alice and Daniel went to the office.
+Then they went to the playground.
+Where is Daniel? playground
+
+Peter and Susan went to the bathroom.
+Then they went to the studio.
+Where is Peter? studio
+
+Nina and Lucy went to the studio.
+Then they went to the kitchen.
+Where is Lucy? kitchen
+
+Eve and Frank went to the playground.
+Then they went to the garden.
+Where is Eve? garden
+
+Ann and David went to the school.
+Then they went to the garden.
+Where is David? garden
+
+Daniel and Fred went to the office.
+Then they went to the hallway.
+Where is Fred? hallway
+
+Fred and Bill went to the bathroom.
+Then they went to the school.
+Where is Bill? school
+
+Nina and Fred went to the kitchen.
+Then they went to the hallway.
+Where is Nina? hallway
+
+Susan and Alice went to the park.
+Then they went to the market.
+Where is Susan? market
+
+Kate and Rick went to the park.
+Then they went to the school.
+Where is Kate? school
+
+Susan and Kate went to the office.
+Then they went to the garden.
+Where is Kate? garden
+
+Rick and Alice went to the playground.
+Then they went to the bedroom.
+Where is Alice? bedroom
+
+Rick and Peter went to the bathroom.
+Then they went to the studio.
+Where is Peter? studio
+
+Eve and Sam went to the hallway.
+Then they went to the bathroom.
+Where is Eve? bathroom
+
+Kate and Susan went to the bathroom.
+Then they went to the restaurant.
+Where is Kate? restaurant
+
+Kate and Peter went to the bedroom.
+Then they went to the garden.
+Where is Kate? garden
+
+Alice and Bill went to the studio.
+Then they went to the kitchen.
+Where is Alice? kitchen
+
+Bill and Peter went to the studio.
+Then they went to the school.
+Where is Peter? school
+
+Fred and Susan went to the hallway.
+Then they went to the bedroom.
+Where is Susan? bedroom
+
+Lucy and Kate went to the studio.
+Then they went to the bedroom.
+Where is Lucy? bedroom
+
+Ann and Frank went to the hallway.
+Then they went to the playground.
+Where is Ann? playground
+
+Ann and Peter went to the park.
+Then they went to the market.
+Where is Ann? market
+
+Nina and Bob went to the restaurant.
+Then they went to the playground.
+Where is Bob? playground
+
+Rick and Mary went to the kitchen.
+Then they went to the market.
+Where is Rick? market
+
+Sandra and Susan went to the bedroom.
+Then they went to the playground.
+Where is Susan? playground
+
+Kate and Susan went to the hallway.
+Then they went to the studio.
+Where is Susan? studio
+
+Peter and Eve went to the hallway.
+Then they went to the park.
+Where is Peter? park
+
+Frank and Peter went to the school.
+Then they went to the park.
+Where is Peter? park
+
+Nina and Eve went to the studio.
+Then they went to the bedroom.
+Where is Nina? bedroom
+
+Bob and Susan went to the bathroom.
+Then they went to the playground.
+Where is Susan? playground
+
+Lucy and Sam went to the bedroom.
+Then they went to the restaurant.
+Where is Sam? restaurant
+
+Mary and Eve went to the park.
+Then they went to the hallway.
+Where is Mary? hallway
+
+Ann and Daniel went to the restaurant.
+Then they went to the school.
+Where is Daniel? school
+
+David and Susan went to the playground.
+Then they went to the studio.
+Where is David? studio
+
+Lucy and Bob went to the restaurant.
+Then they went to the bedroom.
+Where is Lucy? bedroom
+
+Sam and Susan went to the hallway.
+Then they went to the market.
+Where is Sam? market
+
+Nina and Rick went to the office.
+Then they went to the school.
+Where is Rick? school
+
+Daniel and Sandra went to the office.
+Then they went to the school.
+Where is Daniel? school
+
+Frank and Bob went to the school.
+Then they went to the market.
+Where is Frank? market
+
+Fred and Sandra went to the market.
+Then they went to the restaurant.
+Where is Fred? restaurant
+
+David and Peter went to the school.
+Then they went to the market.
+Where is Peter? market
+
+Nina and Alice went to the park.
+Then they went to the studio.
+Where is Alice? studio
+
+Nina and Tom went to the bedroom.
+Then they went to the market.
+Where is Tom? market
+
+Frank and Fred went to the park.
+Then they went to the garden.
+Where is Frank? garden
+
+Eve and Rick went to the bathroom.
+Then they went to the school.
+Where is Rick? school
+
+David and Susan went to the studio.
+Then they went to the market.
+Where is Susan? market
+
+Susan and Nina went to the school.
+Then they went to the studio.
+Where is Nina? studio
+
+Frank and Eve went to the bedroom.
+Then they went to the kitchen.
+Where is Frank? kitchen
+
+Kate and Susan went to the restaurant.
+Then they went to the garden.
+Where is Kate? garden
+
+Eve and Lucy went to the garden.
+Then they went to the restaurant.
+Where is Eve? restaurant
+
+Bill and Daniel went to the kitchen.
+Then they went to the restaurant.
+Where is Daniel? restaurant
+
+Ann and Alice went to the garden.
+Then they went to the office.
+Where is Ann? office
+
+Alice and Lucy went to the office.
+Then they went to the bathroom.
+Where is Alice? bathroom
+
+David and Nina went to the market.
+Then they went to the bedroom.
+Where is David? bedroom
+
+Ann and Eve went to the kitchen.
+Then they went to the restaurant.
+Where is Eve? restaurant
+
+Rick and Bill went to the hallway.
+Then they went to the playground.
+Where is Bill? playground
+
+Daniel and Nina went to the bedroom.
+Then they went to the playground.
+Where is Daniel? playground
+
+Fred and Nina went to the market.
+Then they went to the restaurant.
+Where is Nina? restaurant
+
+Ann and Daniel went to the office.
+Then they went to the school.
+Where is Daniel? school
+
+Daniel and Kate went to the garden.
+Then they went to the hallway.
+Where is Kate? hallway
+
+Peter and Frank went to the office.
+Then they went to the bedroom.
+Where is Frank? bedroom
+
+Mary and Sandra went to the playground.
+Then they went to the bedroom.
+Where is Sandra? bedroom
+
+David and Bill went to the playground.
+Then they went to the kitchen.
+Where is Bill? kitchen
+
+Bill and David went to the kitchen.
+Then they went to the park.
+Where is David? park
+
+Sandra and Kate went to the kitchen.
+Then they went to the playground.
+Where is Kate? playground
+
+Sam and Frank went to the playground.
+Then they went to the park.
+Where is Frank? park
+
+Kate and Eve went to the restaurant.
+Then they went to the market.
+Where is Eve? market
+
+Lucy and Kate went to the office.
+Then they went to the garden.
+Where is Kate? garden
+
+Kate and Ann went to the studio.
+Then they went to the market.
+Where is Ann? market
+
+David and Daniel went to the office.
+Then they went to the park.
+Where is David? park
+
+Alice and Eve went to the bedroom.
+Then they went to the office.
+Where is Alice? office
+
+Nina and Sandra went to the office.
+Then they went to the studio.
+Where is Sandra? studio
+
+Sam and Rick went to the kitchen.
+Then they went to the bedroom.
+Where is Sam? bedroom
+
+Daniel and Mary went to the bedroom.
+Then they went to the garden.
+Where is Mary? garden
+
+Susan and Tom went to the restaurant.
+Then they went to the hallway.
+Where is Susan? hallway
+
+Kate and Alice went to the bedroom.
+Then they went to the kitchen.
+Where is Alice? kitchen
+
+Sam and Rick went to the park.
+Then they went to the office.
+Where is Rick? office
+
+Peter and Nina went to the restaurant.
+Then they went to the kitchen.
+Where is Nina? kitchen
+
+Alice and Tom went to the kitchen.
+Then they went to the office.
+Where is Tom? office
+
+Alice and Daniel went to the hallway.
+Then they went to the bedroom.
+Where is Alice? bedroom
+
+Susan and Lucy went to the kitchen.
+Then they went to the garden.
+Where is Susan? garden
+
+Lucy and Nina went to the bathroom.
+Then they went to the kitchen.
+Where is Lucy? kitchen
+
+Nina and Bob went to the playground.
+Then they went to the market.
+Where is Nina? market
+
+Bill and Lucy went to the market.
+Then they went to the office.
+Where is Lucy? office
+
+Eve and John went to the restaurant.
+Then they went to the playground.
+Where is Eve? playground
+
+Susan and Bill went to the market.
+Then they went to the office.
+Where is Susan? office
+
+Peter and John went to the market.
+Then they went to the bathroom.
+Where is Peter? bathroom
+
+Kate and Frank went to the school.
+Then they went to the kitchen.
+Where is Kate? kitchen
+
+Susan and Fred went to the garden.
+Then they went to the park.
+Where is Susan? park
+
+Mary and John went to the studio.
+Then they went to the hallway.
+Where is Mary? hallway
+
+Peter and Alice went to the bathroom.
+Then they went to the bedroom.
+Where is Alice? bedroom
+
+Alice and Rick went to the market.
+Then they went to the kitchen.
+Where is Alice? kitchen
+
+Peter and Tom went to the restaurant.
+Then they went to the playground.
+Where is Peter? playground
+
+Tom and Bill went to the bathroom.
+Then they went to the school.
+Where is Bill? school
+
+Nina and Sam went to the kitchen.
+Then they went to the park.
+Where is Sam? park
+
+Tom and Susan went to the kitchen.
+Then they went to the hallway.
+Where is Susan? hallway
+
+Daniel and David went to the playground.
+Then they went to the hallway.
+Where is Daniel? hallway
+
+Fred and Eve went to the playground.
+Then they went to the school.
+Where is Eve? school
+
+Nina and Susan went to the studio.
+Then they went to the playground.
+Where is Nina? playground
+
+Alice and Ann went to the bedroom.
+Then they went to the hallway.
+Where is Ann? hallway
+
+Susan and Daniel went to the school.
+Then they went to the hallway.
+Where is Susan? hallway
+
+Ann and Lucy went to the restaurant.
+Then they went to the bedroom.
+Where is Ann? bedroom
+
+Sandra and Peter went to the studio.
+Then they went to the bathroom.
+Where is Peter? bathroom
+
+Daniel and Tom went to the studio.
+Then they went to the office.
+Where is Tom? office
+
+Frank and Rick went to the garden.
+Then they went to the restaurant.
+Where is Frank? restaurant
+
+John and Tom went to the bedroom.
+Then they went to the kitchen.
+Where is John? kitchen
+
+Bob and Bill went to the bathroom.
+Then they went to the garden.
+Where is Bob? garden
+
+Fred and Lucy went to the market.
+Then they went to the hallway.
+Where is Lucy? hallway
+
+John and Peter went to the bathroom.
+Then they went to the studio.
+Where is John? studio
+
+Mary and Sam went to the market.
+Then they went to the hallway.
+Where is Mary? hallway
+
+Nina and John went to the school.
+Then they went to the playground.
+Where is John? playground
+
+Peter and John went to the studio.
+Then they went to the office.
+Where is Peter? office
+
+Alice and David went to the garden.
+Then they went to the bathroom.
+Where is Alice? bathroom
+
+Bob and Kate went to the playground.
+Then they went to the park.
+Where is Bob? park
+
+Sam and Ann went to the market.
+Then they went to the bathroom.
+Where is Sam? bathroom
+
+Daniel and Sandra went to the park.
+Then they went to the garden.
+Where is Sandra? garden
+
+Nina and Frank went to the garden.
+Then they went to the bedroom.
+Where is Nina? bedroom
+
+Daniel and Lucy went to the playground.
+Then they went to the school.
+Where is Daniel? school
+
+Daniel and Nina went to the school.
+Then they went to the restaurant.
+Where is Nina? restaurant
+
+Peter and Frank went to the market.
+Then they went to the park.
+Where is Frank? park
+
+Sandra and Kate went to the studio.
+Then they went to the playground.
+Where is Sandra? playground
+
+Lucy and Daniel went to the restaurant.
+Then they went to the office.
+Where is Daniel? office
+
+Nina and Sandra went to the park.
+Then they went to the kitchen.
+Where is Nina? kitchen
+
+David and Mary went to the playground.
+Then they went to the bedroom.
+Where is Mary? bedroom
+
+Mary and David went to the bathroom.
+Then they went to the restaurant.
+Where is David? restaurant
+
+Mary and Susan went to the playground.
+Then they went to the restaurant.
+Where is Mary? restaurant
+
+Bob and John went to the hallway.
+Then they went to the school.
+Where is Bob? school
+
+Tom and Susan went to the school.
+Then they went to the studio.
+Where is Tom? studio
+
+Kate and Susan went to the office.
+Then they went to the garden.
+Where is Susan? garden
+
+Fred and Sam went to the restaurant.
+Then they went to the garden.
+Where is Sam? garden
+
+Bill and Eve went to the hallway.
+Then they went to the studio.
+Where is Bill? studio
+
+Sandra and David went to the kitchen.
+Then they went to the studio.
+Where is David? studio
+
+Alice and John went to the school.
+Then they went to the restaurant.
+Where is John? restaurant
+
+Frank and Bob went to the bathroom.
+Then they went to the market.
+Where is Frank? market
+
+Lucy and John went to the office.
+Then they went to the playground.
+Where is Lucy? playground
+
+Ann and Kate went to the bedroom.
+Then they went to the kitchen.
+Where is Kate? kitchen
+
+Nina and Fred went to the playground.
+Then they went to the garden.
+Where is Nina? garden
+
+Frank and David went to the park.
+Then they went to the bedroom.
+Where is Frank? bedroom
+
+Rick and Alice went to the hallway.
+Then they went to the studio.
+Where is Rick? studio
+
+Daniel and Lucy went to the office.
+Then they went to the garden.
+Where is Lucy? garden
+
+Ann and Frank went to the restaurant.
+Then they went to the bedroom.
+Where is Ann? bedroom
+
+Bill and Daniel went to the bathroom.
+Then they went to the hallway.
+Where is Daniel? hallway
+
+Fred and Sam went to the playground.
+Then they went to the studio.
+Where is Fred? studio
+
+Kate and Alice went to the office.
+Then they went to the park.
+Where is Alice? park
+
+Fred and Alice went to the garden.
+Then they went to the market.
+Where is Alice? market
+
+Frank and Peter went to the school.
+Then they went to the bathroom.
+Where is Peter? bathroom
+
+Peter and Mary went to the office.
+Then they went to the bedroom.
+Where is Mary? bedroom
+
+Sandra and Nina went to the studio.
+Then they went to the bedroom.
+Where is Nina? bedroom
+
+John and Kate went to the bathroom.
+Then they went to the market.
+Where is Kate? market
+
+Tom and Alice went to the garden.
+Then they went to the kitchen.
+Where is Tom? kitchen
+
+Sandra and Tom went to the office.
+Then they went to the kitchen.
+Where is Tom? kitchen
+
+Bob and David went to the hallway.
+Then they went to the restaurant.
+Where is Bob? restaurant
+
+Rick and Sam went to the restaurant.
+Then they went to the playground.
+Where is Rick? playground
+
+Sam and Daniel went to the playground.
+Then they went to the office.
+Where is Daniel? office
+
+Sandra and Tom went to the restaurant.
+Then they went to the market.
+Where is Sandra? market
+
+Lucy and Fred went to the market.
+Then they went to the playground.
+Where is Lucy? playground
+
+Susan and Eve went to the kitchen.
+Then they went to the office.
+Where is Susan? office
+
+Sandra and Susan went to the kitchen.
+Then they went to the hallway.
+Where is Sandra? hallway
+
+Alice and Lucy went to the market.
+Then they went to the office.
+Where is Lucy? office
+
+Bob and Mary went to the office.
+Then they went to the market.
+Where is Mary? market
+
+Kate and Lucy went to the playground.
+Then they went to the garden.
+Where is Lucy? garden
+
+Ann and Nina went to the playground.
+Then they went to the kitchen.
+Where is Ann? kitchen
+
+Kate and Ann went to the office.
+Then they went to the school.
+Where is Ann? school
+
+Lucy and Eve went to the kitchen.
+Then they went to the school.
+Where is Eve? school
+
+Peter and David went to the bathroom.
+Then they went to the playground.
+Where is David? playground
+
+John and Susan went to the park.
+Then they went to the kitchen.
+Where is Susan? kitchen
+
+Kate and Tom went to the school.
+Then they went to the park.
+Where is Kate? park
+
+Alice and Lucy went to the playground.
+Then they went to the market.
+Where is Alice? market
+
+Frank and Kate went to the studio.
+Then they went to the bedroom.
+Where is Kate? bedroom
+
+David and Rick went to the hallway.
+Then they went to the playground.
+Where is David? playground
+
+Sam and Tom went to the studio.
+Then they went to the playground.
+Where is Sam? playground
+
+Tom and David went to the restaurant.
+Then they went to the playground.
+Where is Tom? playground
+
+Frank and Tom went to the market.
+Then they went to the studio.
+Where is Frank? studio
+
+Rick and Alice went to the playground.
+Then they went to the restaurant.
+Where is Rick? restaurant
+
+Eve and Rick went to the bedroom.
+Then they went to the kitchen.
+Where is Rick? kitchen
+
+Frank and Sandra went to the office.
+Then they went to the hallway.
+Where is Sandra? hallway
+
+Tom and Sam went to the garden.
+Then they went to the bedroom.
+Where is Tom? bedroom
+
+Mary and Susan went to the studio.
+Then they went to the restaurant.
+Where is Mary? restaurant
+
+Sandra and Kate went to the bathroom.
+Then they went to the market.
+Where is Sandra? market
+
+Peter and Alice went to the restaurant.
+Then they went to the hallway.
+Where is Peter? hallway
+
+Ann and Bill went to the restaurant.
+Then they went to the market.
+Where is Bill? market
+
+Eve and Lucy went to the hallway.
+Then they went to the restaurant.
+Where is Eve? restaurant
+
+Eve and Sam went to the bathroom.
+Then they went to the kitchen.
+Where is Sam? kitchen
+
+Mary and Susan went to the park.
+Then they went to the bathroom.
+Where is Mary? bathroom
+
+Sam and Alice went to the bedroom.
+Then they went to the hallway.
+Where is Alice? hallway
+
+Rick and Nina went to the bathroom.
+Then they went to the park.
+Where is Nina? park
+
+John and Lucy went to the restaurant.
+Then they went to the school.
+Where is Lucy? school
+
+Sandra and Fred went to the studio.
+Then they went to the playground.
+Where is Sandra? playground
+
+Ann and Bob went to the hallway.
+Then they went to the restaurant.
+Where is Ann? restaurant

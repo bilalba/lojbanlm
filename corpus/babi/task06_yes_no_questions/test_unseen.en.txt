@@ -1,0 +1,1012 @@
+Bernhard went to the park.
+Frank went to the kitchen.
+Is Frank in the garden? no
+
+Alice went to the playground.
+Peter went to the bedroom.
+Julie went to the park.
+David went to the garden.
+Is Julie in the school? no
+
+Gertrude went to the office.
+Tom went to the kitchen.
+Is Gertrude in the market? no
+
+Bill went to the bathroom.
+John went to the park.
+David went to the park.
+Susan went to the school.
+Is John in the cellar? no
+
+Julie went to the park.
+Mary went to the market.
+Is Mary in the bedroom? no
+
+Tom went to the school.
+Alice went to the playground.
+Kate went to the library.
+Is Kate in the office? no
+
+Bernhard went to the cellar.
+Tom went to the park.
+Sandra went to the garden.
+Is Tom in the park? yes
+
+Mary went to the park.
+Susan went to the garden.
+Bernhard went to the hallway.
+Is Bernhard in the market? no
+
+Bernhard went to the cellar.
+Peter went to the library.
+Tom went to the market.
+Is Bernhard in the cellar? yes
+
+Fred went to the hallway.
+Lucy went to the bedroom.
+Is Fred in the cellar? no
+
+Lucy went to the playground.
+Bernhard went to the hospital.
+Tom went to the cellar.
+Bob went to the library.
+Is Bernhard in the hospital? yes
+
+Gertrude went to the school.
+Eve went to the market.
+Alice went to the hallway.
+Rick went to the restaurant.
+Is Gertrude in the school? yes
+
+Bob went to the playground.
+Gertrude went to the restaurant.
+Lily went to the restaurant.
+Is Gertrude in the studio? no
+
+Tom went to the hallway.
+Frank went to the kitchen.
+Nina went to the library.
+Lucy went to the studio.
+Is Frank in the park? no
+
+Ann went to the hospital.
+John went to the bathroom.
+Julie went to the kitchen.
+Tom went to the restaurant.
+Is Ann in the garden? no
+
+Gertrude went to the bathroom.
+Sandra went to the market.
+Ann went to the kitchen.
+Is Ann in the kitchen? yes
+
+Eve went to the bedroom.
+Lily went to the bedroom.
+Julie went to the studio.
+Is Julie in the studio? yes
+
+Peter went to the school.
+Lucy went to the kitchen.
+John went to the bedroom.
+Julie went to the playground.
+Is Julie in the bathroom? no
+
+Lucy went to the playground.
+Sam went to the hallway.
+Jeff went to the bathroom.
+Is Jeff in the bathroom? yes
+
+Bernhard went to the hallway.
+David went to the office.
+Daniel went to the hospital.
+Sandra went to the bedroom.
+Is Sandra in the playground? no
+
+Sam went to the hospital.
+Bernhard went to the office.
+Gertrude went to the kitchen.
+Is Bernhard in the cellar? no
+
+Bernhard went to the bedroom.
+Susan went to the playground.
+Lily went to the office.
+Frank went to the cellar.
+Is Frank in the garden? no
+
+Alice went to the hallway.
+Daniel went to the park.
+Gertrude went to the kitchen.
+Is Alice in the hallway? yes
+
+Peter went to the school.
+Bernhard went to the hospital.
+Frank went to the garden.
+Is Bernhard in the hallway? no
+
+Bill went to the school.
+Jeff went to the hallway.
+Julie went to the garden.
+Is Bill in the school? yes
+
+Kate went to the hospital.
+Lily went to the hallway.
+Is Kate in the hospital? yes
+
+Julie went to the kitchen.
+Nina went to the office.
+Is Julie in the library? no
+
+Bernhard went to the hospital.
+Bill went to the bathroom.
+Peter went to the cellar.
+Lucy went to the garden.
+Is Bill in the bathroom? yes
+
+Daniel went to the hospital.
+Lucy went to the library.
+Lily went to the office.
+Rick went to the library.
+Is Daniel in the hallway? no
+
+Rick went to the hospital.
+Alice went to the kitchen.
+Tom went to the studio.
+Kate went to the office.
+Is Kate in the garden? no
+
+Lily went to the playground.
+Fred went to the bathroom.
+Mary went to the restaurant.
+Peter went to the kitchen.
+Is Fred in the bathroom? yes
+
+Bob went to the garden.
+David went to the kitchen.
+Gertrude went to the bathroom.
+Is Bob in the garden? yes
+
+Frank went to the restaurant.
+David went to the garden.
+Alice went to the hallway.
+Is Frank in the cellar? no
+
+Bernhard went to the bedroom.
+Mary went to the market.
+Ann went to the library.
+Is Mary in the office? no
+
+Bill went to the studio.
+Gertrude went to the studio.
+Mary went to the park.
+Lucy went to the garden.
+Is Mary in the park? yes
+
+Nina went to the bedroom.
+Mary went to the library.
+Frank went to the bedroom.
+Is Frank in the bedroom? yes
+
+Eve went to the park.
+Kate went to the library.
+Lily went to the playground.
+Is Lily in the restaurant? no
+
+Kate went to the market.
+David went to the hospital.
+Bill went to the park.
+Jeff went to the hospital.
+Is Bill in the kitchen? no
+
+Sandra went to the playground.
+Bill went to the library.
+Peter went to the bedroom.
+Daniel went to the garden.
+Is Peter in the market? no
+
+Lucy went to the library.
+Ann went to the hospital.
+Is Lucy in the hallway? no
+
+Daniel went to the office.
+Susan went to the hospital.
+Lily went to the park.
+Alice went to the market.
+Is Alice in the cellar? no
+
+Sandra went to the bathroom.
+John went to the bedroom.
+Is Sandra in the cellar? no
+
+Bill went to the restaurant.
+Bernhard went to the restaurant.
+Is Bernhard in the restaurant? yes
+
+Julie went to the bedroom.
+Ann went to the restaurant.
+Alice went to the bedroom.
+Is Alice in the park? no
+
+Alice went to the studio.
+John went to the garden.
+Is John in the hospital? no
+
+Peter went to the studio.
+Susan went to the hospital.
+Is Susan in the garden? no
+
+Sam went to the bedroom.
+Tom went to the bathroom.
+Jeff went to the kitchen.
+Ann went to the cellar.
+Is Jeff in the playground? no
+
+Sandra went to the hallway.
+Bernhard went to the cellar.
+Ann went to the library.
+Is Bernhard in the garden? no
+
+Fred went to the hallway.
+Lily went to the cellar.
+Is Lily in the office? no
+
+Mary went to the garden.
+Ann went to the bathroom.
+Kate went to the restaurant.
+Julie went to the kitchen.
+Is Julie in the kitchen? yes
+
+Sam went to the playground.
+Bob went to the playground.
+Mary went to the hospital.
+Is Mary in the park? no
+
+John went to the library.
+Julie went to the market.
+Is John in the library? yes
+
+Lucy went to the library.
+Lily went to the garden.
+Nina went to the hospital.
+Is Lily in the restaurant? no
+
+Daniel went to the hospital.
+Eve went to the hallway.
+Kate went to the bedroom.
+Mary went to the kitchen.
+Is Eve in the garden? no
+
+Lily went to the studio.
+Fred went to the playground.
+Ann went to the studio.
+Susan went to the library.
+Is Susan in the playground? no
+
+Frank went to the school.
+David went to the bedroom.
+Bernhard went to the cellar.
+Is David in the bedroom? yes
+
+Nina went to the restaurant.
+Mary went to the bathroom.
+John went to the school.
+Bernhard went to the garden.
+Is Mary in the bathroom? yes
+
+Lily went to the garden.
+Mary went to the studio.
+Rick went to the playground.
+Tom went to the restaurant.
+Is Rick in the playground? yes
+
+Frank went to the playground.
+Sam went to the hospital.
+Tom went to the cellar.
+John went to the cellar.
+Is Sam in the park? no
+
+Sandra went to the hallway.
+David went to the cellar.
+Bill went to the hallway.
+Is Bill in the hallway? yes
+
+Rick went to the hospital.
+Peter went to the cellar.
+Is Rick in the library? no
+
+Kate went to the bedroom.
+Frank went to the market.
+Julie went to the bedroom.
+Lily went to the park.
+Is Julie in the bedroom? yes
+
+Kate went to the cellar.
+Tom went to the office.
+Is Kate in the cellar? yes
+
+Tom went to the garden.
+Jeff went to the garden.
+Ann went to the market.
+Is Jeff in the garden? yes
+
+Susan went to the library.
+Alice went to the park.
+Peter went to the kitchen.
+Sam went to the hallway.
+Is Alice in the bathroom? no
+
+Nina went to the park.
+Bob went to the playground.
+Jeff went to the hospital.
+Is Bob in the playground? yes
+
+John went to the library.
+Kate went to the playground.
+Is Kate in the office? no
+
+Kate went to the park.
+Bernhard went to the playground.
+Lily went to the school.
+Bill went to the bedroom.
+Is Lily in the school? yes
+
+Julie went to the office.
+Ann went to the market.
+Is Julie in the market? no
+
+Mary went to the school.
+Jeff went to the library.
+Is Mary in the school? yes
+
+Lucy went to the cellar.
+Bernhard went to the restaurant.
+Fred went to the cellar.
+Is Fred in the cellar? yes
+
+Jeff went to the restaurant.
+John went to the office.
+Rick went to the garden.
+Is John in the market? no
+
+John went to the bedroom.
+Mary went to the playground.
+Gertrude went to the school.
+Sam went to the market.
+Is Sam in the bathroom? no
+
+Peter went to the restaurant.
+Mary went to the library.
+Is Peter in the restaurant? yes
+
+Daniel went to the park.
+Julie went to the library.
+Is Daniel in the park? yes
+
+Frank went to the park.
+Lily went to the bedroom.
+Eve went to the studio.
+Is Eve in the studio? yes
+
+David went to the bathroom.
+Kate went to the kitchen.
+Sandra went to the office.
+Jeff went to the bedroom.
+Is Kate in the kitchen? yes
+
+Sandra went to the cellar.
+Frank went to the playground.
+Is Sandra in the cellar? yes
+
+Jeff went to the school.
+Kate went to the garden.
+Is Jeff in the playground? no
+
+Bob went to the kitchen.
+Lucy went to the kitchen.
+Mary went to the cellar.
+Is Lucy in the market? no
+
+Rick went to the park.
+Mary went to the restaurant.
+Bill went to the market.
+Frank went to the hospital.
+Is Frank in the hospital? yes
+
+Fred went to the kitchen.
+Tom went to the library.
+Is Tom in the studio? no
+
+Lily went to the park.
+Susan went to the garden.
+Is Lily in the park? yes
+
+Jeff went to the hallway.
+Frank went to the park.
+Is Frank in the school? no
+
+Kate went to the kitchen.
+Frank went to the hospital.
+Bob went to the office.
+Fred went to the garden.
+Is Fred in the garden? yes
+
+John went to the bedroom.
+Nina went to the library.
+Is John in the bedroom? yes
+
+Mary went to the library.
+Lily went to the office.
+Is Lily in the studio? no
+
+David went to the market.
+Frank went to the kitchen.
+Is David in the library? no
+
+Bill went to the school.
+Nina went to the bedroom.
+Kate went to the bathroom.
+Julie went to the park.
+Is Kate in the restaurant? no
+
+Bernhard went to the bedroom.
+Bob went to the studio.
+Mary went to the studio.
+Is Bob in the park? no
+
+Jeff went to the market.
+Frank went to the garden.
+Is Frank in the garden? yes
+
+Mary went to the playground.
+Tom went to the playground.
+Jeff went to the park.
+Lucy went to the hospital.
+Is Lucy in the hospital? yes
+
+Julie went to the bedroom.
+Tom went to the garden.
+Is Julie in the bedroom? yes
+
+Bob went to the playground.
+Frank went to the park.
+John went to the playground.
+Julie went to the market.
+Is Julie in the market? yes
+
+Sandra went to the bathroom.
+Sam went to the kitchen.
+Is Sam in the cellar? no
+
+Lily went to the hospital.
+Frank went to the park.
+Fred went to the playground.
+Bob went to the school.
+Is Fred in the playground? yes
+
+Mary went to the office.
+Bernhard went to the studio.
+Lily went to the studio.
+Is Mary in the bathroom? no
+
+David went to the restaurant.
+Peter went to the market.
+Rick went to the hallway.
+Sandra went to the garden.
+Is Peter in the cellar? no
+
+Daniel went to the bathroom.
+Nina went to the cellar.
+Is Daniel in the library? no
+
+Lily went to the bathroom.
+Mary went to the hospital.
+Is Mary in the restaurant? no
+
+Sam went to the market.
+Lily went to the hospital.
+Ann went to the market.
+Bob went to the studio.
+Is Lily in the kitchen? no
+
+Eve went to the hallway.
+Susan went to the garden.
+Is Eve in the cellar? no
+
+Rick went to the studio.
+Bob went to the hospital.
+Frank went to the cellar.
+Mary went to the studio.
+Is Bob in the hospital? yes
+
+Gertrude went to the office.
+Rick went to the library.
+Ann went to the restaurant.
+Bob went to the restaurant.
+Is Rick in the office? no
+
+Frank went to the kitchen.
+Susan went to the cellar.
+Is Frank in the bedroom? no
+
+Tom went to the cellar.
+Lily went to the playground.
+Nina went to the playground.
+Alice went to the bathroom.
+Is Alice in the bathroom? yes
+
+David went to the kitchen.
+Eve went to the studio.
+Tom went to the library.
+Sam went to the park.
+Is Tom in the library? yes
+
+Tom went to the kitchen.
+Sandra went to the library.
+Julie went to the kitchen.
+Sam went to the hallway.
+Is Sandra in the park? no
+
+John went to the restaurant.
+David went to the bedroom.
+Bill went to the market.
+Gertrude went to the studio.
+Is David in the bedroom? yes
+
+Gertrude went to the cellar.
+Eve went to the office.
+Frank went to the hallway.
+Is Frank in the cellar? no
+
+John went to the cellar.
+Eve went to the hallway.
+Susan went to the cellar.
+Is Susan in the hallway? no
+
+Nina went to the hospital.
+Kate went to the hallway.
+Jeff went to the studio.
+Is Jeff in the office? no
+
+Daniel went to the bathroom.
+Susan went to the studio.
+Lucy went to the bedroom.
+Nina went to the office.
+Is Lucy in the hospital? no
+
+David went to the hospital.
+John went to the park.
+Ann went to the kitchen.
+Is Ann in the kitchen? yes
+
+Tom went to the library.
+Nina went to the studio.
+Julie went to the office.
+Fred went to the cellar.
+Is Julie in the office? yes
+
+Jeff went to the hallway.
+Bob went to the park.
+Peter went to the garden.
+Daniel went to the restaurant.
+Is Jeff in the hallway? yes
+
+Mary went to the bathroom.
+Bernhard went to the park.
+Bob went to the playground.
+Is Bob in the playground? yes
+
+Lucy went to the playground.
+Bernhard went to the bedroom.
+Is Lucy in the library? no
+
+Frank went to the hallway.
+Kate went to the market.
+Eve went to the restaurant.
+Bernhard went to the park.
+Is Kate in the playground? no
+
+Alice went to the hallway.
+Jeff went to the library.
+David went to the studio.
+Is David in the cellar? no
+
+Lily went to the park.
+Tom went to the restaurant.
+Is Tom in the restaurant? yes
+
+Sandra went to the cellar.
+Kate went to the bathroom.
+Is Sandra in the cellar? yes
+
+Julie went to the office.
+Tom went to the market.
+Is Julie in the office? yes
+
+Sandra went to the playground.
+Nina went to the library.
+Is Sandra in the playground? yes
+
+Gertrude went to the bedroom.
+Peter went to the playground.
+Is Gertrude in the school? no
+
+Bernhard went to the hospital.
+Tom went to the park.
+Eve went to the garden.
+Is Bernhard in the hospital? yes
+
+Rick went to the playground.
+Bill went to the office.
+Susan went to the hospital.
+Alice went to the playground.
+Is Bill in the cellar? no
+
+Jeff went to the hallway.
+John went to the studio.
+Daniel went to the garden.
+Is John in the playground? no
+
+Sam went to the park.
+Jeff went to the garden.
+Nina went to the cellar.
+Is Sam in the park? yes
+
+Mary went to the cellar.
+Lily went to the school.
+Is Mary in the school? no
+
+Lily went to the studio.
+Tom went to the hallway.
+Mary went to the school.
+John went to the studio.
+Is John in the park? no
+
+Julie went to the school.
+Frank went to the restaurant.
+Bill went to the bathroom.
+Is Bill in the library? no
+
+Julie went to the bedroom.
+Gertrude went to the studio.
+Frank went to the school.
+Is Frank in the kitchen? no
+
+Eve went to the cellar.
+Bob went to the garden.
+Alice went to the hospital.
+Lucy went to the playground.
+Is Lucy in the playground? yes
+
+Bernhard went to the playground.
+Sam went to the market.
+David went to the kitchen.
+Alice went to the bathroom.
+Is Alice in the studio? no
+
+Eve went to the bedroom.
+Frank went to the hospital.
+Bob went to the garden.
+Peter went to the cellar.
+Is Peter in the bedroom? no
+
+Lily went to the park.
+Bob went to the hallway.
+Alice went to the garden.
+Is Alice in the garden? yes
+
+Gertrude went to the restaurant.
+Rick went to the market.
+Peter went to the hallway.
+Is Rick in the hallway? no
+
+Mary went to the kitchen.
+Nina went to the office.
+Tom went to the office.
+Ann went to the library.
+Is Nina in the studio? no
+
+David went to the school.
+Jeff went to the office.
+Lucy went to the hallway.
+Is Jeff in the garden? no
+
+Fred went to the park.
+Lily went to the bedroom.
+Is Fred in the park? yes
+
+Bill went to the office.
+Jeff went to the hallway.
+Is Bill in the market? no
+
+Frank went to the cellar.
+Peter went to the kitchen.
+Bill went to the school.
+Sam went to the studio.
+Is Sam in the bathroom? no
+
+Tom went to the hallway.
+Lucy went to the bathroom.
+Bill went to the garden.
+Bernhard went to the playground.
+Is Bernhard in the bedroom? no
+
+Lucy went to the hospital.
+Sandra went to the studio.
+Is Sandra in the hospital? no
+
+Tom went to the studio.
+Bill went to the playground.
+Julie went to the park.
+Daniel went to the playground.
+Is Daniel in the market? no
+
+Mary went to the bedroom.
+Tom went to the office.
+Is Mary in the cellar? no
+
+Julie went to the restaurant.
+Gertrude went to the park.
+Nina went to the bedroom.
+John went to the garden.
+Is John in the cellar? no
+
+Susan went to the office.
+David went to the market.
+Is Susan in the cellar? no
+
+Gertrude went to the bathroom.
+Bill went to the playground.
+Kate went to the garden.
+Is Gertrude in the kitchen? no
+
+Daniel went to the office.
+Ann went to the park.
+Lily went to the market.
+Susan went to the restaurant.
+Is Lily in the market? yes
+
+John went to the market.
+Kate went to the kitchen.
+David went to the library.
+Nina went to the bedroom.
+Is Kate in the kitchen? yes
+
+Sam went to the library.
+Bernhard went to the garden.
+Tom went to the cellar.
+Is Tom in the cellar? yes
+
+Gertrude went to the bathroom.
+Julie went to the hallway.
+Is Julie in the cellar? no
+
+Julie went to the bathroom.
+Lucy went to the playground.
+Nina went to the bedroom.
+Fred went to the bathroom.
+Is Julie in the bathroom? yes
+
+Bill went to the office.
+Lucy went to the restaurant.
+Sandra went to the park.
+Is Lucy in the library? no
+
+Lily went to the cellar.
+Gertrude went to the playground.
+Is Lily in the kitchen? no
+
+Lucy went to the kitchen.
+John went to the hospital.
+Bill went to the garden.
+Is Bill in the library? no
+
+Nina went to the garden.
+Sam went to the office.
+Lucy went to the studio.
+Alice went to the bedroom.
+Is Lucy in the cellar? no
+
+Frank went to the studio.
+Julie went to the bathroom.
+Ann went to the bedroom.
+John went to the studio.
+Is John in the kitchen? no
+
+Eve went to the kitchen.
+Kate went to the hospital.
+Nina went to the school.
+Susan went to the library.
+Is Nina in the garden? no
+
+Julie went to the playground.
+Daniel went to the bedroom.
+Is Julie in the school? no
+
+Lily went to the hallway.
+Nina went to the bedroom.
+Bob went to the hallway.
+Mary went to the market.
+Is Nina in the park? no
+
+Bob went to the bathroom.
+Lily went to the office.
+Is Lily in the school? no
+
+Ann went to the hallway.
+Lily went to the restaurant.
+Lucy went to the studio.
+Bob went to the garden.
+Is Lily in the kitchen? no
+
+Peter went to the library.
+David went to the restaurant.
+Is Peter in the cellar? no
+
+Peter went to the bathroom.
+Jeff went to the market.
+Is Jeff in the bedroom? no
+
+Bill went to the studio.
+Lucy went to the kitchen.
+Is Lucy in the library? no
+
+Tom went to the hallway.
+Eve went to the kitchen.
+Lily went to the office.
+Is Eve in the kitchen? yes
+
+Alice went to the hallway.
+Tom went to the playground.
+Lily went to the market.
+Frank went to the kitchen.
+Is Frank in the kitchen? yes
+
+Fred went to the hospital.
+Bill went to the library.
+Is Fred in the hospital? yes
+
+Nina went to the kitchen.
+Rick went to the hospital.
+Is Nina in the kitchen? yes
+
+Julie went to the restaurant.
+Jeff went to the hospital.
+Gertrude went to the hallway.
+Is Julie in the bedroom? no
+
+Sandra went to the kitchen.
+Sam went to the hospital.
+Nina went to the kitchen.
+Lucy went to the hallway.
+Is Sandra in the hallway? no
+
+John went to the library.
+Gertrude went to the hallway.
+Is John in the kitchen? no
+
+Fred went to the library.
+John went to the hallway.
+Bob went to the cellar.
+Is John in the hallway? yes
+
+Peter went to the hospital.
+John went to the office.
+Bernhard went to the bedroom.
+Sam went to the hospital.
+Is Sam in the hospital? yes
+
+Kate went to the studio.
+Julie went to the park.
+Fred went to the hallway.
+Frank went to the kitchen.
+Is Kate in the hospital? no
+
+Nina went to the bathroom.
+David went to the hallway.
+Daniel went to the cellar.
+Is Daniel in the market? no
+
+Sandra went to the park.
+Nina went to the library.
+Lucy went to the office.
+Susan went to the cellar.
+Is Susan in the cellar? yes
+
+Lily went to the office.
+Frank went to the garden.
+Mary went to the hospital.
+Is Mary in the hospital? yes
+
+Fred went to the restaurant.
+Sam went to the bathroom.
+David went to the cellar.
+Is David in the hallway? no
+
+Mary went to the playground.
+Nina went to the market.
+Is Nina in the hospital? no
+
+Gertrude went to the bedroom.
+Mary went to the hallway.
+Frank went to the hallway.
+Fred went to the cellar.
+Is Frank in the hallway? yes
+
+Gertrude went to the library.
+Lily went to the hallway.
+Sam went to the bedroom.
+Lucy went to the cellar.
+Is Lily in the hallway? yes
+
+Eve went to the library.
+Bill went to the studio.
+Mary went to the park.
+Is Bill in the kitchen? no
+
+Lucy went to the hallway.
+Alice went to the playground.
+Bill went to the library.
+Is Lucy in the hallway? yes
+
+Fred went to the bedroom.
+Lily went to the restaurant.
+Mary went to the park.
+Is Lily in the restaurant? yes
+
+Julie went to the garden.
+Lucy went to the cellar.
+Mary went to the park.
+Is Julie in the bedroom? no
+
+Ann went to the cellar.
+Daniel went to the park.
+Is Ann in the cellar? yes
+
+Gertrude went to the garden.
+Julie went to the studio.
+Sandra went to the office.
+Nina went to the cellar.
+Is Nina in the cellar? yes
+
+Frank went to the cellar.
+Eve went to the hallway.
+Bob went to the school.
+Is Eve in the park? no
+
+Lily went to the kitchen.
+Gertrude went to the school.
+Is Gertrude in the bedroom? no
+
+Mary went to the hallway.
+John went to the garden.
+David went to the library.
+Is Mary in the cellar? no
+
+Jeff went to the office.
+Bill went to the garden.
+Bernhard went to the bedroom.
+Is Jeff in the office? yes
+
+Julie went to the kitchen.
+Sandra went to the restaurant.
+Bill went to the kitchen.
+Lucy went to the bedroom.
+Is Sandra in the restaurant? yes
+
+Fred went to the bathroom.
+Lily went to the studio.
+Rick went to the market.
+Is Rick in the market? yes
+
+Daniel went to the garden.
+Susan went to the studio.
+Is Daniel in the hospital? no
+
+Eve went to the school.
+Bernhard went to the school.
+Is Bernhard in the bathroom? no
+
+Frank went to the bedroom.
+Gertrude went to the school.
+Bernhard went to the playground.
+Daniel went to the kitchen.
+Is Gertrude in the school? yes

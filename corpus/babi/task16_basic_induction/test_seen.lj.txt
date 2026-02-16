@@ -1,0 +1,1107 @@
+la .pet. cu xirma .i la .pet. cu blanu
+la .frank. cu xirma .i la .frank. cu blanu
+la .deiv. cu xirma
+la .deiv. cu skari ma? blanu
+
+la .iv. cu finpe .i la .iv. cu crino
+la .an. cu finpe .i la .an. cu crino
+la .sandr. cu finpe
+la .sandr. cu skari ma? crino
+
+la .iv. cu mlatu .i la .iv. cu blanu
+la .bil. cu mlatu .i la .bil. cu blanu
+la .alis. cu mlatu .i la .alis. cu blanu
+la .fred. cu mlatu
+la .fred. cu skari ma? blanu
+
+la .iv. cu xirma .i la .iv. cu xekri
+la .deiv. cu xirma .i la .deiv. cu xekri
+la .frank. cu xirma .i la .frank. cu xekri
+la .fred. cu xirma
+la .fred. cu skari ma? xekri
+
+la .iv. cu lanme .i la .iv. cu crino
+la .an. cu lanme .i la .an. cu crino
+la .sam. cu lanme .i la .sam. cu crino
+la .pet. cu lanme
+la .pet. cu skari ma? crino
+
+la .an. cu smacu .i la .an. cu blanu
+la .bil. cu smacu .i la .bil. cu blanu
+la .iv. cu smacu .i la .iv. cu blanu
+la .bab. cu smacu
+la .bab. cu skari ma? blanu
+
+la .suz. cu mlatu .i la .suz. cu crino
+la .bil. cu mlatu .i la .bil. cu crino
+la .an. cu mlatu .i la .an. cu crino
+la .keit. cu mlatu
+la .keit. cu skari ma? crino
+
+la .bab. cu finpe .i la .bab. cu xekri
+la .maris. cu finpe .i la .maris. cu xekri
+la .bil. cu finpe
+la .bil. cu skari ma? xekri
+
+la .an. cu cinfo .i la .an. cu blabi
+la .rik. cu cinfo .i la .rik. cu blabi
+la .pet. cu cinfo
+la .pet. cu skari ma? blabi
+
+la .an. cu labno .i la .an. cu xunre
+la .lus. cu labno .i la .lus. cu xunre
+la .frank. cu labno
+la .frank. cu skari ma? xunre
+
+la .lus. cu lanme .i la .lus. cu crino
+la .iv. cu lanme .i la .iv. cu crino
+la .sandr. cu lanme .i la .sandr. cu crino
+la .ninas. cu lanme
+la .ninas. cu skari ma? crino
+
+la .sam. cu lanme .i la .sam. cu xunre
+la .tam. cu lanme .i la .tam. cu xunre
+la .fred. cu lanme
+la .fred. cu skari ma? xunre
+
+la .tam. cu labno .i la .tam. cu xunre
+la .suz. cu labno .i la .suz. cu xunre
+la .alis. cu labno
+la .alis. cu skari ma? xunre
+
+la .deiv. cu smacu .i la .deiv. cu xunre
+la .daniyl. cu smacu .i la .daniyl. cu xunre
+la .bab. cu smacu .i la .bab. cu xunre
+la .tam. cu smacu
+la .tam. cu skari ma? xunre
+
+la .alis. cu xirma .i la .alis. cu xunre
+la .pet. cu xirma .i la .pet. cu xunre
+la .deiv. cu xirma
+la .deiv. cu skari ma? xunre
+
+la .tam. cu xirma .i la .tam. cu crino
+la .sandr. cu xirma .i la .sandr. cu crino
+la .pet. cu xirma
+la .pet. cu skari ma? crino
+
+la .maris. cu cinfo .i la .maris. cu blabi
+la .frank. cu cinfo .i la .frank. cu blabi
+la .suz. cu cinfo .i la .suz. cu blabi
+la .bil. cu cinfo
+la .bil. cu skari ma? blabi
+
+la .alis. cu xirma .i la .alis. cu blanu
+la .iv. cu xirma .i la .iv. cu blanu
+la .bab. cu xirma
+la .bab. cu skari ma? blanu
+
+la .ninas. cu xirma .i la .ninas. cu xekri
+la .sandr. cu xirma .i la .sandr. cu xekri
+la .fred. cu xirma
+la .fred. cu skari ma? xekri
+
+la .bab. cu gerku .i la .bab. cu blabi
+la .deiv. cu gerku .i la .deiv. cu blabi
+la .ninas. cu gerku .i la .ninas. cu blabi
+la .iv. cu gerku
+la .iv. cu skari ma? blabi
+
+la .bil. cu labno .i la .bil. cu xunre
+la .ninas. cu labno .i la .ninas. cu xunre
+la .lus. cu labno
+la .lus. cu skari ma? xunre
+
+la .djan. cu finpe .i la .djan. cu xunre
+la .ninas. cu finpe .i la .ninas. cu xunre
+la .keit. cu finpe .i la .keit. cu xunre
+la .deiv. cu finpe
+la .deiv. cu skari ma? xunre
+
+la .daniyl. cu gerku .i la .daniyl. cu crino
+la .an. cu gerku .i la .an. cu crino
+la .bil. cu gerku
+la .bil. cu skari ma? crino
+
+la .bab. cu finpe .i la .bab. cu xekri
+la .rik. cu finpe .i la .rik. cu xekri
+la .frank. cu finpe
+la .frank. cu skari ma? xekri
+
+la .lus. cu cinfo .i la .lus. cu xunre
+la .frank. cu cinfo .i la .frank. cu xunre
+la .alis. cu cinfo .i la .alis. cu xunre
+la .keit. cu cinfo
+la .keit. cu skari ma? xunre
+
+la .maris. cu cinfo .i la .maris. cu blanu
+la .an. cu cinfo .i la .an. cu blanu
+la .iv. cu cinfo .i la .iv. cu blanu
+la .bil. cu cinfo
+la .bil. cu skari ma? blanu
+
+la .pet. cu mlatu .i la .pet. cu crino
+la .frank. cu mlatu .i la .frank. cu crino
+la .daniyl. cu mlatu
+la .daniyl. cu skari ma? crino
+
+la .suz. cu xirma .i la .suz. cu blabi
+la .tam. cu xirma .i la .tam. cu blabi
+la .lus. cu xirma .i la .lus. cu blabi
+la .bil. cu xirma
+la .bil. cu skari ma? blabi
+
+la .bab. cu gerku .i la .bab. cu blanu
+la .frank. cu gerku .i la .frank. cu blanu
+la .fred. cu gerku .i la .fred. cu blanu
+la .alis. cu gerku
+la .alis. cu skari ma? blanu
+
+la .frank. cu finpe .i la .frank. cu blanu
+la .sam. cu finpe .i la .sam. cu blanu
+la .daniyl. cu finpe .i la .daniyl. cu blanu
+la .rik. cu finpe
+la .rik. cu skari ma? blanu
+
+la .daniyl. cu finpe .i la .daniyl. cu xunre
+la .lus. cu finpe .i la .lus. cu xunre
+la .deiv. cu finpe
+la .deiv. cu skari ma? xunre
+
+la .iv. cu smacu .i la .iv. cu blanu
+la .daniyl. cu smacu .i la .daniyl. cu blanu
+la .bab. cu smacu
+la .bab. cu skari ma? blanu
+
+la .bab. cu finpe .i la .bab. cu xekri
+la .maris. cu finpe .i la .maris. cu xekri
+la .deiv. cu finpe .i la .deiv. cu xekri
+la .pet. cu finpe
+la .pet. cu skari ma? xekri
+
+la .maris. cu labno .i la .maris. cu blabi
+la .suz. cu labno .i la .suz. cu blabi
+la .an. cu labno
+la .an. cu skari ma? blabi
+
+la .suz. cu mlatu .i la .suz. cu xekri
+la .ninas. cu mlatu .i la .ninas. cu xekri
+la .bil. cu mlatu .i la .bil. cu xekri
+la .rik. cu mlatu
+la .rik. cu skari ma? xekri
+
+la .sam. cu labno .i la .sam. cu blabi
+la .ninas. cu labno .i la .ninas. cu blabi
+la .rik. cu labno .i la .rik. cu blabi
+la .an. cu labno
+la .an. cu skari ma? blabi
+
+la .deiv. cu lanme .i la .deiv. cu blabi
+la .maris. cu lanme .i la .maris. cu blabi
+la .ninas. cu lanme
+la .ninas. cu skari ma? blabi
+
+la .lus. cu mlatu .i la .lus. cu crino
+la .rik. cu mlatu .i la .rik. cu crino
+la .bab. cu mlatu .i la .bab. cu crino
+la .iv. cu mlatu
+la .iv. cu skari ma? crino
+
+la .tam. cu labno .i la .tam. cu xunre
+la .bab. cu labno .i la .bab. cu xunre
+la .fred. cu labno .i la .fred. cu xunre
+la .frank. cu labno
+la .frank. cu skari ma? xunre
+
+la .keit. cu gerku .i la .keit. cu blanu
+la .alis. cu gerku .i la .alis. cu blanu
+la .ninas. cu gerku .i la .ninas. cu blanu
+la .iv. cu gerku
+la .iv. cu skari ma? blanu
+
+la .deiv. cu lanme .i la .deiv. cu crino
+la .alis. cu lanme .i la .alis. cu crino
+la .suz. cu lanme .i la .suz. cu crino
+la .sam. cu lanme
+la .sam. cu skari ma? crino
+
+la .iv. cu cinfo .i la .iv. cu xekri
+la .frank. cu cinfo .i la .frank. cu xekri
+la .ninas. cu cinfo .i la .ninas. cu xekri
+la .sam. cu cinfo
+la .sam. cu skari ma? xekri
+
+la .lus. cu finpe .i la .lus. cu crino
+la .daniyl. cu finpe .i la .daniyl. cu crino
+la .sandr. cu finpe
+la .sandr. cu skari ma? crino
+
+la .sam. cu smacu .i la .sam. cu blanu
+la .alis. cu smacu .i la .alis. cu blanu
+la .lus. cu smacu .i la .lus. cu blanu
+la .rik. cu smacu
+la .rik. cu skari ma? blanu
+
+la .bil. cu finpe .i la .bil. cu blanu
+la .sandr. cu finpe .i la .sandr. cu blanu
+la .ninas. cu finpe
+la .ninas. cu skari ma? blanu
+
+la .suz. cu mlatu .i la .suz. cu xunre
+la .tam. cu mlatu .i la .tam. cu xunre
+la .keit. cu mlatu .i la .keit. cu xunre
+la .djan. cu mlatu
+la .djan. cu skari ma? xunre
+
+la .iv. cu cinfo .i la .iv. cu xekri
+la .maris. cu cinfo .i la .maris. cu xekri
+la .sam. cu cinfo .i la .sam. cu xekri
+la .lus. cu cinfo
+la .lus. cu skari ma? xekri
+
+la .suz. cu lanme .i la .suz. cu xekri
+la .bil. cu lanme .i la .bil. cu xekri
+la .keit. cu lanme
+la .keit. cu skari ma? xekri
+
+la .lus. cu finpe .i la .lus. cu crino
+la .alis. cu finpe .i la .alis. cu crino
+la .bil. cu finpe .i la .bil. cu crino
+la .iv. cu finpe
+la .iv. cu skari ma? crino
+
+la .sandr. cu cinfo .i la .sandr. cu xunre
+la .suz. cu cinfo .i la .suz. cu xunre
+la .tam. cu cinfo .i la .tam. cu xunre
+la .bil. cu cinfo
+la .bil. cu skari ma? xunre
+
+la .daniyl. cu smacu .i la .daniyl. cu xekri
+la .an. cu smacu .i la .an. cu xekri
+la .deiv. cu smacu .i la .deiv. cu xekri
+la .ninas. cu smacu
+la .ninas. cu skari ma? xekri
+
+la .lus. cu xirma .i la .lus. cu blanu
+la .daniyl. cu xirma .i la .daniyl. cu blanu
+la .maris. cu xirma .i la .maris. cu blanu
+la .suz. cu xirma
+la .suz. cu skari ma? blanu
+
+la .pet. cu cipni .i la .pet. cu crino
+la .lus. cu cipni .i la .lus. cu crino
+la .keit. cu cipni .i la .keit. cu crino
+la .deiv. cu cipni
+la .deiv. cu skari ma? crino
+
+la .daniyl. cu smacu .i la .daniyl. cu crino
+la .an. cu smacu .i la .an. cu crino
+la .ninas. cu smacu .i la .ninas. cu crino
+la .alis. cu smacu
+la .alis. cu skari ma? crino
+
+la .bil. cu xirma .i la .bil. cu xekri
+la .ninas. cu xirma .i la .ninas. cu xekri
+la .maris. cu xirma .i la .maris. cu xekri
+la .lus. cu xirma
+la .lus. cu skari ma? xekri
+
+la .bil. cu mlatu .i la .bil. cu xekri
+la .bab. cu mlatu .i la .bab. cu xekri
+la .ninas. cu mlatu
+la .ninas. cu skari ma? xekri
+
+la .bab. cu gerku .i la .bab. cu xekri
+la .djan. cu gerku .i la .djan. cu xekri
+la .keit. cu gerku .i la .keit. cu xekri
+la .tam. cu gerku
+la .tam. cu skari ma? xekri
+
+la .maris. cu cipni .i la .maris. cu xunre
+la .frank. cu cipni .i la .frank. cu xunre
+la .sandr. cu cipni .i la .sandr. cu xunre
+la .daniyl. cu cipni
+la .daniyl. cu skari ma? xunre
+
+la .sandr. cu cipni .i la .sandr. cu blabi
+la .pet. cu cipni .i la .pet. cu blabi
+la .bab. cu cipni
+la .bab. cu skari ma? blabi
+
+la .suz. cu xirma .i la .suz. cu blabi
+la .tam. cu xirma .i la .tam. cu blabi
+la .sam. cu xirma
+la .sam. cu skari ma? blabi
+
+la .bab. cu lanme .i la .bab. cu blanu
+la .iv. cu lanme .i la .iv. cu blanu
+la .alis. cu lanme
+la .alis. cu skari ma? blanu
+
+la .tam. cu xirma .i la .tam. cu crino
+la .sandr. cu xirma .i la .sandr. cu crino
+la .ninas. cu xirma .i la .ninas. cu crino
+la .bil. cu xirma
+la .bil. cu skari ma? crino
+
+la .bil. cu smacu .i la .bil. cu xunre
+la .suz. cu smacu .i la .suz. cu xunre
+la .frank. cu smacu .i la .frank. cu xunre
+la .alis. cu smacu
+la .alis. cu skari ma? xunre
+
+la .iv. cu mlatu .i la .iv. cu blanu
+la .sandr. cu mlatu .i la .sandr. cu blanu
+la .bab. cu mlatu
+la .bab. cu skari ma? blanu
+
+la .sam. cu cipni .i la .sam. cu crino
+la .an. cu cipni .i la .an. cu crino
+la .djan. cu cipni
+la .djan. cu skari ma? crino
+
+la .keit. cu mlatu .i la .keit. cu crino
+la .suz. cu mlatu .i la .suz. cu crino
+la .deiv. cu mlatu .i la .deiv. cu crino
+la .djan. cu mlatu
+la .djan. cu skari ma? crino
+
+la .an. cu gerku .i la .an. cu blabi
+la .rik. cu gerku .i la .rik. cu blabi
+la .bil. cu gerku .i la .bil. cu blabi
+la .daniyl. cu gerku
+la .daniyl. cu skari ma? blabi
+
+la .rik. cu finpe .i la .rik. cu xekri
+la .an. cu finpe .i la .an. cu xekri
+la .alis. cu finpe .i la .alis. cu xekri
+la .frank. cu finpe
+la .frank. cu skari ma? xekri
+
+la .fred. cu gerku .i la .fred. cu xekri
+la .an. cu gerku .i la .an. cu xekri
+la .iv. cu gerku
+la .iv. cu skari ma? xekri
+
+la .bab. cu mlatu .i la .bab. cu xekri
+la .rik. cu mlatu .i la .rik. cu xekri
+la .keit. cu mlatu
+la .keit. cu skari ma? xekri
+
+la .deiv. cu smacu .i la .deiv. cu blabi
+la .pet. cu smacu .i la .pet. cu blabi
+la .alis. cu smacu
+la .alis. cu skari ma? blabi
+
+la .ninas. cu mlatu .i la .ninas. cu crino
+la .fred. cu mlatu .i la .fred. cu crino
+la .sam. cu mlatu .i la .sam. cu crino
+la .daniyl. cu mlatu
+la .daniyl. cu skari ma? crino
+
+la .frank. cu smacu .i la .frank. cu crino
+la .alis. cu smacu .i la .alis. cu crino
+la .daniyl. cu smacu .i la .daniyl. cu crino
+la .ninas. cu smacu
+la .ninas. cu skari ma? crino
+
+la .ninas. cu mlatu .i la .ninas. cu crino
+la .deiv. cu mlatu .i la .deiv. cu crino
+la .pet. cu mlatu .i la .pet. cu crino
+la .fred. cu mlatu
+la .fred. cu skari ma? crino
+
+la .bab. cu xirma .i la .bab. cu blanu
+la .fred. cu xirma .i la .fred. cu blanu
+la .lus. cu xirma
+la .lus. cu skari ma? blanu
+
+la .suz. cu cipni .i la .suz. cu blanu
+la .iv. cu cipni .i la .iv. cu blanu
+la .daniyl. cu cipni .i la .daniyl. cu blanu
+la .ninas. cu cipni
+la .ninas. cu skari ma? blanu
+
+la .djan. cu mlatu .i la .djan. cu blanu
+la .tam. cu mlatu .i la .tam. cu blanu
+la .daniyl. cu mlatu .i la .daniyl. cu blanu
+la .bil. cu mlatu
+la .bil. cu skari ma? blanu
+
+la .djan. cu cinfo .i la .djan. cu xekri
+la .rik. cu cinfo .i la .rik. cu xekri
+la .pet. cu cinfo .i la .pet. cu xekri
+la .ninas. cu cinfo
+la .ninas. cu skari ma? xekri
+
+la .iv. cu mlatu .i la .iv. cu crino
+la .keit. cu mlatu .i la .keit. cu crino
+la .rik. cu mlatu .i la .rik. cu crino
+la .sandr. cu mlatu
+la .sandr. cu skari ma? crino
+
+la .rik. cu labno .i la .rik. cu blabi
+la .frank. cu labno .i la .frank. cu blabi
+la .maris. cu labno .i la .maris. cu blabi
+la .sam. cu labno
+la .sam. cu skari ma? blabi
+
+la .rik. cu labno .i la .rik. cu xekri
+la .sam. cu labno .i la .sam. cu xekri
+la .sandr. cu labno
+la .sandr. cu skari ma? xekri
+
+la .sam. cu smacu .i la .sam. cu xekri
+la .ninas. cu smacu .i la .ninas. cu xekri
+la .bil. cu smacu .i la .bil. cu xekri
+la .pet. cu smacu
+la .pet. cu skari ma? xekri
+
+la .alis. cu smacu .i la .alis. cu blanu
+la .sam. cu smacu .i la .sam. cu blanu
+la .bil. cu smacu
+la .bil. cu skari ma? blanu
+
+la .lus. cu smacu .i la .lus. cu xunre
+la .suz. cu smacu .i la .suz. cu xunre
+la .daniyl. cu smacu
+la .daniyl. cu skari ma? xunre
+
+la .bil. cu mlatu .i la .bil. cu crino
+la .iv. cu mlatu .i la .iv. cu crino
+la .djan. cu mlatu .i la .djan. cu crino
+la .frank. cu mlatu
+la .frank. cu skari ma? crino
+
+la .deiv. cu cipni .i la .deiv. cu crino
+la .iv. cu cipni .i la .iv. cu crino
+la .sam. cu cipni .i la .sam. cu crino
+la .frank. cu cipni
+la .frank. cu skari ma? crino
+
+la .fred. cu smacu .i la .fred. cu xunre
+la .daniyl. cu smacu .i la .daniyl. cu xunre
+la .an. cu smacu .i la .an. cu xunre
+la .rik. cu smacu
+la .rik. cu skari ma? xunre
+
+la .rik. cu labno .i la .rik. cu blanu
+la .daniyl. cu labno .i la .daniyl. cu blanu
+la .maris. cu labno
+la .maris. cu skari ma? blanu
+
+la .suz. cu smacu .i la .suz. cu xekri
+la .ninas. cu smacu .i la .ninas. cu xekri
+la .frank. cu smacu .i la .frank. cu xekri
+la .djan. cu smacu
+la .djan. cu skari ma? xekri
+
+la .sandr. cu gerku .i la .sandr. cu blabi
+la .alis. cu gerku .i la .alis. cu blabi
+la .keit. cu gerku
+la .keit. cu skari ma? blabi
+
+la .an. cu mlatu .i la .an. cu crino
+la .bab. cu mlatu .i la .bab. cu crino
+la .sam. cu mlatu
+la .sam. cu skari ma? crino
+
+la .keit. cu gerku .i la .keit. cu xekri
+la .bil. cu gerku .i la .bil. cu xekri
+la .an. cu gerku
+la .an. cu skari ma? xekri
+
+la .sandr. cu gerku .i la .sandr. cu xunre
+la .djan. cu gerku .i la .djan. cu xunre
+la .suz. cu gerku
+la .suz. cu skari ma? xunre
+
+la .suz. cu mlatu .i la .suz. cu xekri
+la .rik. cu mlatu .i la .rik. cu xekri
+la .maris. cu mlatu .i la .maris. cu xekri
+la .tam. cu mlatu
+la .tam. cu skari ma? xekri
+
+la .ninas. cu cipni .i la .ninas. cu xunre
+la .iv. cu cipni .i la .iv. cu xunre
+la .daniyl. cu cipni .i la .daniyl. cu xunre
+la .sandr. cu cipni
+la .sandr. cu skari ma? xunre
+
+la .alis. cu cinfo .i la .alis. cu crino
+la .sam. cu cinfo .i la .sam. cu crino
+la .bil. cu cinfo .i la .bil. cu crino
+la .lus. cu cinfo
+la .lus. cu skari ma? crino
+
+la .pet. cu gerku .i la .pet. cu blabi
+la .daniyl. cu gerku .i la .daniyl. cu blabi
+la .frank. cu gerku
+la .frank. cu skari ma? blabi
+
+la .suz. cu finpe .i la .suz. cu blanu
+la .tam. cu finpe .i la .tam. cu blanu
+la .iv. cu finpe .i la .iv. cu blanu
+la .daniyl. cu finpe
+la .daniyl. cu skari ma? blanu
+
+la .pet. cu gerku .i la .pet. cu blanu
+la .bil. cu gerku .i la .bil. cu blanu
+la .daniyl. cu gerku
+la .daniyl. cu skari ma? blanu
+
+la .ninas. cu cinfo .i la .ninas. cu xekri
+la .bab. cu cinfo .i la .bab. cu xekri
+la .sam. cu cinfo .i la .sam. cu xekri
+la .pet. cu cinfo
+la .pet. cu skari ma? xekri
+
+la .bab. cu cinfo .i la .bab. cu xunre
+la .bil. cu cinfo .i la .bil. cu xunre
+la .alis. cu cinfo .i la .alis. cu xunre
+la .deiv. cu cinfo
+la .deiv. cu skari ma? xunre
+
+la .daniyl. cu smacu .i la .daniyl. cu blanu
+la .tam. cu smacu .i la .tam. cu blanu
+la .djan. cu smacu .i la .djan. cu blanu
+la .frank. cu smacu
+la .frank. cu skari ma? blanu
+
+la .djan. cu smacu .i la .djan. cu xekri
+la .keit. cu smacu .i la .keit. cu xekri
+la .deiv. cu smacu .i la .deiv. cu xekri
+la .suz. cu smacu
+la .suz. cu skari ma? xekri
+
+la .frank. cu smacu .i la .frank. cu blanu
+la .an. cu smacu .i la .an. cu blanu
+la .alis. cu smacu .i la .alis. cu blanu
+la .suz. cu smacu
+la .suz. cu skari ma? blanu
+
+la .ninas. cu mlatu .i la .ninas. cu blabi
+la .alis. cu mlatu .i la .alis. cu blabi
+la .tam. cu mlatu .i la .tam. cu blabi
+la .bab. cu mlatu
+la .bab. cu skari ma? blabi
+
+la .ninas. cu xirma .i la .ninas. cu crino
+la .rik. cu xirma .i la .rik. cu crino
+la .tam. cu xirma .i la .tam. cu crino
+la .sam. cu xirma
+la .sam. cu skari ma? crino
+
+la .djan. cu lanme .i la .djan. cu crino
+la .frank. cu lanme .i la .frank. cu crino
+la .lus. cu lanme .i la .lus. cu crino
+la .maris. cu lanme
+la .maris. cu skari ma? crino
+
+la .rik. cu finpe .i la .rik. cu xunre
+la .keit. cu finpe .i la .keit. cu xunre
+la .djan. cu finpe .i la .djan. cu xunre
+la .bil. cu finpe
+la .bil. cu skari ma? xunre
+
+la .keit. cu xirma .i la .keit. cu xekri
+la .bil. cu xirma .i la .bil. cu xekri
+la .fred. cu xirma
+la .fred. cu skari ma? xekri
+
+la .ninas. cu gerku .i la .ninas. cu xunre
+la .bil. cu gerku .i la .bil. cu xunre
+la .djan. cu gerku
+la .djan. cu skari ma? xunre
+
+la .alis. cu cipni .i la .alis. cu xunre
+la .suz. cu cipni .i la .suz. cu xunre
+la .lus. cu cipni
+la .lus. cu skari ma? xunre
+
+la .djan. cu smacu .i la .djan. cu xekri
+la .fred. cu smacu .i la .fred. cu xekri
+la .frank. cu smacu .i la .frank. cu xekri
+la .sandr. cu smacu
+la .sandr. cu skari ma? xekri
+
+la .keit. cu cinfo .i la .keit. cu crino
+la .iv. cu cinfo .i la .iv. cu crino
+la .suz. cu cinfo .i la .suz. cu crino
+la .lus. cu cinfo
+la .lus. cu skari ma? crino
+
+la .djan. cu finpe .i la .djan. cu blanu
+la .fred. cu finpe .i la .fred. cu blanu
+la .pet. cu finpe .i la .pet. cu blanu
+la .frank. cu finpe
+la .frank. cu skari ma? blanu
+
+la .sam. cu xirma .i la .sam. cu xunre
+la .suz. cu xirma .i la .suz. cu xunre
+la .alis. cu xirma .i la .alis. cu xunre
+la .djan. cu xirma
+la .djan. cu skari ma? xunre
+
+la .maris. cu cinfo .i la .maris. cu blanu
+la .frank. cu cinfo .i la .frank. cu blanu
+la .lus. cu cinfo .i la .lus. cu blanu
+la .bab. cu cinfo
+la .bab. cu skari ma? blanu
+
+la .pet. cu cipni .i la .pet. cu crino
+la .alis. cu cipni .i la .alis. cu crino
+la .deiv. cu cipni
+la .deiv. cu skari ma? crino
+
+la .an. cu smacu .i la .an. cu xunre
+la .daniyl. cu smacu .i la .daniyl. cu xunre
+la .ninas. cu smacu .i la .ninas. cu xunre
+la .iv. cu smacu
+la .iv. cu skari ma? xunre
+
+la .alis. cu xirma .i la .alis. cu xekri
+la .deiv. cu xirma .i la .deiv. cu xekri
+la .pet. cu xirma .i la .pet. cu xekri
+la .djan. cu xirma
+la .djan. cu skari ma? xekri
+
+la .fred. cu cinfo .i la .fred. cu blabi
+la .daniyl. cu cinfo .i la .daniyl. cu blabi
+la .alis. cu cinfo .i la .alis. cu blabi
+la .keit. cu cinfo
+la .keit. cu skari ma? blabi
+
+la .deiv. cu lanme .i la .deiv. cu xunre
+la .sandr. cu lanme .i la .sandr. cu xunre
+la .daniyl. cu lanme .i la .daniyl. cu xunre
+la .suz. cu lanme
+la .suz. cu skari ma? xunre
+
+la .bil. cu labno .i la .bil. cu blanu
+la .djan. cu labno .i la .djan. cu blanu
+la .frank. cu labno .i la .frank. cu blanu
+la .rik. cu labno
+la .rik. cu skari ma? blanu
+
+la .an. cu smacu .i la .an. cu xekri
+la .keit. cu smacu .i la .keit. cu xekri
+la .maris. cu smacu .i la .maris. cu xekri
+la .bab. cu smacu
+la .bab. cu skari ma? xekri
+
+la .lus. cu smacu .i la .lus. cu blabi
+la .sandr. cu smacu .i la .sandr. cu blabi
+la .alis. cu smacu
+la .alis. cu skari ma? blabi
+
+la .keit. cu cinfo .i la .keit. cu blanu
+la .frank. cu cinfo .i la .frank. cu blanu
+la .sandr. cu cinfo
+la .sandr. cu skari ma? blanu
+
+la .bil. cu smacu .i la .bil. cu xekri
+la .lus. cu smacu .i la .lus. cu xekri
+la .djan. cu smacu .i la .djan. cu xekri
+la .pet. cu smacu
+la .pet. cu skari ma? xekri
+
+la .alis. cu smacu .i la .alis. cu xekri
+la .deiv. cu smacu .i la .deiv. cu xekri
+la .sam. cu smacu .i la .sam. cu xekri
+la .daniyl. cu smacu
+la .daniyl. cu skari ma? xekri
+
+la .bab. cu labno .i la .bab. cu blabi
+la .djan. cu labno .i la .djan. cu blabi
+la .rik. cu labno .i la .rik. cu blabi
+la .sam. cu labno
+la .sam. cu skari ma? blabi
+
+la .sam. cu cipni .i la .sam. cu crino
+la .bil. cu cipni .i la .bil. cu crino
+la .keit. cu cipni
+la .keit. cu skari ma? crino
+
+la .djan. cu smacu .i la .djan. cu xekri
+la .bil. cu smacu .i la .bil. cu xekri
+la .suz. cu smacu
+la .suz. cu skari ma? xekri
+
+la .fred. cu lanme .i la .fred. cu blanu
+la .suz. cu lanme .i la .suz. cu blanu
+la .bil. cu lanme
+la .bil. cu skari ma? blanu
+
+la .daniyl. cu cipni .i la .daniyl. cu blabi
+la .ninas. cu cipni .i la .ninas. cu blabi
+la .keit. cu cipni .i la .keit. cu blabi
+la .pet. cu cipni
+la .pet. cu skari ma? blabi
+
+la .lus. cu cipni .i la .lus. cu blabi
+la .deiv. cu cipni .i la .deiv. cu blabi
+la .alis. cu cipni
+la .alis. cu skari ma? blabi
+
+la .an. cu cinfo .i la .an. cu xekri
+la .maris. cu cinfo .i la .maris. cu xekri
+la .keit. cu cinfo
+la .keit. cu skari ma? xekri
+
+la .pet. cu cinfo .i la .pet. cu xunre
+la .maris. cu cinfo .i la .maris. cu xunre
+la .sam. cu cinfo
+la .sam. cu skari ma? xunre
+
+la .daniyl. cu cipni .i la .daniyl. cu xunre
+la .lus. cu cipni .i la .lus. cu xunre
+la .fred. cu cipni
+la .fred. cu skari ma? xunre
+
+la .sandr. cu finpe .i la .sandr. cu xunre
+la .djan. cu finpe .i la .djan. cu xunre
+la .rik. cu finpe
+la .rik. cu skari ma? xunre
+
+la .deiv. cu labno .i la .deiv. cu xunre
+la .iv. cu labno .i la .iv. cu xunre
+la .daniyl. cu labno
+la .daniyl. cu skari ma? xunre
+
+la .sandr. cu labno .i la .sandr. cu crino
+la .daniyl. cu labno .i la .daniyl. cu crino
+la .frank. cu labno
+la .frank. cu skari ma? crino
+
+la .ninas. cu xirma .i la .ninas. cu xunre
+la .djan. cu xirma .i la .djan. cu xunre
+la .deiv. cu xirma
+la .deiv. cu skari ma? xunre
+
+la .bab. cu finpe .i la .bab. cu blanu
+la .sam. cu finpe .i la .sam. cu blanu
+la .tam. cu finpe
+la .tam. cu skari ma? blanu
+
+la .alis. cu mlatu .i la .alis. cu xekri
+la .keit. cu mlatu .i la .keit. cu xekri
+la .daniyl. cu mlatu
+la .daniyl. cu skari ma? xekri
+
+la .tam. cu mlatu .i la .tam. cu xunre
+la .deiv. cu mlatu .i la .deiv. cu xunre
+la .an. cu mlatu .i la .an. cu xunre
+la .bil. cu mlatu
+la .bil. cu skari ma? xunre
+
+la .lus. cu mlatu .i la .lus. cu xunre
+la .deiv. cu mlatu .i la .deiv. cu xunre
+la .fred. cu mlatu
+la .fred. cu skari ma? xunre
+
+la .rik. cu smacu .i la .rik. cu blabi
+la .djan. cu smacu .i la .djan. cu blabi
+la .sam. cu smacu
+la .sam. cu skari ma? blabi
+
+la .deiv. cu finpe .i la .deiv. cu blabi
+la .ninas. cu finpe .i la .ninas. cu blabi
+la .sandr. cu finpe
+la .sandr. cu skari ma? blabi
+
+la .pet. cu cipni .i la .pet. cu xekri
+la .sandr. cu cipni .i la .sandr. cu xekri
+la .rik. cu cipni .i la .rik. cu xekri
+la .keit. cu cipni
+la .keit. cu skari ma? xekri
+
+la .deiv. cu cipni .i la .deiv. cu blabi
+la .iv. cu cipni .i la .iv. cu blabi
+la .ninas. cu cipni
+la .ninas. cu skari ma? blabi
+
+la .suz. cu finpe .i la .suz. cu xunre
+la .frank. cu finpe .i la .frank. cu xunre
+la .ninas. cu finpe
+la .ninas. cu skari ma? xunre
+
+la .lus. cu gerku .i la .lus. cu blabi
+la .sandr. cu gerku .i la .sandr. cu blabi
+la .maris. cu gerku
+la .maris. cu skari ma? blabi
+
+la .rik. cu labno .i la .rik. cu xunre
+la .maris. cu labno .i la .maris. cu xunre
+la .frank. cu labno
+la .frank. cu skari ma? xunre
+
+la .lus. cu smacu .i la .lus. cu xekri
+la .bil. cu smacu .i la .bil. cu xekri
+la .fred. cu smacu .i la .fred. cu xekri
+la .alis. cu smacu
+la .alis. cu skari ma? xekri
+
+la .iv. cu cipni .i la .iv. cu blanu
+la .sam. cu cipni .i la .sam. cu blanu
+la .sandr. cu cipni .i la .sandr. cu blanu
+la .lus. cu cipni
+la .lus. cu skari ma? blanu
+
+la .keit. cu lanme .i la .keit. cu xunre
+la .lus. cu lanme .i la .lus. cu xunre
+la .fred. cu lanme .i la .fred. cu xunre
+la .ninas. cu lanme
+la .ninas. cu skari ma? xunre
+
+la .fred. cu cipni .i la .fred. cu xekri
+la .bil. cu cipni .i la .bil. cu xekri
+la .keit. cu cipni
+la .keit. cu skari ma? xekri
+
+la .fred. cu mlatu .i la .fred. cu blabi
+la .ninas. cu mlatu .i la .ninas. cu blabi
+la .alis. cu mlatu .i la .alis. cu blabi
+la .sam. cu mlatu
+la .sam. cu skari ma? blabi
+
+la .maris. cu xirma .i la .maris. cu blanu
+la .deiv. cu xirma .i la .deiv. cu blanu
+la .tam. cu xirma
+la .tam. cu skari ma? blanu
+
+la .rik. cu cinfo .i la .rik. cu xunre
+la .bab. cu cinfo .i la .bab. cu xunre
+la .tam. cu cinfo
+la .tam. cu skari ma? xunre
+
+la .tam. cu finpe .i la .tam. cu xekri
+la .maris. cu finpe .i la .maris. cu xekri
+la .ninas. cu finpe .i la .ninas. cu xekri
+la .bab. cu finpe
+la .bab. cu skari ma? xekri
+
+la .tam. cu lanme .i la .tam. cu xunre
+la .an. cu lanme .i la .an. cu xunre
+la .djan. cu lanme
+la .djan. cu skari ma? xunre
+
+la .bil. cu cinfo .i la .bil. cu xekri
+la .pet. cu cinfo .i la .pet. cu xekri
+la .bab. cu cinfo
+la .bab. cu skari ma? xekri
+
+la .tam. cu cipni .i la .tam. cu blabi
+la .ninas. cu cipni .i la .ninas. cu blabi
+la .sam. cu cipni .i la .sam. cu blabi
+la .frank. cu cipni
+la .frank. cu skari ma? blabi
+
+la .maris. cu mlatu .i la .maris. cu xunre
+la .rik. cu mlatu .i la .rik. cu xunre
+la .suz. cu mlatu .i la .suz. cu xunre
+la .ninas. cu mlatu
+la .ninas. cu skari ma? xunre
+
+la .bab. cu lanme .i la .bab. cu xekri
+la .sandr. cu lanme .i la .sandr. cu xekri
+la .pet. cu lanme
+la .pet. cu skari ma? xekri
+
+la .frank. cu mlatu .i la .frank. cu blanu
+la .keit. cu mlatu .i la .keit. cu blanu
+la .daniyl. cu mlatu
+la .daniyl. cu skari ma? blanu
+
+la .lus. cu cipni .i la .lus. cu xekri
+la .bil. cu cipni .i la .bil. cu xekri
+la .keit. cu cipni
+la .keit. cu skari ma? xekri
+
+la .sam. cu gerku .i la .sam. cu blabi
+la .fred. cu gerku .i la .fred. cu blabi
+la .alis. cu gerku .i la .alis. cu blabi
+la .daniyl. cu gerku
+la .daniyl. cu skari ma? blabi
+
+la .tam. cu finpe .i la .tam. cu xunre
+la .ninas. cu finpe .i la .ninas. cu xunre
+la .frank. cu finpe .i la .frank. cu xunre
+la .pet. cu finpe
+la .pet. cu skari ma? xunre
+
+la .suz. cu xirma .i la .suz. cu xekri
+la .lus. cu xirma .i la .lus. cu xekri
+la .daniyl. cu xirma .i la .daniyl. cu xekri
+la .pet. cu xirma
+la .pet. cu skari ma? xekri
+
+la .maris. cu xirma .i la .maris. cu xekri
+la .lus. cu xirma .i la .lus. cu xekri
+la .pet. cu xirma
+la .pet. cu skari ma? xekri
+
+la .keit. cu finpe .i la .keit. cu xekri
+la .pet. cu finpe .i la .pet. cu xekri
+la .frank. cu finpe .i la .frank. cu xekri
+la .bil. cu finpe
+la .bil. cu skari ma? xekri
+
+la .frank. cu cinfo .i la .frank. cu xunre
+la .pet. cu cinfo .i la .pet. cu xunre
+la .maris. cu cinfo
+la .maris. cu skari ma? xunre
+
+la .fred. cu xirma .i la .fred. cu crino
+la .suz. cu xirma .i la .suz. cu crino
+la .iv. cu xirma .i la .iv. cu crino
+la .ninas. cu xirma
+la .ninas. cu skari ma? crino
+
+la .daniyl. cu cinfo .i la .daniyl. cu xekri
+la .tam. cu cinfo .i la .tam. cu xekri
+la .sam. cu cinfo
+la .sam. cu skari ma? xekri
+
+la .maris. cu gerku .i la .maris. cu blanu
+la .pet. cu gerku .i la .pet. cu blanu
+la .bil. cu gerku .i la .bil. cu blanu
+la .sam. cu gerku
+la .sam. cu skari ma? blanu
+
+la .suz. cu labno .i la .suz. cu xekri
+la .sam. cu labno .i la .sam. cu xekri
+la .bil. cu labno
+la .bil. cu skari ma? xekri
+
+la .alis. cu xirma .i la .alis. cu blabi
+la .djan. cu xirma .i la .djan. cu blabi
+la .keit. cu xirma .i la .keit. cu blabi
+la .suz. cu xirma
+la .suz. cu skari ma? blabi
+
+la .djan. cu finpe .i la .djan. cu xunre
+la .pet. cu finpe .i la .pet. cu xunre
+la .deiv. cu finpe
+la .deiv. cu skari ma? xunre
+
+la .maris. cu labno .i la .maris. cu xunre
+la .pet. cu labno .i la .pet. cu xunre
+la .bil. cu labno .i la .bil. cu xunre
+la .lus. cu labno
+la .lus. cu skari ma? xunre
+
+la .fred. cu labno .i la .fred. cu crino
+la .tam. cu labno .i la .tam. cu crino
+la .deiv. cu labno
+la .deiv. cu skari ma? crino
+
+la .alis. cu finpe .i la .alis. cu xunre
+la .iv. cu finpe .i la .iv. cu xunre
+la .bab. cu finpe .i la .bab. cu xunre
+la .deiv. cu finpe
+la .deiv. cu skari ma? xunre
+
+la .djan. cu cinfo .i la .djan. cu xekri
+la .sandr. cu cinfo .i la .sandr. cu xekri
+la .bil. cu cinfo
+la .bil. cu skari ma? xekri
+
+la .an. cu labno .i la .an. cu xekri
+la .sandr. cu labno .i la .sandr. cu xekri
+la .deiv. cu labno
+la .deiv. cu skari ma? xekri
+
+la .bab. cu cipni .i la .bab. cu blanu
+la .lus. cu cipni .i la .lus. cu blanu
+la .djan. cu cipni .i la .djan. cu blanu
+la .daniyl. cu cipni
+la .daniyl. cu skari ma? blanu
+
+la .ninas. cu xirma .i la .ninas. cu xekri
+la .alis. cu xirma .i la .alis. cu xekri
+la .tam. cu xirma .i la .tam. cu xekri
+la .suz. cu xirma
+la .suz. cu skari ma? xekri
+
+la .bil. cu gerku .i la .bil. cu xunre
+la .bab. cu gerku .i la .bab. cu xunre
+la .keit. cu gerku .i la .keit. cu xunre
+la .alis. cu gerku
+la .alis. cu skari ma? xunre
+
+la .fred. cu gerku .i la .fred. cu crino
+la .iv. cu gerku .i la .iv. cu crino
+la .pet. cu gerku
+la .pet. cu skari ma? crino
+
+la .rik. cu gerku .i la .rik. cu xunre
+la .an. cu gerku .i la .an. cu xunre
+la .deiv. cu gerku .i la .deiv. cu xunre
+la .tam. cu gerku
+la .tam. cu skari ma? xunre
+
+la .rik. cu cipni .i la .rik. cu crino
+la .sandr. cu cipni .i la .sandr. cu crino
+la .djan. cu cipni
+la .djan. cu skari ma? crino
+
+la .pet. cu cinfo .i la .pet. cu blanu
+la .bil. cu cinfo .i la .bil. cu blanu
+la .daniyl. cu cinfo
+la .daniyl. cu skari ma? blanu
+
+la .deiv. cu finpe .i la .deiv. cu blanu
+la .fred. cu finpe .i la .fred. cu blanu
+la .alis. cu finpe
+la .alis. cu skari ma? blanu
+
+la .iv. cu lanme .i la .iv. cu blabi
+la .fred. cu lanme .i la .fred. cu blabi
+la .an. cu lanme
+la .an. cu skari ma? blabi
+
+la .keit. cu mlatu .i la .keit. cu xekri
+la .frank. cu mlatu .i la .frank. cu xekri
+la .pet. cu mlatu
+la .pet. cu skari ma? xekri
+
+la .tam. cu mlatu .i la .tam. cu xekri
+la .sam. cu mlatu .i la .sam. cu xekri
+la .alis. cu mlatu .i la .alis. cu xekri
+la .bil. cu mlatu
+la .bil. cu skari ma? xekri
+
+la .bab. cu gerku .i la .bab. cu blanu
+la .djan. cu gerku .i la .djan. cu blanu
+la .tam. cu gerku
+la .tam. cu skari ma? blanu
+
+la .suz. cu lanme .i la .suz. cu blanu
+la .keit. cu lanme .i la .keit. cu blanu
+la .daniyl. cu lanme .i la .daniyl. cu blanu
+la .sam. cu lanme
+la .sam. cu skari ma? blanu
+
+la .keit. cu lanme .i la .keit. cu blabi
+la .djan. cu lanme .i la .djan. cu blabi
+la .frank. cu lanme .i la .frank. cu blabi
+la .suz. cu lanme
+la .suz. cu skari ma? blabi
+
+la .fred. cu smacu .i la .fred. cu crino
+la .daniyl. cu smacu .i la .daniyl. cu crino
+la .bab. cu smacu
+la .bab. cu skari ma? crino
+
+la .ninas. cu cinfo .i la .ninas. cu blabi
+la .alis. cu cinfo .i la .alis. cu blabi
+la .pet. cu cinfo .i la .pet. cu blabi
+la .lus. cu cinfo
+la .lus. cu skari ma? blabi
+
+la .daniyl. cu gerku .i la .daniyl. cu xunre
+la .keit. cu gerku .i la .keit. cu xunre
+la .deiv. cu gerku .i la .deiv. cu xunre
+la .sam. cu gerku
+la .sam. cu skari ma? xunre

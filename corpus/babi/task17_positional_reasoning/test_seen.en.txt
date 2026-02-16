@@ -1,0 +1,799 @@
+The red square is above the blue square.
+The blue square is above the white circle.
+Is the red square above the white circle? yes
+
+The black triangle is to the right of the blue square.
+The blue square is to the right of the red square.
+Is the black triangle to the right of the red square? yes
+
+The green square is above the black circle.
+The black circle is above the red circle.
+Is the red circle above the green square? no
+
+The red triangle is above the blue triangle.
+The blue triangle is above the white circle.
+Is the red triangle above the white circle? yes
+
+The green triangle is to the right of the black circle.
+The black circle is to the right of the white triangle.
+Is the green triangle to the right of the white triangle? yes
+
+The green triangle is above the white circle.
+The white circle is above the red square.
+Is the green triangle above the white circle? yes
+
+The red square is above the black square.
+The black square is above the green square.
+Is the green square above the red square? no
+
+The blue square is to the right of the green triangle.
+The green triangle is to the right of the black circle.
+Is the blue square to the right of the black circle? yes
+
+The blue triangle is above the red triangle.
+The red triangle is above the green circle.
+Is the green circle above the blue triangle? no
+
+The white square is above the red circle.
+The red circle is above the blue square.
+Is the blue square above the white square? no
+
+The white circle is above the black circle.
+The black circle is above the blue circle.
+Is the white circle above the black circle? yes
+
+The white circle is above the red square.
+The red square is above the blue circle.
+Is the blue circle above the white circle? no
+
+The black square is above the green circle.
+The green circle is above the red triangle.
+Is the black square above the red triangle? yes
+
+The red circle is to the right of the blue square.
+The blue square is to the right of the black triangle.
+Is the red circle to the right of the black triangle? yes
+
+The white triangle is above the red square.
+The red square is above the green square.
+Is the white triangle above the red square? yes
+
+The white square is to the right of the blue square.
+The blue square is to the right of the green circle.
+Is the green circle to the right of the white square? no
+
+The black square is above the blue square.
+The blue square is above the red triangle.
+Is the red triangle above the black square? no
+
+The white circle is to the right of the blue square.
+The blue square is to the right of the green triangle.
+Is the green triangle to the right of the white circle? no
+
+The green triangle is above the blue triangle.
+The blue triangle is above the white triangle.
+Is the white triangle above the green triangle? no
+
+The blue square is to the right of the red square.
+The red square is to the right of the black triangle.
+Is the black triangle to the right of the blue square? no
+
+The black square is to the right of the red circle.
+The red circle is to the right of the blue square.
+Is the blue square to the right of the black square? no
+
+The black circle is to the right of the blue circle.
+The blue circle is to the right of the red square.
+Is the red square to the right of the black circle? no
+
+The green square is to the right of the red square.
+The red square is to the right of the white triangle.
+Is the green square to the right of the red square? yes
+
+The blue circle is above the green circle.
+The green circle is above the white circle.
+Is the blue circle above the green circle? yes
+
+The red square is above the black square.
+The black square is above the green square.
+Is the red square above the green square? yes
+
+The green triangle is above the white circle.
+The white circle is above the blue circle.
+Is the green triangle above the white circle? yes
+
+The white square is to the right of the red triangle.
+The red triangle is to the right of the black triangle.
+Is the white square to the right of the black triangle? yes
+
+The white square is above the black circle.
+The black circle is above the blue square.
+Is the white square above the blue square? yes
+
+The blue square is above the white triangle.
+The white triangle is above the red square.
+Is the red square above the blue square? no
+
+The white circle is above the green square.
+The green square is above the red triangle.
+Is the white circle above the red triangle? yes
+
+The green circle is to the right of the blue square.
+The blue square is to the right of the black triangle.
+Is the black triangle to the right of the green circle? no
+
+The blue circle is to the right of the white circle.
+The white circle is to the right of the black square.
+Is the blue circle to the right of the black square? yes
+
+The blue circle is above the black circle.
+The black circle is above the green square.
+Is the blue circle above the black circle? yes
+
+The green circle is to the right of the red circle.
+The red circle is to the right of the white circle.
+Is the white circle to the right of the green circle? no
+
+The green circle is above the red triangle.
+The red triangle is above the blue square.
+Is the green circle above the red triangle? yes
+
+The black circle is above the green circle.
+The green circle is above the blue square.
+Is the blue square above the black circle? no
+
+The red triangle is above the black circle.
+The black circle is above the white triangle.
+Is the red triangle above the white triangle? yes
+
+The black circle is to the right of the blue square.
+The blue square is to the right of the red triangle.
+Is the black circle to the right of the blue square? yes
+
+The blue triangle is above the black circle.
+The black circle is above the red square.
+Is the blue triangle above the black circle? yes
+
+The green circle is above the blue square.
+The blue square is above the white circle.
+Is the green circle above the blue square? yes
+
+The red circle is to the right of the black square.
+The black square is to the right of the blue circle.
+Is the red circle to the right of the black square? yes
+
+The red circle is above the green square.
+The green square is above the black square.
+Is the red circle above the green square? yes
+
+The green triangle is above the white circle.
+The white circle is above the black square.
+Is the black square above the green triangle? no
+
+The green circle is above the red circle.
+The red circle is above the black square.
+Is the green circle above the black square? yes
+
+The black square is to the right of the blue triangle.
+The blue triangle is to the right of the green square.
+Is the black square to the right of the blue triangle? yes
+
+The white circle is above the black triangle.
+The black triangle is above the green circle.
+Is the green circle above the white circle? no
+
+The green square is to the right of the blue triangle.
+The blue triangle is to the right of the white triangle.
+Is the green square to the right of the white triangle? yes
+
+The white square is above the red triangle.
+The red triangle is above the green triangle.
+Is the white square above the green triangle? yes
+
+The blue triangle is to the right of the green triangle.
+The green triangle is to the right of the red triangle.
+Is the red triangle to the right of the blue triangle? no
+
+The green triangle is above the blue square.
+The blue square is above the white square.
+Is the green triangle above the white square? yes
+
+The red square is above the blue triangle.
+The blue triangle is above the black triangle.
+Is the red square above the black triangle? yes
+
+The black triangle is to the right of the green circle.
+The green circle is to the right of the white circle.
+Is the black triangle to the right of the green circle? yes
+
+The green circle is to the right of the white circle.
+The white circle is to the right of the blue square.
+Is the green circle to the right of the white circle? yes
+
+The red triangle is above the white circle.
+The white circle is above the blue square.
+Is the red triangle above the white circle? yes
+
+The blue triangle is above the green square.
+The green square is above the white circle.
+Is the white circle above the blue triangle? no
+
+The white triangle is to the right of the blue triangle.
+The blue triangle is to the right of the red triangle.
+Is the white triangle to the right of the red triangle? yes
+
+The white triangle is above the red triangle.
+The red triangle is above the black circle.
+Is the black circle above the white triangle? no
+
+The black circle is to the right of the green square.
+The green square is to the right of the blue square.
+Is the blue square to the right of the black circle? no
+
+The white square is above the red circle.
+The red circle is above the black square.
+Is the black square above the white square? no
+
+The blue circle is above the white square.
+The white square is above the green triangle.
+Is the green triangle above the blue circle? no
+
+The black square is to the right of the blue square.
+The blue square is to the right of the white triangle.
+Is the white triangle to the right of the black square? no
+
+The green circle is above the black triangle.
+The black triangle is above the blue square.
+Is the blue square above the green circle? no
+
+The green circle is above the red triangle.
+The red triangle is above the blue triangle.
+Is the green circle above the red triangle? yes
+
+The blue square is to the right of the white square.
+The white square is to the right of the black triangle.
+Is the black triangle to the right of the blue square? no
+
+The red square is above the black circle.
+The black circle is above the blue circle.
+Is the red square above the black circle? yes
+
+The blue triangle is above the white triangle.
+The white triangle is above the red circle.
+Is the blue triangle above the red circle? yes
+
+The green square is to the right of the white circle.
+The white circle is to the right of the black circle.
+Is the black circle to the right of the green square? no
+
+The red triangle is to the right of the blue triangle.
+The blue triangle is to the right of the green square.
+Is the green square to the right of the red triangle? no
+
+The red square is above the black square.
+The black square is above the white square.
+Is the white square above the red square? no
+
+The green square is to the right of the red circle.
+The red circle is to the right of the black circle.
+Is the green square to the right of the black circle? yes
+
+The white square is above the red square.
+The red square is above the green square.
+Is the white square above the green square? yes
+
+The white circle is to the right of the black triangle.
+The black triangle is to the right of the red triangle.
+Is the red triangle to the right of the white circle? no
+
+The green triangle is to the right of the white triangle.
+The white triangle is to the right of the blue triangle.
+Is the blue triangle to the right of the green triangle? no
+
+The green triangle is above the white circle.
+The white circle is above the black triangle.
+Is the green triangle above the white circle? yes
+
+The black square is above the green square.
+The green square is above the blue triangle.
+Is the blue triangle above the black square? no
+
+The red circle is above the white circle.
+The white circle is above the blue square.
+Is the red circle above the white circle? yes
+
+The white circle is above the black circle.
+The black circle is above the blue circle.
+Is the white circle above the blue circle? yes
+
+The blue triangle is to the right of the red triangle.
+The red triangle is to the right of the black triangle.
+Is the black triangle to the right of the blue triangle? no
+
+The white circle is to the right of the red circle.
+The red circle is to the right of the black circle.
+Is the black circle to the right of the white circle? no
+
+The blue square is above the white circle.
+The white circle is above the green circle.
+Is the green circle above the blue square? no
+
+The blue square is above the white square.
+The white square is above the black circle.
+Is the black circle above the blue square? no
+
+The white circle is to the right of the blue square.
+The blue square is to the right of the red circle.
+Is the red circle to the right of the white circle? no
+
+The white square is above the black circle.
+The black circle is above the blue square.
+Is the white square above the black circle? yes
+
+The red triangle is to the right of the blue square.
+The blue square is to the right of the green circle.
+Is the red triangle to the right of the green circle? yes
+
+The blue triangle is above the white triangle.
+The white triangle is above the red square.
+Is the blue triangle above the white triangle? yes
+
+The blue triangle is above the red circle.
+The red circle is above the white circle.
+Is the blue triangle above the red circle? yes
+
+The red circle is above the black circle.
+The black circle is above the white square.
+Is the red circle above the black circle? yes
+
+The green triangle is above the black square.
+The black square is above the red circle.
+Is the green triangle above the red circle? yes
+
+The green square is to the right of the white triangle.
+The white triangle is to the right of the black circle.
+Is the green square to the right of the black circle? yes
+
+The green circle is above the blue circle.
+The blue circle is above the white circle.
+Is the green circle above the white circle? yes
+
+The red square is to the right of the blue circle.
+The blue circle is to the right of the white square.
+Is the white square to the right of the red square? no
+
+The blue square is to the right of the red triangle.
+The red triangle is to the right of the black square.
+Is the blue square to the right of the black square? yes
+
+The green triangle is above the blue square.
+The blue square is above the black circle.
+Is the green triangle above the black circle? yes
+
+The green triangle is above the white square.
+The white square is above the black square.
+Is the black square above the green triangle? no
+
+The green circle is above the blue circle.
+The blue circle is above the red triangle.
+Is the green circle above the blue circle? yes
+
+The blue circle is above the white circle.
+The white circle is above the black circle.
+Is the blue circle above the white circle? yes
+
+The green circle is to the right of the white triangle.
+The white triangle is to the right of the red square.
+Is the green circle to the right of the red square? yes
+
+The red square is above the green circle.
+The green circle is above the black square.
+Is the black square above the red square? no
+
+The blue square is above the green circle.
+The green circle is above the white circle.
+Is the blue square above the white circle? yes
+
+The red triangle is to the right of the black square.
+The black square is to the right of the white triangle.
+Is the red triangle to the right of the black square? yes
+
+The blue square is to the right of the white circle.
+The white circle is to the right of the red triangle.
+Is the red triangle to the right of the blue square? no
+
+The red triangle is to the right of the black square.
+The black square is to the right of the blue triangle.
+Is the red triangle to the right of the black square? yes
+
+The black circle is above the green triangle.
+The green triangle is above the blue circle.
+Is the blue circle above the black circle? no
+
+The white square is above the green circle.
+The green circle is above the red square.
+Is the white square above the green circle? yes
+
+The blue square is to the right of the black square.
+The black square is to the right of the red circle.
+Is the blue square to the right of the red circle? yes
+
+The green circle is to the right of the black square.
+The black square is to the right of the blue triangle.
+Is the green circle to the right of the blue triangle? yes
+
+The white circle is to the right of the black circle.
+The black circle is to the right of the red square.
+Is the white circle to the right of the black circle? yes
+
+The red circle is to the right of the white triangle.
+The white triangle is to the right of the blue square.
+Is the blue square to the right of the red circle? no
+
+The blue square is to the right of the green triangle.
+The green triangle is to the right of the white circle.
+Is the blue square to the right of the green triangle? yes
+
+The blue circle is above the red triangle.
+The red triangle is above the green circle.
+Is the blue circle above the green circle? yes
+
+The blue circle is above the white square.
+The white square is above the red square.
+Is the blue circle above the red square? yes
+
+The white square is to the right of the red triangle.
+The red triangle is to the right of the green triangle.
+Is the white square to the right of the red triangle? yes
+
+The white triangle is to the right of the black triangle.
+The black triangle is to the right of the red triangle.
+Is the red triangle to the right of the white triangle? no
+
+The red circle is to the right of the green square.
+The green square is to the right of the blue triangle.
+Is the blue triangle to the right of the red circle? no
+
+The black square is above the red circle.
+The red circle is above the white triangle.
+Is the black square above the white triangle? yes
+
+The red square is to the right of the blue triangle.
+The blue triangle is to the right of the green triangle.
+Is the green triangle to the right of the red square? no
+
+The white circle is above the blue circle.
+The blue circle is above the black triangle.
+Is the black triangle above the white circle? no
+
+The green square is above the white triangle.
+The white triangle is above the black circle.
+Is the black circle above the green square? no
+
+The blue circle is above the green triangle.
+The green triangle is above the red triangle.
+Is the red triangle above the blue circle? no
+
+The black circle is above the green square.
+The green square is above the blue square.
+Is the black circle above the blue square? yes
+
+The blue triangle is above the green triangle.
+The green triangle is above the black triangle.
+Is the blue triangle above the black triangle? yes
+
+The white circle is to the right of the green circle.
+The green circle is to the right of the black square.
+Is the white circle to the right of the black square? yes
+
+The red triangle is above the blue circle.
+The blue circle is above the white circle.
+Is the red triangle above the blue circle? yes
+
+The green square is to the right of the red circle.
+The red circle is to the right of the white circle.
+Is the green square to the right of the white circle? yes
+
+The black triangle is to the right of the green triangle.
+The green triangle is to the right of the blue square.
+Is the black triangle to the right of the green triangle? yes
+
+The blue circle is to the right of the red triangle.
+The red triangle is to the right of the green triangle.
+Is the green triangle to the right of the blue circle? no
+
+The black square is to the right of the blue triangle.
+The blue triangle is to the right of the red circle.
+Is the black square to the right of the red circle? yes
+
+The blue square is to the right of the black triangle.
+The black triangle is to the right of the red square.
+Is the blue square to the right of the black triangle? yes
+
+The red circle is above the white circle.
+The white circle is above the black square.
+Is the black square above the red circle? no
+
+The white circle is to the right of the green circle.
+The green circle is to the right of the blue square.
+Is the blue square to the right of the white circle? no
+
+The blue triangle is above the black triangle.
+The black triangle is above the red triangle.
+Is the red triangle above the blue triangle? no
+
+The blue circle is to the right of the black triangle.
+The black triangle is to the right of the white square.
+Is the white square to the right of the blue circle? no
+
+The white triangle is above the green circle.
+The green circle is above the red circle.
+Is the white triangle above the green circle? yes
+
+The red circle is above the green circle.
+The green circle is above the black square.
+Is the red circle above the black square? yes
+
+The black square is to the right of the red circle.
+The red circle is to the right of the green square.
+Is the green square to the right of the black square? no
+
+The green square is to the right of the black circle.
+The black circle is to the right of the red circle.
+Is the green square to the right of the black circle? yes
+
+The green circle is above the black circle.
+The black circle is above the white triangle.
+Is the green circle above the black circle? yes
+
+The blue square is above the white triangle.
+The white triangle is above the black circle.
+Is the blue square above the black circle? yes
+
+The red square is above the black triangle.
+The black triangle is above the blue circle.
+Is the red square above the black triangle? yes
+
+The green square is to the right of the red square.
+The red square is to the right of the white triangle.
+Is the green square to the right of the white triangle? yes
+
+The red triangle is above the black triangle.
+The black triangle is above the white square.
+Is the red triangle above the white square? yes
+
+The green circle is to the right of the black circle.
+The black circle is to the right of the red square.
+Is the green circle to the right of the black circle? yes
+
+The blue square is to the right of the red triangle.
+The red triangle is to the right of the white circle.
+Is the blue square to the right of the white circle? yes
+
+The green circle is to the right of the blue triangle.
+The blue triangle is to the right of the black triangle.
+Is the green circle to the right of the blue triangle? yes
+
+The green triangle is above the white square.
+The white square is above the red triangle.
+Is the red triangle above the green triangle? no
+
+The red circle is to the right of the green circle.
+The green circle is to the right of the blue triangle.
+Is the blue triangle to the right of the red circle? no
+
+The blue square is to the right of the white circle.
+The white circle is to the right of the black circle.
+Is the black circle to the right of the blue square? no
+
+The red triangle is to the right of the white triangle.
+The white triangle is to the right of the black triangle.
+Is the red triangle to the right of the black triangle? yes
+
+The green triangle is to the right of the white square.
+The white square is to the right of the red square.
+Is the green triangle to the right of the red square? yes
+
+The red triangle is above the black square.
+The black square is above the white triangle.
+Is the red triangle above the white triangle? yes
+
+The white square is above the green square.
+The green square is above the blue square.
+Is the white square above the green square? yes
+
+The green triangle is to the right of the black square.
+The black square is to the right of the blue triangle.
+Is the blue triangle to the right of the green triangle? no
+
+The red triangle is to the right of the green circle.
+The green circle is to the right of the blue circle.
+Is the red triangle to the right of the green circle? yes
+
+The green square is above the white circle.
+The white circle is above the black triangle.
+Is the green square above the white circle? yes
+
+The blue square is to the right of the white circle.
+The white circle is to the right of the black circle.
+Is the blue square to the right of the white circle? yes
+
+The blue triangle is above the red square.
+The red square is above the white triangle.
+Is the blue triangle above the white triangle? yes
+
+The white triangle is above the blue circle.
+The blue circle is above the black square.
+Is the white triangle above the blue circle? yes
+
+The blue triangle is to the right of the white triangle.
+The white triangle is to the right of the black triangle.
+Is the blue triangle to the right of the black triangle? yes
+
+The white circle is above the red square.
+The red square is above the green square.
+Is the white circle above the red square? yes
+
+The green circle is above the blue square.
+The blue square is above the red square.
+Is the red square above the green circle? no
+
+The red circle is to the right of the green circle.
+The green circle is to the right of the black triangle.
+Is the black triangle to the right of the red circle? no
+
+The blue triangle is to the right of the white circle.
+The white circle is to the right of the black square.
+Is the black square to the right of the blue triangle? no
+
+The black triangle is above the blue square.
+The blue square is above the white triangle.
+Is the white triangle above the black triangle? no
+
+The blue triangle is to the right of the red triangle.
+The red triangle is to the right of the green circle.
+Is the blue triangle to the right of the green circle? yes
+
+The red triangle is above the white square.
+The white square is above the green square.
+Is the red triangle above the green square? yes
+
+The green square is to the right of the red circle.
+The red circle is to the right of the black square.
+Is the green square to the right of the red circle? yes
+
+The blue triangle is to the right of the white triangle.
+The white triangle is to the right of the black square.
+Is the blue triangle to the right of the white triangle? yes
+
+The green circle is to the right of the red square.
+The red square is to the right of the white square.
+Is the green circle to the right of the white square? yes
+
+The red square is above the blue triangle.
+The blue triangle is above the white circle.
+Is the red square above the white circle? yes
+
+The blue circle is to the right of the red square.
+The red square is to the right of the green triangle.
+Is the blue circle to the right of the red square? yes
+
+The green triangle is to the right of the blue triangle.
+The blue triangle is to the right of the white triangle.
+Is the green triangle to the right of the blue triangle? yes
+
+The black circle is to the right of the green triangle.
+The green triangle is to the right of the red triangle.
+Is the black circle to the right of the green triangle? yes
+
+The black triangle is above the white triangle.
+The white triangle is above the green square.
+Is the black triangle above the green square? yes
+
+The red triangle is to the right of the black square.
+The black square is to the right of the blue square.
+Is the blue square to the right of the red triangle? no
+
+The blue circle is to the right of the black triangle.
+The black triangle is to the right of the white circle.
+Is the white circle to the right of the blue circle? no
+
+The blue square is above the white triangle.
+The white triangle is above the red circle.
+Is the red circle above the blue square? no
+
+The white triangle is above the blue triangle.
+The blue triangle is above the black circle.
+Is the white triangle above the black circle? yes
+
+The black square is above the red square.
+The red square is above the blue square.
+Is the black square above the blue square? yes
+
+The black circle is to the right of the green square.
+The green square is to the right of the red square.
+Is the black circle to the right of the red square? yes
+
+The black triangle is above the blue square.
+The blue square is above the white circle.
+Is the black triangle above the white circle? yes
+
+The green square is above the blue triangle.
+The blue triangle is above the black square.
+Is the green square above the blue triangle? yes
+
+The green square is above the black triangle.
+The black triangle is above the blue square.
+Is the green square above the black triangle? yes
+
+The red triangle is above the blue triangle.
+The blue triangle is above the black square.
+Is the red triangle above the black square? yes
+
+The blue circle is above the white square.
+The white square is above the black square.
+Is the blue circle above the white square? yes
+
+The green circle is to the right of the red square.
+The red square is to the right of the black circle.
+Is the black circle to the right of the green circle? no
+
+The blue triangle is above the white circle.
+The white circle is above the black square.
+Is the blue triangle above the white circle? yes
+
+The white square is above the black triangle.
+The black triangle is above the blue triangle.
+Is the white square above the blue triangle? yes
+
+The black square is to the right of the blue triangle.
+The blue triangle is to the right of the red circle.
+Is the red circle to the right of the black square? no
+
+The white square is above the red square.
+The red square is above the black triangle.
+Is the white square above the black triangle? yes
+
+The red circle is to the right of the green triangle.
+The green triangle is to the right of the blue square.
+Is the blue square to the right of the red circle? no
+
+The white circle is to the right of the red circle.
+The red circle is to the right of the blue square.
+Is the white circle to the right of the blue square? yes
+
+The white triangle is to the right of the green triangle.
+The green triangle is to the right of the blue square.
+Is the white triangle to the right of the green triangle? yes
+
+The black triangle is to the right of the blue circle.
+The blue circle is to the right of the green square.
+Is the green square to the right of the black triangle? no
+
+The green triangle is to the right of the blue triangle.
+The blue triangle is to the right of the white square.
+Is the white square to the right of the green triangle? no
+
+The white triangle is above the red circle.
+The red circle is above the green triangle.
+Is the white triangle above the red circle? yes
+
+The green circle is above the red square.
+The red square is above the black triangle.
+Is the green circle above the red square? yes
+
+The red circle is above the green circle.
+The green circle is above the blue square.
+Is the red circle above the green circle? yes
+
+The black square is to the right of the red triangle.
+The red triangle is to the right of the green triangle.
+Is the black square to the right of the green triangle? yes
+
+The green triangle is above the white square.
+The white square is above the black circle.
+Is the green triangle above the black circle? yes
+
+The red square is above the blue triangle.
+The blue triangle is above the green triangle.
+Is the red square above the green triangle? yes

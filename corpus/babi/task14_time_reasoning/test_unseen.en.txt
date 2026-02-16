@@ -1,0 +1,905 @@
+This morning Mary went to the playground.
+Yesterday Mary went to the library.
+This evening Mary went to the kitchen.
+Where was Mary before the kitchen? playground
+
+In the afternoon Gertrude went to the hospital.
+Yesterday Gertrude went to the bathroom.
+Where was Gertrude before the hospital? bathroom
+
+Yesterday Julie went to the market.
+This morning Julie went to the hallway.
+Where was Julie before the hallway? market
+
+Yesterday Tom went to the school.
+This morning Tom went to the playground.
+In the afternoon Tom went to the library.
+Where was Tom before the library? playground
+
+This evening Sandra went to the library.
+In the afternoon Sandra went to the cellar.
+Yesterday Sandra went to the bathroom.
+Where was Sandra before the library? cellar
+
+This morning Susan went to the cellar.
+Yesterday Susan went to the cellar.
+In the afternoon Susan went to the studio.
+Where was Susan before the studio? cellar
+
+This evening Frank went to the playground.
+This morning Frank went to the studio.
+Yesterday Frank went to the library.
+Where was Frank before the playground? studio
+
+This evening Julie went to the market.
+In the afternoon Julie went to the school.
+Where was Julie before the market? school
+
+In the afternoon Julie went to the restaurant.
+This morning Julie went to the bedroom.
+Where was Julie before the restaurant? bedroom
+
+In the afternoon Tom went to the library.
+This evening Tom went to the library.
+Where was Tom before the library? library
+
+This morning Sandra went to the hospital.
+In the afternoon Sandra went to the bathroom.
+Where was Sandra before the bathroom? hospital
+
+Yesterday Jeff went to the park.
+This evening Jeff went to the cellar.
+This morning Jeff went to the office.
+Where was Jeff before the cellar? office
+
+This morning Ann went to the bathroom.
+Yesterday Ann went to the kitchen.
+This evening Ann went to the cellar.
+Where was Ann before the cellar? bathroom
+
+This morning Tom went to the school.
+This evening Tom went to the garden.
+In the afternoon Tom went to the hospital.
+Where was Tom before the garden? hospital
+
+This evening Susan went to the library.
+In the afternoon Susan went to the garden.
+This morning Susan went to the hallway.
+Where was Susan before the library? garden
+
+In the afternoon Kate went to the hallway.
+This morning Kate went to the hospital.
+Where was Kate before the hallway? hospital
+
+In the afternoon Daniel went to the market.
+Yesterday Daniel went to the cellar.
+This morning Daniel went to the hallway.
+Where was Daniel before the market? hallway
+
+Yesterday John went to the park.
+This morning John went to the hospital.
+Where was John before the hospital? park
+
+This morning Susan went to the library.
+In the afternoon Susan went to the school.
+Where was Susan before the school? library
+
+Yesterday Daniel went to the garden.
+In the afternoon Daniel went to the school.
+This morning Daniel went to the cellar.
+Where was Daniel before the school? cellar
+
+Yesterday Nina went to the library.
+This evening Nina went to the bedroom.
+Where was Nina before the bedroom? library
+
+This morning Lucy went to the playground.
+Yesterday Lucy went to the library.
+This evening Lucy went to the studio.
+Where was Lucy before the studio? playground
+
+In the afternoon Bob went to the library.
+This morning Bob went to the playground.
+Yesterday Bob went to the park.
+Where was Bob before the library? playground
+
+This evening John went to the hospital.
+Yesterday John went to the school.
+In the afternoon John went to the school.
+Where was John before the hospital? school
+
+In the afternoon Nina went to the hospital.
+This morning Nina went to the market.
+This evening Nina went to the cellar.
+Where was Nina before the cellar? hospital
+
+In the afternoon Eve went to the hospital.
+Yesterday Eve went to the garden.
+Where was Eve before the hospital? garden
+
+This evening Sandra went to the library.
+In the afternoon Sandra went to the bathroom.
+Where was Sandra before the library? bathroom
+
+In the afternoon Frank went to the market.
+Yesterday Frank went to the library.
+Where was Frank before the market? library
+
+This evening Rick went to the hospital.
+This morning Rick went to the library.
+In the afternoon Rick went to the garden.
+Where was Rick before the hospital? garden
+
+In the afternoon Gertrude went to the bedroom.
+Yesterday Gertrude went to the hospital.
+Where was Gertrude before the bedroom? hospital
+
+This evening Ann went to the school.
+In the afternoon Ann went to the cellar.
+This morning Ann went to the bedroom.
+Where was Ann before the school? cellar
+
+This morning Bernhard went to the restaurant.
+Yesterday Bernhard went to the studio.
+Where was Bernhard before the restaurant? studio
+
+In the afternoon Nina went to the cellar.
+This morning Nina went to the hospital.
+Yesterday Nina went to the playground.
+Where was Nina before the cellar? hospital
+
+This morning David went to the office.
+Yesterday David went to the cellar.
+Where was David before the office? cellar
+
+This evening Daniel went to the kitchen.
+Yesterday Daniel went to the library.
+This morning Daniel went to the park.
+Where was Daniel before the kitchen? park
+
+This morning Fred went to the hospital.
+This evening Fred went to the garden.
+In the afternoon Fred went to the hallway.
+Where was Fred before the garden? hallway
+
+Yesterday Bill went to the library.
+This evening Bill went to the playground.
+Where was Bill before the playground? library
+
+This morning Fred went to the playground.
+Yesterday Fred went to the library.
+Where was Fred before the playground? library
+
+This evening John went to the school.
+In the afternoon John went to the library.
+This morning John went to the library.
+Where was John before the school? library
+
+This evening Lily went to the bathroom.
+This morning Lily went to the restaurant.
+Yesterday Lily went to the kitchen.
+Where was Lily before the bathroom? restaurant
+
+This morning Bernhard went to the restaurant.
+This evening Bernhard went to the library.
+Yesterday Bernhard went to the kitchen.
+Where was Bernhard before the library? restaurant
+
+Yesterday Gertrude went to the office.
+This evening Gertrude went to the cellar.
+Where was Gertrude before the cellar? office
+
+Yesterday Frank went to the studio.
+This evening Frank went to the hospital.
+Where was Frank before the hospital? studio
+
+In the afternoon Gertrude went to the bedroom.
+This morning Gertrude went to the office.
+Yesterday Gertrude went to the kitchen.
+Where was Gertrude before the bedroom? office
+
+This morning Gertrude went to the bedroom.
+This evening Gertrude went to the market.
+Where was Gertrude before the market? bedroom
+
+In the afternoon Nina went to the studio.
+Yesterday Nina went to the cellar.
+Where was Nina before the studio? cellar
+
+This morning John went to the studio.
+Yesterday John went to the hospital.
+This evening John went to the park.
+Where was John before the park? studio
+
+This evening Julie went to the bathroom.
+Yesterday Julie went to the bedroom.
+Where was Julie before the bathroom? bedroom
+
+In the afternoon Mary went to the cellar.
+This morning Mary went to the kitchen.
+Where was Mary before the cellar? kitchen
+
+This morning Fred went to the cellar.
+Yesterday Fred went to the market.
+Where was Fred before the cellar? market
+
+Yesterday Lily went to the bathroom.
+This evening Lily went to the kitchen.
+In the afternoon Lily went to the office.
+Where was Lily before the kitchen? office
+
+This morning Lucy went to the hospital.
+Yesterday Lucy went to the park.
+This evening Lucy went to the garden.
+Where was Lucy before the garden? hospital
+
+This evening David went to the hospital.
+Yesterday David went to the cellar.
+Where was David before the hospital? cellar
+
+This morning Julie went to the restaurant.
+In the afternoon Julie went to the hallway.
+Where was Julie before the hallway? restaurant
+
+Yesterday Kate went to the school.
+This morning Kate went to the hospital.
+This evening Kate went to the office.
+Where was Kate before the office? hospital
+
+Yesterday Bernhard went to the studio.
+This evening Bernhard went to the studio.
+Where was Bernhard before the studio? studio
+
+This morning John went to the studio.
+This evening John went to the hospital.
+Yesterday John went to the bedroom.
+Where was John before the hospital? studio
+
+Yesterday John went to the studio.
+In the afternoon John went to the hospital.
+This morning John went to the garden.
+Where was John before the hospital? garden
+
+This morning Julie went to the kitchen.
+In the afternoon Julie went to the hospital.
+This evening Julie went to the market.
+Where was Julie before the market? hospital
+
+This evening Rick went to the playground.
+Yesterday Rick went to the hospital.
+In the afternoon Rick went to the kitchen.
+Where was Rick before the playground? kitchen
+
+In the afternoon Gertrude went to the market.
+Yesterday Gertrude went to the hospital.
+Where was Gertrude before the market? hospital
+
+This morning Tom went to the hospital.
+Yesterday Tom went to the studio.
+This evening Tom went to the cellar.
+Where was Tom before the cellar? hospital
+
+This morning Lily went to the kitchen.
+Yesterday Lily went to the office.
+Where was Lily before the kitchen? office
+
+In the afternoon Bernhard went to the hallway.
+This morning Bernhard went to the library.
+Where was Bernhard before the hallway? library
+
+This morning Daniel went to the library.
+This evening Daniel went to the market.
+Where was Daniel before the market? library
+
+Yesterday Eve went to the studio.
+This morning Eve went to the library.
+Where was Eve before the library? studio
+
+This morning Fred went to the cellar.
+In the afternoon Fred went to the market.
+Yesterday Fred went to the studio.
+Where was Fred before the market? cellar
+
+This evening Mary went to the restaurant.
+In the afternoon Mary went to the library.
+This morning Mary went to the park.
+Where was Mary before the restaurant? library
+
+This evening Frank went to the library.
+In the afternoon Frank went to the kitchen.
+This morning Frank went to the cellar.
+Where was Frank before the library? kitchen
+
+Yesterday Bill went to the library.
+This morning Bill went to the hospital.
+In the afternoon Bill went to the hallway.
+Where was Bill before the hallway? hospital
+
+Yesterday Bernhard went to the studio.
+This evening Bernhard went to the office.
+This morning Bernhard went to the bedroom.
+Where was Bernhard before the office? bedroom
+
+In the afternoon Jeff went to the school.
+Yesterday Jeff went to the kitchen.
+This morning Jeff went to the restaurant.
+Where was Jeff before the school? restaurant
+
+This morning Nina went to the restaurant.
+This evening Nina went to the garden.
+In the afternoon Nina went to the library.
+Where was Nina before the garden? library
+
+This evening Frank went to the park.
+Yesterday Frank went to the cellar.
+Where was Frank before the park? cellar
+
+This evening Bernhard went to the market.
+This morning Bernhard went to the playground.
+Where was Bernhard before the market? playground
+
+This evening Gertrude went to the bedroom.
+In the afternoon Gertrude went to the playground.
+Where was Gertrude before the bedroom? playground
+
+This morning Bernhard went to the garden.
+This evening Bernhard went to the library.
+In the afternoon Bernhard went to the cellar.
+Where was Bernhard before the library? cellar
+
+This evening Gertrude went to the garden.
+This morning Gertrude went to the market.
+Where was Gertrude before the garden? market
+
+This evening Ann went to the garden.
+In the afternoon Ann went to the library.
+Where was Ann before the garden? library
+
+In the afternoon Jeff went to the hospital.
+This evening Jeff went to the park.
+Yesterday Jeff went to the bedroom.
+Where was Jeff before the park? hospital
+
+Yesterday Ann went to the cellar.
+In the afternoon Ann went to the playground.
+Where was Ann before the playground? cellar
+
+This evening Jeff went to the hospital.
+In the afternoon Jeff went to the restaurant.
+Where was Jeff before the hospital? restaurant
+
+In the afternoon Julie went to the restaurant.
+This evening Julie went to the park.
+This morning Julie went to the market.
+Where was Julie before the park? restaurant
+
+This morning John went to the bedroom.
+This evening John went to the cellar.
+Yesterday John went to the playground.
+Where was John before the cellar? bedroom
+
+In the afternoon Bernhard went to the studio.
+This morning Bernhard went to the hospital.
+Where was Bernhard before the studio? hospital
+
+Yesterday Eve went to the hospital.
+This evening Eve went to the cellar.
+This morning Eve went to the garden.
+Where was Eve before the cellar? garden
+
+In the afternoon Lily went to the school.
+This evening Lily went to the playground.
+Where was Lily before the playground? school
+
+This morning Daniel went to the library.
+In the afternoon Daniel went to the cellar.
+Where was Daniel before the cellar? library
+
+Yesterday Jeff went to the studio.
+In the afternoon Jeff went to the cellar.
+This evening Jeff went to the office.
+Where was Jeff before the office? cellar
+
+Yesterday Eve went to the cellar.
+In the afternoon Eve went to the restaurant.
+Where was Eve before the restaurant? cellar
+
+This morning Fred went to the library.
+This evening Fred went to the hallway.
+Where was Fred before the hallway? library
+
+This evening Kate went to the hospital.
+In the afternoon Kate went to the bedroom.
+Where was Kate before the hospital? bedroom
+
+Yesterday Lily went to the bedroom.
+This morning Lily went to the bedroom.
+Where was Lily before the bedroom? bedroom
+
+Yesterday John went to the restaurant.
+In the afternoon John went to the hospital.
+This morning John went to the playground.
+Where was John before the hospital? playground
+
+In the afternoon Sandra went to the garden.
+This morning Sandra went to the park.
+This evening Sandra went to the library.
+Where was Sandra before the library? garden
+
+This morning Kate went to the kitchen.
+In the afternoon Kate went to the library.
+Yesterday Kate went to the market.
+Where was Kate before the library? kitchen
+
+In the afternoon Nina went to the cellar.
+Yesterday Nina went to the market.
+Where was Nina before the cellar? market
+
+This evening Gertrude went to the garden.
+This morning Gertrude went to the hallway.
+In the afternoon Gertrude went to the restaurant.
+Where was Gertrude before the garden? restaurant
+
+This evening Ann went to the cellar.
+This morning Ann went to the restaurant.
+In the afternoon Ann went to the park.
+Where was Ann before the cellar? park
+
+This morning Lily went to the hospital.
+Yesterday Lily went to the park.
+Where was Lily before the hospital? park
+
+Yesterday Julie went to the studio.
+This morning Julie went to the hospital.
+Where was Julie before the hospital? studio
+
+Yesterday Jeff went to the bedroom.
+This evening Jeff went to the market.
+In the afternoon Jeff went to the hospital.
+Where was Jeff before the market? hospital
+
+In the afternoon Fred went to the cellar.
+This evening Fred went to the playground.
+Where was Fred before the playground? cellar
+
+This morning Ann went to the library.
+This evening Ann went to the playground.
+Yesterday Ann went to the bedroom.
+Where was Ann before the playground? library
+
+This evening Peter went to the hospital.
+In the afternoon Peter went to the school.
+Yesterday Peter went to the library.
+Where was Peter before the hospital? school
+
+In the afternoon Bernhard went to the garden.
+Yesterday Bernhard went to the school.
+This morning Bernhard went to the office.
+Where was Bernhard before the garden? office
+
+In the afternoon Jeff went to the office.
+Yesterday Jeff went to the garden.
+This evening Jeff went to the studio.
+Where was Jeff before the studio? office
+
+Yesterday Sam went to the kitchen.
+This evening Sam went to the hospital.
+This morning Sam went to the office.
+Where was Sam before the hospital? office
+
+Yesterday Julie went to the hospital.
+This evening Julie went to the restaurant.
+Where was Julie before the restaurant? hospital
+
+Yesterday Bernhard went to the park.
+This morning Bernhard went to the hallway.
+Where was Bernhard before the hallway? park
+
+This evening Nina went to the hospital.
+In the afternoon Nina went to the cellar.
+Yesterday Nina went to the market.
+Where was Nina before the hospital? cellar
+
+Yesterday Alice went to the library.
+This evening Alice went to the office.
+Where was Alice before the office? library
+
+This morning Mary went to the hospital.
+This evening Mary went to the bathroom.
+Where was Mary before the bathroom? hospital
+
+Yesterday Jeff went to the library.
+This morning Jeff went to the bedroom.
+Where was Jeff before the bedroom? library
+
+In the afternoon Nina went to the library.
+Yesterday Nina went to the kitchen.
+This morning Nina went to the restaurant.
+Where was Nina before the library? restaurant
+
+This evening Jeff went to the kitchen.
+In the afternoon Jeff went to the cellar.
+Where was Jeff before the kitchen? cellar
+
+Yesterday Jeff went to the office.
+This evening Jeff went to the playground.
+In the afternoon Jeff went to the office.
+Where was Jeff before the playground? office
+
+This evening Sandra went to the library.
+In the afternoon Sandra went to the restaurant.
+Yesterday Sandra went to the library.
+Where was Sandra before the library? restaurant
+
+In the afternoon Mary went to the cellar.
+Yesterday Mary went to the garden.
+This evening Mary went to the office.
+Where was Mary before the office? cellar
+
+In the afternoon Rick went to the library.
+This evening Rick went to the hallway.
+Yesterday Rick went to the park.
+Where was Rick before the hallway? library
+
+This evening Lucy went to the library.
+This morning Lucy went to the playground.
+Where was Lucy before the library? playground
+
+Yesterday Bill went to the hallway.
+This evening Bill went to the cellar.
+This morning Bill went to the school.
+Where was Bill before the cellar? school
+
+This evening Mary went to the garden.
+Yesterday Mary went to the cellar.
+Where was Mary before the garden? cellar
+
+Yesterday Daniel went to the cellar.
+This morning Daniel went to the playground.
+Where was Daniel before the playground? cellar
+
+This evening Bob went to the bedroom.
+This morning Bob went to the cellar.
+Yesterday Bob went to the park.
+Where was Bob before the bedroom? cellar
+
+Yesterday Sandra went to the school.
+In the afternoon Sandra went to the library.
+Where was Sandra before the library? school
+
+Yesterday Bernhard went to the school.
+In the afternoon Bernhard went to the playground.
+This evening Bernhard went to the market.
+Where was Bernhard before the market? playground
+
+This evening Lucy went to the cellar.
+Yesterday Lucy went to the library.
+Where was Lucy before the cellar? library
+
+In the afternoon Gertrude went to the kitchen.
+This evening Gertrude went to the bathroom.
+Where was Gertrude before the bathroom? kitchen
+
+Yesterday Ann went to the cellar.
+This morning Ann went to the market.
+This evening Ann went to the restaurant.
+Where was Ann before the restaurant? market
+
+In the afternoon Rick went to the restaurant.
+This evening Rick went to the hospital.
+Where was Rick before the hospital? restaurant
+
+In the afternoon Lucy went to the school.
+This evening Lucy went to the library.
+Yesterday Lucy went to the market.
+Where was Lucy before the library? school
+
+In the afternoon Julie went to the cellar.
+Yesterday Julie went to the library.
+Where was Julie before the cellar? library
+
+Yesterday Peter went to the hospital.
+In the afternoon Peter went to the cellar.
+Where was Peter before the cellar? hospital
+
+In the afternoon Gertrude went to the park.
+This morning Gertrude went to the garden.
+This evening Gertrude went to the market.
+Where was Gertrude before the market? park
+
+This evening Gertrude went to the cellar.
+This morning Gertrude went to the playground.
+Where was Gertrude before the cellar? playground
+
+Yesterday Rick went to the library.
+In the afternoon Rick went to the playground.
+This evening Rick went to the bathroom.
+Where was Rick before the bathroom? playground
+
+This morning Bernhard went to the library.
+Yesterday Bernhard went to the park.
+In the afternoon Bernhard went to the hospital.
+Where was Bernhard before the hospital? library
+
+This evening John went to the bathroom.
+In the afternoon John went to the restaurant.
+Yesterday John went to the cellar.
+Where was John before the bathroom? restaurant
+
+This morning Jeff went to the restaurant.
+Yesterday Jeff went to the office.
+Where was Jeff before the restaurant? office
+
+This morning Nina went to the hospital.
+Yesterday Nina went to the hospital.
+Where was Nina before the hospital? hospital
+
+Yesterday Sandra went to the market.
+This morning Sandra went to the cellar.
+Where was Sandra before the cellar? market
+
+Yesterday Lily went to the school.
+This morning Lily went to the bedroom.
+In the afternoon Lily went to the cellar.
+Where was Lily before the cellar? bedroom
+
+In the afternoon Rick went to the kitchen.
+This evening Rick went to the hallway.
+Yesterday Rick went to the cellar.
+Where was Rick before the hallway? kitchen
+
+This morning Rick went to the bathroom.
+Yesterday Rick went to the market.
+This evening Rick went to the hospital.
+Where was Rick before the hospital? bathroom
+
+Yesterday Sandra went to the park.
+This evening Sandra went to the school.
+This morning Sandra went to the hospital.
+Where was Sandra before the school? hospital
+
+In the afternoon Jeff went to the hallway.
+This evening Jeff went to the hallway.
+Where was Jeff before the hallway? hallway
+
+This evening Gertrude went to the bathroom.
+In the afternoon Gertrude went to the market.
+Where was Gertrude before the bathroom? market
+
+In the afternoon Frank went to the garden.
+Yesterday Frank went to the cellar.
+This morning Frank went to the office.
+Where was Frank before the garden? office
+
+Yesterday Frank went to the hospital.
+In the afternoon Frank went to the garden.
+Where was Frank before the garden? hospital
+
+In the afternoon Tom went to the hospital.
+This evening Tom went to the studio.
+This morning Tom went to the hospital.
+Where was Tom before the studio? hospital
+
+This evening Sam went to the library.
+Yesterday Sam went to the school.
+Where was Sam before the library? school
+
+In the afternoon Julie went to the park.
+This morning Julie went to the kitchen.
+This evening Julie went to the office.
+Where was Julie before the office? park
+
+This morning Bill went to the park.
+In the afternoon Bill went to the cellar.
+Where was Bill before the cellar? park
+
+This evening Frank went to the hospital.
+This morning Frank went to the school.
+Where was Frank before the hospital? school
+
+This evening Nina went to the office.
+Yesterday Nina went to the library.
+Where was Nina before the office? library
+
+In the afternoon Tom went to the studio.
+This morning Tom went to the cellar.
+Where was Tom before the studio? cellar
+
+In the afternoon Frank went to the hospital.
+Yesterday Frank went to the cellar.
+This morning Frank went to the hospital.
+Where was Frank before the hospital? hospital
+
+Yesterday Peter went to the kitchen.
+This morning Peter went to the studio.
+This evening Peter went to the library.
+Where was Peter before the library? studio
+
+This morning Bill went to the cellar.
+In the afternoon Bill went to the hallway.
+Yesterday Bill went to the playground.
+Where was Bill before the hallway? cellar
+
+In the afternoon Eve went to the hallway.
+This morning Eve went to the cellar.
+This evening Eve went to the bathroom.
+Where was Eve before the bathroom? hallway
+
+This morning Frank went to the school.
+Yesterday Frank went to the cellar.
+This evening Frank went to the cellar.
+Where was Frank before the cellar? school
+
+Yesterday Susan went to the hallway.
+This evening Susan went to the library.
+In the afternoon Susan went to the hallway.
+Where was Susan before the library? hallway
+
+This evening Julie went to the hospital.
+This morning Julie went to the cellar.
+Yesterday Julie went to the bathroom.
+Where was Julie before the hospital? cellar
+
+This morning Gertrude went to the playground.
+Yesterday Gertrude went to the bedroom.
+Where was Gertrude before the playground? bedroom
+
+Yesterday Fred went to the kitchen.
+This morning Fred went to the market.
+In the afternoon Fred went to the library.
+Where was Fred before the library? market
+
+This evening Julie went to the bathroom.
+In the afternoon Julie went to the bathroom.
+Where was Julie before the bathroom? bathroom
+
+This evening Sam went to the kitchen.
+This morning Sam went to the cellar.
+Where was Sam before the kitchen? cellar
+
+This evening Susan went to the cellar.
+This morning Susan went to the playground.
+In the afternoon Susan went to the bathroom.
+Where was Susan before the cellar? bathroom
+
+In the afternoon Gertrude went to the hallway.
+This evening Gertrude went to the library.
+Where was Gertrude before the library? hallway
+
+This evening Bernhard went to the studio.
+In the afternoon Bernhard went to the studio.
+Where was Bernhard before the studio? studio
+
+This morning Mary went to the cellar.
+In the afternoon Mary went to the library.
+This evening Mary went to the garden.
+Where was Mary before the garden? library
+
+Yesterday Julie went to the library.
+This evening Julie went to the office.
+This morning Julie went to the bathroom.
+Where was Julie before the office? bathroom
+
+This morning Bernhard went to the school.
+In the afternoon Bernhard went to the cellar.
+Yesterday Bernhard went to the hallway.
+Where was Bernhard before the cellar? school
+
+In the afternoon David went to the cellar.
+This morning David went to the restaurant.
+This evening David went to the school.
+Where was David before the school? cellar
+
+This morning Lily went to the school.
+Yesterday Lily went to the garden.
+In the afternoon Lily went to the playground.
+Where was Lily before the playground? school
+
+In the afternoon Jeff went to the playground.
+This morning Jeff went to the library.
+Yesterday Jeff went to the bathroom.
+Where was Jeff before the playground? library
+
+This evening Bill went to the studio.
+In the afternoon Bill went to the bathroom.
+Yesterday Bill went to the library.
+Where was Bill before the studio? bathroom
+
+This morning Bernhard went to the market.
+This evening Bernhard went to the cellar.
+Yesterday Bernhard went to the bathroom.
+Where was Bernhard before the cellar? market
+
+Yesterday Mary went to the cellar.
+This evening Mary went to the studio.
+In the afternoon Mary went to the library.
+Where was Mary before the studio? library
+
+This morning Nina went to the kitchen.
+In the afternoon Nina went to the hospital.
+This evening Nina went to the hospital.
+Where was Nina before the hospital? hospital
+
+This morning Mary went to the cellar.
+This evening Mary went to the bathroom.
+In the afternoon Mary went to the restaurant.
+Where was Mary before the bathroom? restaurant
+
+This morning Daniel went to the market.
+Yesterday Daniel went to the hospital.
+This evening Daniel went to the kitchen.
+Where was Daniel before the kitchen? market
+
+Yesterday David went to the cellar.
+In the afternoon David went to the bathroom.
+Where was David before the bathroom? cellar
+
+This evening David went to the library.
+This morning David went to the bedroom.
+In the afternoon David went to the school.
+Where was David before the library? school
+
+This morning Peter went to the market.
+In the afternoon Peter went to the hospital.
+Where was Peter before the hospital? market
+
+Yesterday Susan went to the hospital.
+This morning Susan went to the hallway.
+Where was Susan before the hallway? hospital
+
+In the afternoon Lily went to the school.
+This evening Lily went to the hospital.
+Where was Lily before the hospital? school
+
+Yesterday Tom went to the park.
+This evening Tom went to the cellar.
+In the afternoon Tom went to the hallway.
+Where was Tom before the cellar? hallway
+
+Yesterday Frank went to the office.
+In the afternoon Frank went to the library.
+This evening Frank went to the bedroom.
+Where was Frank before the bedroom? library
+
+In the afternoon Bob went to the library.
+This evening Bob went to the school.
+This morning Bob went to the park.
+Where was Bob before the school? library
+
+This morning Julie went to the garden.
+This evening Julie went to the market.
+In the afternoon Julie went to the cellar.
+Where was Julie before the market? cellar
+
+Yesterday Lucy went to the garden.
+This morning Lucy went to the cellar.
+Where was Lucy before the cellar? garden
+
+In the afternoon Sandra went to the hospital.
+Yesterday Sandra went to the library.
+Where was Sandra before the hospital? library
+
+Yesterday Gertrude went to the hospital.
+This morning Gertrude went to the hallway.
+Where was Gertrude before the hallway? hospital
+
+This evening Sandra went to the hospital.
+This morning Sandra went to the kitchen.
+Where was Sandra before the hospital? kitchen
+
+Yesterday Kate went to the bedroom.
+This evening Kate went to the library.
+Where was Kate before the library? bedroom
+
+This morning Bob went to the hospital.
+In the afternoon Bob went to the market.
+This evening Bob went to the cellar.
+Where was Bob before the cellar? market
+
+Yesterday Susan went to the cellar.
+This morning Susan went to the park.
+Where was Susan before the park? cellar
+
+This evening John went to the cellar.
+This morning John went to the restaurant.
+Where was John before the cellar? restaurant

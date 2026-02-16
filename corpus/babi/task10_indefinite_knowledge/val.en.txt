@@ -1,0 +1,799 @@
+Bill is either in the hallway or the playground.
+Lucy is in the studio.
+Is Lucy in the restaurant? no
+
+Kate is either in the kitchen or the park.
+John is in the studio.
+Is Kate in the kitchen? maybe
+
+Frank is either in the hallway or the studio.
+Bill is in the market.
+Is Bill in the market? yes
+
+Mary is either in the restaurant or the bathroom.
+Eve is in the hallway.
+Is Eve in the hallway? yes
+
+Ann is either in the studio or the market.
+Kate is in the school.
+Is Kate in the restaurant? no
+
+Tom is either in the park or the market.
+David is in the market.
+Is David in the hallway? no
+
+Sandra is either in the office or the garden.
+Sam is in the market.
+Is Sam in the market? yes
+
+Sam is either in the studio or the hallway.
+Eve is in the garden.
+Is Eve in the playground? no
+
+Kate is either in the kitchen or the restaurant.
+Sam is in the school.
+Is Sam in the park? no
+
+Eve is either in the kitchen or the garden.
+Ann is in the school.
+Is Ann in the school? yes
+
+Bob is either in the bathroom or the hallway.
+Daniel is in the office.
+Is Daniel in the park? no
+
+Daniel is either in the bedroom or the playground.
+Susan is in the studio.
+Is Susan in the kitchen? no
+
+Nina is either in the studio or the restaurant.
+Bob is in the garden.
+Is Bob in the kitchen? no
+
+Eve is either in the bathroom or the school.
+Bob is in the bedroom.
+Is Bob in the playground? no
+
+Bob is either in the school or the bedroom.
+Tom is in the garden.
+Is Tom in the playground? no
+
+Mary is either in the school or the office.
+Kate is in the playground.
+Is Mary in the office? maybe
+
+Frank is either in the bedroom or the playground.
+Peter is in the park.
+Is Peter in the bedroom? no
+
+Frank is either in the playground or the market.
+Sandra is in the school.
+Is Sandra in the playground? no
+
+Mary is either in the garden or the restaurant.
+Ann is in the school.
+Is Mary in the garden? maybe
+
+John is either in the market or the restaurant.
+Lucy is in the bedroom.
+Is Lucy in the kitchen? no
+
+Frank is either in the office or the school.
+Lucy is in the school.
+Is Frank in the school? maybe
+
+Lucy is either in the market or the bathroom.
+Nina is in the playground.
+Is Nina in the playground? yes
+
+Peter is either in the office or the garden.
+Lucy is in the kitchen.
+Is Lucy in the kitchen? yes
+
+Tom is either in the office or the bathroom.
+Ann is in the garden.
+Is Ann in the garden? yes
+
+Ann is either in the kitchen or the restaurant.
+Rick is in the playground.
+Is Rick in the playground? yes
+
+David is either in the playground or the garden.
+Frank is in the restaurant.
+Is David in the garden? maybe
+
+Ann is either in the kitchen or the market.
+Peter is in the garden.
+Is Peter in the garden? yes
+
+Nina is either in the bathroom or the studio.
+Rick is in the studio.
+Is Rick in the restaurant? no
+
+Peter is either in the office or the market.
+David is in the restaurant.
+Is David in the restaurant? yes
+
+Lucy is either in the restaurant or the bathroom.
+Ann is in the garden.
+Is Lucy in the restaurant? maybe
+
+Nina is either in the restaurant or the park.
+Bob is in the park.
+Is Nina in the restaurant? maybe
+
+Tom is either in the hallway or the garden.
+Bill is in the school.
+Is Bill in the hallway? no
+
+Susan is either in the market or the park.
+Fred is in the hallway.
+Is Fred in the playground? no
+
+Eve is either in the bedroom or the hallway.
+Tom is in the restaurant.
+Is Tom in the restaurant? yes
+
+Sam is either in the hallway or the kitchen.
+Nina is in the restaurant.
+Is Sam in the kitchen? maybe
+
+Sandra is either in the garden or the restaurant.
+Frank is in the school.
+Is Frank in the school? yes
+
+Ann is either in the garden or the school.
+Tom is in the office.
+Is Tom in the school? no
+
+Bill is either in the bedroom or the studio.
+Mary is in the park.
+Is Bill in the studio? maybe
+
+Sam is either in the kitchen or the garden.
+Eve is in the playground.
+Is Eve in the playground? yes
+
+Frank is either in the studio or the office.
+Bill is in the studio.
+Is Bill in the studio? yes
+
+Lucy is either in the bedroom or the playground.
+Bill is in the market.
+Is Bill in the market? yes
+
+Nina is either in the garden or the studio.
+Tom is in the market.
+Is Tom in the market? yes
+
+Kate is either in the playground or the kitchen.
+Lucy is in the market.
+Is Lucy in the office? no
+
+Eve is either in the studio or the market.
+Mary is in the restaurant.
+Is Eve in the studio? maybe
+
+Sam is either in the studio or the kitchen.
+Daniel is in the studio.
+Is Daniel in the studio? yes
+
+Ann is either in the market or the playground.
+Mary is in the bedroom.
+Is Mary in the school? no
+
+Kate is either in the hallway or the garden.
+Fred is in the playground.
+Is Fred in the playground? yes
+
+Fred is either in the kitchen or the school.
+John is in the park.
+Is Fred in the kitchen? maybe
+
+Lucy is either in the garden or the restaurant.
+Susan is in the playground.
+Is Lucy in the garden? maybe
+
+Susan is either in the bedroom or the office.
+Alice is in the park.
+Is Alice in the kitchen? no
+
+Eve is either in the office or the park.
+Mary is in the garden.
+Is Eve in the park? maybe
+
+Susan is either in the kitchen or the bathroom.
+Lucy is in the bathroom.
+Is Lucy in the market? no
+
+Bill is either in the playground or the park.
+Ann is in the garden.
+Is Bill in the park? maybe
+
+Daniel is either in the hallway or the kitchen.
+Frank is in the park.
+Is Frank in the park? yes
+
+Susan is either in the studio or the market.
+Daniel is in the garden.
+Is Susan in the studio? maybe
+
+Fred is either in the garden or the market.
+Frank is in the playground.
+Is Fred in the garden? maybe
+
+Daniel is either in the playground or the park.
+Eve is in the playground.
+Is Eve in the playground? yes
+
+Nina is either in the market or the bedroom.
+David is in the kitchen.
+Is Nina in the bedroom? maybe
+
+Sandra is either in the school or the market.
+Susan is in the bathroom.
+Is Susan in the bathroom? yes
+
+John is either in the studio or the garden.
+Eve is in the office.
+Is John in the studio? maybe
+
+Daniel is either in the park or the bathroom.
+Susan is in the studio.
+Is Susan in the studio? yes
+
+Rick is either in the office or the bathroom.
+Susan is in the market.
+Is Susan in the school? no
+
+Nina is either in the kitchen or the bedroom.
+Rick is in the market.
+Is Rick in the studio? no
+
+Mary is either in the park or the playground.
+Sandra is in the restaurant.
+Is Sandra in the park? no
+
+Alice is either in the kitchen or the market.
+Daniel is in the hallway.
+Is Daniel in the school? no
+
+Sandra is either in the bedroom or the kitchen.
+Peter is in the garden.
+Is Peter in the garden? yes
+
+Nina is either in the bathroom or the kitchen.
+Mary is in the office.
+Is Mary in the park? no
+
+Alice is either in the restaurant or the bathroom.
+David is in the bathroom.
+Is David in the park? no
+
+Susan is either in the restaurant or the studio.
+Bill is in the bathroom.
+Is Susan in the studio? maybe
+
+Susan is either in the playground or the hallway.
+Fred is in the bedroom.
+Is Fred in the bedroom? yes
+
+Alice is either in the bedroom or the garden.
+Fred is in the bedroom.
+Is Alice in the bedroom? maybe
+
+Sam is either in the studio or the office.
+Mary is in the market.
+Is Mary in the market? yes
+
+Mary is either in the school or the park.
+Frank is in the park.
+Is Mary in the park? maybe
+
+Peter is either in the restaurant or the bathroom.
+Ann is in the kitchen.
+Is Peter in the bathroom? maybe
+
+Rick is either in the bathroom or the school.
+Mary is in the garden.
+Is Mary in the kitchen? no
+
+Frank is either in the bathroom or the restaurant.
+Alice is in the bedroom.
+Is Frank in the bathroom? maybe
+
+Mary is either in the park or the kitchen.
+Bill is in the studio.
+Is Bill in the school? no
+
+Kate is either in the bathroom or the school.
+Bob is in the kitchen.
+Is Bob in the studio? no
+
+Alice is either in the garden or the market.
+Nina is in the hallway.
+Is Nina in the hallway? yes
+
+John is either in the park or the school.
+Sandra is in the restaurant.
+Is John in the park? maybe
+
+Nina is either in the office or the studio.
+John is in the market.
+Is John in the market? yes
+
+John is either in the kitchen or the office.
+Daniel is in the park.
+Is Daniel in the park? yes
+
+Kate is either in the park or the hallway.
+Mary is in the park.
+Is Mary in the market? no
+
+Rick is either in the hallway or the playground.
+Mary is in the school.
+Is Mary in the school? yes
+
+Bob is either in the studio or the garden.
+Mary is in the studio.
+Is Mary in the bathroom? no
+
+Ann is either in the school or the park.
+Susan is in the hallway.
+Is Susan in the playground? no
+
+Kate is either in the kitchen or the restaurant.
+Tom is in the bedroom.
+Is Kate in the restaurant? maybe
+
+David is either in the bedroom or the restaurant.
+Fred is in the hallway.
+Is David in the restaurant? maybe
+
+Peter is either in the studio or the market.
+Mary is in the market.
+Is Peter in the studio? maybe
+
+Frank is either in the bathroom or the restaurant.
+Peter is in the market.
+Is Peter in the garden? no
+
+Sam is either in the studio or the school.
+Bill is in the studio.
+Is Bill in the studio? yes
+
+Sandra is either in the school or the bedroom.
+David is in the garden.
+Is David in the garden? yes
+
+Bill is either in the kitchen or the market.
+Kate is in the bathroom.
+Is Kate in the playground? no
+
+Kate is either in the restaurant or the school.
+Bill is in the restaurant.
+Is Bill in the restaurant? yes
+
+Eve is either in the kitchen or the garden.
+Mary is in the school.
+Is Eve in the kitchen? maybe
+
+David is either in the bathroom or the market.
+Nina is in the studio.
+Is Nina in the school? no
+
+Mary is either in the bathroom or the office.
+Sam is in the bedroom.
+Is Mary in the office? maybe
+
+Rick is either in the bathroom or the bedroom.
+Daniel is in the bathroom.
+Is Rick in the bedroom? maybe
+
+Mary is either in the park or the market.
+Tom is in the garden.
+Is Tom in the garden? yes
+
+David is either in the bathroom or the school.
+Nina is in the school.
+Is Nina in the studio? no
+
+Alice is either in the bedroom or the bathroom.
+Bob is in the bathroom.
+Is Bob in the bathroom? yes
+
+Rick is either in the kitchen or the studio.
+Frank is in the studio.
+Is Rick in the studio? maybe
+
+Rick is either in the kitchen or the market.
+Kate is in the office.
+Is Kate in the studio? no
+
+Sam is either in the market or the studio.
+Alice is in the garden.
+Is Sam in the studio? maybe
+
+Bill is either in the bedroom or the school.
+Ann is in the restaurant.
+Is Ann in the restaurant? yes
+
+Bill is either in the studio or the park.
+Sandra is in the market.
+Is Sandra in the studio? no
+
+Sam is either in the bathroom or the hallway.
+Kate is in the bathroom.
+Is Kate in the bathroom? yes
+
+Frank is either in the school or the office.
+Lucy is in the playground.
+Is Frank in the school? maybe
+
+Nina is either in the bathroom or the studio.
+Ann is in the kitchen.
+Is Ann in the kitchen? yes
+
+Frank is either in the park or the restaurant.
+Nina is in the school.
+Is Nina in the park? no
+
+Lucy is either in the hallway or the bathroom.
+Mary is in the office.
+Is Mary in the office? yes
+
+Alice is either in the playground or the restaurant.
+David is in the market.
+Is Alice in the restaurant? maybe
+
+Bob is either in the garden or the school.
+Sandra is in the kitchen.
+Is Sandra in the kitchen? yes
+
+Sam is either in the office or the market.
+Rick is in the office.
+Is Sam in the office? maybe
+
+Mary is either in the school or the park.
+David is in the park.
+Is David in the restaurant? no
+
+Bill is either in the bedroom or the park.
+Ann is in the bathroom.
+Is Bill in the bedroom? maybe
+
+Kate is either in the hallway or the restaurant.
+Ann is in the school.
+Is Ann in the park? no
+
+Frank is either in the bathroom or the hallway.
+Sandra is in the hallway.
+Is Sandra in the kitchen? no
+
+Tom is either in the office or the kitchen.
+Fred is in the hallway.
+Is Fred in the school? no
+
+Kate is either in the market or the park.
+Frank is in the restaurant.
+Is Frank in the restaurant? yes
+
+Fred is either in the bedroom or the restaurant.
+Mary is in the school.
+Is Mary in the school? yes
+
+Lucy is either in the garden or the playground.
+Sam is in the park.
+Is Lucy in the garden? maybe
+
+Fred is either in the garden or the bedroom.
+Nina is in the garden.
+Is Nina in the bathroom? no
+
+Sandra is either in the kitchen or the bedroom.
+Bill is in the bathroom.
+Is Sandra in the bedroom? maybe
+
+Sam is either in the market or the playground.
+Kate is in the garden.
+Is Kate in the garden? yes
+
+Ann is either in the school or the park.
+Mary is in the park.
+Is Ann in the school? maybe
+
+Daniel is either in the hallway or the garden.
+Frank is in the park.
+Is Frank in the bathroom? no
+
+Sam is either in the park or the market.
+David is in the hallway.
+Is Sam in the market? maybe
+
+Ann is either in the office or the bathroom.
+Nina is in the kitchen.
+Is Nina in the playground? no
+
+Lucy is either in the playground or the school.
+Kate is in the studio.
+Is Kate in the hallway? no
+
+Fred is either in the office or the market.
+John is in the hallway.
+Is John in the hallway? yes
+
+Lucy is either in the bathroom or the bedroom.
+Eve is in the studio.
+Is Eve in the hallway? no
+
+Eve is either in the park or the kitchen.
+Fred is in the bathroom.
+Is Fred in the bedroom? no
+
+Daniel is either in the restaurant or the bathroom.
+David is in the hallway.
+Is David in the hallway? yes
+
+Peter is either in the garden or the playground.
+Alice is in the school.
+Is Alice in the school? yes
+
+Susan is either in the playground or the kitchen.
+Sam is in the hallway.
+Is Susan in the kitchen? maybe
+
+Rick is either in the park or the kitchen.
+Lucy is in the kitchen.
+Is Rick in the park? maybe
+
+Nina is either in the garden or the restaurant.
+Bill is in the playground.
+Is Bill in the playground? yes
+
+Tom is either in the bedroom or the restaurant.
+Bill is in the kitchen.
+Is Bill in the kitchen? yes
+
+David is either in the playground or the park.
+Bob is in the bedroom.
+Is David in the playground? maybe
+
+Tom is either in the bedroom or the bathroom.
+Nina is in the restaurant.
+Is Tom in the bedroom? maybe
+
+John is either in the park or the office.
+Ann is in the hallway.
+Is John in the park? maybe
+
+Lucy is either in the bathroom or the school.
+Sam is in the bathroom.
+Is Lucy in the bathroom? maybe
+
+Mary is either in the bathroom or the market.
+Sandra is in the market.
+Is Mary in the bathroom? maybe
+
+Eve is either in the park or the playground.
+John is in the garden.
+Is John in the park? no
+
+Sandra is either in the playground or the park.
+Sam is in the park.
+Is Sandra in the playground? maybe
+
+Peter is either in the bedroom or the kitchen.
+Rick is in the park.
+Is Rick in the park? yes
+
+Lucy is either in the hallway or the bathroom.
+Sam is in the garden.
+Is Sam in the garden? yes
+
+Sandra is either in the garden or the bathroom.
+Peter is in the park.
+Is Sandra in the bathroom? maybe
+
+Daniel is either in the bedroom or the office.
+Fred is in the garden.
+Is Fred in the garden? yes
+
+Tom is either in the market or the school.
+Rick is in the market.
+Is Rick in the market? yes
+
+Mary is either in the park or the playground.
+Fred is in the market.
+Is Fred in the playground? no
+
+Kate is either in the studio or the garden.
+Mary is in the office.
+Is Kate in the garden? maybe
+
+Sandra is either in the kitchen or the bedroom.
+Alice is in the school.
+Is Alice in the school? yes
+
+Tom is either in the bathroom or the market.
+Lucy is in the kitchen.
+Is Tom in the market? maybe
+
+Tom is either in the market or the kitchen.
+Susan is in the playground.
+Is Susan in the park? no
+
+Mary is either in the school or the bathroom.
+Kate is in the bathroom.
+Is Kate in the bathroom? yes
+
+Kate is either in the playground or the school.
+Lucy is in the bedroom.
+Is Lucy in the bedroom? yes
+
+Alice is either in the garden or the bathroom.
+Bill is in the kitchen.
+Is Bill in the kitchen? yes
+
+Sam is either in the garden or the bedroom.
+Tom is in the studio.
+Is Tom in the studio? yes
+
+Kate is either in the garden or the park.
+Ann is in the restaurant.
+Is Ann in the restaurant? yes
+
+Sam is either in the park or the bedroom.
+Kate is in the studio.
+Is Sam in the bedroom? maybe
+
+Sam is either in the garden or the school.
+Susan is in the park.
+Is Susan in the park? yes
+
+Nina is either in the studio or the park.
+Frank is in the bedroom.
+Is Frank in the playground? no
+
+Lucy is either in the garden or the office.
+Frank is in the studio.
+Is Frank in the studio? yes
+
+Susan is either in the hallway or the office.
+Lucy is in the hallway.
+Is Susan in the office? maybe
+
+Rick is either in the restaurant or the hallway.
+Tom is in the bathroom.
+Is Rick in the restaurant? maybe
+
+Mary is either in the restaurant or the school.
+Ann is in the hallway.
+Is Ann in the hallway? yes
+
+Lucy is either in the hallway or the office.
+Peter is in the market.
+Is Peter in the garden? no
+
+John is either in the studio or the bedroom.
+Bob is in the bathroom.
+Is Bob in the school? no
+
+Ann is either in the restaurant or the kitchen.
+Bill is in the market.
+Is Bill in the market? yes
+
+Kate is either in the kitchen or the school.
+Sandra is in the market.
+Is Sandra in the kitchen? no
+
+Susan is either in the market or the bedroom.
+Nina is in the office.
+Is Susan in the market? maybe
+
+Bob is either in the market or the park.
+Alice is in the park.
+Is Alice in the garden? no
+
+Frank is either in the park or the office.
+Eve is in the restaurant.
+Is Frank in the office? maybe
+
+Frank is either in the market or the studio.
+Alice is in the school.
+Is Alice in the office? no
+
+Lucy is either in the kitchen or the bedroom.
+David is in the hallway.
+Is Lucy in the kitchen? maybe
+
+Ann is either in the restaurant or the park.
+Frank is in the bedroom.
+Is Ann in the restaurant? maybe
+
+Sam is either in the bedroom or the playground.
+Bill is in the garden.
+Is Bill in the garden? yes
+
+Eve is either in the kitchen or the bedroom.
+Sam is in the bathroom.
+Is Eve in the bedroom? maybe
+
+Sandra is either in the garden or the office.
+Bob is in the garden.
+Is Bob in the garden? yes
+
+Alice is either in the studio or the bathroom.
+Rick is in the hallway.
+Is Rick in the hallway? yes
+
+Mary is either in the office or the kitchen.
+John is in the market.
+Is John in the market? yes
+
+Bob is either in the playground or the kitchen.
+Sam is in the park.
+Is Sam in the park? yes
+
+Bill is either in the studio or the park.
+Sandra is in the school.
+Is Sandra in the school? yes
+
+Rick is either in the market or the park.
+Kate is in the park.
+Is Kate in the park? yes
+
+Rick is either in the hallway or the park.
+Bob is in the restaurant.
+Is Bob in the bedroom? no
+
+Sandra is either in the playground or the office.
+Bob is in the restaurant.
+Is Bob in the bathroom? no
+
+Nina is either in the park or the market.
+Bill is in the bathroom.
+Is Nina in the market? maybe
+
+Peter is either in the restaurant or the school.
+John is in the market.
+Is John in the market? yes
+
+Lucy is either in the park or the hallway.
+Alice is in the market.
+Is Alice in the garden? no
+
+David is either in the playground or the studio.
+Sam is in the restaurant.
+Is Sam in the restaurant? yes
+
+Bill is either in the office or the market.
+Alice is in the playground.
+Is Alice in the hallway? no
+
+Nina is either in the hallway or the market.
+Bob is in the playground.
+Is Nina in the hallway? maybe
+
+Alice is either in the park or the kitchen.
+Bob is in the bedroom.
+Is Bob in the park? no
+
+Susan is either in the market or the hallway.
+Kate is in the market.
+Is Susan in the market? maybe
+
+Alice is either in the studio or the restaurant.
+Rick is in the garden.
+Is Rick in the garden? yes
+
+Lucy is either in the bathroom or the restaurant.
+Daniel is in the office.
+Is Lucy in the bathroom? maybe
+
+Alice is either in the restaurant or the studio.
+Rick is in the bathroom.
+Is Rick in the garden? no
+
+Tom is either in the studio or the kitchen.
+Rick is in the office.
+Is Tom in the studio? maybe

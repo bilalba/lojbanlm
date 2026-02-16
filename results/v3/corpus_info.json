@@ -1,0 +1,32 @@
+{
+  "train_books": [
+    "alice_in_wonderland",
+    "wizard_of_oz",
+    "esther",
+    "in_a_grove"
+  ],
+  "test_book": "metamorphosis",
+  "narrative_chars_per_language": 407194,
+  "babi_tasks_used": [
+    1,
+    6
+  ],
+  "english_babi_chars": 223211,
+  "lojban_babi_chars": 271202,
+  "english_combined_chars": 630407,
+  "lojban_combined_chars": 678398,
+  "english_vocab_size": 85,
+  "lojban_vocab_size": 73,
+  "english_train_tokens": 567366,
+  "english_val_tokens": 31520,
+  "english_prompt_tokens": 31521,
+  "lojban_train_tokens": 610558,
+  "lojban_val_tokens": 33920,
+  "lojban_prompt_tokens": 33920,
+  "english_test_chars": 121301,
+  "english_test_tokens": 121301,
+  "english_test_coverage": 1.0,
+  "lojban_test_chars": 114157,
+  "lojban_test_tokens": 114153,
+  "lojban_test_coverage": 1.0
+}

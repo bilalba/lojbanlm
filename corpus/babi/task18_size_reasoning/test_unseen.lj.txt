@@ -1,0 +1,799 @@
+lo dakli cu se vasru lo dakfu
+lo dakfu cu se vasru lo kabri
+xu lo dakli cu se vasru lo kabri? go'i
+
+lo kabri cu se vasru lo djine
+lo djine cu se vasru lo tanxe
+xu lo kabri cu se vasru lo tanxe? go'i
+
+lo ckiku cu se vasru lo djine
+lo djine cu se vasru lo cukta
+xu lo cukta cu se vasru lo ckiku? na go'i
+
+lo tanxe cu se vasru lo dakfu
+lo dakfu cu se vasru lo sicni
+xu lo sicni cu se vasru lo tanxe? na go'i
+
+lo cutci cu se vasru lo sicni
+lo sicni cu se vasru lo plise
+xu lo plise cu se vasru lo cutci? na go'i
+
+lo ladru cu se vasru lo dakli
+lo dakli cu se vasru lo djine
+xu lo dakli cu se vasru lo djine? go'i
+
+lo cutci cu se vasru lo djine
+lo djine cu se vasru lo ckiku
+xu lo djine cu se vasru lo ckiku? go'i
+
+lo dakfu cu se vasru lo cutci
+lo cutci cu se vasru lo ladru
+xu lo dakfu cu se vasru lo ladru? go'i
+
+lo dakfu cu se vasru lo plise
+lo plise cu se vasru lo penbi
+xu lo penbi cu se vasru lo dakfu? na go'i
+
+lo ladru cu se vasru lo plise
+lo plise cu se vasru lo dakfu
+xu lo plise cu se vasru lo dakfu? go'i
+
+lo sicni cu se vasru lo dakfu
+lo dakfu cu se vasru lo cutci
+xu lo dakfu cu se vasru lo cutci? go'i
+
+lo ladru cu se vasru lo kabri
+lo kabri cu se vasru lo sicni
+xu lo kabri cu se vasru lo sicni? go'i
+
+lo plise cu se vasru lo tanxe
+lo tanxe cu se vasru lo sicni
+xu lo tanxe cu se vasru lo sicni? go'i
+
+lo botpi cu se vasru lo djine
+lo djine cu se vasru lo kabri
+xu lo djine cu se vasru lo kabri? go'i
+
+lo mapku cu se vasru lo penbi
+lo penbi cu se vasru lo sicni
+xu lo penbi cu se vasru lo sicni? go'i
+
+lo dakfu cu se vasru lo djine
+lo djine cu se vasru lo dakli
+xu lo dakli cu se vasru lo dakfu? na go'i
+
+lo mapku cu se vasru lo bolci
+lo bolci cu se vasru lo dakfu
+xu lo dakfu cu se vasru lo mapku? na go'i
+
+lo cutci cu se vasru lo ladru
+lo ladru cu se vasru lo sicni
+xu lo sicni cu se vasru lo cutci? na go'i
+
+lo dakfu cu se vasru lo tanxe
+lo tanxe cu se vasru lo dakli
+xu lo dakfu cu se vasru lo dakli? go'i
+
+lo sicni cu se vasru lo cukta
+lo cukta cu se vasru lo dakfu
+xu lo dakfu cu se vasru lo sicni? na go'i
+
+lo mapku cu se vasru lo tanxe
+lo tanxe cu se vasru lo djine
+xu lo tanxe cu se vasru lo djine? go'i
+
+lo sicni cu se vasru lo dakfu
+lo dakfu cu se vasru lo mapku
+xu lo mapku cu se vasru lo sicni? na go'i
+
+lo plise cu se vasru lo djine
+lo djine cu se vasru lo kabri
+xu lo djine cu se vasru lo kabri? go'i
+
+lo dakli cu se vasru lo ckiku
+lo ckiku cu se vasru lo djine
+xu lo dakli cu se vasru lo djine? go'i
+
+lo djine cu se vasru lo tanxe
+lo tanxe cu se vasru lo botpi
+xu lo djine cu se vasru lo botpi? go'i
+
+lo djine cu se vasru lo penbi
+lo penbi cu se vasru lo plise
+xu lo djine cu se vasru lo plise? go'i
+
+lo tanxe cu se vasru lo sicni
+lo sicni cu se vasru lo plise
+xu lo plise cu se vasru lo tanxe? na go'i
+
+lo dakfu cu se vasru lo bolci
+lo bolci cu se vasru lo mapku
+xu lo dakfu cu se vasru lo mapku? go'i
+
+lo plise cu se vasru lo botpi
+lo botpi cu se vasru lo sicni
+xu lo sicni cu se vasru lo plise? na go'i
+
+lo dakfu cu se vasru lo djine
+lo djine cu se vasru lo cukta
+xu lo dakfu cu se vasru lo cukta? go'i
+
+lo kabri cu se vasru lo djine
+lo djine cu se vasru lo dakli
+xu lo dakli cu se vasru lo kabri? na go'i
+
+lo sicni cu se vasru lo tanxe
+lo tanxe cu se vasru lo dakfu
+xu lo sicni cu se vasru lo dakfu? go'i
+
+lo cukta cu se vasru lo sicni
+lo sicni cu se vasru lo bolci
+xu lo bolci cu se vasru lo cukta? na go'i
+
+lo mapku cu se vasru lo plise
+lo plise cu se vasru lo sicni
+xu lo sicni cu se vasru lo mapku? na go'i
+
+lo sicni cu se vasru lo botpi
+lo botpi cu se vasru lo penbi
+xu lo sicni cu se vasru lo penbi? go'i
+
+lo plise cu se vasru lo dakli
+lo dakli cu se vasru lo sicni
+xu lo plise cu se vasru lo sicni? go'i
+
+lo plise cu se vasru lo botpi
+lo botpi cu se vasru lo djine
+xu lo djine cu se vasru lo plise? na go'i
+
+lo djine cu se vasru lo kabri
+lo kabri cu se vasru lo ladru
+xu lo ladru cu se vasru lo djine? na go'i
+
+lo tanxe cu se vasru lo dakfu
+lo dakfu cu se vasru lo ckiku
+xu lo ckiku cu se vasru lo tanxe? na go'i
+
+lo dakfu cu se vasru lo ladru
+lo ladru cu se vasru lo djine
+xu lo djine cu se vasru lo dakfu? na go'i
+
+lo dakli cu se vasru lo dakfu
+lo dakfu cu se vasru lo kabri
+xu lo kabri cu se vasru lo dakli? na go'i
+
+lo cutci cu se vasru lo djine
+lo djine cu se vasru lo sicni
+xu lo djine cu se vasru lo sicni? go'i
+
+lo ckiku cu se vasru lo mapku
+lo mapku cu se vasru lo dakfu
+xu lo dakfu cu se vasru lo ckiku? na go'i
+
+lo dakli cu se vasru lo sicni
+lo sicni cu se vasru lo ckiku
+xu lo sicni cu se vasru lo ckiku? go'i
+
+lo botpi cu se vasru lo ladru
+lo ladru cu se vasru lo sicni
+xu lo botpi cu se vasru lo sicni? go'i
+
+lo djine cu se vasru lo penbi
+lo penbi cu se vasru lo dakfu
+xu lo dakfu cu se vasru lo djine? na go'i
+
+lo sicni cu se vasru lo tanxe
+lo tanxe cu se vasru lo kabri
+xu lo kabri cu se vasru lo sicni? na go'i
+
+lo sicni cu se vasru lo cukta
+lo cukta cu se vasru lo mapku
+xu lo mapku cu se vasru lo sicni? na go'i
+
+lo djine cu se vasru lo sicni
+lo sicni cu se vasru lo bolci
+xu lo bolci cu se vasru lo djine? na go'i
+
+lo bolci cu se vasru lo sicni
+lo sicni cu se vasru lo plise
+xu lo sicni cu se vasru lo plise? go'i
+
+lo djine cu se vasru lo mapku
+lo mapku cu se vasru lo cutci
+xu lo mapku cu se vasru lo cutci? go'i
+
+lo penbi cu se vasru lo dakfu
+lo dakfu cu se vasru lo tanxe
+xu lo penbi cu se vasru lo tanxe? go'i
+
+lo ladru cu se vasru lo tanxe
+lo tanxe cu se vasru lo sicni
+xu lo tanxe cu se vasru lo sicni? go'i
+
+lo botpi cu se vasru lo ladru
+lo ladru cu se vasru lo dakfu
+xu lo dakfu cu se vasru lo botpi? na go'i
+
+lo cukta cu se vasru lo dakfu
+lo dakfu cu se vasru lo djine
+xu lo djine cu se vasru lo cukta? na go'i
+
+lo dakfu cu se vasru lo kabri
+lo kabri cu se vasru lo ladru
+xu lo dakfu cu se vasru lo ladru? go'i
+
+lo djine cu se vasru lo dakfu
+lo dakfu cu se vasru lo ckiku
+xu lo dakfu cu se vasru lo ckiku? go'i
+
+lo cutci cu se vasru lo dakfu
+lo dakfu cu se vasru lo penbi
+xu lo penbi cu se vasru lo cutci? na go'i
+
+lo djine cu se vasru lo dakfu
+lo dakfu cu se vasru lo tanxe
+xu lo dakfu cu se vasru lo tanxe? go'i
+
+lo plise cu se vasru lo dakfu
+lo dakfu cu se vasru lo djine
+xu lo djine cu se vasru lo plise? na go'i
+
+lo mapku cu se vasru lo djine
+lo djine cu se vasru lo penbi
+xu lo djine cu se vasru lo penbi? go'i
+
+lo sicni cu se vasru lo mapku
+lo mapku cu se vasru lo dakli
+xu lo sicni cu se vasru lo dakli? go'i
+
+lo bolci cu se vasru lo djine
+lo djine cu se vasru lo penbi
+xu lo bolci cu se vasru lo penbi? go'i
+
+lo sicni cu se vasru lo ladru
+lo ladru cu se vasru lo dakli
+xu lo sicni cu se vasru lo dakli? go'i
+
+lo plise cu se vasru lo sicni
+lo sicni cu se vasru lo bolci
+xu lo bolci cu se vasru lo plise? na go'i
+
+lo sicni cu se vasru lo botpi
+lo botpi cu se vasru lo dakfu
+xu lo sicni cu se vasru lo dakfu? go'i
+
+lo dakfu cu se vasru lo cukta
+lo cukta cu se vasru lo bolci
+xu lo bolci cu se vasru lo dakfu? na go'i
+
+lo sicni cu se vasru lo dakli
+lo dakli cu se vasru lo penbi
+xu lo dakli cu se vasru lo penbi? go'i
+
+lo sicni cu se vasru lo mapku
+lo mapku cu se vasru lo ladru
+xu lo sicni cu se vasru lo ladru? go'i
+
+lo sicni cu se vasru lo ladru
+lo ladru cu se vasru lo botpi
+xu lo ladru cu se vasru lo botpi? go'i
+
+lo ckiku cu se vasru lo ladru
+lo ladru cu se vasru lo sicni
+xu lo ladru cu se vasru lo sicni? go'i
+
+lo dakli cu se vasru lo djine
+lo djine cu se vasru lo ckiku
+xu lo ckiku cu se vasru lo dakli? na go'i
+
+lo dakfu cu se vasru lo mapku
+lo mapku cu se vasru lo kabri
+xu lo kabri cu se vasru lo dakfu? na go'i
+
+lo dakli cu se vasru lo djine
+lo djine cu se vasru lo ckiku
+xu lo djine cu se vasru lo ckiku? go'i
+
+lo dakfu cu se vasru lo botpi
+lo botpi cu se vasru lo mapku
+xu lo dakfu cu se vasru lo mapku? go'i
+
+lo dakfu cu se vasru lo dakli
+lo dakli cu se vasru lo mapku
+xu lo mapku cu se vasru lo dakfu? na go'i
+
+lo sicni cu se vasru lo cukta
+lo cukta cu se vasru lo dakli
+xu lo dakli cu se vasru lo sicni? na go'i
+
+lo sicni cu se vasru lo cukta
+lo cukta cu se vasru lo dakfu
+xu lo sicni cu se vasru lo dakfu? go'i
+
+lo botpi cu se vasru lo penbi
+lo penbi cu se vasru lo djine
+xu lo penbi cu se vasru lo djine? go'i
+
+lo sicni cu se vasru lo ladru
+lo ladru cu se vasru lo tanxe
+xu lo tanxe cu se vasru lo sicni? na go'i
+
+lo djine cu se vasru lo tanxe
+lo tanxe cu se vasru lo ckiku
+xu lo ckiku cu se vasru lo djine? na go'i
+
+lo djine cu se vasru lo cukta
+lo cukta cu se vasru lo tanxe
+xu lo tanxe cu se vasru lo djine? na go'i
+
+lo sicni cu se vasru lo dakli
+lo dakli cu se vasru lo bolci
+xu lo bolci cu se vasru lo sicni? na go'i
+
+lo djine cu se vasru lo penbi
+lo penbi cu se vasru lo ckiku
+xu lo ckiku cu se vasru lo djine? na go'i
+
+lo djine cu se vasru lo mapku
+lo mapku cu se vasru lo kabri
+xu lo djine cu se vasru lo kabri? go'i
+
+lo ladru cu se vasru lo cutci
+lo cutci cu se vasru lo djine
+xu lo djine cu se vasru lo ladru? na go'i
+
+lo tanxe cu se vasru lo cukta
+lo cukta cu se vasru lo sicni
+xu lo cukta cu se vasru lo sicni? go'i
+
+lo dakli cu se vasru lo ladru
+lo ladru cu se vasru lo dakfu
+xu lo dakfu cu se vasru lo dakli? na go'i
+
+lo plise cu se vasru lo djine
+lo djine cu se vasru lo cutci
+xu lo cutci cu se vasru lo plise? na go'i
+
+lo plise cu se vasru lo sicni
+lo sicni cu se vasru lo tanxe
+xu lo plise cu se vasru lo tanxe? go'i
+
+lo plise cu se vasru lo penbi
+lo penbi cu se vasru lo djine
+xu lo plise cu se vasru lo djine? go'i
+
+lo bolci cu se vasru lo djine
+lo djine cu se vasru lo ladru
+xu lo ladru cu se vasru lo bolci? na go'i
+
+lo sicni cu se vasru lo mapku
+lo mapku cu se vasru lo plise
+xu lo mapku cu se vasru lo plise? go'i
+
+lo sicni cu se vasru lo ckiku
+lo ckiku cu se vasru lo penbi
+xu lo sicni cu se vasru lo penbi? go'i
+
+lo djine cu se vasru lo bolci
+lo bolci cu se vasru lo cutci
+xu lo bolci cu se vasru lo cutci? go'i
+
+lo dakfu cu se vasru lo tanxe
+lo tanxe cu se vasru lo djine
+xu lo djine cu se vasru lo dakfu? na go'i
+
+lo dakfu cu se vasru lo cukta
+lo cukta cu se vasru lo bolci
+xu lo cukta cu se vasru lo bolci? go'i
+
+lo ckiku cu se vasru lo sicni
+lo sicni cu se vasru lo dakli
+xu lo sicni cu se vasru lo dakli? go'i
+
+lo dakfu cu se vasru lo tanxe
+lo tanxe cu se vasru lo djine
+xu lo dakfu cu se vasru lo djine? go'i
+
+lo dakfu cu se vasru lo cukta
+lo cukta cu se vasru lo plise
+xu lo plise cu se vasru lo dakfu? na go'i
+
+lo botpi cu se vasru lo dakfu
+lo dakfu cu se vasru lo plise
+xu lo botpi cu se vasru lo plise? go'i
+
+lo sicni cu se vasru lo kabri
+lo kabri cu se vasru lo tanxe
+xu lo kabri cu se vasru lo tanxe? go'i
+
+lo bolci cu se vasru lo penbi
+lo penbi cu se vasru lo sicni
+xu lo sicni cu se vasru lo bolci? na go'i
+
+lo sicni cu se vasru lo penbi
+lo penbi cu se vasru lo dakli
+xu lo penbi cu se vasru lo dakli? go'i
+
+lo cukta cu se vasru lo mapku
+lo mapku cu se vasru lo dakfu
+xu lo cukta cu se vasru lo dakfu? go'i
+
+lo dakfu cu se vasru lo cukta
+lo cukta cu se vasru lo tanxe
+xu lo cukta cu se vasru lo tanxe? go'i
+
+lo djine cu se vasru lo mapku
+lo mapku cu se vasru lo dakli
+xu lo mapku cu se vasru lo dakli? go'i
+
+lo djine cu se vasru lo penbi
+lo penbi cu se vasru lo cutci
+xu lo penbi cu se vasru lo cutci? go'i
+
+lo cutci cu se vasru lo sicni
+lo sicni cu se vasru lo mapku
+xu lo cutci cu se vasru lo mapku? go'i
+
+lo mapku cu se vasru lo sicni
+lo sicni cu se vasru lo kabri
+xu lo kabri cu se vasru lo mapku? na go'i
+
+lo ladru cu se vasru lo djine
+lo djine cu se vasru lo cutci
+xu lo ladru cu se vasru lo cutci? go'i
+
+lo sicni cu se vasru lo bolci
+lo bolci cu se vasru lo ladru
+xu lo sicni cu se vasru lo ladru? go'i
+
+lo djine cu se vasru lo ladru
+lo ladru cu se vasru lo penbi
+xu lo djine cu se vasru lo penbi? go'i
+
+lo dakfu cu se vasru lo mapku
+lo mapku cu se vasru lo cutci
+xu lo mapku cu se vasru lo cutci? go'i
+
+lo bolci cu se vasru lo botpi
+lo botpi cu se vasru lo dakfu
+xu lo bolci cu se vasru lo dakfu? go'i
+
+lo bolci cu se vasru lo dakfu
+lo dakfu cu se vasru lo dakli
+xu lo dakli cu se vasru lo bolci? na go'i
+
+lo mapku cu se vasru lo dakfu
+lo dakfu cu se vasru lo cukta
+xu lo cukta cu se vasru lo mapku? na go'i
+
+lo sicni cu se vasru lo ckiku
+lo ckiku cu se vasru lo plise
+xu lo ckiku cu se vasru lo plise? go'i
+
+lo plise cu se vasru lo sicni
+lo sicni cu se vasru lo cukta
+xu lo plise cu se vasru lo cukta? go'i
+
+lo ladru cu se vasru lo dakfu
+lo dakfu cu se vasru lo kabri
+xu lo dakfu cu se vasru lo kabri? go'i
+
+lo dakfu cu se vasru lo ckiku
+lo ckiku cu se vasru lo dakli
+xu lo ckiku cu se vasru lo dakli? go'i
+
+lo bolci cu se vasru lo cutci
+lo cutci cu se vasru lo djine
+xu lo cutci cu se vasru lo djine? go'i
+
+lo botpi cu se vasru lo djine
+lo djine cu se vasru lo mapku
+xu lo mapku cu se vasru lo botpi? na go'i
+
+lo penbi cu se vasru lo djine
+lo djine cu se vasru lo mapku
+xu lo mapku cu se vasru lo penbi? na go'i
+
+lo sicni cu se vasru lo djine
+lo djine cu se vasru lo tanxe
+xu lo sicni cu se vasru lo tanxe? go'i
+
+lo ladru cu se vasru lo dakfu
+lo dakfu cu se vasru lo dakli
+xu lo dakfu cu se vasru lo dakli? go'i
+
+lo penbi cu se vasru lo sicni
+lo sicni cu se vasru lo cukta
+xu lo penbi cu se vasru lo cukta? go'i
+
+lo dakfu cu se vasru lo cutci
+lo cutci cu se vasru lo botpi
+xu lo cutci cu se vasru lo botpi? go'i
+
+lo dakfu cu se vasru lo cutci
+lo cutci cu se vasru lo djine
+xu lo djine cu se vasru lo dakfu? na go'i
+
+lo sicni cu se vasru lo cutci
+lo cutci cu se vasru lo botpi
+xu lo sicni cu se vasru lo botpi? go'i
+
+lo ckiku cu se vasru lo tanxe
+lo tanxe cu se vasru lo sicni
+xu lo sicni cu se vasru lo ckiku? na go'i
+
+lo ladru cu se vasru lo sicni
+lo sicni cu se vasru lo bolci
+xu lo bolci cu se vasru lo ladru? na go'i
+
+lo dakfu cu se vasru lo sicni
+lo sicni cu se vasru lo mapku
+xu lo dakfu cu se vasru lo mapku? go'i
+
+lo djine cu se vasru lo cukta
+lo cukta cu se vasru lo penbi
+xu lo djine cu se vasru lo penbi? go'i
+
+lo botpi cu se vasru lo sicni
+lo sicni cu se vasru lo ladru
+xu lo sicni cu se vasru lo ladru? go'i
+
+lo cukta cu se vasru lo sicni
+lo sicni cu se vasru lo dakli
+xu lo sicni cu se vasru lo dakli? go'i
+
+lo djine cu se vasru lo plise
+lo plise cu se vasru lo cutci
+xu lo plise cu se vasru lo cutci? go'i
+
+lo penbi cu se vasru lo dakfu
+lo dakfu cu se vasru lo cukta
+xu lo dakfu cu se vasru lo cukta? go'i
+
+lo bolci cu se vasru lo ladru
+lo ladru cu se vasru lo sicni
+xu lo bolci cu se vasru lo sicni? go'i
+
+lo sicni cu se vasru lo penbi
+lo penbi cu se vasru lo cukta
+xu lo cukta cu se vasru lo sicni? na go'i
+
+lo sicni cu se vasru lo bolci
+lo bolci cu se vasru lo mapku
+xu lo bolci cu se vasru lo mapku? go'i
+
+lo ckiku cu se vasru lo dakfu
+lo dakfu cu se vasru lo botpi
+xu lo dakfu cu se vasru lo botpi? go'i
+
+lo sicni cu se vasru lo cutci
+lo cutci cu se vasru lo plise
+xu lo cutci cu se vasru lo plise? go'i
+
+lo djine cu se vasru lo botpi
+lo botpi cu se vasru lo dakfu
+xu lo dakfu cu se vasru lo djine? na go'i
+
+lo djine cu se vasru lo kabri
+lo kabri cu se vasru lo sicni
+xu lo djine cu se vasru lo sicni? go'i
+
+lo dakli cu se vasru lo dakfu
+lo dakfu cu se vasru lo cutci
+xu lo dakfu cu se vasru lo cutci? go'i
+
+lo ckiku cu se vasru lo sicni
+lo sicni cu se vasru lo ladru
+xu lo ckiku cu se vasru lo ladru? go'i
+
+lo sicni cu se vasru lo ladru
+lo ladru cu se vasru lo penbi
+xu lo ladru cu se vasru lo penbi? go'i
+
+lo cukta cu se vasru lo bolci
+lo bolci cu se vasru lo dakfu
+xu lo cukta cu se vasru lo dakfu? go'i
+
+lo botpi cu se vasru lo djine
+lo djine cu se vasru lo ladru
+xu lo ladru cu se vasru lo botpi? na go'i
+
+lo djine cu se vasru lo bolci
+lo bolci cu se vasru lo dakfu
+xu lo djine cu se vasru lo dakfu? go'i
+
+lo djine cu se vasru lo mapku
+lo mapku cu se vasru lo botpi
+xu lo mapku cu se vasru lo botpi? go'i
+
+lo mapku cu se vasru lo ckiku
+lo ckiku cu se vasru lo djine
+xu lo mapku cu se vasru lo djine? go'i
+
+lo sicni cu se vasru lo mapku
+lo mapku cu se vasru lo penbi
+xu lo penbi cu se vasru lo sicni? na go'i
+
+lo djine cu se vasru lo ckiku
+lo ckiku cu se vasru lo cutci
+xu lo cutci cu se vasru lo djine? na go'i
+
+lo dakfu cu se vasru lo dakli
+lo dakli cu se vasru lo ckiku
+xu lo dakfu cu se vasru lo ckiku? go'i
+
+lo kabri cu se vasru lo sicni
+lo sicni cu se vasru lo dakli
+xu lo kabri cu se vasru lo dakli? go'i
+
+lo tanxe cu se vasru lo ckiku
+lo ckiku cu se vasru lo dakfu
+xu lo dakfu cu se vasru lo tanxe? na go'i
+
+lo botpi cu se vasru lo dakfu
+lo dakfu cu se vasru lo plise
+xu lo plise cu se vasru lo botpi? na go'i
+
+lo sicni cu se vasru lo tanxe
+lo tanxe cu se vasru lo plise
+xu lo plise cu se vasru lo sicni? na go'i
+
+lo dakfu cu se vasru lo sicni
+lo sicni cu se vasru lo bolci
+xu lo sicni cu se vasru lo bolci? go'i
+
+lo dakfu cu se vasru lo kabri
+lo kabri cu se vasru lo djine
+xu lo djine cu se vasru lo dakfu? na go'i
+
+lo dakfu cu se vasru lo penbi
+lo penbi cu se vasru lo botpi
+xu lo penbi cu se vasru lo botpi? go'i
+
+lo sicni cu se vasru lo dakfu
+lo dakfu cu se vasru lo plise
+xu lo dakfu cu se vasru lo plise? go'i
+
+lo cukta cu se vasru lo penbi
+lo penbi cu se vasru lo djine
+xu lo penbi cu se vasru lo djine? go'i
+
+lo ladru cu se vasru lo cutci
+lo cutci cu se vasru lo djine
+xu lo ladru cu se vasru lo djine? go'i
+
+lo dakfu cu se vasru lo mapku
+lo mapku cu se vasru lo kabri
+xu lo mapku cu se vasru lo kabri? go'i
+
+lo dakfu cu se vasru lo djine
+lo djine cu se vasru lo ckiku
+xu lo ckiku cu se vasru lo dakfu? na go'i
+
+lo ladru cu se vasru lo djine
+lo djine cu se vasru lo dakli
+xu lo ladru cu se vasru lo dakli? go'i
+
+lo mapku cu se vasru lo ckiku
+lo ckiku cu se vasru lo sicni
+xu lo mapku cu se vasru lo sicni? go'i
+
+lo kabri cu se vasru lo dakfu
+lo dakfu cu se vasru lo penbi
+xu lo dakfu cu se vasru lo penbi? go'i
+
+lo dakfu cu se vasru lo bolci
+lo bolci cu se vasru lo kabri
+xu lo kabri cu se vasru lo dakfu? na go'i
+
+lo bolci cu se vasru lo sicni
+lo sicni cu se vasru lo ladru
+xu lo ladru cu se vasru lo bolci? na go'i
+
+lo cukta cu se vasru lo dakfu
+lo dakfu cu se vasru lo mapku
+xu lo mapku cu se vasru lo cukta? na go'i
+
+lo djine cu se vasru lo ladru
+lo ladru cu se vasru lo ckiku
+xu lo ladru cu se vasru lo ckiku? go'i
+
+lo dakfu cu se vasru lo bolci
+lo bolci cu se vasru lo tanxe
+xu lo tanxe cu se vasru lo dakfu? na go'i
+
+lo sicni cu se vasru lo ladru
+lo ladru cu se vasru lo bolci
+xu lo sicni cu se vasru lo bolci? go'i
+
+lo botpi cu se vasru lo sicni
+lo sicni cu se vasru lo mapku
+xu lo sicni cu se vasru lo mapku? go'i
+
+lo dakfu cu se vasru lo djine
+lo djine cu se vasru lo ladru
+xu lo djine cu se vasru lo ladru? go'i
+
+lo kabri cu se vasru lo cukta
+lo cukta cu se vasru lo sicni
+xu lo kabri cu se vasru lo sicni? go'i
+
+lo ckiku cu se vasru lo sicni
+lo sicni cu se vasru lo cutci
+xu lo sicni cu se vasru lo cutci? go'i
+
+lo djine cu se vasru lo cukta
+lo cukta cu se vasru lo sicni
+xu lo sicni cu se vasru lo djine? na go'i
+
+lo djine cu se vasru lo tanxe
+lo tanxe cu se vasru lo plise
+xu lo djine cu se vasru lo plise? go'i
+
+lo sicni cu se vasru lo tanxe
+lo tanxe cu se vasru lo penbi
+xu lo tanxe cu se vasru lo penbi? go'i
+
+lo djine cu se vasru lo plise
+lo plise cu se vasru lo sicni
+xu lo djine cu se vasru lo sicni? go'i
+
+lo djine cu se vasru lo plise
+lo plise cu se vasru lo kabri
+xu lo kabri cu se vasru lo djine? na go'i
+
+lo plise cu se vasru lo cutci
+lo cutci cu se vasru lo sicni
+xu lo plise cu se vasru lo sicni? go'i
+
+lo djine cu se vasru lo ladru
+lo ladru cu se vasru lo sicni
+xu lo sicni cu se vasru lo djine? na go'i
+
+lo penbi cu se vasru lo sicni
+lo sicni cu se vasru lo djine
+xu lo sicni cu se vasru lo djine? go'i
+
+lo ladru cu se vasru lo dakli
+lo dakli cu se vasru lo dakfu
+xu lo ladru cu se vasru lo dakfu? go'i
+
+lo ladru cu se vasru lo sicni
+lo sicni cu se vasru lo plise
+xu lo sicni cu se vasru lo plise? go'i
+
+lo dakfu cu se vasru lo dakli
+lo dakli cu se vasru lo djine
+xu lo dakfu cu se vasru lo djine? go'i
+
+lo penbi cu se vasru lo dakli
+lo dakli cu se vasru lo djine
+xu lo penbi cu se vasru lo djine? go'i
+
+lo cutci cu se vasru lo djine
+lo djine cu se vasru lo mapku
+xu lo djine cu se vasru lo mapku? go'i
+
+lo ckiku cu se vasru lo djine
+lo djine cu se vasru lo dakfu
+xu lo djine cu se vasru lo dakfu? go'i
+
+lo penbi cu se vasru lo dakfu
+lo dakfu cu se vasru lo djine
+xu lo dakfu cu se vasru lo djine? go'i
+
+lo sicni cu se vasru lo dakli
+lo dakli cu se vasru lo kabri
+xu lo kabri cu se vasru lo sicni? na go'i
+
+lo cutci cu se vasru lo dakfu
+lo dakfu cu se vasru lo dakli
+xu lo dakfu cu se vasru lo dakli? go'i
+
+lo dakfu cu se vasru lo ladru
+lo ladru cu se vasru lo bolci
+xu lo dakfu cu se vasru lo bolci? go'i
+
+lo ckiku cu se vasru lo dakfu
+lo dakfu cu se vasru lo dakli
+xu lo dakli cu se vasru lo ckiku? na go'i

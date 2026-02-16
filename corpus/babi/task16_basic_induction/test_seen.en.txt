@@ -1,0 +1,1107 @@
+Peter is a horse. Peter is blue.
+Frank is a horse. Frank is blue.
+David is a horse.
+What color is David? blue
+
+Eve is a fish. Eve is green.
+Ann is a fish. Ann is green.
+Sandra is a fish.
+What color is Sandra? green
+
+Eve is a cat. Eve is blue.
+Bill is a cat. Bill is blue.
+Alice is a cat. Alice is blue.
+Fred is a cat.
+What color is Fred? blue
+
+Eve is a horse. Eve is black.
+David is a horse. David is black.
+Frank is a horse. Frank is black.
+Fred is a horse.
+What color is Fred? black
+
+Eve is a sheep. Eve is green.
+Ann is a sheep. Ann is green.
+Sam is a sheep. Sam is green.
+Peter is a sheep.
+What color is Peter? green
+
+Ann is a mouse. Ann is blue.
+Bill is a mouse. Bill is blue.
+Eve is a mouse. Eve is blue.
+Bob is a mouse.
+What color is Bob? blue
+
+Susan is a cat. Susan is green.
+Bill is a cat. Bill is green.
+Ann is a cat. Ann is green.
+Kate is a cat.
+What color is Kate? green
+
+Bob is a fish. Bob is black.
+Mary is a fish. Mary is black.
+Bill is a fish.
+What color is Bill? black
+
+Ann is a lion. Ann is white.
+Rick is a lion. Rick is white.
+Peter is a lion.
+What color is Peter? white
+
+Ann is a wolf. Ann is red.
+Lucy is a wolf. Lucy is red.
+Frank is a wolf.
+What color is Frank? red
+
+Lucy is a sheep. Lucy is green.
+Eve is a sheep. Eve is green.
+Sandra is a sheep. Sandra is green.
+Nina is a sheep.
+What color is Nina? green
+
+Sam is a sheep. Sam is red.
+Tom is a sheep. Tom is red.
+Fred is a sheep.
+What color is Fred? red
+
+Tom is a wolf. Tom is red.
+Susan is a wolf. Susan is red.
+Alice is a wolf.
+What color is Alice? red
+
+David is a mouse. David is red.
+Daniel is a mouse. Daniel is red.
+Bob is a mouse. Bob is red.
+Tom is a mouse.
+What color is Tom? red
+
+Alice is a horse. Alice is red.
+Peter is a horse. Peter is red.
+David is a horse.
+What color is David? red
+
+Tom is a horse. Tom is green.
+Sandra is a horse. Sandra is green.
+Peter is a horse.
+What color is Peter? green
+
+Mary is a lion. Mary is white.
+Frank is a lion. Frank is white.
+Susan is a lion. Susan is white.
+Bill is a lion.
+What color is Bill? white
+
+Alice is a horse. Alice is blue.
+Eve is a horse. Eve is blue.
+Bob is a horse.
+What color is Bob? blue
+
+Nina is a horse. Nina is black.
+Sandra is a horse. Sandra is black.
+Fred is a horse.
+What color is Fred? black
+
+Bob is a dog. Bob is white.
+David is a dog. David is white.
+Nina is a dog. Nina is white.
+Eve is a dog.
+What color is Eve? white
+
+Bill is a wolf. Bill is red.
+Nina is a wolf. Nina is red.
+Lucy is a wolf.
+What color is Lucy? red
+
+John is a fish. John is red.
+Nina is a fish. Nina is red.
+Kate is a fish. Kate is red.
+David is a fish.
+What color is David? red
+
+Daniel is a dog. Daniel is green.
+Ann is a dog. Ann is green.
+Bill is a dog.
+What color is Bill? green
+
+Bob is a fish. Bob is black.
+Rick is a fish. Rick is black.
+Frank is a fish.
+What color is Frank? black
+
+Lucy is a lion. Lucy is red.
+Frank is a lion. Frank is red.
+Alice is a lion. Alice is red.
+Kate is a lion.
+What color is Kate? red
+
+Mary is a lion. Mary is blue.
+Ann is a lion. Ann is blue.
+Eve is a lion. Eve is blue.
+Bill is a lion.
+What color is Bill? blue
+
+Peter is a cat. Peter is green.
+Frank is a cat. Frank is green.
+Daniel is a cat.
+What color is Daniel? green
+
+Susan is a horse. Susan is white.
+Tom is a horse. Tom is white.
+Lucy is a horse. Lucy is white.
+Bill is a horse.
+What color is Bill? white
+
+Bob is a dog. Bob is blue.
+Frank is a dog. Frank is blue.
+Fred is a dog. Fred is blue.
+Alice is a dog.
+What color is Alice? blue
+
+Frank is a fish. Frank is blue.
+Sam is a fish. Sam is blue.
+Daniel is a fish. Daniel is blue.
+Rick is a fish.
+What color is Rick? blue
+
+Daniel is a fish. Daniel is red.
+Lucy is a fish. Lucy is red.
+David is a fish.
+What color is David? red
+
+Eve is a mouse. Eve is blue.
+Daniel is a mouse. Daniel is blue.
+Bob is a mouse.
+What color is Bob? blue
+
+Bob is a fish. Bob is black.
+Mary is a fish. Mary is black.
+David is a fish. David is black.
+Peter is a fish.
+What color is Peter? black
+
+Mary is a wolf. Mary is white.
+Susan is a wolf. Susan is white.
+Ann is a wolf.
+What color is Ann? white
+
+Susan is a cat. Susan is black.
+Nina is a cat. Nina is black.
+Bill is a cat. Bill is black.
+Rick is a cat.
+What color is Rick? black
+
+Sam is a wolf. Sam is white.
+Nina is a wolf. Nina is white.
+Rick is a wolf. Rick is white.
+Ann is a wolf.
+What color is Ann? white
+
+David is a sheep. David is white.
+Mary is a sheep. Mary is white.
+Nina is a sheep.
+What color is Nina? white
+
+Lucy is a cat. Lucy is green.
+Rick is a cat. Rick is green.
+Bob is a cat. Bob is green.
+Eve is a cat.
+What color is Eve? green
+
+Tom is a wolf. Tom is red.
+Bob is a wolf. Bob is red.
+Fred is a wolf. Fred is red.
+Frank is a wolf.
+What color is Frank? red
+
+Kate is a dog. Kate is blue.
+Alice is a dog. Alice is blue.
+Nina is a dog. Nina is blue.
+Eve is a dog.
+What color is Eve? blue
+
+David is a sheep. David is green.
+Alice is a sheep. Alice is green.
+Susan is a sheep. Susan is green.
+Sam is a sheep.
+What color is Sam? green
+
+Eve is a lion. Eve is black.
+Frank is a lion. Frank is black.
+Nina is a lion. Nina is black.
+Sam is a lion.
+What color is Sam? black
+
+Lucy is a fish. Lucy is green.
+Daniel is a fish. Daniel is green.
+Sandra is a fish.
+What color is Sandra? green
+
+Sam is a mouse. Sam is blue.
+Alice is a mouse. Alice is blue.
+Lucy is a mouse. Lucy is blue.
+Rick is a mouse.
+What color is Rick? blue
+
+Bill is a fish. Bill is blue.
+Sandra is a fish. Sandra is blue.
+Nina is a fish.
+What color is Nina? blue
+
+Susan is a cat. Susan is red.
+Tom is a cat. Tom is red.
+Kate is a cat. Kate is red.
+John is a cat.
+What color is John? red
+
+Eve is a lion. Eve is black.
+Mary is a lion. Mary is black.
+Sam is a lion. Sam is black.
+Lucy is a lion.
+What color is Lucy? black
+
+Susan is a sheep. Susan is black.
+Bill is a sheep. Bill is black.
+Kate is a sheep.
+What color is Kate? black
+
+Lucy is a fish. Lucy is green.
+Alice is a fish. Alice is green.
+Bill is a fish. Bill is green.
+Eve is a fish.
+What color is Eve? green
+
+Sandra is a lion. Sandra is red.
+Susan is a lion. Susan is red.
+Tom is a lion. Tom is red.
+Bill is a lion.
+What color is Bill? red
+
+Daniel is a mouse. Daniel is black.
+Ann is a mouse. Ann is black.
+David is a mouse. David is black.
+Nina is a mouse.
+What color is Nina? black
+
+Lucy is a horse. Lucy is blue.
+Daniel is a horse. Daniel is blue.
+Mary is a horse. Mary is blue.
+Susan is a horse.
+What color is Susan? blue
+
+Peter is a bird. Peter is green.
+Lucy is a bird. Lucy is green.
+Kate is a bird. Kate is green.
+David is a bird.
+What color is David? green
+
+Daniel is a mouse. Daniel is green.
+Ann is a mouse. Ann is green.
+Nina is a mouse. Nina is green.
+Alice is a mouse.
+What color is Alice? green
+
+Bill is a horse. Bill is black.
+Nina is a horse. Nina is black.
+Mary is a horse. Mary is black.
+Lucy is a horse.
+What color is Lucy? black
+
+Bill is a cat. Bill is black.
+Bob is a cat. Bob is black.
+Nina is a cat.
+What color is Nina? black
+
+Bob is a dog. Bob is black.
+John is a dog. John is black.
+Kate is a dog. Kate is black.
+Tom is a dog.
+What color is Tom? black
+
+Mary is a bird. Mary is red.
+Frank is a bird. Frank is red.
+Sandra is a bird. Sandra is red.
+Daniel is a bird.
+What color is Daniel? red
+
+Sandra is a bird. Sandra is white.
+Peter is a bird. Peter is white.
+Bob is a bird.
+What color is Bob? white
+
+Susan is a horse. Susan is white.
+Tom is a horse. Tom is white.
+Sam is a horse.
+What color is Sam? white
+
+Bob is a sheep. Bob is blue.
+Eve is a sheep. Eve is blue.
+Alice is a sheep.
+What color is Alice? blue
+
+Tom is a horse. Tom is green.
+Sandra is a horse. Sandra is green.
+Nina is a horse. Nina is green.
+Bill is a horse.
+What color is Bill? green
+
+Bill is a mouse. Bill is red.
+Susan is a mouse. Susan is red.
+Frank is a mouse. Frank is red.
+Alice is a mouse.
+What color is Alice? red
+
+Eve is a cat. Eve is blue.
+Sandra is a cat. Sandra is blue.
+Bob is a cat.
+What color is Bob? blue
+
+Sam is a bird. Sam is green.
+Ann is a bird. Ann is green.
+John is a bird.
+What color is John? green
+
+Kate is a cat. Kate is green.
+Susan is a cat. Susan is green.
+David is a cat. David is green.
+John is a cat.
+What color is John? green
+
+Ann is a dog. Ann is white.
+Rick is a dog. Rick is white.
+Bill is a dog. Bill is white.
+Daniel is a dog.
+What color is Daniel? white
+
+Rick is a fish. Rick is black.
+Ann is a fish. Ann is black.
+Alice is a fish. Alice is black.
+Frank is a fish.
+What color is Frank? black
+
+Fred is a dog. Fred is black.
+Ann is a dog. Ann is black.
+Eve is a dog.
+What color is Eve? black
+
+Bob is a cat. Bob is black.
+Rick is a cat. Rick is black.
+Kate is a cat.
+What color is Kate? black
+
+David is a mouse. David is white.
+Peter is a mouse. Peter is white.
+Alice is a mouse.
+What color is Alice? white
+
+Nina is a cat. Nina is green.
+Fred is a cat. Fred is green.
+Sam is a cat. Sam is green.
+Daniel is a cat.
+What color is Daniel? green
+
+Frank is a mouse. Frank is green.
+Alice is a mouse. Alice is green.
+Daniel is a mouse. Daniel is green.
+Nina is a mouse.
+What color is Nina? green
+
+Nina is a cat. Nina is green.
+David is a cat. David is green.
+Peter is a cat. Peter is green.
+Fred is a cat.
+What color is Fred? green
+
+Bob is a horse. Bob is blue.
+Fred is a horse. Fred is blue.
+Lucy is a horse.
+What color is Lucy? blue
+
+Susan is a bird. Susan is blue.
+Eve is a bird. Eve is blue.
+Daniel is a bird. Daniel is blue.
+Nina is a bird.
+What color is Nina? blue
+
+John is a cat. John is blue.
+Tom is a cat. Tom is blue.
+Daniel is a cat. Daniel is blue.
+Bill is a cat.
+What color is Bill? blue
+
+John is a lion. John is black.
+Rick is a lion. Rick is black.
+Peter is a lion. Peter is black.
+Nina is a lion.
+What color is Nina? black
+
+Eve is a cat. Eve is green.
+Kate is a cat. Kate is green.
+Rick is a cat. Rick is green.
+Sandra is a cat.
+What color is Sandra? green
+
+Rick is a wolf. Rick is white.
+Frank is a wolf. Frank is white.
+Mary is a wolf. Mary is white.
+Sam is a wolf.
+What color is Sam? white
+
+Rick is a wolf. Rick is black.
+Sam is a wolf. Sam is black.
+Sandra is a wolf.
+What color is Sandra? black
+
+Sam is a mouse. Sam is black.
+Nina is a mouse. Nina is black.
+Bill is a mouse. Bill is black.
+Peter is a mouse.
+What color is Peter? black
+
+Alice is a mouse. Alice is blue.
+Sam is a mouse. Sam is blue.
+Bill is a mouse.
+What color is Bill? blue
+
+Lucy is a mouse. Lucy is red.
+Susan is a mouse. Susan is red.
+Daniel is a mouse.
+What color is Daniel? red
+
+Bill is a cat. Bill is green.
+Eve is a cat. Eve is green.
+John is a cat. John is green.
+Frank is a cat.
+What color is Frank? green
+
+David is a bird. David is green.
+Eve is a bird. Eve is green.
+Sam is a bird. Sam is green.
+Frank is a bird.
+What color is Frank? green
+
+Fred is a mouse. Fred is red.
+Daniel is a mouse. Daniel is red.
+Ann is a mouse. Ann is red.
+Rick is a mouse.
+What color is Rick? red
+
+Rick is a wolf. Rick is blue.
+Daniel is a wolf. Daniel is blue.
+Mary is a wolf.
+What color is Mary? blue
+
+Susan is a mouse. Susan is black.
+Nina is a mouse. Nina is black.
+Frank is a mouse. Frank is black.
+John is a mouse.
+What color is John? black
+
+Sandra is a dog. Sandra is white.
+Alice is a dog. Alice is white.
+Kate is a dog.
+What color is Kate? white
+
+Ann is a cat. Ann is green.
+Bob is a cat. Bob is green.
+Sam is a cat.
+What color is Sam? green
+
+Kate is a dog. Kate is black.
+Bill is a dog. Bill is black.
+Ann is a dog.
+What color is Ann? black
+
+Sandra is a dog. Sandra is red.
+John is a dog. John is red.
+Susan is a dog.
+What color is Susan? red
+
+Susan is a cat. Susan is black.
+Rick is a cat. Rick is black.
+Mary is a cat. Mary is black.
+Tom is a cat.
+What color is Tom? black
+
+Nina is a bird. Nina is red.
+Eve is a bird. Eve is red.
+Daniel is a bird. Daniel is red.
+Sandra is a bird.
+What color is Sandra? red
+
+Alice is a lion. Alice is green.
+Sam is a lion. Sam is green.
+Bill is a lion. Bill is green.
+Lucy is a lion.
+What color is Lucy? green
+
+Peter is a dog. Peter is white.
+Daniel is a dog. Daniel is white.
+Frank is a dog.
+What color is Frank? white
+
+Susan is a fish. Susan is blue.
+Tom is a fish. Tom is blue.
+Eve is a fish. Eve is blue.
+Daniel is a fish.
+What color is Daniel? blue
+
+Peter is a dog. Peter is blue.
+Bill is a dog. Bill is blue.
+Daniel is a dog.
+What color is Daniel? blue
+
+Nina is a lion. Nina is black.
+Bob is a lion. Bob is black.
+Sam is a lion. Sam is black.
+Peter is a lion.
+What color is Peter? black
+
+Bob is a lion. Bob is red.
+Bill is a lion. Bill is red.
+Alice is a lion. Alice is red.
+David is a lion.
+What color is David? red
+
+Daniel is a mouse. Daniel is blue.
+Tom is a mouse. Tom is blue.
+John is a mouse. John is blue.
+Frank is a mouse.
+What color is Frank? blue
+
+John is a mouse. John is black.
+Kate is a mouse. Kate is black.
+David is a mouse. David is black.
+Susan is a mouse.
+What color is Susan? black
+
+Frank is a mouse. Frank is blue.
+Ann is a mouse. Ann is blue.
+Alice is a mouse. Alice is blue.
+Susan is a mouse.
+What color is Susan? blue
+
+Nina is a cat. Nina is white.
+Alice is a cat. Alice is white.
+Tom is a cat. Tom is white.
+Bob is a cat.
+What color is Bob? white
+
+Nina is a horse. Nina is green.
+Rick is a horse. Rick is green.
+Tom is a horse. Tom is green.
+Sam is a horse.
+What color is Sam? green
+
+John is a sheep. John is green.
+Frank is a sheep. Frank is green.
+Lucy is a sheep. Lucy is green.
+Mary is a sheep.
+What color is Mary? green
+
+Rick is a fish. Rick is red.
+Kate is a fish. Kate is red.
+John is a fish. John is red.
+Bill is a fish.
+What color is Bill? red
+
+Kate is a horse. Kate is black.
+Bill is a horse. Bill is black.
+Fred is a horse.
+What color is Fred? black
+
+Nina is a dog. Nina is red.
+Bill is a dog. Bill is red.
+John is a dog.
+What color is John? red
+
+Alice is a bird. Alice is red.
+Susan is a bird. Susan is red.
+Lucy is a bird.
+What color is Lucy? red
+
+John is a mouse. John is black.
+Fred is a mouse. Fred is black.
+Frank is a mouse. Frank is black.
+Sandra is a mouse.
+What color is Sandra? black
+
+Kate is a lion. Kate is green.
+Eve is a lion. Eve is green.
+Susan is a lion. Susan is green.
+Lucy is a lion.
+What color is Lucy? green
+
+John is a fish. John is blue.
+Fred is a fish. Fred is blue.
+Peter is a fish. Peter is blue.
+Frank is a fish.
+What color is Frank? blue
+
+Sam is a horse. Sam is red.
+Susan is a horse. Susan is red.
+Alice is a horse. Alice is red.
+John is a horse.
+What color is John? red
+
+Mary is a lion. Mary is blue.
+Frank is a lion. Frank is blue.
+Lucy is a lion. Lucy is blue.
+Bob is a lion.
+What color is Bob? blue
+
+Peter is a bird. Peter is green.
+Alice is a bird. Alice is green.
+David is a bird.
+What color is David? green
+
+Ann is a mouse. Ann is red.
+Daniel is a mouse. Daniel is red.
+Nina is a mouse. Nina is red.
+Eve is a mouse.
+What color is Eve? red
+
+Alice is a horse. Alice is black.
+David is a horse. David is black.
+Peter is a horse. Peter is black.
+John is a horse.
+What color is John? black
+
+Fred is a lion. Fred is white.
+Daniel is a lion. Daniel is white.
+Alice is a lion. Alice is white.
+Kate is a lion.
+What color is Kate? white
+
+David is a sheep. David is red.
+Sandra is a sheep. Sandra is red.
+Daniel is a sheep. Daniel is red.
+Susan is a sheep.
+What color is Susan? red
+
+Bill is a wolf. Bill is blue.
+John is a wolf. John is blue.
+Frank is a wolf. Frank is blue.
+Rick is a wolf.
+What color is Rick? blue
+
+Ann is a mouse. Ann is black.
+Kate is a mouse. Kate is black.
+Mary is a mouse. Mary is black.
+Bob is a mouse.
+What color is Bob? black
+
+Lucy is a mouse. Lucy is white.
+Sandra is a mouse. Sandra is white.
+Alice is a mouse.
+What color is Alice? white
+
+Kate is a lion. Kate is blue.
+Frank is a lion. Frank is blue.
+Sandra is a lion.
+What color is Sandra? blue
+
+Bill is a mouse. Bill is black.
+Lucy is a mouse. Lucy is black.
+John is a mouse. John is black.
+Peter is a mouse.
+What color is Peter? black
+
+Alice is a mouse. Alice is black.
+David is a mouse. David is black.
+Sam is a mouse. Sam is black.
+Daniel is a mouse.
+What color is Daniel? black
+
+Bob is a wolf. Bob is white.
+John is a wolf. John is white.
+Rick is a wolf. Rick is white.
+Sam is a wolf.
+What color is Sam? white
+
+Sam is a bird. Sam is green.
+Bill is a bird. Bill is green.
+Kate is a bird.
+What color is Kate? green
+
+John is a mouse. John is black.
+Bill is a mouse. Bill is black.
+Susan is a mouse.
+What color is Susan? black
+
+Fred is a sheep. Fred is blue.
+Susan is a sheep. Susan is blue.
+Bill is a sheep.
+What color is Bill? blue
+
+Daniel is a bird. Daniel is white.
+Nina is a bird. Nina is white.
+Kate is a bird. Kate is white.
+Peter is a bird.
+What color is Peter? white
+
+Lucy is a bird. Lucy is white.
+David is a bird. David is white.
+Alice is a bird.
+What color is Alice? white
+
+Ann is a lion. Ann is black.
+Mary is a lion. Mary is black.
+Kate is a lion.
+What color is Kate? black
+
+Peter is a lion. Peter is red.
+Mary is a lion. Mary is red.
+Sam is a lion.
+What color is Sam? red
+
+Daniel is a bird. Daniel is red.
+Lucy is a bird. Lucy is red.
+Fred is a bird.
+What color is Fred? red
+
+Sandra is a fish. Sandra is red.
+John is a fish. John is red.
+Rick is a fish.
+What color is Rick? red
+
+David is a wolf. David is red.
+Eve is a wolf. Eve is red.
+Daniel is a wolf.
+What color is Daniel? red
+
+Sandra is a wolf. Sandra is green.
+Daniel is a wolf. Daniel is green.
+Frank is a wolf.
+What color is Frank? green
+
+Nina is a horse. Nina is red.
+John is a horse. John is red.
+David is a horse.
+What color is David? red
+
+Bob is a fish. Bob is blue.
+Sam is a fish. Sam is blue.
+Tom is a fish.
+What color is Tom? blue
+
+Alice is a cat. Alice is black.
+Kate is a cat. Kate is black.
+Daniel is a cat.
+What color is Daniel? black
+
+Tom is a cat. Tom is red.
+David is a cat. David is red.
+Ann is a cat. Ann is red.
+Bill is a cat.
+What color is Bill? red
+
+Lucy is a cat. Lucy is red.
+David is a cat. David is red.
+Fred is a cat.
+What color is Fred? red
+
+Rick is a mouse. Rick is white.
+John is a mouse. John is white.
+Sam is a mouse.
+What color is Sam? white
+
+David is a fish. David is white.
+Nina is a fish. Nina is white.
+Sandra is a fish.
+What color is Sandra? white
+
+Peter is a bird. Peter is black.
+Sandra is a bird. Sandra is black.
+Rick is a bird. Rick is black.
+Kate is a bird.
+What color is Kate? black
+
+David is a bird. David is white.
+Eve is a bird. Eve is white.
+Nina is a bird.
+What color is Nina? white
+
+Susan is a fish. Susan is red.
+Frank is a fish. Frank is red.
+Nina is a fish.
+What color is Nina? red
+
+Lucy is a dog. Lucy is white.
+Sandra is a dog. Sandra is white.
+Mary is a dog.
+What color is Mary? white
+
+Rick is a wolf. Rick is red.
+Mary is a wolf. Mary is red.
+Frank is a wolf.
+What color is Frank? red
+
+Lucy is a mouse. Lucy is black.
+Bill is a mouse. Bill is black.
+Fred is a mouse. Fred is black.
+Alice is a mouse.
+What color is Alice? black
+
+Eve is a bird. Eve is blue.
+Sam is a bird. Sam is blue.
+Sandra is a bird. Sandra is blue.
+Lucy is a bird.
+What color is Lucy? blue
+
+Kate is a sheep. Kate is red.
+Lucy is a sheep. Lucy is red.
+Fred is a sheep. Fred is red.
+Nina is a sheep.
+What color is Nina? red
+
+Fred is a bird. Fred is black.
+Bill is a bird. Bill is black.
+Kate is a bird.
+What color is Kate? black
+
+Fred is a cat. Fred is white.
+Nina is a cat. Nina is white.
+Alice is a cat. Alice is white.
+Sam is a cat.
+What color is Sam? white
+
+Mary is a horse. Mary is blue.
+David is a horse. David is blue.
+Tom is a horse.
+What color is Tom? blue
+
+Rick is a lion. Rick is red.
+Bob is a lion. Bob is red.
+Tom is a lion.
+What color is Tom? red
+
+Tom is a fish. Tom is black.
+Mary is a fish. Mary is black.
+Nina is a fish. Nina is black.
+Bob is a fish.
+What color is Bob? black
+
+Tom is a sheep. Tom is red.
+Ann is a sheep. Ann is red.
+John is a sheep.
+What color is John? red
+
+Bill is a lion. Bill is black.
+Peter is a lion. Peter is black.
+Bob is a lion.
+What color is Bob? black
+
+Tom is a bird. Tom is white.
+Nina is a bird. Nina is white.
+Sam is a bird. Sam is white.
+Frank is a bird.
+What color is Frank? white
+
+Mary is a cat. Mary is red.
+Rick is a cat. Rick is red.
+Susan is a cat. Susan is red.
+Nina is a cat.
+What color is Nina? red
+
+Bob is a sheep. Bob is black.
+Sandra is a sheep. Sandra is black.
+Peter is a sheep.
+What color is Peter? black
+
+Frank is a cat. Frank is blue.
+Kate is a cat. Kate is blue.
+Daniel is a cat.
+What color is Daniel? blue
+
+Lucy is a bird. Lucy is black.
+Bill is a bird. Bill is black.
+Kate is a bird.
+What color is Kate? black
+
+Sam is a dog. Sam is white.
+Fred is a dog. Fred is white.
+Alice is a dog. Alice is white.
+Daniel is a dog.
+What color is Daniel? white
+
+Tom is a fish. Tom is red.
+Nina is a fish. Nina is red.
+Frank is a fish. Frank is red.
+Peter is a fish.
+What color is Peter? red
+
+Susan is a horse. Susan is black.
+Lucy is a horse. Lucy is black.
+Daniel is a horse. Daniel is black.
+Peter is a horse.
+What color is Peter? black
+
+Mary is a horse. Mary is black.
+Lucy is a horse. Lucy is black.
+Peter is a horse.
+What color is Peter? black
+
+Kate is a fish. Kate is black.
+Peter is a fish. Peter is black.
+Frank is a fish. Frank is black.
+Bill is a fish.
+What color is Bill? black
+
+Frank is a lion. Frank is red.
+Peter is a lion. Peter is red.
+Mary is a lion.
+What color is Mary? red
+
+Fred is a horse. Fred is green.
+Susan is a horse. Susan is green.
+Eve is a horse. Eve is green.
+Nina is a horse.
+What color is Nina? green
+
+Daniel is a lion. Daniel is black.
+Tom is a lion. Tom is black.
+Sam is a lion.
+What color is Sam? black
+
+Mary is a dog. Mary is blue.
+Peter is a dog. Peter is blue.
+Bill is a dog. Bill is blue.
+Sam is a dog.
+What color is Sam? blue
+
+Susan is a wolf. Susan is black.
+Sam is a wolf. Sam is black.
+Bill is a wolf.
+What color is Bill? black
+
+Alice is a horse. Alice is white.
+John is a horse. John is white.
+Kate is a horse. Kate is white.
+Susan is a horse.
+What color is Susan? white
+
+John is a fish. John is red.
+Peter is a fish. Peter is red.
+David is a fish.
+What color is David? red
+
+Mary is a wolf. Mary is red.
+Peter is a wolf. Peter is red.
+Bill is a wolf. Bill is red.
+Lucy is a wolf.
+What color is Lucy? red
+
+Fred is a wolf. Fred is green.
+Tom is a wolf. Tom is green.
+David is a wolf.
+What color is David? green
+
+Alice is a fish. Alice is red.
+Eve is a fish. Eve is red.
+Bob is a fish. Bob is red.
+David is a fish.
+What color is David? red
+
+John is a lion. John is black.
+Sandra is a lion. Sandra is black.
+Bill is a lion.
+What color is Bill? black
+
+Ann is a wolf. Ann is black.
+Sandra is a wolf. Sandra is black.
+David is a wolf.
+What color is David? black
+
+Bob is a bird. Bob is blue.
+Lucy is a bird. Lucy is blue.
+John is a bird. John is blue.
+Daniel is a bird.
+What color is Daniel? blue
+
+Nina is a horse. Nina is black.
+Alice is a horse. Alice is black.
+Tom is a horse. Tom is black.
+Susan is a horse.
+What color is Susan? black
+
+Bill is a dog. Bill is red.
+Bob is a dog. Bob is red.
+Kate is a dog. Kate is red.
+Alice is a dog.
+What color is Alice? red
+
+Fred is a dog. Fred is green.
+Eve is a dog. Eve is green.
+Peter is a dog.
+What color is Peter? green
+
+Rick is a dog. Rick is red.
+Ann is a dog. Ann is red.
+David is a dog. David is red.
+Tom is a dog.
+What color is Tom? red
+
+Rick is a bird. Rick is green.
+Sandra is a bird. Sandra is green.
+John is a bird.
+What color is John? green
+
+Peter is a lion. Peter is blue.
+Bill is a lion. Bill is blue.
+Daniel is a lion.
+What color is Daniel? blue
+
+David is a fish. David is blue.
+Fred is a fish. Fred is blue.
+Alice is a fish.
+What color is Alice? blue
+
+Eve is a sheep. Eve is white.
+Fred is a sheep. Fred is white.
+Ann is a sheep.
+What color is Ann? white
+
+Kate is a cat. Kate is black.
+Frank is a cat. Frank is black.
+Peter is a cat.
+What color is Peter? black
+
+Tom is a cat. Tom is black.
+Sam is a cat. Sam is black.
+Alice is a cat. Alice is black.
+Bill is a cat.
+What color is Bill? black
+
+Bob is a dog. Bob is blue.
+John is a dog. John is blue.
+Tom is a dog.
+What color is Tom? blue
+
+Susan is a sheep. Susan is blue.
+Kate is a sheep. Kate is blue.
+Daniel is a sheep. Daniel is blue.
+Sam is a sheep.
+What color is Sam? blue
+
+Kate is a sheep. Kate is white.
+John is a sheep. John is white.
+Frank is a sheep. Frank is white.
+Susan is a sheep.
+What color is Susan? white
+
+Fred is a mouse. Fred is green.
+Daniel is a mouse. Daniel is green.
+Bob is a mouse.
+What color is Bob? green
+
+Nina is a lion. Nina is white.
+Alice is a lion. Alice is white.
+Peter is a lion. Peter is white.
+Lucy is a lion.
+What color is Lucy? white
+
+Daniel is a dog. Daniel is red.
+Kate is a dog. Kate is red.
+David is a dog. David is red.
+Sam is a dog.
+What color is Sam? red

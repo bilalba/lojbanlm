@@ -1,0 +1,24 @@
+{
+  "experiment": "v5",
+  "tokenizer": "bpe",
+  "bpe_vocab_size": 1024,
+  "pretraining_chars_per_language": 1674932,
+  "english_babi_chars": 223211,
+  "lojban_babi_chars": 271202,
+  "english_bpe_vocab_size": 1024,
+  "lojban_bpe_vocab_size": 1024,
+  "english_phase1_train_tokens": 612330,
+  "english_phase1_val_tokens": 34018,
+  "lojban_phase1_train_tokens": 602421,
+  "lojban_phase1_val_tokens": 33468,
+  "english_babi_tokens": 55044,
+  "lojban_babi_tokens": 75075,
+  "english_babi_val_examples": 400,
+  "lojban_babi_val_examples": 400,
+  "english_test_chars": 121301,
+  "lojban_test_chars": 114157,
+  "babi_tasks_used": [
+    1,
+    6
+  ]
+}

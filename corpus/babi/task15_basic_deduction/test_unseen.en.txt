@@ -1,0 +1,1198 @@
+Sheep are afraid of snakes.
+Rabbits are afraid of sheep.
+Mary is a sheep.
+What is Mary afraid of? snakes
+
+John is a fish.
+Fish are afraid of rabbits.
+Cats are afraid of fish.
+Rabbits are afraid of wolves.
+What is John afraid of? rabbits
+
+Horses are afraid of lions.
+Lions are afraid of fish.
+Fish are afraid of dogs.
+Julie is a horse.
+What is Julie afraid of? lions
+
+Kate is a sheep.
+Birds are afraid of sheep.
+Sheep are afraid of snakes.
+Snakes are afraid of dogs.
+What is Kate afraid of? snakes
+
+Lucy is a sheep.
+Dogs are afraid of snakes.
+Sheep are afraid of dogs.
+Birds are afraid of fish.
+Snakes are afraid of birds.
+What is Lucy afraid of? dogs
+
+Mice are afraid of horses.
+Tom is a snake.
+Bears are afraid of mice.
+Lions are afraid of snakes.
+Snakes are afraid of bears.
+What is Tom afraid of? bears
+
+Bob is a sheep.
+Sheep are afraid of snakes.
+Birds are afraid of dogs.
+Dogs are afraid of sheep.
+What is Bob afraid of? snakes
+
+Horses are afraid of snakes.
+Gertrude is a horse.
+Snakes are afraid of wolves.
+What is Gertrude afraid of? snakes
+
+Snakes are afraid of lions.
+Sandra is a snake.
+Lions are afraid of wolves.
+What is Sandra afraid of? lions
+
+Wolves are afraid of cats.
+Bears are afraid of lions.
+Cats are afraid of bears.
+Eve is a bear.
+What is Eve afraid of? lions
+
+Julie is a dog.
+Snakes are afraid of cats.
+Mice are afraid of snakes.
+Lions are afraid of dogs.
+Dogs are afraid of mice.
+What is Julie afraid of? mice
+
+Mice are afraid of bears.
+Dogs are afraid of mice.
+Ann is a dog.
+What is Ann afraid of? mice
+
+Fred is a mouse.
+Mice are afraid of horses.
+Horses are afraid of birds.
+Birds are afraid of bears.
+Bears are afraid of lions.
+What is Fred afraid of? horses
+
+Rabbits are afraid of mice.
+Mice are afraid of snakes.
+Sandra is a mouse.
+What is Sandra afraid of? snakes
+
+Peter is a bird.
+Wolves are afraid of horses.
+Birds are afraid of wolves.
+Horses are afraid of rabbits.
+What is Peter afraid of? wolves
+
+Mice are afraid of sheep.
+Rabbits are afraid of mice.
+Ann is a mouse.
+Fish are afraid of rabbits.
+Sheep are afraid of birds.
+What is Ann afraid of? sheep
+
+Tom is a lion.
+Fish are afraid of cats.
+Cats are afraid of snakes.
+Lions are afraid of dogs.
+Snakes are afraid of lions.
+What is Tom afraid of? dogs
+
+Jeff is a wolf.
+Lions are afraid of wolves.
+Wolves are afraid of mice.
+Mice are afraid of rabbits.
+What is Jeff afraid of? mice
+
+Wolves are afraid of horses.
+Horses are afraid of sheep.
+Snakes are afraid of rabbits.
+Kate is a snake.
+Rabbits are afraid of wolves.
+What is Kate afraid of? rabbits
+
+Dogs are afraid of bears.
+Bears are afraid of cats.
+Peter is a wolf.
+Wolves are afraid of dogs.
+Mice are afraid of wolves.
+What is Peter afraid of? dogs
+
+Kate is a dog.
+Snakes are afraid of cats.
+Mice are afraid of snakes.
+Dogs are afraid of mice.
+What is Kate afraid of? mice
+
+Snakes are afraid of wolves.
+Dogs are afraid of snakes.
+Fred is a snake.
+Wolves are afraid of fish.
+What is Fred afraid of? wolves
+
+Horses are afraid of mice.
+Rabbits are afraid of horses.
+Birds are afraid of rabbits.
+Gertrude is a bird.
+Mice are afraid of wolves.
+What is Gertrude afraid of? rabbits
+
+Rabbits are afraid of sheep.
+Frank is a rabbit.
+Wolves are afraid of cats.
+Sheep are afraid of wolves.
+What is Frank afraid of? sheep
+
+David is a bird.
+Lions are afraid of snakes.
+Birds are afraid of dogs.
+Snakes are afraid of birds.
+What is David afraid of? dogs
+
+Daniel is a fish.
+Wolves are afraid of snakes.
+Fish are afraid of wolves.
+Lions are afraid of fish.
+What is Daniel afraid of? wolves
+
+Bears are afraid of fish.
+Cats are afraid of bears.
+Sheep are afraid of cats.
+Tom is a snake.
+Snakes are afraid of sheep.
+What is Tom afraid of? sheep
+
+Fish are afraid of lions.
+Alice is a fish.
+Sheep are afraid of rabbits.
+Lions are afraid of sheep.
+What is Alice afraid of? lions
+
+Cats are afraid of bears.
+Dogs are afraid of cats.
+Bob is a cat.
+What is Bob afraid of? bears
+
+Mice are afraid of bears.
+Horses are afraid of mice.
+Bill is a horse.
+What is Bill afraid of? mice
+
+Jeff is a rabbit.
+Lions are afraid of wolves.
+Bears are afraid of lions.
+Wolves are afraid of horses.
+Rabbits are afraid of bears.
+What is Jeff afraid of? bears
+
+Fish are afraid of dogs.
+Cats are afraid of lions.
+Lions are afraid of fish.
+Gertrude is a cat.
+Dogs are afraid of bears.
+What is Gertrude afraid of? lions
+
+Peter is a cat.
+Cats are afraid of bears.
+Bears are afraid of mice.
+What is Peter afraid of? bears
+
+Lily is a lion.
+Cats are afraid of lions.
+Lions are afraid of rabbits.
+What is Lily afraid of? rabbits
+
+Rabbits are afraid of snakes.
+Rick is a snake.
+Snakes are afraid of dogs.
+What is Rick afraid of? dogs
+
+Eve is a sheep.
+Bears are afraid of lions.
+Sheep are afraid of bears.
+What is Eve afraid of? bears
+
+Gertrude is a cat.
+Cats are afraid of lions.
+Lions are afraid of birds.
+What is Gertrude afraid of? lions
+
+Fish are afraid of sheep.
+Sheep are afraid of rabbits.
+Rabbits are afraid of mice.
+Mice are afraid of wolves.
+Tom is a rabbit.
+What is Tom afraid of? mice
+
+Snakes are afraid of mice.
+Mice are afraid of horses.
+Rick is a snake.
+Sheep are afraid of snakes.
+Horses are afraid of birds.
+What is Rick afraid of? mice
+
+Lions are afraid of bears.
+Nina is a lion.
+Bears are afraid of fish.
+What is Nina afraid of? bears
+
+Birds are afraid of dogs.
+Dogs are afraid of bears.
+Bears are afraid of lions.
+Gertrude is a dog.
+What is Gertrude afraid of? bears
+
+Cats are afraid of lions.
+Horses are afraid of rabbits.
+Jeff is a cat.
+Rabbits are afraid of cats.
+What is Jeff afraid of? lions
+
+Bears are afraid of fish.
+Fish are afraid of rabbits.
+Susan is a bear.
+Rabbits are afraid of birds.
+What is Susan afraid of? fish
+
+Lions are afraid of dogs.
+Julie is a dog.
+Dogs are afraid of rabbits.
+What is Julie afraid of? rabbits
+
+Snakes are afraid of fish.
+Dogs are afraid of bears.
+Nina is a dog.
+Bears are afraid of snakes.
+What is Nina afraid of? bears
+
+Bernhard is a snake.
+Lions are afraid of mice.
+Bears are afraid of lions.
+Mice are afraid of snakes.
+Snakes are afraid of fish.
+What is Bernhard afraid of? fish
+
+Susan is a bear.
+Bears are afraid of cats.
+Cats are afraid of lions.
+What is Susan afraid of? cats
+
+Bill is a lion.
+Horses are afraid of snakes.
+Lions are afraid of horses.
+What is Bill afraid of? horses
+
+Snakes are afraid of dogs.
+Dogs are afraid of birds.
+Gertrude is a snake.
+What is Gertrude afraid of? dogs
+
+Lily is a mouse.
+Mice are afraid of sheep.
+Sheep are afraid of rabbits.
+What is Lily afraid of? sheep
+
+Mice are afraid of fish.
+Lions are afraid of horses.
+Fish are afraid of snakes.
+Mary is a mouse.
+Horses are afraid of mice.
+What is Mary afraid of? fish
+
+Frank is a mouse.
+Mice are afraid of dogs.
+Dogs are afraid of bears.
+What is Frank afraid of? dogs
+
+Gertrude is a dog.
+Horses are afraid of dogs.
+Dogs are afraid of cats.
+What is Gertrude afraid of? cats
+
+Lucy is a rabbit.
+Snakes are afraid of rabbits.
+Cats are afraid of snakes.
+Rabbits are afraid of wolves.
+What is Lucy afraid of? wolves
+
+Rabbits are afraid of wolves.
+Sandra is a rabbit.
+Sheep are afraid of rabbits.
+Wolves are afraid of dogs.
+What is Sandra afraid of? wolves
+
+Bears are afraid of cats.
+Birds are afraid of bears.
+Horses are afraid of dogs.
+John is a horse.
+Dogs are afraid of birds.
+What is John afraid of? dogs
+
+Tom is a horse.
+Snakes are afraid of cats.
+Horses are afraid of snakes.
+What is Tom afraid of? snakes
+
+John is a wolf.
+Dogs are afraid of wolves.
+Snakes are afraid of fish.
+Wolves are afraid of snakes.
+What is John afraid of? snakes
+
+Lily is a cat.
+Mice are afraid of cats.
+Cats are afraid of rabbits.
+What is Lily afraid of? rabbits
+
+Sheep are afraid of cats.
+Mice are afraid of sheep.
+Fish are afraid of mice.
+Jeff is a mouse.
+Cats are afraid of lions.
+What is Jeff afraid of? sheep
+
+Birds are afraid of bears.
+Bill is a bear.
+Bears are afraid of rabbits.
+What is Bill afraid of? rabbits
+
+Cats are afraid of horses.
+Sheep are afraid of fish.
+Jeff is a sheep.
+Fish are afraid of cats.
+What is Jeff afraid of? fish
+
+Rabbits are afraid of lions.
+Sam is a wolf.
+Horses are afraid of wolves.
+Wolves are afraid of rabbits.
+What is Sam afraid of? rabbits
+
+Snakes are afraid of cats.
+Dogs are afraid of sheep.
+Sheep are afraid of snakes.
+Cats are afraid of birds.
+Jeff is a cat.
+What is Jeff afraid of? birds
+
+Rabbits are afraid of birds.
+Dogs are afraid of rabbits.
+Tom is a dog.
+What is Tom afraid of? rabbits
+
+Horses are afraid of bears.
+Sandra is a sheep.
+Birds are afraid of horses.
+Rabbits are afraid of sheep.
+Sheep are afraid of birds.
+What is Sandra afraid of? birds
+
+Cats are afraid of rabbits.
+Dogs are afraid of bears.
+Rabbits are afraid of sheep.
+Sheep are afraid of dogs.
+Daniel is a sheep.
+What is Daniel afraid of? dogs
+
+Fred is a rabbit.
+Rabbits are afraid of mice.
+Mice are afraid of bears.
+What is Fred afraid of? mice
+
+Horses are afraid of rabbits.
+Rabbits are afraid of wolves.
+Sam is a horse.
+Wolves are afraid of dogs.
+Mice are afraid of horses.
+What is Sam afraid of? rabbits
+
+Birds are afraid of cats.
+Fish are afraid of sheep.
+Cats are afraid of fish.
+Dogs are afraid of birds.
+Gertrude is a bird.
+What is Gertrude afraid of? cats
+
+Mice are afraid of wolves.
+Birds are afraid of rabbits.
+Cats are afraid of birds.
+Rabbits are afraid of mice.
+Bob is a bird.
+What is Bob afraid of? rabbits
+
+Frank is a snake.
+Snakes are afraid of fish.
+Bears are afraid of snakes.
+What is Frank afraid of? fish
+
+Rabbits are afraid of fish.
+Snakes are afraid of rabbits.
+Bob is a rabbit.
+What is Bob afraid of? fish
+
+Bears are afraid of horses.
+Snakes are afraid of birds.
+Birds are afraid of bears.
+David is a snake.
+What is David afraid of? birds
+
+Sheep are afraid of snakes.
+Bears are afraid of sheep.
+Susan is a bear.
+What is Susan afraid of? sheep
+
+Kate is a cat.
+Cats are afraid of bears.
+Fish are afraid of cats.
+Rabbits are afraid of fish.
+Bears are afraid of wolves.
+What is Kate afraid of? bears
+
+Snakes are afraid of birds.
+Bears are afraid of fish.
+Mary is a bear.
+Fish are afraid of horses.
+Birds are afraid of bears.
+What is Mary afraid of? fish
+
+Daniel is a snake.
+Rabbits are afraid of lions.
+Mice are afraid of snakes.
+Lions are afraid of mice.
+Snakes are afraid of bears.
+What is Daniel afraid of? bears
+
+Sheep are afraid of rabbits.
+Mice are afraid of sheep.
+Horses are afraid of mice.
+John is a sheep.
+What is John afraid of? rabbits
+
+Gertrude is a bird.
+Lions are afraid of birds.
+Birds are afraid of wolves.
+Wolves are afraid of mice.
+What is Gertrude afraid of? wolves
+
+Sheep are afraid of dogs.
+Lions are afraid of wolves.
+Gertrude is a lion.
+Wolves are afraid of sheep.
+What is Gertrude afraid of? wolves
+
+Sheep are afraid of horses.
+Frank is a bird.
+Horses are afraid of dogs.
+Rabbits are afraid of sheep.
+Birds are afraid of rabbits.
+What is Frank afraid of? rabbits
+
+Sheep are afraid of lions.
+Lions are afraid of birds.
+Cats are afraid of sheep.
+Birds are afraid of snakes.
+Daniel is a cat.
+What is Daniel afraid of? sheep
+
+Rabbits are afraid of wolves.
+Wolves are afraid of sheep.
+Sandra is a rabbit.
+What is Sandra afraid of? wolves
+
+Wolves are afraid of bears.
+Mice are afraid of wolves.
+Gertrude is a mouse.
+What is Gertrude afraid of? wolves
+
+Birds are afraid of rabbits.
+David is a snake.
+Snakes are afraid of birds.
+What is David afraid of? birds
+
+Birds are afraid of snakes.
+Dogs are afraid of birds.
+Susan is a bird.
+Wolves are afraid of lions.
+Lions are afraid of dogs.
+What is Susan afraid of? snakes
+
+Sheep are afraid of bears.
+Bears are afraid of snakes.
+Wolves are afraid of sheep.
+Tom is a sheep.
+What is Tom afraid of? bears
+
+Birds are afraid of snakes.
+Rick is a sheep.
+Snakes are afraid of sheep.
+Sheep are afraid of dogs.
+Dogs are afraid of cats.
+What is Rick afraid of? dogs
+
+Mice are afraid of snakes.
+Lions are afraid of mice.
+Daniel is a lion.
+What is Daniel afraid of? mice
+
+Eve is a horse.
+Horses are afraid of rabbits.
+Lions are afraid of horses.
+What is Eve afraid of? rabbits
+
+Horses are afraid of cats.
+Snakes are afraid of lions.
+Cats are afraid of snakes.
+Lions are afraid of birds.
+Mary is a horse.
+What is Mary afraid of? cats
+
+Horses are afraid of snakes.
+Sheep are afraid of horses.
+Bill is a horse.
+What is Bill afraid of? snakes
+
+Kate is a rabbit.
+Horses are afraid of rabbits.
+Rabbits are afraid of fish.
+Wolves are afraid of birds.
+Birds are afraid of horses.
+What is Kate afraid of? fish
+
+Snakes are afraid of dogs.
+Dogs are afraid of mice.
+Tom is a dog.
+Fish are afraid of snakes.
+Mice are afraid of sheep.
+What is Tom afraid of? mice
+
+Jeff is a bird.
+Horses are afraid of birds.
+Birds are afraid of dogs.
+What is Jeff afraid of? dogs
+
+Snakes are afraid of dogs.
+Dogs are afraid of rabbits.
+Rabbits are afraid of sheep.
+Bill is a snake.
+What is Bill afraid of? dogs
+
+Cats are afraid of sheep.
+Dogs are afraid of snakes.
+Sheep are afraid of bears.
+Daniel is a sheep.
+Bears are afraid of dogs.
+What is Daniel afraid of? bears
+
+Nina is a rabbit.
+Rabbits are afraid of snakes.
+Wolves are afraid of cats.
+Snakes are afraid of wolves.
+What is Nina afraid of? snakes
+
+Mice are afraid of bears.
+Bears are afraid of rabbits.
+Frank is a rabbit.
+Rabbits are afraid of birds.
+What is Frank afraid of? birds
+
+Susan is a snake.
+Rabbits are afraid of horses.
+Snakes are afraid of sheep.
+Sheep are afraid of rabbits.
+Birds are afraid of snakes.
+What is Susan afraid of? sheep
+
+Sheep are afraid of horses.
+Mice are afraid of snakes.
+Horses are afraid of mice.
+Peter is a horse.
+What is Peter afraid of? mice
+
+Bears are afraid of sheep.
+Eve is a cat.
+Cats are afraid of bears.
+What is Eve afraid of? bears
+
+Snakes are afraid of sheep.
+Sheep are afraid of rabbits.
+Sam is a snake.
+Horses are afraid of wolves.
+Rabbits are afraid of horses.
+What is Sam afraid of? sheep
+
+Lily is a snake.
+Snakes are afraid of lions.
+Birds are afraid of snakes.
+What is Lily afraid of? lions
+
+Snakes are afraid of sheep.
+Birds are afraid of snakes.
+Sheep are afraid of wolves.
+Wolves are afraid of lions.
+Kate is a bird.
+What is Kate afraid of? snakes
+
+Rick is a sheep.
+Bears are afraid of rabbits.
+Sheep are afraid of bears.
+What is Rick afraid of? bears
+
+Snakes are afraid of sheep.
+Sheep are afraid of rabbits.
+Lions are afraid of bears.
+Bears are afraid of snakes.
+Sandra is a sheep.
+What is Sandra afraid of? rabbits
+
+Cats are afraid of snakes.
+Birds are afraid of dogs.
+Mary is a bird.
+Dogs are afraid of cats.
+What is Mary afraid of? dogs
+
+Eve is a mouse.
+Bears are afraid of wolves.
+Mice are afraid of bears.
+Wolves are afraid of cats.
+Cats are afraid of sheep.
+What is Eve afraid of? bears
+
+Rabbits are afraid of birds.
+Birds are afraid of lions.
+Mice are afraid of rabbits.
+Bill is a bird.
+What is Bill afraid of? lions
+
+Cats are afraid of bears.
+Susan is a rabbit.
+Dogs are afraid of cats.
+Rabbits are afraid of mice.
+Bears are afraid of rabbits.
+What is Susan afraid of? mice
+
+Cats are afraid of snakes.
+Nina is a mouse.
+Mice are afraid of cats.
+What is Nina afraid of? cats
+
+Fish are afraid of snakes.
+Bob is a fish.
+Horses are afraid of fish.
+Birds are afraid of horses.
+What is Bob afraid of? snakes
+
+Rabbits are afraid of wolves.
+Snakes are afraid of rabbits.
+Wolves are afraid of horses.
+Rick is a rabbit.
+What is Rick afraid of? wolves
+
+Sam is a cat.
+Cats are afraid of snakes.
+Lions are afraid of cats.
+Rabbits are afraid of lions.
+What is Sam afraid of? snakes
+
+Julie is a wolf.
+Wolves are afraid of cats.
+Cats are afraid of dogs.
+What is Julie afraid of? cats
+
+Birds are afraid of dogs.
+Dogs are afraid of rabbits.
+Wolves are afraid of birds.
+Sam is a dog.
+Snakes are afraid of wolves.
+What is Sam afraid of? rabbits
+
+Lions are afraid of rabbits.
+Julie is a rabbit.
+Rabbits are afraid of sheep.
+Snakes are afraid of lions.
+What is Julie afraid of? sheep
+
+Bears are afraid of rabbits.
+Mary is a bear.
+Rabbits are afraid of wolves.
+What is Mary afraid of? rabbits
+
+Tom is a lion.
+Snakes are afraid of lions.
+Lions are afraid of bears.
+Dogs are afraid of snakes.
+Bears are afraid of birds.
+What is Tom afraid of? bears
+
+Mary is a wolf.
+Lions are afraid of rabbits.
+Bears are afraid of wolves.
+Wolves are afraid of dogs.
+Rabbits are afraid of bears.
+What is Mary afraid of? dogs
+
+Horses are afraid of birds.
+Lily is a horse.
+Birds are afraid of dogs.
+What is Lily afraid of? birds
+
+Mice are afraid of lions.
+Lions are afraid of snakes.
+Snakes are afraid of sheep.
+Bears are afraid of mice.
+Bob is a snake.
+What is Bob afraid of? sheep
+
+Fish are afraid of rabbits.
+Wolves are afraid of horses.
+Tom is a fish.
+Rabbits are afraid of wolves.
+What is Tom afraid of? rabbits
+
+Bears are afraid of cats.
+Horses are afraid of bears.
+Sam is a horse.
+Cats are afraid of lions.
+What is Sam afraid of? bears
+
+Rabbits are afraid of lions.
+Lions are afraid of horses.
+Tom is a rabbit.
+What is Tom afraid of? lions
+
+Sheep are afraid of snakes.
+Julie is a mouse.
+Mice are afraid of sheep.
+What is Julie afraid of? sheep
+
+Wolves are afraid of lions.
+Alice is a cat.
+Lions are afraid of cats.
+Cats are afraid of rabbits.
+Sheep are afraid of wolves.
+What is Alice afraid of? rabbits
+
+Rabbits are afraid of birds.
+Birds are afraid of sheep.
+Dogs are afraid of rabbits.
+Mary is a rabbit.
+What is Mary afraid of? birds
+
+Fish are afraid of snakes.
+Sheep are afraid of fish.
+Snakes are afraid of horses.
+Lily is a fish.
+What is Lily afraid of? snakes
+
+Rabbits are afraid of wolves.
+Jeff is a sheep.
+Cats are afraid of rabbits.
+Sheep are afraid of cats.
+What is Jeff afraid of? cats
+
+Horses are afraid of mice.
+Wolves are afraid of horses.
+Mice are afraid of bears.
+Eve is a wolf.
+What is Eve afraid of? horses
+
+Bears are afraid of snakes.
+Jeff is a snake.
+Cats are afraid of wolves.
+Wolves are afraid of bears.
+Snakes are afraid of dogs.
+What is Jeff afraid of? dogs
+
+Rabbits are afraid of cats.
+Cats are afraid of fish.
+Susan is a rabbit.
+What is Susan afraid of? cats
+
+Frank is a fish.
+Snakes are afraid of fish.
+Fish are afraid of bears.
+What is Frank afraid of? bears
+
+Horses are afraid of rabbits.
+Wolves are afraid of bears.
+Bears are afraid of horses.
+Tom is a wolf.
+Sheep are afraid of wolves.
+What is Tom afraid of? bears
+
+Mice are afraid of lions.
+Fish are afraid of wolves.
+Lions are afraid of fish.
+Julie is a fish.
+What is Julie afraid of? wolves
+
+Susan is a bear.
+Bears are afraid of birds.
+Birds are afraid of dogs.
+What is Susan afraid of? birds
+
+Dogs are afraid of cats.
+Cats are afraid of snakes.
+Wolves are afraid of dogs.
+Rabbits are afraid of wolves.
+Ann is a dog.
+What is Ann afraid of? cats
+
+Wolves are afraid of horses.
+Sheep are afraid of rabbits.
+Daniel is a sheep.
+Horses are afraid of sheep.
+What is Daniel afraid of? rabbits
+
+Cats are afraid of bears.
+Wolves are afraid of cats.
+Lucy is a cat.
+What is Lucy afraid of? bears
+
+Snakes are afraid of wolves.
+Bears are afraid of cats.
+Wolves are afraid of bears.
+Tom is a bear.
+What is Tom afraid of? cats
+
+Cats are afraid of dogs.
+Sheep are afraid of cats.
+Frank is a rabbit.
+Rabbits are afraid of sheep.
+What is Frank afraid of? sheep
+
+Bears are afraid of wolves.
+Rabbits are afraid of bears.
+Snakes are afraid of rabbits.
+Wolves are afraid of dogs.
+Fred is a bear.
+What is Fred afraid of? wolves
+
+Lucy is a rabbit.
+Wolves are afraid of birds.
+Sheep are afraid of wolves.
+Rabbits are afraid of sheep.
+What is Lucy afraid of? sheep
+
+Fred is a bear.
+Bears are afraid of birds.
+Dogs are afraid of bears.
+What is Fred afraid of? birds
+
+Mice are afraid of dogs.
+Bears are afraid of cats.
+Dogs are afraid of bears.
+Bill is a bear.
+Cats are afraid of birds.
+What is Bill afraid of? cats
+
+Rick is a rabbit.
+Rabbits are afraid of horses.
+Birds are afraid of rabbits.
+What is Rick afraid of? horses
+
+Snakes are afraid of rabbits.
+Rabbits are afraid of horses.
+Sandra is a bear.
+Bears are afraid of birds.
+Horses are afraid of bears.
+What is Sandra afraid of? birds
+
+Wolves are afraid of birds.
+Birds are afraid of cats.
+Bernhard is a wolf.
+Bears are afraid of rabbits.
+Rabbits are afraid of wolves.
+What is Bernhard afraid of? birds
+
+Sandra is a snake.
+Snakes are afraid of sheep.
+Sheep are afraid of birds.
+Birds are afraid of rabbits.
+What is Sandra afraid of? sheep
+
+Alice is a bird.
+Birds are afraid of rabbits.
+Rabbits are afraid of dogs.
+What is Alice afraid of? rabbits
+
+Bob is a mouse.
+Mice are afraid of sheep.
+Horses are afraid of snakes.
+Sheep are afraid of horses.
+What is Bob afraid of? sheep
+
+Rabbits are afraid of mice.
+Mice are afraid of horses.
+Gertrude is a mouse.
+Sheep are afraid of rabbits.
+Horses are afraid of birds.
+What is Gertrude afraid of? horses
+
+Sam is a mouse.
+Mice are afraid of rabbits.
+Dogs are afraid of mice.
+What is Sam afraid of? rabbits
+
+Bears are afraid of fish.
+Bill is a bear.
+Fish are afraid of horses.
+What is Bill afraid of? fish
+
+Snakes are afraid of dogs.
+Fish are afraid of snakes.
+Julie is a snake.
+What is Julie afraid of? dogs
+
+Tom is a bird.
+Cats are afraid of bears.
+Birds are afraid of cats.
+What is Tom afraid of? cats
+
+Bears are afraid of dogs.
+Dogs are afraid of cats.
+Bob is a bear.
+Cats are afraid of wolves.
+What is Bob afraid of? dogs
+
+Wolves are afraid of dogs.
+Sheep are afraid of wolves.
+Dogs are afraid of fish.
+Sandra is a dog.
+Fish are afraid of bears.
+What is Sandra afraid of? fish
+
+Horses are afraid of sheep.
+Snakes are afraid of birds.
+Sheep are afraid of snakes.
+Susan is a snake.
+What is Susan afraid of? birds
+
+Bernhard is a bear.
+Bears are afraid of rabbits.
+Sheep are afraid of fish.
+Fish are afraid of bears.
+Cats are afraid of sheep.
+What is Bernhard afraid of? rabbits
+
+Dogs are afraid of rabbits.
+Tom is a rabbit.
+Rabbits are afraid of mice.
+What is Tom afraid of? mice
+
+Rabbits are afraid of snakes.
+Birds are afraid of rabbits.
+Jeff is a bear.
+Bears are afraid of birds.
+What is Jeff afraid of? birds
+
+Bears are afraid of fish.
+Eve is a bear.
+Dogs are afraid of bears.
+What is Eve afraid of? fish
+
+Dogs are afraid of wolves.
+Wolves are afraid of bears.
+Bears are afraid of cats.
+Daniel is a dog.
+What is Daniel afraid of? wolves
+
+Julie is a snake.
+Snakes are afraid of rabbits.
+Wolves are afraid of snakes.
+Rabbits are afraid of cats.
+What is Julie afraid of? rabbits
+
+Lions are afraid of snakes.
+Cats are afraid of rabbits.
+Wolves are afraid of cats.
+Rabbits are afraid of lions.
+Frank is a lion.
+What is Frank afraid of? snakes
+
+Bears are afraid of wolves.
+Nina is a horse.
+Fish are afraid of horses.
+Horses are afraid of bears.
+What is Nina afraid of? bears
+
+Lily is a dog.
+Dogs are afraid of bears.
+Bears are afraid of birds.
+What is Lily afraid of? bears
+
+Wolves are afraid of snakes.
+Horses are afraid of rabbits.
+Kate is a horse.
+Snakes are afraid of horses.
+What is Kate afraid of? rabbits
+
+Wolves are afraid of snakes.
+Sheep are afraid of bears.
+Fish are afraid of wolves.
+Nina is a snake.
+Snakes are afraid of sheep.
+What is Nina afraid of? sheep
+
+Bears are afraid of mice.
+Snakes are afraid of bears.
+Gertrude is a bear.
+Fish are afraid of snakes.
+What is Gertrude afraid of? mice
+
+Alice is a bear.
+Cats are afraid of bears.
+Bears are afraid of horses.
+What is Alice afraid of? horses
+
+Fish are afraid of horses.
+Sheep are afraid of fish.
+Bears are afraid of snakes.
+Sandra is a snake.
+Snakes are afraid of sheep.
+What is Sandra afraid of? sheep
+
+Horses are afraid of cats.
+Susan is a cat.
+Cats are afraid of rabbits.
+What is Susan afraid of? rabbits
+
+Fish are afraid of horses.
+Bernhard is a bear.
+Dogs are afraid of bears.
+Horses are afraid of dogs.
+Bears are afraid of mice.
+What is Bernhard afraid of? mice
+
+Sheep are afraid of cats.
+Birds are afraid of sheep.
+Bears are afraid of snakes.
+Snakes are afraid of birds.
+Gertrude is a bird.
+What is Gertrude afraid of? sheep
+
+Bears are afraid of mice.
+Mice are afraid of lions.
+Jeff is a bear.
+Lions are afraid of wolves.
+What is Jeff afraid of? mice
+
+Rabbits are afraid of mice.
+Nina is a rabbit.
+Wolves are afraid of rabbits.
+What is Nina afraid of? mice
+
+Gertrude is a wolf.
+Bears are afraid of snakes.
+Horses are afraid of wolves.
+Wolves are afraid of bears.
+What is Gertrude afraid of? bears
+
+Lily is a fish.
+Snakes are afraid of fish.
+Birds are afraid of snakes.
+Fish are afraid of cats.
+What is Lily afraid of? cats
+
+Jeff is a lion.
+Lions are afraid of fish.
+Horses are afraid of lions.
+What is Jeff afraid of? fish
+
+Rick is a cat.
+Bears are afraid of mice.
+Cats are afraid of bears.
+What is Rick afraid of? bears
+
+Sheep are afraid of snakes.
+Wolves are afraid of sheep.
+Julie is a sheep.
+What is Julie afraid of? snakes
+
+Fish are afraid of snakes.
+Jeff is a fish.
+Snakes are afraid of bears.
+What is Jeff afraid of? snakes
+
+Cats are afraid of rabbits.
+Rabbits are afraid of birds.
+Sheep are afraid of cats.
+Alice is a cat.
+What is Alice afraid of? rabbits
+
+Fish are afraid of cats.
+Cats are afraid of bears.
+Mary is a fish.
+Dogs are afraid of fish.
+What is Mary afraid of? cats
+
+Rabbits are afraid of bears.
+Snakes are afraid of rabbits.
+Nina is a bear.
+Bears are afraid of mice.
+Wolves are afraid of snakes.
+What is Nina afraid of? mice
+
+Birds are afraid of lions.
+Lions are afraid of wolves.
+Rick is a bird.
+Rabbits are afraid of dogs.
+Wolves are afraid of rabbits.
+What is Rick afraid of? lions
+
+Horses are afraid of bears.
+Rabbits are afraid of wolves.
+Tom is a horse.
+Fish are afraid of horses.
+Bears are afraid of rabbits.
+What is Tom afraid of? bears
+
+Fish are afraid of snakes.
+Snakes are afraid of lions.
+Tom is a fish.
+What is Tom afraid of? snakes
+
+Fish are afraid of sheep.
+Ann is a rabbit.
+Rabbits are afraid of snakes.
+Sheep are afraid of rabbits.
+What is Ann afraid of? snakes
+
+Bernhard is a sheep.
+Sheep are afraid of dogs.
+Wolves are afraid of sheep.
+What is Bernhard afraid of? dogs
+
+Snakes are afraid of birds.
+Gertrude is a bird.
+Wolves are afraid of snakes.
+Birds are afraid of dogs.
+What is Gertrude afraid of? dogs
+
+Horses are afraid of snakes.
+Snakes are afraid of dogs.
+Bernhard is a sheep.
+Sheep are afraid of horses.
+What is Bernhard afraid of? horses
+
+Birds are afraid of lions.
+Sheep are afraid of birds.
+Bears are afraid of sheep.
+Dogs are afraid of bears.
+Frank is a sheep.
+What is Frank afraid of? birds
+
+Fred is a sheep.
+Snakes are afraid of mice.
+Sheep are afraid of snakes.
+Mice are afraid of dogs.
+What is Fred afraid of? snakes
+
+Cats are afraid of snakes.
+Dogs are afraid of mice.
+Horses are afraid of dogs.
+Snakes are afraid of horses.
+Rick is a cat.
+What is Rick afraid of? snakes

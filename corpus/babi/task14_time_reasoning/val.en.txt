@@ -1,0 +1,896 @@
+Yesterday Sam went to the garden.
+This evening Sam went to the playground.
+Where was Sam before the playground? garden
+
+This morning Alice went to the studio.
+This evening Alice went to the office.
+Where was Alice before the office? studio
+
+Yesterday Rick went to the bedroom.
+This evening Rick went to the market.
+In the afternoon Rick went to the playground.
+Where was Rick before the market? playground
+
+Yesterday Nina went to the studio.
+In the afternoon Nina went to the market.
+Where was Nina before the market? studio
+
+This morning Lucy went to the playground.
+This evening Lucy went to the kitchen.
+Where was Lucy before the kitchen? playground
+
+This morning Susan went to the kitchen.
+In the afternoon Susan went to the studio.
+Where was Susan before the studio? kitchen
+
+This evening Daniel went to the playground.
+Yesterday Daniel went to the studio.
+Where was Daniel before the playground? studio
+
+This evening Fred went to the garden.
+In the afternoon Fred went to the kitchen.
+Where was Fred before the garden? kitchen
+
+Yesterday Mary went to the garden.
+This evening Mary went to the studio.
+This morning Mary went to the playground.
+Where was Mary before the studio? playground
+
+This evening Fred went to the park.
+Yesterday Fred went to the school.
+Where was Fred before the park? school
+
+In the afternoon Frank went to the garden.
+This morning Frank went to the office.
+Where was Frank before the garden? office
+
+In the afternoon Bob went to the office.
+Yesterday Bob went to the bedroom.
+Where was Bob before the office? bedroom
+
+In the afternoon Tom went to the studio.
+This evening Tom went to the school.
+Yesterday Tom went to the kitchen.
+Where was Tom before the school? studio
+
+Yesterday John went to the bedroom.
+This evening John went to the school.
+This morning John went to the park.
+Where was John before the school? park
+
+This morning Bob went to the studio.
+Yesterday Bob went to the studio.
+Where was Bob before the studio? studio
+
+This evening Bill went to the playground.
+Yesterday Bill went to the school.
+This morning Bill went to the hallway.
+Where was Bill before the playground? hallway
+
+In the afternoon Bill went to the bathroom.
+This evening Bill went to the kitchen.
+Where was Bill before the kitchen? bathroom
+
+This morning Daniel went to the market.
+In the afternoon Daniel went to the bedroom.
+Where was Daniel before the bedroom? market
+
+In the afternoon Fred went to the school.
+This evening Fred went to the playground.
+Yesterday Fred went to the bedroom.
+Where was Fred before the playground? school
+
+In the afternoon Daniel went to the studio.
+Yesterday Daniel went to the hallway.
+This evening Daniel went to the office.
+Where was Daniel before the office? studio
+
+This morning Mary went to the studio.
+This evening Mary went to the office.
+Where was Mary before the office? studio
+
+In the afternoon Peter went to the restaurant.
+Yesterday Peter went to the bedroom.
+Where was Peter before the restaurant? bedroom
+
+In the afternoon David went to the garden.
+This evening David went to the bedroom.
+Where was David before the bedroom? garden
+
+In the afternoon Frank went to the school.
+This evening Frank went to the market.
+Where was Frank before the market? school
+
+This morning Nina went to the school.
+In the afternoon Nina went to the bathroom.
+This evening Nina went to the hallway.
+Where was Nina before the hallway? bathroom
+
+In the afternoon Mary went to the kitchen.
+Yesterday Mary went to the hallway.
+Where was Mary before the kitchen? hallway
+
+This morning Eve went to the market.
+Yesterday Eve went to the market.
+This evening Eve went to the garden.
+Where was Eve before the garden? market
+
+This morning Nina went to the studio.
+In the afternoon Nina went to the school.
+Where was Nina before the school? studio
+
+Yesterday Eve went to the school.
+This morning Eve went to the bathroom.
+Where was Eve before the bathroom? school
+
+Yesterday Mary went to the market.
+This morning Mary went to the restaurant.
+Where was Mary before the restaurant? market
+
+In the afternoon Sam went to the bathroom.
+This evening Sam went to the bathroom.
+Where was Sam before the bathroom? bathroom
+
+In the afternoon Peter went to the restaurant.
+This morning Peter went to the restaurant.
+Where was Peter before the restaurant? restaurant
+
+Yesterday Mary went to the office.
+This evening Mary went to the studio.
+Where was Mary before the studio? office
+
+This morning Eve went to the bedroom.
+Yesterday Eve went to the studio.
+Where was Eve before the bedroom? studio
+
+This morning Tom went to the bathroom.
+In the afternoon Tom went to the market.
+This evening Tom went to the kitchen.
+Where was Tom before the kitchen? market
+
+This evening Daniel went to the park.
+Yesterday Daniel went to the school.
+This morning Daniel went to the park.
+Where was Daniel before the park? park
+
+Yesterday Ann went to the restaurant.
+This evening Ann went to the kitchen.
+This morning Ann went to the bathroom.
+Where was Ann before the kitchen? bathroom
+
+This morning Daniel went to the school.
+Yesterday Daniel went to the bathroom.
+In the afternoon Daniel went to the garden.
+Where was Daniel before the garden? school
+
+In the afternoon Kate went to the school.
+This evening Kate went to the office.
+Yesterday Kate went to the bedroom.
+Where was Kate before the office? school
+
+This evening Mary went to the garden.
+Yesterday Mary went to the office.
+This morning Mary went to the bathroom.
+Where was Mary before the garden? bathroom
+
+In the afternoon Rick went to the bathroom.
+This evening Rick went to the garden.
+Where was Rick before the garden? bathroom
+
+In the afternoon Bob went to the park.
+Yesterday Bob went to the kitchen.
+This evening Bob went to the school.
+Where was Bob before the school? park
+
+Yesterday Tom went to the office.
+This evening Tom went to the studio.
+Where was Tom before the studio? office
+
+Yesterday Alice went to the kitchen.
+In the afternoon Alice went to the office.
+Where was Alice before the office? kitchen
+
+This evening Lucy went to the market.
+Yesterday Lucy went to the studio.
+Where was Lucy before the market? studio
+
+This evening Nina went to the market.
+This morning Nina went to the market.
+Yesterday Nina went to the school.
+Where was Nina before the market? market
+
+This morning Ann went to the studio.
+In the afternoon Ann went to the restaurant.
+Yesterday Ann went to the kitchen.
+Where was Ann before the restaurant? studio
+
+Yesterday Eve went to the kitchen.
+This morning Eve went to the bedroom.
+Where was Eve before the bedroom? kitchen
+
+Yesterday Fred went to the bedroom.
+This morning Fred went to the hallway.
+In the afternoon Fred went to the office.
+Where was Fred before the office? hallway
+
+In the afternoon David went to the bathroom.
+Yesterday David went to the kitchen.
+This evening David went to the playground.
+Where was David before the playground? bathroom
+
+Yesterday Frank went to the garden.
+This morning Frank went to the school.
+In the afternoon Frank went to the bathroom.
+Where was Frank before the bathroom? school
+
+This evening Nina went to the bedroom.
+In the afternoon Nina went to the school.
+This morning Nina went to the park.
+Where was Nina before the bedroom? school
+
+This morning John went to the bathroom.
+Yesterday John went to the restaurant.
+In the afternoon John went to the hallway.
+Where was John before the hallway? bathroom
+
+This evening Kate went to the bedroom.
+In the afternoon Kate went to the park.
+This morning Kate went to the bathroom.
+Where was Kate before the bedroom? park
+
+In the afternoon Mary went to the garden.
+Yesterday Mary went to the playground.
+Where was Mary before the garden? playground
+
+This evening David went to the bathroom.
+In the afternoon David went to the kitchen.
+This morning David went to the kitchen.
+Where was David before the bathroom? kitchen
+
+This evening Eve went to the school.
+In the afternoon Eve went to the bedroom.
+Where was Eve before the school? bedroom
+
+This evening Eve went to the garden.
+Yesterday Eve went to the office.
+Where was Eve before the garden? office
+
+Yesterday Tom went to the office.
+This evening Tom went to the bathroom.
+This morning Tom went to the hallway.
+Where was Tom before the bathroom? hallway
+
+Yesterday Eve went to the bedroom.
+In the afternoon Eve went to the bathroom.
+This evening Eve went to the bathroom.
+Where was Eve before the bathroom? bathroom
+
+This evening Peter went to the studio.
+In the afternoon Peter went to the studio.
+Yesterday Peter went to the kitchen.
+Where was Peter before the studio? studio
+
+This evening Tom went to the studio.
+Yesterday Tom went to the bedroom.
+This morning Tom went to the playground.
+Where was Tom before the studio? playground
+
+Yesterday Alice went to the market.
+This evening Alice went to the school.
+This morning Alice went to the playground.
+Where was Alice before the school? playground
+
+This morning Eve went to the restaurant.
+This evening Eve went to the hallway.
+In the afternoon Eve went to the hallway.
+Where was Eve before the hallway? hallway
+
+This morning Fred went to the hallway.
+Yesterday Fred went to the bathroom.
+Where was Fred before the hallway? bathroom
+
+In the afternoon Lucy went to the studio.
+This morning Lucy went to the park.
+Where was Lucy before the studio? park
+
+This evening Peter went to the playground.
+Yesterday Peter went to the office.
+In the afternoon Peter went to the hallway.
+Where was Peter before the playground? hallway
+
+In the afternoon Fred went to the studio.
+This evening Fred went to the school.
+Where was Fred before the school? studio
+
+This evening Nina went to the office.
+This morning Nina went to the hallway.
+In the afternoon Nina went to the school.
+Where was Nina before the office? school
+
+This morning Eve went to the garden.
+Yesterday Eve went to the school.
+This evening Eve went to the office.
+Where was Eve before the office? garden
+
+This evening Susan went to the school.
+Yesterday Susan went to the garden.
+Where was Susan before the school? garden
+
+Yesterday Daniel went to the market.
+In the afternoon Daniel went to the school.
+Where was Daniel before the school? market
+
+In the afternoon David went to the playground.
+Yesterday David went to the restaurant.
+This morning David went to the restaurant.
+Where was David before the playground? restaurant
+
+This evening David went to the kitchen.
+This morning David went to the studio.
+In the afternoon David went to the market.
+Where was David before the kitchen? market
+
+This morning Lucy went to the restaurant.
+In the afternoon Lucy went to the bathroom.
+Where was Lucy before the bathroom? restaurant
+
+Yesterday Kate went to the school.
+This morning Kate went to the bathroom.
+This evening Kate went to the park.
+Where was Kate before the park? bathroom
+
+This evening Sam went to the studio.
+In the afternoon Sam went to the bedroom.
+Yesterday Sam went to the school.
+Where was Sam before the studio? bedroom
+
+Yesterday Mary went to the park.
+In the afternoon Mary went to the market.
+This morning Mary went to the park.
+Where was Mary before the market? park
+
+Yesterday Rick went to the bedroom.
+This evening Rick went to the school.
+Where was Rick before the school? bedroom
+
+This evening Lucy went to the park.
+Yesterday Lucy went to the playground.
+Where was Lucy before the park? playground
+
+In the afternoon Bill went to the hallway.
+This evening Bill went to the market.
+Where was Bill before the market? hallway
+
+In the afternoon Alice went to the bedroom.
+Yesterday Alice went to the playground.
+Where was Alice before the bedroom? playground
+
+In the afternoon Sandra went to the park.
+This evening Sandra went to the office.
+Yesterday Sandra went to the garden.
+Where was Sandra before the office? park
+
+This evening David went to the playground.
+Yesterday David went to the school.
+Where was David before the playground? school
+
+Yesterday Eve went to the garden.
+This evening Eve went to the playground.
+This morning Eve went to the bedroom.
+Where was Eve before the playground? bedroom
+
+Yesterday Alice went to the office.
+This morning Alice went to the park.
+In the afternoon Alice went to the restaurant.
+Where was Alice before the restaurant? park
+
+This evening Eve went to the kitchen.
+In the afternoon Eve went to the bathroom.
+This morning Eve went to the office.
+Where was Eve before the kitchen? bathroom
+
+This evening Alice went to the hallway.
+This morning Alice went to the studio.
+In the afternoon Alice went to the hallway.
+Where was Alice before the hallway? hallway
+
+This evening Alice went to the bedroom.
+This morning Alice went to the park.
+In the afternoon Alice went to the studio.
+Where was Alice before the bedroom? studio
+
+This evening Eve went to the garden.
+Yesterday Eve went to the restaurant.
+This morning Eve went to the studio.
+Where was Eve before the garden? studio
+
+This evening Kate went to the office.
+In the afternoon Kate went to the playground.
+Where was Kate before the office? playground
+
+Yesterday Sam went to the school.
+In the afternoon Sam went to the garden.
+This evening Sam went to the garden.
+Where was Sam before the garden? garden
+
+This morning Frank went to the kitchen.
+This evening Frank went to the hallway.
+Yesterday Frank went to the playground.
+Where was Frank before the hallway? kitchen
+
+This evening Nina went to the kitchen.
+In the afternoon Nina went to the park.
+This morning Nina went to the bathroom.
+Where was Nina before the kitchen? park
+
+In the afternoon Bob went to the restaurant.
+This evening Bob went to the hallway.
+Where was Bob before the hallway? restaurant
+
+Yesterday Nina went to the market.
+In the afternoon Nina went to the bathroom.
+Where was Nina before the bathroom? market
+
+This evening Tom went to the garden.
+In the afternoon Tom went to the studio.
+Yesterday Tom went to the kitchen.
+Where was Tom before the garden? studio
+
+Yesterday Bob went to the market.
+In the afternoon Bob went to the bedroom.
+This morning Bob went to the office.
+Where was Bob before the bedroom? office
+
+Yesterday Eve went to the playground.
+In the afternoon Eve went to the bathroom.
+Where was Eve before the bathroom? playground
+
+This evening John went to the hallway.
+In the afternoon John went to the office.
+Where was John before the hallway? office
+
+Yesterday Sandra went to the bathroom.
+This morning Sandra went to the bathroom.
+Where was Sandra before the bathroom? bathroom
+
+This evening Kate went to the kitchen.
+Yesterday Kate went to the park.
+Where was Kate before the kitchen? park
+
+This evening Rick went to the market.
+Yesterday Rick went to the garden.
+Where was Rick before the market? garden
+
+In the afternoon Eve went to the garden.
+This evening Eve went to the school.
+Where was Eve before the school? garden
+
+In the afternoon Daniel went to the park.
+This morning Daniel went to the park.
+Where was Daniel before the park? park
+
+This morning Kate went to the bedroom.
+Yesterday Kate went to the school.
+Where was Kate before the bedroom? school
+
+Yesterday Lucy went to the hallway.
+This morning Lucy went to the bathroom.
+This evening Lucy went to the garden.
+Where was Lucy before the garden? bathroom
+
+This evening Sandra went to the studio.
+Yesterday Sandra went to the park.
+In the afternoon Sandra went to the office.
+Where was Sandra before the studio? office
+
+Yesterday Daniel went to the studio.
+In the afternoon Daniel went to the school.
+Where was Daniel before the school? studio
+
+This evening Tom went to the garden.
+This morning Tom went to the market.
+In the afternoon Tom went to the hallway.
+Where was Tom before the garden? hallway
+
+In the afternoon Sandra went to the studio.
+This evening Sandra went to the restaurant.
+Yesterday Sandra went to the playground.
+Where was Sandra before the restaurant? studio
+
+In the afternoon Mary went to the park.
+Yesterday Mary went to the restaurant.
+Where was Mary before the park? restaurant
+
+Yesterday Sandra went to the school.
+This evening Sandra went to the hallway.
+Where was Sandra before the hallway? school
+
+This evening Sam went to the kitchen.
+Yesterday Sam went to the market.
+Where was Sam before the kitchen? market
+
+Yesterday Sandra went to the school.
+This morning Sandra went to the market.
+In the afternoon Sandra went to the kitchen.
+Where was Sandra before the kitchen? market
+
+In the afternoon David went to the school.
+This morning David went to the school.
+Where was David before the school? school
+
+In the afternoon Sam went to the restaurant.
+This morning Sam went to the restaurant.
+Where was Sam before the restaurant? restaurant
+
+In the afternoon Sandra went to the garden.
+Yesterday Sandra went to the market.
+This morning Sandra went to the kitchen.
+Where was Sandra before the garden? kitchen
+
+This morning Sam went to the garden.
+Yesterday Sam went to the bedroom.
+Where was Sam before the garden? bedroom
+
+This morning Fred went to the garden.
+In the afternoon Fred went to the park.
+Where was Fred before the park? garden
+
+This morning David went to the bedroom.
+Yesterday David went to the park.
+Where was David before the bedroom? park
+
+Yesterday David went to the office.
+This evening David went to the garden.
+In the afternoon David went to the hallway.
+Where was David before the garden? hallway
+
+This morning Lucy went to the park.
+This evening Lucy went to the playground.
+Where was Lucy before the playground? park
+
+This morning Tom went to the office.
+Yesterday Tom went to the garden.
+In the afternoon Tom went to the studio.
+Where was Tom before the studio? office
+
+This morning Daniel went to the hallway.
+In the afternoon Daniel went to the office.
+Where was Daniel before the office? hallway
+
+This morning David went to the restaurant.
+This evening David went to the hallway.
+Yesterday David went to the bedroom.
+Where was David before the hallway? restaurant
+
+Yesterday Sam went to the restaurant.
+In the afternoon Sam went to the restaurant.
+Where was Sam before the restaurant? restaurant
+
+In the afternoon Bill went to the hallway.
+This morning Bill went to the park.
+This evening Bill went to the office.
+Where was Bill before the office? hallway
+
+This morning Frank went to the bedroom.
+Yesterday Frank went to the studio.
+Where was Frank before the bedroom? studio
+
+In the afternoon Frank went to the restaurant.
+This morning Frank went to the market.
+This evening Frank went to the school.
+Where was Frank before the school? restaurant
+
+This morning Lucy went to the school.
+Yesterday Lucy went to the kitchen.
+This evening Lucy went to the market.
+Where was Lucy before the market? school
+
+In the afternoon Tom went to the bathroom.
+Yesterday Tom went to the office.
+This evening Tom went to the studio.
+Where was Tom before the studio? bathroom
+
+Yesterday Mary went to the restaurant.
+In the afternoon Mary went to the park.
+Where was Mary before the park? restaurant
+
+This morning Fred went to the bedroom.
+This evening Fred went to the park.
+Where was Fred before the park? bedroom
+
+This morning David went to the restaurant.
+In the afternoon David went to the garden.
+This evening David went to the garden.
+Where was David before the garden? garden
+
+This evening Tom went to the kitchen.
+In the afternoon Tom went to the office.
+This morning Tom went to the restaurant.
+Where was Tom before the kitchen? office
+
+Yesterday Mary went to the park.
+In the afternoon Mary went to the playground.
+Where was Mary before the playground? park
+
+This evening David went to the bedroom.
+This morning David went to the restaurant.
+Yesterday David went to the bedroom.
+Where was David before the bedroom? restaurant
+
+This evening Eve went to the bedroom.
+In the afternoon Eve went to the bathroom.
+Where was Eve before the bedroom? bathroom
+
+This evening John went to the hallway.
+This morning John went to the park.
+Where was John before the hallway? park
+
+Yesterday Eve went to the park.
+In the afternoon Eve went to the garden.
+Where was Eve before the garden? park
+
+In the afternoon Alice went to the hallway.
+This evening Alice went to the market.
+Yesterday Alice went to the hallway.
+Where was Alice before the market? hallway
+
+This evening John went to the playground.
+In the afternoon John went to the bathroom.
+Yesterday John went to the garden.
+Where was John before the playground? bathroom
+
+This morning Sandra went to the studio.
+This evening Sandra went to the school.
+In the afternoon Sandra went to the park.
+Where was Sandra before the school? park
+
+This evening Rick went to the park.
+In the afternoon Rick went to the park.
+Where was Rick before the park? park
+
+This morning Peter went to the park.
+This evening Peter went to the restaurant.
+Yesterday Peter went to the restaurant.
+Where was Peter before the restaurant? park
+
+In the afternoon Sandra went to the bathroom.
+This evening Sandra went to the school.
+Where was Sandra before the school? bathroom
+
+This evening Sandra went to the school.
+In the afternoon Sandra went to the market.
+Yesterday Sandra went to the kitchen.
+Where was Sandra before the school? market
+
+This evening John went to the studio.
+This morning John went to the restaurant.
+Yesterday John went to the park.
+Where was John before the studio? restaurant
+
+This morning Frank went to the studio.
+Yesterday Frank went to the office.
+In the afternoon Frank went to the bathroom.
+Where was Frank before the bathroom? studio
+
+This morning Ann went to the garden.
+This evening Ann went to the office.
+Where was Ann before the office? garden
+
+This morning Eve went to the bathroom.
+Yesterday Eve went to the bathroom.
+This evening Eve went to the bedroom.
+Where was Eve before the bedroom? bathroom
+
+Yesterday Bob went to the park.
+This morning Bob went to the office.
+This evening Bob went to the bathroom.
+Where was Bob before the bathroom? office
+
+This morning Bill went to the market.
+In the afternoon Bill went to the restaurant.
+Where was Bill before the restaurant? market
+
+Yesterday Alice went to the market.
+This morning Alice went to the school.
+In the afternoon Alice went to the park.
+Where was Alice before the park? school
+
+This morning Daniel went to the office.
+This evening Daniel went to the garden.
+Yesterday Daniel went to the garden.
+Where was Daniel before the garden? office
+
+Yesterday Rick went to the school.
+In the afternoon Rick went to the bedroom.
+Where was Rick before the bedroom? school
+
+In the afternoon Lucy went to the playground.
+Yesterday Lucy went to the studio.
+Where was Lucy before the playground? studio
+
+This morning Lucy went to the market.
+Yesterday Lucy went to the playground.
+In the afternoon Lucy went to the studio.
+Where was Lucy before the studio? market
+
+In the afternoon Bob went to the office.
+This morning Bob went to the bedroom.
+Yesterday Bob went to the school.
+Where was Bob before the office? bedroom
+
+In the afternoon Nina went to the market.
+Yesterday Nina went to the restaurant.
+Where was Nina before the market? restaurant
+
+This evening Sandra went to the studio.
+Yesterday Sandra went to the office.
+In the afternoon Sandra went to the restaurant.
+Where was Sandra before the studio? restaurant
+
+This morning Bill went to the restaurant.
+Yesterday Bill went to the bedroom.
+This evening Bill went to the bathroom.
+Where was Bill before the bathroom? restaurant
+
+This evening John went to the office.
+In the afternoon John went to the park.
+Where was John before the office? park
+
+This evening Mary went to the park.
+In the afternoon Mary went to the park.
+This morning Mary went to the school.
+Where was Mary before the park? park
+
+This evening David went to the school.
+Yesterday David went to the bedroom.
+Where was David before the school? bedroom
+
+In the afternoon David went to the hallway.
+Yesterday David went to the hallway.
+This morning David went to the restaurant.
+Where was David before the hallway? restaurant
+
+This morning Sam went to the market.
+In the afternoon Sam went to the kitchen.
+Where was Sam before the kitchen? market
+
+This evening Fred went to the market.
+This morning Fred went to the park.
+Where was Fred before the market? park
+
+In the afternoon John went to the kitchen.
+This morning John went to the bedroom.
+Where was John before the kitchen? bedroom
+
+This evening Ann went to the garden.
+This morning Ann went to the kitchen.
+Yesterday Ann went to the bathroom.
+Where was Ann before the garden? kitchen
+
+This evening Bill went to the market.
+In the afternoon Bill went to the market.
+This morning Bill went to the restaurant.
+Where was Bill before the market? market
+
+This evening Lucy went to the garden.
+This morning Lucy went to the garden.
+Yesterday Lucy went to the garden.
+Where was Lucy before the garden? garden
+
+Yesterday Ann went to the studio.
+In the afternoon Ann went to the studio.
+Where was Ann before the studio? studio
+
+This morning Susan went to the hallway.
+This evening Susan went to the market.
+Where was Susan before the market? hallway
+
+This morning David went to the restaurant.
+Yesterday David went to the garden.
+Where was David before the restaurant? garden
+
+In the afternoon Lucy went to the playground.
+This evening Lucy went to the playground.
+Where was Lucy before the playground? playground
+
+In the afternoon Alice went to the bedroom.
+This morning Alice went to the garden.
+Where was Alice before the bedroom? garden
+
+In the afternoon Mary went to the studio.
+Yesterday Mary went to the bedroom.
+This evening Mary went to the bathroom.
+Where was Mary before the bathroom? studio
+
+In the afternoon Alice went to the office.
+Yesterday Alice went to the playground.
+This evening Alice went to the school.
+Where was Alice before the school? office
+
+This morning Frank went to the kitchen.
+This evening Frank went to the playground.
+Where was Frank before the playground? kitchen
+
+This evening Daniel went to the playground.
+This morning Daniel went to the restaurant.
+In the afternoon Daniel went to the school.
+Where was Daniel before the playground? school
+
+Yesterday Bob went to the bathroom.
+This morning Bob went to the bedroom.
+Where was Bob before the bedroom? bathroom
+
+In the afternoon Sam went to the office.
+This morning Sam went to the school.
+Where was Sam before the office? school
+
+In the afternoon Sandra went to the market.
+This morning Sandra went to the park.
+Yesterday Sandra went to the office.
+Where was Sandra before the market? park
+
+This evening Nina went to the restaurant.
+In the afternoon Nina went to the park.
+Where was Nina before the restaurant? park
+
+In the afternoon Daniel went to the office.
+Yesterday Daniel went to the restaurant.
+Where was Daniel before the office? restaurant
+
+Yesterday Peter went to the school.
+This evening Peter went to the park.
+Where was Peter before the park? school
+
+This morning Mary went to the playground.
+Yesterday Mary went to the garden.
+Where was Mary before the playground? garden
+
+This morning Daniel went to the school.
+This evening Daniel went to the office.
+Yesterday Daniel went to the school.
+Where was Daniel before the office? school
+
+This morning Susan went to the park.
+Yesterday Susan went to the bathroom.
+Where was Susan before the park? bathroom
+
+In the afternoon Bob went to the hallway.
+This evening Bob went to the garden.
+Where was Bob before the garden? hallway
+
+This evening Fred went to the school.
+Yesterday Fred went to the kitchen.
+In the afternoon Fred went to the bedroom.
+Where was Fred before the school? bedroom
+
+In the afternoon Peter went to the kitchen.
+Yesterday Peter went to the office.
+This evening Peter went to the market.
+Where was Peter before the market? kitchen
+
+This evening Tom went to the office.
+In the afternoon Tom went to the restaurant.
+Where was Tom before the office? restaurant
+
+In the afternoon Peter went to the hallway.
+This evening Peter went to the bedroom.
+Where was Peter before the bedroom? hallway
+
+This evening Peter went to the bathroom.
+This morning Peter went to the playground.
+In the afternoon Peter went to the restaurant.
+Where was Peter before the bathroom? restaurant
+
+In the afternoon David went to the restaurant.
+This evening David went to the bathroom.
+Yesterday David went to the garden.
+Where was David before the bathroom? restaurant
+
+Yesterday Fred went to the office.
+In the afternoon Fred went to the playground.
+Where was Fred before the playground? office
+
+In the afternoon Mary went to the market.
+This morning Mary went to the playground.
+This evening Mary went to the market.
+Where was Mary before the market? market

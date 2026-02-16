@@ -1,0 +1,1149 @@
+David went to the playground.
+Tom went to the bathroom.
+Jeff went to the kitchen.
+Sam went to the office.
+Where is David? playground
+
+Nina went to the library.
+John went to the office.
+Frank went to the library.
+Susan went to the school.
+Where is John? office
+
+Rick went to the garden.
+Julie went to the kitchen.
+Lily went to the park.
+Tom went to the bathroom.
+Nina went to the bedroom.
+Where is Julie? kitchen
+
+Sam went to the market.
+Frank went to the kitchen.
+Bob went to the park.
+Sandra went to the cellar.
+Eve went to the office.
+Where is Sandra? cellar
+
+Tom went to the cellar.
+Julie went to the bathroom.
+Bernhard went to the school.
+Where is Bernhard? school
+
+Lily went to the park.
+Bill went to the bedroom.
+Where is Bill? bedroom
+
+Jeff went to the office.
+Rick went to the school.
+Lily went to the market.
+Gertrude went to the hallway.
+John went to the garden.
+Where is Rick? school
+
+Lucy went to the market.
+Lily went to the office.
+Where is Lily? office
+
+Lily went to the office.
+Bob went to the market.
+Daniel went to the hospital.
+Lucy went to the playground.
+Where is Lucy? playground
+
+John went to the office.
+Gertrude went to the studio.
+Julie went to the playground.
+Where is Gertrude? studio
+
+Lily went to the market.
+Fred went to the garden.
+Tom went to the market.
+Where is Lily? market
+
+Lily went to the market.
+Sam went to the library.
+Kate went to the studio.
+Rick went to the office.
+David went to the playground.
+Where is Sam? library
+
+Sam went to the hospital.
+Nina went to the market.
+Gertrude went to the hallway.
+Peter went to the restaurant.
+Where is Gertrude? hallway
+
+Lily went to the playground.
+Gertrude went to the bathroom.
+Frank went to the office.
+Eve went to the cellar.
+Where is Gertrude? bathroom
+
+Nina went to the hallway.
+David went to the garden.
+Bob went to the playground.
+Tom went to the playground.
+Peter went to the cellar.
+Where is Bob? playground
+
+Rick went to the bathroom.
+Lucy went to the kitchen.
+Gertrude went to the cellar.
+Bill went to the office.
+Sam went to the playground.
+Where is Bill? office
+
+Daniel went to the library.
+Peter went to the market.
+Lucy went to the hallway.
+Alice went to the office.
+Frank went to the hallway.
+Where is Peter? market
+
+John went to the bathroom.
+Kate went to the studio.
+Bill went to the park.
+Lily went to the bedroom.
+Jeff went to the kitchen.
+Where is Jeff? kitchen
+
+Susan went to the library.
+Bob went to the bathroom.
+Frank went to the cellar.
+Mary went to the garden.
+Lucy went to the library.
+Where is Mary? garden
+
+David went to the park.
+Sandra went to the hallway.
+Daniel went to the restaurant.
+Mary went to the cellar.
+Where is Daniel? restaurant
+
+Kate went to the hospital.
+Julie went to the office.
+Where is Kate? hospital
+
+Lucy went to the garden.
+Lily went to the kitchen.
+Alice went to the park.
+Where is Lily? kitchen
+
+Nina went to the park.
+John went to the bathroom.
+Bob went to the hospital.
+Where is John? bathroom
+
+Lily went to the garden.
+Peter went to the cellar.
+Susan went to the playground.
+Fred went to the kitchen.
+Kate went to the market.
+Where is Lily? garden
+
+Fred went to the hallway.
+Frank went to the market.
+Rick went to the hallway.
+Alice went to the park.
+Gertrude went to the kitchen.
+Where is Gertrude? kitchen
+
+Sandra went to the office.
+Kate went to the playground.
+Gertrude went to the studio.
+Eve went to the library.
+David went to the park.
+Where is Sandra? office
+
+John went to the restaurant.
+Sam went to the studio.
+Bob went to the cellar.
+Where is John? restaurant
+
+Frank went to the kitchen.
+Gertrude went to the hospital.
+Jeff went to the studio.
+Lily went to the cellar.
+Susan went to the hospital.
+Where is Susan? hospital
+
+Alice went to the hospital.
+Ann went to the market.
+Where is Alice? hospital
+
+Alice went to the garden.
+John went to the office.
+Jeff went to the playground.
+Tom went to the studio.
+Where is Jeff? playground
+
+Alice went to the hospital.
+Gertrude went to the bedroom.
+Susan went to the studio.
+Julie went to the bathroom.
+Jeff went to the library.
+Where is Susan? studio
+
+Bernhard went to the library.
+Peter went to the hallway.
+Sandra went to the cellar.
+Ann went to the school.
+Jeff went to the office.
+Where is Jeff? office
+
+Sam went to the garden.
+Frank went to the cellar.
+Peter went to the hospital.
+Where is Peter? hospital
+
+Bernhard went to the market.
+John went to the library.
+Frank went to the library.
+Where is Frank? library
+
+Alice went to the market.
+Frank went to the playground.
+Lily went to the bathroom.
+Julie went to the bedroom.
+David went to the park.
+Where is David? park
+
+Jeff went to the office.
+Alice went to the bedroom.
+Daniel went to the hospital.
+Where is Daniel? hospital
+
+Susan went to the hallway.
+Bernhard went to the studio.
+Gertrude went to the playground.
+Where is Susan? hallway
+
+Gertrude went to the bathroom.
+Alice went to the studio.
+Lily went to the library.
+David went to the kitchen.
+Sam went to the restaurant.
+Where is David? kitchen
+
+Fred went to the bedroom.
+Sam went to the hospital.
+Nina went to the playground.
+John went to the cellar.
+Tom went to the cellar.
+Where is Nina? playground
+
+Bernhard went to the hospital.
+Bob went to the cellar.
+Lucy went to the bedroom.
+Where is Bob? cellar
+
+Frank went to the restaurant.
+Ann went to the hospital.
+Bernhard went to the bedroom.
+Where is Ann? hospital
+
+Tom went to the office.
+Kate went to the cellar.
+David went to the studio.
+Where is David? studio
+
+Alice went to the library.
+Peter went to the park.
+Bill went to the playground.
+Sam went to the kitchen.
+Where is Bill? playground
+
+Alice went to the garden.
+Sandra went to the studio.
+Nina went to the bathroom.
+Lily went to the school.
+Sam went to the playground.
+Where is Lily? school
+
+Daniel went to the school.
+Lucy went to the hospital.
+Julie went to the hallway.
+David went to the garden.
+Where is Daniel? school
+
+Lily went to the park.
+Julie went to the restaurant.
+Fred went to the hospital.
+Kate went to the hallway.
+Where is Fred? hospital
+
+Sam went to the studio.
+Bernhard went to the cellar.
+Where is Sam? studio
+
+Frank went to the studio.
+Bernhard went to the playground.
+Where is Bernhard? playground
+
+Mary went to the library.
+Kate went to the library.
+Fred went to the kitchen.
+Jeff went to the cellar.
+Where is Mary? library
+
+Jeff went to the school.
+Rick went to the restaurant.
+Where is Jeff? school
+
+Daniel went to the library.
+Ann went to the bathroom.
+Lily went to the playground.
+Eve went to the playground.
+Where is Eve? playground
+
+Tom went to the restaurant.
+Lily went to the library.
+Where is Lily? library
+
+Daniel went to the market.
+Frank went to the park.
+Lucy went to the bedroom.
+David went to the restaurant.
+Bob went to the cellar.
+Where is Daniel? market
+
+Bernhard went to the hallway.
+Susan went to the bedroom.
+Frank went to the school.
+Where is Frank? school
+
+Bob went to the studio.
+John went to the office.
+David went to the hospital.
+Where is John? office
+
+Kate went to the school.
+Nina went to the library.
+Where is Nina? library
+
+John went to the hallway.
+Ann went to the kitchen.
+Mary went to the restaurant.
+Tom went to the kitchen.
+Frank went to the cellar.
+Where is Mary? restaurant
+
+Alice went to the school.
+Daniel went to the playground.
+Bill went to the kitchen.
+Frank went to the park.
+Julie went to the garden.
+Where is Frank? park
+
+Mary went to the bedroom.
+Julie went to the kitchen.
+Where is Julie? kitchen
+
+Lucy went to the kitchen.
+Peter went to the cellar.
+Sam went to the kitchen.
+Where is Sam? kitchen
+
+Julie went to the library.
+Alice went to the office.
+Gertrude went to the park.
+Bernhard went to the hospital.
+Mary went to the library.
+Where is Mary? library
+
+Frank went to the playground.
+Ann went to the bathroom.
+Bill went to the school.
+Kate went to the park.
+John went to the library.
+Where is John? library
+
+John went to the bedroom.
+Bill went to the garden.
+Nina went to the library.
+Where is Bill? garden
+
+Bernhard went to the kitchen.
+Frank went to the market.
+Where is Frank? market
+
+Nina went to the bedroom.
+Gertrude went to the restaurant.
+Peter went to the school.
+Julie went to the park.
+Kate went to the bathroom.
+Where is Gertrude? restaurant
+
+Daniel went to the office.
+Frank went to the park.
+Bill went to the bathroom.
+Bernhard went to the hallway.
+Mary went to the bedroom.
+Where is Mary? bedroom
+
+Nina went to the bathroom.
+Daniel went to the hallway.
+Bill went to the kitchen.
+Rick went to the hospital.
+Where is Bill? kitchen
+
+Sandra went to the library.
+Julie went to the garden.
+Alice went to the bedroom.
+Jeff went to the park.
+Mary went to the playground.
+Where is Julie? garden
+
+Daniel went to the park.
+Ann went to the garden.
+Frank went to the bedroom.
+John went to the playground.
+Bernhard went to the market.
+Where is Ann? garden
+
+Bernhard went to the studio.
+John went to the park.
+Gertrude went to the restaurant.
+Kate went to the kitchen.
+Where is Kate? kitchen
+
+Nina went to the kitchen.
+Julie went to the hospital.
+Bill went to the market.
+Jeff went to the hospital.
+Where is Julie? hospital
+
+Lucy went to the restaurant.
+Rick went to the market.
+Julie went to the hallway.
+Peter went to the bathroom.
+Where is Peter? bathroom
+
+Susan went to the restaurant.
+Tom went to the bedroom.
+Sandra went to the hospital.
+Kate went to the cellar.
+Mary went to the playground.
+Where is Mary? playground
+
+Bernhard went to the hospital.
+Lily went to the playground.
+Where is Lily? playground
+
+Sandra went to the hospital.
+Bob went to the park.
+Where is Bob? park
+
+Bob went to the studio.
+Rick went to the restaurant.
+Tom went to the restaurant.
+Daniel went to the library.
+Where is Bob? studio
+
+Frank went to the restaurant.
+Tom went to the cellar.
+David went to the garden.
+Bob went to the garden.
+Bill went to the kitchen.
+Where is David? garden
+
+Gertrude went to the garden.
+Bernhard went to the garden.
+Nina went to the cellar.
+Where is Bernhard? garden
+
+Frank went to the park.
+Eve went to the kitchen.
+Tom went to the studio.
+Sam went to the library.
+Where is Frank? park
+
+Bernhard went to the kitchen.
+Julie went to the bathroom.
+Tom went to the cellar.
+Where is Tom? cellar
+
+John went to the library.
+Kate went to the studio.
+Jeff went to the hallway.
+Nina went to the office.
+Where is Kate? studio
+
+Jeff went to the cellar.
+Eve went to the office.
+Peter went to the kitchen.
+Nina went to the hallway.
+Where is Peter? kitchen
+
+Susan went to the cellar.
+Gertrude went to the bathroom.
+Rick went to the hospital.
+Ann went to the library.
+Bill went to the hallway.
+Where is Susan? cellar
+
+Eve went to the library.
+Sam went to the school.
+Susan went to the park.
+Daniel went to the park.
+Julie went to the office.
+Where is Daniel? park
+
+Frank went to the garden.
+Sam went to the cellar.
+Where is Frank? garden
+
+Gertrude went to the park.
+Sam went to the studio.
+Lily went to the restaurant.
+Where is Sam? studio
+
+Lily went to the garden.
+Frank went to the hospital.
+Where is Frank? hospital
+
+Lucy went to the playground.
+Jeff went to the kitchen.
+Where is Lucy? playground
+
+Bernhard went to the playground.
+John went to the kitchen.
+Daniel went to the restaurant.
+Where is Bernhard? playground
+
+Bill went to the restaurant.
+Kate went to the bedroom.
+Lily went to the market.
+Where is Kate? bedroom
+
+Alice went to the library.
+Bill went to the cellar.
+David went to the studio.
+Jeff went to the library.
+Where is Jeff? library
+
+Kate went to the cellar.
+Lucy went to the restaurant.
+Sam went to the bathroom.
+Rick went to the studio.
+Where is Lucy? restaurant
+
+Bernhard went to the office.
+Tom went to the market.
+Sam went to the restaurant.
+Where is Sam? restaurant
+
+Mary went to the bedroom.
+Tom went to the market.
+Nina went to the park.
+Lucy went to the studio.
+Ann went to the cellar.
+Where is Nina? park
+
+Peter went to the office.
+Julie went to the hallway.
+Alice went to the kitchen.
+Jeff went to the office.
+Where is Alice? kitchen
+
+Mary went to the school.
+Ann went to the hospital.
+Daniel went to the playground.
+Where is Daniel? playground
+
+Daniel went to the bedroom.
+Jeff went to the cellar.
+Sandra went to the garden.
+Mary went to the playground.
+Susan went to the hospital.
+Where is Sandra? garden
+
+Frank went to the cellar.
+Bill went to the garden.
+Sam went to the hallway.
+Where is Sam? hallway
+
+Daniel went to the cellar.
+Lucy went to the hospital.
+Bob went to the kitchen.
+Mary went to the restaurant.
+Where is Bob? kitchen
+
+Fred went to the hallway.
+Lucy went to the school.
+Julie went to the park.
+Mary went to the library.
+Where is Fred? hallway
+
+Peter went to the park.
+Tom went to the bathroom.
+Bernhard went to the bedroom.
+Jeff went to the bathroom.
+Lily went to the bathroom.
+Where is Lily? bathroom
+
+Bernhard went to the bedroom.
+Jeff went to the studio.
+Kate went to the garden.
+Nina went to the school.
+Where is Kate? garden
+
+Rick went to the bedroom.
+Lucy went to the school.
+Bob went to the restaurant.
+Mary went to the cellar.
+Where is Mary? cellar
+
+Lily went to the park.
+Susan went to the garden.
+Tom went to the hospital.
+Jeff went to the cellar.
+Rick went to the garden.
+Where is Jeff? cellar
+
+Mary went to the playground.
+Jeff went to the school.
+Peter went to the library.
+Where is Mary? playground
+
+Bill went to the market.
+Mary went to the kitchen.
+Nina went to the office.
+Lily went to the playground.
+Tom went to the office.
+Where is Bill? market
+
+Lily went to the cellar.
+Ann went to the office.
+Eve went to the library.
+Where is Ann? office
+
+Susan went to the office.
+Lily went to the hospital.
+Eve went to the office.
+Mary went to the playground.
+Where is Lily? hospital
+
+Lucy went to the restaurant.
+Rick went to the school.
+David went to the library.
+Bill went to the garden.
+Susan went to the kitchen.
+Where is David? library
+
+Julie went to the studio.
+Rick went to the office.
+Mary went to the library.
+Where is Mary? library
+
+David went to the market.
+Gertrude went to the cellar.
+Ann went to the kitchen.
+Lucy went to the cellar.
+Nina went to the bathroom.
+Where is David? market
+
+Gertrude went to the library.
+Daniel went to the office.
+Kate went to the bedroom.
+Where is Kate? bedroom
+
+Fred went to the cellar.
+Tom went to the library.
+Lucy went to the hallway.
+Where is Fred? cellar
+
+Tom went to the hospital.
+Mary went to the studio.
+Kate went to the garden.
+Lily went to the studio.
+Frank went to the school.
+Where is Kate? garden
+
+Daniel went to the studio.
+Frank went to the playground.
+Julie went to the playground.
+Ann went to the cellar.
+Sandra went to the park.
+Where is Julie? playground
+
+Gertrude went to the market.
+Susan went to the bedroom.
+Where is Susan? bedroom
+
+Nina went to the kitchen.
+John went to the restaurant.
+Sam went to the office.
+Lily went to the hospital.
+Tom went to the hospital.
+Where is John? restaurant
+
+Daniel went to the studio.
+Kate went to the studio.
+Jeff went to the garden.
+Bill went to the kitchen.
+Lily went to the playground.
+Where is Lily? playground
+
+Lily went to the office.
+Bob went to the bathroom.
+Lucy went to the kitchen.
+Julie went to the restaurant.
+Where is Julie? restaurant
+
+Sam went to the bedroom.
+Nina went to the school.
+Bernhard went to the kitchen.
+Where is Bernhard? kitchen
+
+Frank went to the kitchen.
+Bob went to the cellar.
+Where is Bob? cellar
+
+Lucy went to the park.
+David went to the park.
+Julie went to the cellar.
+Ann went to the hallway.
+Jeff went to the market.
+Where is Ann? hallway
+
+Susan went to the park.
+Julie went to the market.
+Where is Julie? market
+
+Bernhard went to the market.
+Bill went to the kitchen.
+Where is Bill? kitchen
+
+Eve went to the bathroom.
+Bill went to the garden.
+Lily went to the park.
+Bob went to the hospital.
+Susan went to the garden.
+Where is Susan? garden
+
+Daniel went to the bedroom.
+Bernhard went to the bathroom.
+Sandra went to the hospital.
+Rick went to the restaurant.
+John went to the studio.
+Where is Rick? restaurant
+
+Nina went to the cellar.
+Julie went to the playground.
+Tom went to the bathroom.
+Susan went to the park.
+Sam went to the office.
+Where is Susan? park
+
+Peter went to the playground.
+Julie went to the hospital.
+Kate went to the bedroom.
+Where is Kate? bedroom
+
+Nina went to the office.
+Peter went to the library.
+Where is Nina? office
+
+Bernhard went to the playground.
+Daniel went to the garden.
+Where is Daniel? garden
+
+Bill went to the playground.
+Sandra went to the market.
+Tom went to the hospital.
+Alice went to the school.
+Where is Tom? hospital
+
+Bill went to the bedroom.
+Bernhard went to the bedroom.
+Rick went to the bathroom.
+John went to the restaurant.
+Kate went to the garden.
+Where is Bill? bedroom
+
+Jeff went to the library.
+Bill went to the bedroom.
+Bob went to the garden.
+Sandra went to the playground.
+Ann went to the playground.
+Where is Ann? playground
+
+Sandra went to the cellar.
+Gertrude went to the playground.
+Where is Gertrude? playground
+
+Lily went to the market.
+Bill went to the school.
+Peter went to the hospital.
+Where is Peter? hospital
+
+Julie went to the hospital.
+Mary went to the bathroom.
+Gertrude went to the playground.
+David went to the library.
+Where is David? library
+
+Eve went to the kitchen.
+Sam went to the market.
+Tom went to the hallway.
+Gertrude went to the office.
+Where is Sam? market
+
+Ann went to the cellar.
+Mary went to the park.
+Daniel went to the hallway.
+Bernhard went to the garden.
+Alice went to the bedroom.
+Where is Alice? bedroom
+
+Ann went to the library.
+David went to the bathroom.
+Mary went to the hallway.
+John went to the school.
+Bill went to the playground.
+Where is John? school
+
+Bob went to the market.
+John went to the hospital.
+Where is John? hospital
+
+David went to the garden.
+Nina went to the library.
+Mary went to the office.
+Where is David? garden
+
+Mary went to the hospital.
+Nina went to the bathroom.
+Bill went to the hospital.
+Where is Mary? hospital
+
+Daniel went to the park.
+Nina went to the kitchen.
+Sandra went to the kitchen.
+Lily went to the park.
+Sam went to the hospital.
+Where is Lily? park
+
+Lucy went to the library.
+Bill went to the market.
+Peter went to the school.
+Where is Lucy? library
+
+Kate went to the studio.
+Mary went to the kitchen.
+Julie went to the hallway.
+Lily went to the cellar.
+Eve went to the kitchen.
+Where is Eve? kitchen
+
+John went to the market.
+Kate went to the hospital.
+Where is John? market
+
+Mary went to the library.
+Gertrude went to the studio.
+Eve went to the hospital.
+Bernhard went to the studio.
+Susan went to the park.
+Where is Eve? hospital
+
+Jeff went to the restaurant.
+Eve went to the kitchen.
+Rick went to the park.
+Where is Jeff? restaurant
+
+Alice went to the restaurant.
+Ann went to the hospital.
+Tom went to the library.
+Bill went to the studio.
+Where is Bill? studio
+
+Nina went to the office.
+Ann went to the playground.
+Bernhard went to the market.
+Where is Nina? office
+
+Lily went to the park.
+Daniel went to the restaurant.
+Susan went to the restaurant.
+Gertrude went to the hospital.
+Lucy went to the office.
+Where is Lucy? office
+
+Julie went to the bedroom.
+Mary went to the office.
+Where is Mary? office
+
+Susan went to the studio.
+Rick went to the bathroom.
+Gertrude went to the cellar.
+Where is Susan? studio
+
+Daniel went to the cellar.
+Sandra went to the market.
+Lily went to the library.
+Lucy went to the hospital.
+Bob went to the kitchen.
+Where is Bob? kitchen
+
+Alice went to the cellar.
+Eve went to the office.
+Tom went to the cellar.
+Where is Tom? cellar
+
+Sandra went to the office.
+Mary went to the studio.
+Bill went to the library.
+Where is Sandra? office
+
+Julie went to the garden.
+Nina went to the cellar.
+Where is Julie? garden
+
+Alice went to the hallway.
+Tom went to the studio.
+Gertrude went to the kitchen.
+Ann went to the restaurant.
+Fred went to the hallway.
+Where is Alice? hallway
+
+Alice went to the bedroom.
+Bob went to the playground.
+David went to the market.
+Mary went to the hospital.
+Nina went to the playground.
+Where is David? market
+
+Frank went to the bedroom.
+Bill went to the cellar.
+Daniel went to the hallway.
+Where is Daniel? hallway
+
+Frank went to the kitchen.
+Julie went to the restaurant.
+Rick went to the cellar.
+Gertrude went to the market.
+Sam went to the school.
+Where is Rick? cellar
+
+Mary went to the kitchen.
+Bob went to the hospital.
+Tom went to the restaurant.
+Ann went to the studio.
+Where is Mary? kitchen
+
+Jeff went to the garden.
+Bill went to the garden.
+David went to the garden.
+Bernhard went to the bedroom.
+Where is Jeff? garden
+
+Eve went to the library.
+Lucy went to the kitchen.
+Where is Lucy? kitchen
+
+Peter went to the market.
+Rick went to the garden.
+Gertrude went to the studio.
+Sandra went to the bathroom.
+Where is Rick? garden
+
+Peter went to the cellar.
+Eve went to the bedroom.
+Bernhard went to the library.
+Ann went to the bathroom.
+Where is Eve? bedroom
+
+Susan went to the cellar.
+Frank went to the playground.
+Gertrude went to the playground.
+Alice went to the bedroom.
+Where is Frank? playground
+
+Peter went to the school.
+Jeff went to the studio.
+Sandra went to the hospital.
+Gertrude went to the studio.
+Lucy went to the playground.
+Where is Sandra? hospital
+
+David went to the bathroom.
+Jeff went to the bedroom.
+Where is Jeff? bedroom
+
+Mary went to the bathroom.
+Lucy went to the hallway.
+Julie went to the garden.
+Nina went to the restaurant.
+Tom went to the office.
+Where is Nina? restaurant
+
+Peter went to the cellar.
+Bernhard went to the hospital.
+Where is Peter? cellar
+
+Eve went to the garden.
+John went to the hospital.
+Peter went to the restaurant.
+Jeff went to the studio.
+Fred went to the school.
+Where is John? hospital
+
+Mary went to the bedroom.
+Peter went to the park.
+Eve went to the restaurant.
+Tom went to the playground.
+Susan went to the hospital.
+Where is Tom? playground
+
+Lucy went to the office.
+Rick went to the bedroom.
+Susan went to the library.
+Bob went to the playground.
+Sam went to the bathroom.
+Where is Lucy? office
+
+Tom went to the park.
+Gertrude went to the library.
+Rick went to the hospital.
+Jeff went to the library.
+Where is Jeff? library
+
+Peter went to the hallway.
+Bill went to the cellar.
+Where is Peter? hallway
+
+Bob went to the studio.
+Kate went to the bathroom.
+Bernhard went to the hallway.
+Where is Kate? bathroom
+
+Bernhard went to the bathroom.
+David went to the hospital.
+Jeff went to the bathroom.
+Sandra went to the kitchen.
+Julie went to the studio.
+Where is Sandra? kitchen
+
+Susan went to the hospital.
+John went to the hallway.
+Where is John? hallway
+
+John went to the studio.
+Susan went to the cellar.
+Sam went to the market.
+Where is John? studio
+
+Eve went to the school.
+Ann went to the kitchen.
+Rick went to the hallway.
+Sandra went to the library.
+Where is Ann? kitchen
+
+Jeff went to the hospital.
+Bill went to the hospital.
+Bernhard went to the market.
+Bob went to the restaurant.
+Kate went to the garden.
+Where is Jeff? hospital
+
+Lucy went to the hospital.
+Frank went to the hospital.
+Where is Lucy? hospital
+
+Eve went to the hallway.
+Jeff went to the park.
+Sandra went to the studio.
+Susan went to the hallway.
+Where is Jeff? park
+
+Nina went to the park.
+Kate went to the market.
+Frank went to the library.
+Where is Frank? library
+
+Sam went to the library.
+Alice went to the park.
+Susan went to the studio.
+Bill went to the cellar.
+Where is Bill? cellar
+
+Kate went to the hospital.
+Gertrude went to the market.
+Where is Kate? hospital
+
+Ann went to the studio.
+Tom went to the cellar.
+Lucy went to the hospital.
+Rick went to the hospital.
+Where is Tom? cellar
+
+Tom went to the library.
+Bob went to the bathroom.
+Where is Tom? library
+
+Julie went to the library.
+Sam went to the cellar.
+Where is Sam? cellar
+
+Eve went to the library.
+Julie went to the bathroom.
+Kate went to the library.
+John went to the hallway.
+Mary went to the school.
+Where is Eve? library
+
+David went to the office.
+Ann went to the hospital.
+John went to the market.
+Lucy went to the park.
+Where is Ann? hospital
+
+Sandra went to the kitchen.
+Julie went to the cellar.
+Frank went to the studio.
+Where is Sandra? kitchen
+
+Ann went to the office.
+Gertrude went to the office.
+Rick went to the hallway.
+Bernhard went to the garden.
+John went to the hospital.
+Where is Rick? hallway
+
+Rick went to the garden.
+John went to the cellar.
+Where is John? cellar
+
+Gertrude went to the bathroom.
+Kate went to the studio.
+Fred went to the school.
+Lucy went to the cellar.
+Where is Gertrude? bathroom
+
+Frank went to the studio.
+Mary went to the kitchen.
+Nina went to the garden.
+Sandra went to the market.
+Rick went to the cellar.
+Where is Mary? kitchen
+
+Bill went to the studio.
+Mary went to the market.
+Kate went to the studio.
+Peter went to the studio.
+David went to the library.
+Where is Peter? studio
+
+Sam went to the restaurant.
+Bill went to the library.
+Rick went to the hospital.
+Gertrude went to the bedroom.
+Lily went to the kitchen.
+Where is Lily? kitchen
+
+Lucy went to the library.
+Rick went to the library.
+Peter went to the cellar.
+Where is Peter? cellar

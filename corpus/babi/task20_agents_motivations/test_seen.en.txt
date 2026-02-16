@@ -1,0 +1,1253 @@
+Peter went to the market.
+Peter got the bag.
+Why did Peter go to the market? bag
+
+Peter went to the park.
+Peter got the shoe.
+Kate went to the playground.
+Kate got the pen.
+Why did Peter go to the park? shoe
+
+Bob went to the restaurant.
+Bob got the milk.
+Sam went to the hallway.
+Sam got the hat.
+John went to the bedroom.
+John got the pen.
+Why did Bob go to the restaurant? milk
+
+Bill went to the market.
+Bill got the apple.
+Rick went to the bedroom.
+Rick got the key.
+Why did Bill go to the market? apple
+
+Eve went to the office.
+Eve got the bag.
+Frank went to the studio.
+Frank got the box.
+Why did Eve go to the office? bag
+
+Eve went to the playground.
+Eve got the book.
+Lucy went to the park.
+Lucy got the key.
+David went to the playground.
+David got the bottle.
+Why did Eve go to the playground? book
+
+Fred went to the playground.
+Fred got the hat.
+Bill went to the playground.
+Bill got the book.
+Why did Fred go to the playground? hat
+
+Kate went to the bathroom.
+Kate got the cup.
+Why did Kate go to the bathroom? cup
+
+Bob went to the kitchen.
+Bob got the hat.
+Mary went to the garden.
+Mary got the cup.
+Fred went to the school.
+Fred got the bottle.
+Why did Bob go to the kitchen? hat
+
+Peter went to the hallway.
+Peter got the box.
+Why did Peter go to the hallway? box
+
+Ann went to the park.
+Ann got the bag.
+Sandra went to the restaurant.
+Sandra got the bag.
+Why did Ann go to the park? bag
+
+Lucy went to the bedroom.
+Lucy got the bag.
+Bill went to the office.
+Bill got the apple.
+Frank went to the market.
+Frank got the book.
+Why did Lucy go to the bedroom? bag
+
+Tom went to the bedroom.
+Tom got the hat.
+Bob went to the bedroom.
+Bob got the shoe.
+Why did Tom go to the bedroom? hat
+
+Susan went to the studio.
+Susan got the bottle.
+Why did Susan go to the studio? bottle
+
+Susan went to the market.
+Susan got the box.
+Bill went to the market.
+Bill got the cup.
+Rick went to the garden.
+Rick got the milk.
+Why did Susan go to the market? box
+
+Rick went to the restaurant.
+Rick got the shoe.
+Peter went to the garden.
+Peter got the box.
+Alice went to the studio.
+Alice got the pen.
+Why did Rick go to the restaurant? shoe
+
+David went to the market.
+David got the box.
+Mary went to the bedroom.
+Mary got the bottle.
+Tom went to the school.
+Tom got the cup.
+Why did David go to the market? box
+
+John went to the school.
+John got the ball.
+David went to the studio.
+David got the hat.
+Why did John go to the school? ball
+
+Peter went to the market.
+Peter got the hat.
+Why did Peter go to the market? hat
+
+Alice went to the bedroom.
+Alice got the apple.
+Lucy went to the bathroom.
+Lucy got the hat.
+Sam went to the hallway.
+Sam got the hat.
+Why did Alice go to the bedroom? apple
+
+Alice went to the garden.
+Alice got the hat.
+Why did Alice go to the garden? hat
+
+Nina went to the office.
+Nina got the milk.
+Bill went to the park.
+Bill got the book.
+Why did Nina go to the office? milk
+
+David went to the hallway.
+David got the ball.
+Kate went to the restaurant.
+Kate got the key.
+Why did David go to the hallway? ball
+
+Alice went to the studio.
+Alice got the bottle.
+Why did Alice go to the studio? bottle
+
+Daniel went to the restaurant.
+Daniel got the cup.
+Sam went to the bedroom.
+Sam got the apple.
+Why did Daniel go to the restaurant? cup
+
+Bob went to the school.
+Bob got the pen.
+Daniel went to the school.
+Daniel got the hat.
+Why did Bob go to the school? pen
+
+Lucy went to the park.
+Lucy got the apple.
+Why did Lucy go to the park? apple
+
+Ann went to the hallway.
+Ann got the hat.
+Why did Ann go to the hallway? hat
+
+Ann went to the restaurant.
+Ann got the milk.
+Mary went to the playground.
+Mary got the shoe.
+Why did Ann go to the restaurant? milk
+
+Kate went to the school.
+Kate got the pen.
+Fred went to the school.
+Fred got the ball.
+Why did Kate go to the school? pen
+
+Lucy went to the office.
+Lucy got the milk.
+Frank went to the hallway.
+Frank got the apple.
+Fred went to the hallway.
+Fred got the cup.
+Why did Lucy go to the office? milk
+
+Sandra went to the office.
+Sandra got the apple.
+Frank went to the garden.
+Frank got the book.
+Why did Sandra go to the office? apple
+
+Bill went to the park.
+Bill got the shoe.
+Sam went to the studio.
+Sam got the cup.
+Why did Bill go to the park? shoe
+
+Daniel went to the school.
+Daniel got the book.
+Sam went to the playground.
+Sam got the bag.
+Why did Daniel go to the school? book
+
+David went to the office.
+David got the shoe.
+Sam went to the bedroom.
+Sam got the cup.
+Why did David go to the office? shoe
+
+Bob went to the bathroom.
+Bob got the milk.
+Fred went to the restaurant.
+Fred got the apple.
+Ann went to the kitchen.
+Ann got the key.
+Why did Bob go to the bathroom? milk
+
+Peter went to the hallway.
+Peter got the apple.
+Why did Peter go to the hallway? apple
+
+Mary went to the office.
+Mary got the cup.
+Why did Mary go to the office? cup
+
+Eve went to the school.
+Eve got the key.
+Bill went to the school.
+Bill got the shoe.
+Ann went to the hallway.
+Ann got the ball.
+Why did Eve go to the school? key
+
+Lucy went to the bathroom.
+Lucy got the hat.
+Rick went to the park.
+Rick got the shoe.
+Daniel went to the kitchen.
+Daniel got the apple.
+Why did Lucy go to the bathroom? hat
+
+David went to the kitchen.
+David got the hat.
+Why did David go to the kitchen? hat
+
+Fred went to the hallway.
+Fred got the bag.
+Rick went to the restaurant.
+Rick got the milk.
+Bob went to the hallway.
+Bob got the box.
+Why did Fred go to the hallway? bag
+
+Bob went to the restaurant.
+Bob got the bag.
+Why did Bob go to the restaurant? bag
+
+Nina went to the restaurant.
+Nina got the cup.
+Kate went to the garden.
+Kate got the pen.
+Why did Nina go to the restaurant? cup
+
+Nina went to the bedroom.
+Nina got the bag.
+Sandra went to the office.
+Sandra got the apple.
+Peter went to the studio.
+Peter got the key.
+Why did Nina go to the bedroom? bag
+
+Sam went to the restaurant.
+Sam got the bottle.
+Kate went to the market.
+Kate got the shoe.
+Peter went to the bedroom.
+Peter got the bag.
+Why did Sam go to the restaurant? bottle
+
+Nina went to the bathroom.
+Nina got the book.
+Sam went to the playground.
+Sam got the pen.
+Lucy went to the park.
+Lucy got the key.
+Why did Nina go to the bathroom? book
+
+Frank went to the office.
+Frank got the book.
+Alice went to the market.
+Alice got the box.
+Lucy went to the market.
+Lucy got the book.
+Why did Frank go to the office? book
+
+Bill went to the bathroom.
+Bill got the hat.
+Ann went to the kitchen.
+Ann got the box.
+Nina went to the studio.
+Nina got the hat.
+Why did Bill go to the bathroom? hat
+
+Ann went to the bedroom.
+Ann got the bottle.
+Rick went to the kitchen.
+Rick got the book.
+Eve went to the park.
+Eve got the bottle.
+Why did Ann go to the bedroom? bottle
+
+Fred went to the park.
+Fred got the book.
+Mary went to the hallway.
+Mary got the book.
+Susan went to the studio.
+Susan got the book.
+Why did Fred go to the park? book
+
+Ann went to the office.
+Ann got the shoe.
+Alice went to the studio.
+Alice got the hat.
+Why did Ann go to the office? shoe
+
+Eve went to the playground.
+Eve got the key.
+Peter went to the bedroom.
+Peter got the hat.
+David went to the market.
+David got the key.
+Why did Eve go to the playground? key
+
+Eve went to the restaurant.
+Eve got the key.
+Fred went to the office.
+Fred got the hat.
+Daniel went to the studio.
+Daniel got the box.
+Why did Eve go to the restaurant? key
+
+Nina went to the restaurant.
+Nina got the bag.
+Lucy went to the kitchen.
+Lucy got the key.
+Fred went to the bedroom.
+Fred got the cup.
+Why did Nina go to the restaurant? bag
+
+Rick went to the market.
+Rick got the box.
+Kate went to the studio.
+Kate got the key.
+Why did Rick go to the market? box
+
+Susan went to the playground.
+Susan got the cup.
+Fred went to the restaurant.
+Fred got the cup.
+Why did Susan go to the playground? cup
+
+Nina went to the garden.
+Nina got the box.
+Why did Nina go to the garden? box
+
+Lucy went to the market.
+Lucy got the shoe.
+Why did Lucy go to the market? shoe
+
+Tom went to the studio.
+Tom got the shoe.
+Why did Tom go to the studio? shoe
+
+Bill went to the garden.
+Bill got the hat.
+Why did Bill go to the garden? hat
+
+Kate went to the office.
+Kate got the apple.
+Why did Kate go to the office? apple
+
+Kate went to the bedroom.
+Kate got the pen.
+Why did Kate go to the bedroom? pen
+
+Rick went to the studio.
+Rick got the pen.
+Mary went to the park.
+Mary got the ball.
+Why did Rick go to the studio? pen
+
+Mary went to the bedroom.
+Mary got the ball.
+Bob went to the garden.
+Bob got the box.
+Lucy went to the garden.
+Lucy got the book.
+Why did Mary go to the bedroom? ball
+
+Susan went to the bedroom.
+Susan got the book.
+Nina went to the restaurant.
+Nina got the book.
+Why did Susan go to the bedroom? book
+
+Bob went to the bedroom.
+Bob got the apple.
+Fred went to the studio.
+Fred got the bag.
+Why did Bob go to the bedroom? apple
+
+Tom went to the bedroom.
+Tom got the hat.
+Sandra went to the market.
+Sandra got the key.
+Why did Tom go to the bedroom? hat
+
+Susan went to the office.
+Susan got the hat.
+Nina went to the garden.
+Nina got the ball.
+Why did Susan go to the office? hat
+
+Lucy went to the bathroom.
+Lucy got the milk.
+Eve went to the bedroom.
+Eve got the pen.
+Bob went to the restaurant.
+Bob got the book.
+Why did Lucy go to the bathroom? milk
+
+Sam went to the playground.
+Sam got the ball.
+Why did Sam go to the playground? ball
+
+Ann went to the market.
+Ann got the hat.
+Why did Ann go to the market? hat
+
+Susan went to the office.
+Susan got the ball.
+Why did Susan go to the office? ball
+
+Bob went to the restaurant.
+Bob got the key.
+Peter went to the hallway.
+Peter got the book.
+Ann went to the bathroom.
+Ann got the box.
+Why did Bob go to the restaurant? key
+
+Rick went to the playground.
+Rick got the bottle.
+Alice went to the restaurant.
+Alice got the apple.
+Nina went to the bathroom.
+Nina got the ball.
+Why did Rick go to the playground? bottle
+
+Fred went to the studio.
+Fred got the cup.
+Why did Fred go to the studio? cup
+
+Mary went to the bathroom.
+Mary got the shoe.
+Sam went to the school.
+Sam got the book.
+Tom went to the office.
+Tom got the ball.
+Why did Mary go to the bathroom? shoe
+
+Fred went to the kitchen.
+Fred got the bottle.
+Peter went to the garden.
+Peter got the ball.
+Why did Fred go to the kitchen? bottle
+
+Fred went to the hallway.
+Fred got the hat.
+Sam went to the office.
+Sam got the pen.
+Sandra went to the hallway.
+Sandra got the bag.
+Why did Fred go to the hallway? hat
+
+Alice went to the playground.
+Alice got the hat.
+Why did Alice go to the playground? hat
+
+Sandra went to the office.
+Sandra got the hat.
+Peter went to the office.
+Peter got the pen.
+Why did Sandra go to the office? hat
+
+Rick went to the hallway.
+Rick got the shoe.
+John went to the studio.
+John got the bag.
+Bob went to the bedroom.
+Bob got the hat.
+Why did Rick go to the hallway? shoe
+
+Nina went to the office.
+Nina got the shoe.
+Why did Nina go to the office? shoe
+
+Daniel went to the hallway.
+Daniel got the ball.
+David went to the kitchen.
+David got the milk.
+Why did Daniel go to the hallway? ball
+
+Daniel went to the hallway.
+Daniel got the cup.
+Why did Daniel go to the hallway? cup
+
+Susan went to the market.
+Susan got the ball.
+Lucy went to the hallway.
+Lucy got the ball.
+Why did Susan go to the market? ball
+
+Daniel went to the school.
+Daniel got the shoe.
+Eve went to the school.
+Eve got the milk.
+Kate went to the hallway.
+Kate got the ball.
+Why did Daniel go to the school? shoe
+
+Frank went to the school.
+Frank got the bag.
+Why did Frank go to the school? bag
+
+Daniel went to the bathroom.
+Daniel got the hat.
+Tom went to the market.
+Tom got the box.
+Kate went to the studio.
+Kate got the book.
+Why did Daniel go to the bathroom? hat
+
+Rick went to the office.
+Rick got the book.
+Sam went to the hallway.
+Sam got the hat.
+Why did Rick go to the office? book
+
+Sandra went to the playground.
+Sandra got the box.
+Frank went to the playground.
+Frank got the apple.
+Why did Sandra go to the playground? box
+
+Alice went to the bathroom.
+Alice got the bottle.
+Ann went to the office.
+Ann got the cup.
+David went to the market.
+David got the shoe.
+Why did Alice go to the bathroom? bottle
+
+Bob went to the park.
+Bob got the key.
+Fred went to the playground.
+Fred got the key.
+John went to the hallway.
+John got the shoe.
+Why did Bob go to the park? key
+
+Eve went to the kitchen.
+Eve got the bag.
+Tom went to the school.
+Tom got the key.
+Daniel went to the bedroom.
+Daniel got the book.
+Why did Eve go to the kitchen? bag
+
+Frank went to the office.
+Frank got the key.
+Bill went to the playground.
+Bill got the pen.
+Fred went to the school.
+Fred got the hat.
+Why did Frank go to the office? key
+
+Frank went to the studio.
+Frank got the bottle.
+Why did Frank go to the studio? bottle
+
+Rick went to the playground.
+Rick got the bottle.
+Mary went to the bathroom.
+Mary got the hat.
+David went to the office.
+David got the hat.
+Why did Rick go to the playground? bottle
+
+Frank went to the kitchen.
+Frank got the apple.
+Mary went to the studio.
+Mary got the bottle.
+Eve went to the garden.
+Eve got the book.
+Why did Frank go to the kitchen? apple
+
+John went to the playground.
+John got the book.
+Tom went to the garden.
+Tom got the book.
+Kate went to the bedroom.
+Kate got the book.
+Why did John go to the playground? book
+
+Susan went to the garden.
+Susan got the pen.
+Why did Susan go to the garden? pen
+
+Susan went to the restaurant.
+Susan got the shoe.
+Why did Susan go to the restaurant? shoe
+
+Sam went to the school.
+Sam got the key.
+Peter went to the bedroom.
+Peter got the milk.
+Mary went to the office.
+Mary got the hat.
+Why did Sam go to the school? key
+
+Nina went to the bedroom.
+Nina got the cup.
+Bill went to the studio.
+Bill got the shoe.
+Daniel went to the school.
+Daniel got the shoe.
+Why did Nina go to the bedroom? cup
+
+Alice went to the bathroom.
+Alice got the pen.
+Ann went to the garden.
+Ann got the ball.
+Frank went to the bathroom.
+Frank got the box.
+Why did Alice go to the bathroom? pen
+
+Daniel went to the studio.
+Daniel got the bag.
+Why did Daniel go to the studio? bag
+
+Frank went to the office.
+Frank got the key.
+Why did Frank go to the office? key
+
+Eve went to the bedroom.
+Eve got the apple.
+Mary went to the school.
+Mary got the hat.
+Why did Eve go to the bedroom? apple
+
+Daniel went to the market.
+Daniel got the cup.
+Why did Daniel go to the market? cup
+
+Rick went to the restaurant.
+Rick got the hat.
+Why did Rick go to the restaurant? hat
+
+Sam went to the school.
+Sam got the shoe.
+David went to the garden.
+David got the hat.
+Bill went to the studio.
+Bill got the pen.
+Why did Sam go to the school? shoe
+
+Alice went to the office.
+Alice got the key.
+Nina went to the playground.
+Nina got the milk.
+Why did Alice go to the office? key
+
+John went to the park.
+John got the shoe.
+David went to the hallway.
+David got the ball.
+Kate went to the bathroom.
+Kate got the key.
+Why did John go to the park? shoe
+
+Susan went to the restaurant.
+Susan got the key.
+Ann went to the restaurant.
+Ann got the bag.
+Peter went to the playground.
+Peter got the apple.
+Why did Susan go to the restaurant? key
+
+Susan went to the restaurant.
+Susan got the ball.
+Why did Susan go to the restaurant? ball
+
+Rick went to the market.
+Rick got the hat.
+Why did Rick go to the market? hat
+
+Tom went to the garden.
+Tom got the box.
+Sandra went to the hallway.
+Sandra got the box.
+Frank went to the bedroom.
+Frank got the book.
+Why did Tom go to the garden? box
+
+Fred went to the studio.
+Fred got the bottle.
+Lucy went to the park.
+Lucy got the ball.
+Daniel went to the park.
+Daniel got the bag.
+Why did Fred go to the studio? bottle
+
+Mary went to the bathroom.
+Mary got the shoe.
+Nina went to the school.
+Nina got the book.
+Why did Mary go to the bathroom? shoe
+
+John went to the market.
+John got the pen.
+Lucy went to the bedroom.
+Lucy got the pen.
+Why did John go to the market? pen
+
+Sam went to the market.
+Sam got the book.
+Ann went to the garden.
+Ann got the key.
+Why did Sam go to the market? book
+
+Daniel went to the playground.
+Daniel got the ball.
+Bill went to the kitchen.
+Bill got the shoe.
+Why did Daniel go to the playground? ball
+
+Sandra went to the studio.
+Sandra got the milk.
+Daniel went to the garden.
+Daniel got the apple.
+Why did Sandra go to the studio? milk
+
+Susan went to the park.
+Susan got the key.
+Why did Susan go to the park? key
+
+Frank went to the kitchen.
+Frank got the pen.
+John went to the restaurant.
+John got the bottle.
+Why did Frank go to the kitchen? pen
+
+Ann went to the studio.
+Ann got the cup.
+Susan went to the bedroom.
+Susan got the bottle.
+Kate went to the office.
+Kate got the bag.
+Why did Ann go to the studio? cup
+
+Kate went to the park.
+Kate got the cup.
+John went to the studio.
+John got the box.
+Why did Kate go to the park? cup
+
+Frank went to the school.
+Frank got the box.
+Sam went to the office.
+Sam got the apple.
+Why did Frank go to the school? box
+
+John went to the market.
+John got the cup.
+Bill went to the kitchen.
+Bill got the bag.
+Why did John go to the market? cup
+
+Lucy went to the garden.
+Lucy got the milk.
+Alice went to the garden.
+Alice got the key.
+Peter went to the office.
+Peter got the box.
+Why did Lucy go to the garden? milk
+
+Ann went to the office.
+Ann got the shoe.
+Fred went to the market.
+Fred got the cup.
+Nina went to the studio.
+Nina got the milk.
+Why did Ann go to the office? shoe
+
+Rick went to the bedroom.
+Rick got the hat.
+Why did Rick go to the bedroom? hat
+
+David went to the restaurant.
+David got the shoe.
+Lucy went to the studio.
+Lucy got the ball.
+Fred went to the playground.
+Fred got the shoe.
+Why did David go to the restaurant? shoe
+
+Alice went to the office.
+Alice got the pen.
+Bob went to the park.
+Bob got the box.
+Susan went to the school.
+Susan got the key.
+Why did Alice go to the office? pen
+
+David went to the playground.
+David got the key.
+Sandra went to the hallway.
+Sandra got the pen.
+Bill went to the hallway.
+Bill got the hat.
+Why did David go to the playground? key
+
+John went to the park.
+John got the cup.
+Peter went to the bathroom.
+Peter got the box.
+David went to the playground.
+David got the book.
+Why did John go to the park? cup
+
+Mary went to the park.
+Mary got the bag.
+Why did Mary go to the park? bag
+
+Kate went to the park.
+Kate got the book.
+Rick went to the restaurant.
+Rick got the hat.
+Eve went to the hallway.
+Eve got the bottle.
+Why did Kate go to the park? book
+
+Sandra went to the park.
+Sandra got the ball.
+David went to the bathroom.
+David got the box.
+Why did Sandra go to the park? ball
+
+Alice went to the office.
+Alice got the book.
+Why did Alice go to the office? book
+
+Bill went to the garden.
+Bill got the bag.
+Why did Bill go to the garden? bag
+
+John went to the school.
+John got the pen.
+Kate went to the playground.
+Kate got the book.
+Sam went to the bathroom.
+Sam got the hat.
+Why did John go to the school? pen
+
+Kate went to the market.
+Kate got the bottle.
+Susan went to the market.
+Susan got the ball.
+Why did Kate go to the market? bottle
+
+John went to the restaurant.
+John got the hat.
+David went to the park.
+David got the milk.
+Frank went to the studio.
+Frank got the key.
+Why did John go to the restaurant? hat
+
+John went to the park.
+John got the cup.
+Bill went to the school.
+Bill got the bottle.
+Susan went to the bedroom.
+Susan got the ball.
+Why did John go to the park? cup
+
+Sandra went to the market.
+Sandra got the shoe.
+Kate went to the market.
+Kate got the key.
+Lucy went to the garden.
+Lucy got the cup.
+Why did Sandra go to the market? shoe
+
+Eve went to the bedroom.
+Eve got the cup.
+Why did Eve go to the bedroom? cup
+
+Kate went to the playground.
+Kate got the bottle.
+Rick went to the garden.
+Rick got the box.
+Daniel went to the studio.
+Daniel got the ball.
+Why did Kate go to the playground? bottle
+
+Sam went to the studio.
+Sam got the milk.
+John went to the playground.
+John got the bag.
+Why did Sam go to the studio? milk
+
+Sandra went to the kitchen.
+Sandra got the bottle.
+Nina went to the office.
+Nina got the shoe.
+Why did Sandra go to the kitchen? bottle
+
+Bob went to the market.
+Bob got the key.
+Why did Bob go to the market? key
+
+Daniel went to the hallway.
+Daniel got the pen.
+Why did Daniel go to the hallway? pen
+
+Sandra went to the playground.
+Sandra got the bag.
+Rick went to the kitchen.
+Rick got the hat.
+Why did Sandra go to the playground? bag
+
+John went to the office.
+John got the book.
+Tom went to the garden.
+Tom got the book.
+Why did John go to the office? book
+
+Tom went to the kitchen.
+Tom got the book.
+Eve went to the bathroom.
+Eve got the pen.
+Alice went to the playground.
+Alice got the ball.
+Why did Tom go to the kitchen? book
+
+Peter went to the school.
+Peter got the milk.
+Daniel went to the hallway.
+Daniel got the ball.
+Why did Peter go to the school? milk
+
+David went to the garden.
+David got the bag.
+Rick went to the studio.
+Rick got the pen.
+Sandra went to the office.
+Sandra got the ball.
+Why did David go to the garden? bag
+
+Mary went to the school.
+Mary got the ball.
+Kate went to the garden.
+Kate got the bottle.
+Sandra went to the bathroom.
+Sandra got the key.
+Why did Mary go to the school? ball
+
+Nina went to the office.
+Nina got the milk.
+Why did Nina go to the office? milk
+
+Lucy went to the school.
+Lucy got the box.
+Kate went to the bedroom.
+Kate got the ball.
+Why did Lucy go to the school? box
+
+Kate went to the office.
+Kate got the milk.
+Sam went to the market.
+Sam got the key.
+Why did Kate go to the office? milk
+
+Sam went to the office.
+Sam got the bag.
+Bill went to the garden.
+Bill got the ball.
+Bob went to the park.
+Bob got the bag.
+Why did Sam go to the office? bag
+
+Mary went to the hallway.
+Mary got the box.
+Sandra went to the school.
+Sandra got the pen.
+John went to the studio.
+John got the ball.
+Why did Mary go to the hallway? box
+
+Frank went to the office.
+Frank got the book.
+Ann went to the hallway.
+Ann got the hat.
+Lucy went to the market.
+Lucy got the bottle.
+Why did Frank go to the office? book
+
+Alice went to the bedroom.
+Alice got the bag.
+Sam went to the bathroom.
+Sam got the milk.
+Why did Alice go to the bedroom? bag
+
+Lucy went to the studio.
+Lucy got the bag.
+Rick went to the bathroom.
+Rick got the bag.
+Why did Lucy go to the studio? bag
+
+Lucy went to the hallway.
+Lucy got the milk.
+Why did Lucy go to the hallway? milk
+
+Tom went to the studio.
+Tom got the hat.
+Why did Tom go to the studio? hat
+
+John went to the kitchen.
+John got the bag.
+Sandra went to the garden.
+Sandra got the book.
+Bill went to the school.
+Bill got the shoe.
+Why did John go to the kitchen? bag
+
+Lucy went to the bedroom.
+Lucy got the ball.
+David went to the studio.
+David got the pen.
+Tom went to the playground.
+Tom got the box.
+Why did Lucy go to the bedroom? ball
+
+John went to the school.
+John got the bottle.
+Tom went to the market.
+Tom got the book.
+Eve went to the bathroom.
+Eve got the key.
+Why did John go to the school? bottle
+
+Tom went to the kitchen.
+Tom got the hat.
+Why did Tom go to the kitchen? hat
+
+Lucy went to the school.
+Lucy got the shoe.
+Mary went to the playground.
+Mary got the ball.
+Tom went to the playground.
+Tom got the book.
+Why did Lucy go to the school? shoe
+
+Eve went to the hallway.
+Eve got the bottle.
+Bob went to the market.
+Bob got the milk.
+Why did Eve go to the hallway? bottle
+
+Mary went to the playground.
+Mary got the hat.
+Why did Mary go to the playground? hat
+
+Sandra went to the hallway.
+Sandra got the book.
+John went to the office.
+John got the box.
+Why did Sandra go to the hallway? book
+
+Mary went to the school.
+Mary got the shoe.
+David went to the park.
+David got the book.
+Bill went to the kitchen.
+Bill got the shoe.
+Why did Mary go to the school? shoe
+
+Bob went to the garden.
+Bob got the bottle.
+Lucy went to the hallway.
+Lucy got the ball.
+John went to the park.
+John got the book.
+Why did Bob go to the garden? bottle
+
+Daniel went to the bedroom.
+Daniel got the book.
+Why did Daniel go to the bedroom? book
+
+Lucy went to the market.
+Lucy got the bottle.
+Kate went to the garden.
+Kate got the shoe.
+Why did Lucy go to the market? bottle
+
+John went to the office.
+John got the book.
+Bob went to the market.
+Bob got the book.
+Sandra went to the restaurant.
+Sandra got the shoe.
+Why did John go to the office? book
+
+Susan went to the studio.
+Susan got the box.
+Why did Susan go to the studio? box
+
+Nina went to the park.
+Nina got the box.
+Sam went to the restaurant.
+Sam got the key.
+Why did Nina go to the park? box
+
+Susan went to the park.
+Susan got the cup.
+Lucy went to the bedroom.
+Lucy got the apple.
+Sandra went to the kitchen.
+Sandra got the bottle.
+Why did Susan go to the park? cup
+
+Lucy went to the school.
+Lucy got the shoe.
+Sandra went to the bedroom.
+Sandra got the key.
+Kate went to the bathroom.
+Kate got the box.
+Why did Lucy go to the school? shoe
+
+Frank went to the hallway.
+Frank got the cup.
+Kate went to the park.
+Kate got the box.
+Why did Frank go to the hallway? cup
+
+Mary went to the school.
+Mary got the cup.
+Sandra went to the office.
+Sandra got the bottle.
+Why did Mary go to the school? cup
+
+Sandra went to the studio.
+Sandra got the pen.
+Fred went to the restaurant.
+Fred got the hat.
+Eve went to the market.
+Eve got the cup.
+Why did Sandra go to the studio? pen
+
+Eve went to the bathroom.
+Eve got the cup.
+Tom went to the restaurant.
+Tom got the shoe.
+Kate went to the garden.
+Kate got the bag.
+Why did Eve go to the bathroom? cup
+
+Nina went to the market.
+Nina got the ball.
+Ann went to the bathroom.
+Ann got the pen.
+Why did Nina go to the market? ball
+
+Nina went to the bedroom.
+Nina got the ball.
+Sam went to the hallway.
+Sam got the box.
+Why did Nina go to the bedroom? ball
+
+Bob went to the restaurant.
+Bob got the hat.
+Why did Bob go to the restaurant? hat
+
+John went to the bathroom.
+John got the key.
+Susan went to the garden.
+Susan got the ball.
+Rick went to the school.
+Rick got the pen.
+Why did John go to the bathroom? key
+
+David went to the hallway.
+David got the box.
+Frank went to the school.
+Frank got the hat.
+Mary went to the park.
+Mary got the hat.
+Why did David go to the hallway? box
+
+Fred went to the garden.
+Fred got the bottle.
+Tom went to the bathroom.
+Tom got the key.
+David went to the park.
+David got the apple.
+Why did Fred go to the garden? bottle
+
+Eve went to the garden.
+Eve got the key.
+Susan went to the kitchen.
+Susan got the ball.
+Mary went to the hallway.
+Mary got the hat.
+Why did Eve go to the garden? key
+
+Eve went to the studio.
+Eve got the book.
+Daniel went to the office.
+Daniel got the pen.
+Sandra went to the bedroom.
+Sandra got the hat.
+Why did Eve go to the studio? book
+
+Rick went to the garden.
+Rick got the bag.
+Why did Rick go to the garden? bag
+
+Nina went to the market.
+Nina got the hat.
+Why did Nina go to the market? hat
+
+Tom went to the restaurant.
+Tom got the key.
+Why did Tom go to the restaurant? key
+
+Peter went to the playground.
+Peter got the shoe.
+Ann went to the restaurant.
+Ann got the apple.
+Why did Peter go to the playground? shoe

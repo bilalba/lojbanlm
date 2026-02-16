@@ -1,0 +1,999 @@
+The market is north of the park.
+The kitchen is north of the market.
+The library is west of the kitchen.
+What is west of the kitchen? library
+
+The bathroom is south of the playground.
+The playground is below the cellar.
+The cellar is below the school.
+What is below the cellar? playground
+
+The hospital is west of the bathroom.
+The restaurant is north of the hospital.
+The bathroom is west of the studio.
+What is west of the bathroom? hospital
+
+The cellar is south of the school.
+The park is south of the cellar.
+The playground is north of the park.
+What is south of the school? cellar
+
+The library is east of the market.
+The playground is east of the library.
+The hospital is west of the playground.
+What is west of the playground? hospital
+
+The hospital is below the cellar.
+The cellar is south of the park.
+The park is south of the garden.
+What is south of the garden? park
+
+The market is above the park.
+The park is above the garden.
+The hallway is below the market.
+What is below the market? hallway
+
+The market is below the school.
+The bedroom is south of the library.
+The school is south of the bedroom.
+What is south of the library? bedroom
+
+The garden is west of the library.
+The market is south of the bedroom.
+The bedroom is west of the garden.
+What is west of the garden? bedroom
+
+The playground is north of the cellar.
+The bedroom is east of the playground.
+The cellar is north of the restaurant.
+What is east of the playground? bedroom
+
+The kitchen is west of the market.
+The cellar is east of the restaurant.
+The market is east of the cellar.
+What is west of the market? kitchen
+
+The park is below the studio.
+The studio is west of the hospital.
+The hospital is west of the bedroom.
+What is below the studio? park
+
+The playground is east of the bedroom.
+The park is below the playground.
+The bedroom is east of the cellar.
+What is east of the bedroom? playground
+
+The playground is south of the office.
+The school is below the kitchen.
+The kitchen is south of the playground.
+What is south of the office? playground
+
+The restaurant is west of the library.
+The library is west of the hospital.
+The school is north of the restaurant.
+What is west of the library? restaurant
+
+The bedroom is above the playground.
+The park is south of the bedroom.
+The playground is above the hospital.
+What is above the playground? bedroom
+
+The library is below the playground.
+The bathroom is east of the library.
+The playground is below the hallway.
+What is east of the library? bathroom
+
+The garden is west of the cellar.
+The park is east of the garden.
+The cellar is west of the playground.
+What is west of the cellar? garden
+
+The garden is west of the playground.
+The restaurant is below the hallway.
+The hallway is west of the garden.
+What is west of the playground? garden
+
+The bathroom is north of the playground.
+The studio is south of the bathroom.
+The playground is north of the library.
+What is south of the bathroom? studio
+
+The hospital is west of the park.
+The garden is above the hospital.
+The park is west of the school.
+What is west of the school? park
+
+The school is north of the library.
+The hallway is west of the market.
+The library is west of the hallway.
+What is west of the hallway? library
+
+The kitchen is west of the bathroom.
+The restaurant is above the hospital.
+The hospital is west of the kitchen.
+What is west of the bathroom? kitchen
+
+The cellar is north of the kitchen.
+The market is east of the hallway.
+The kitchen is east of the market.
+What is east of the hallway? market
+
+The garden is below the park.
+The hospital is south of the bathroom.
+The park is south of the hospital.
+What is below the park? garden
+
+The restaurant is north of the hospital.
+The office is above the restaurant.
+The hospital is north of the school.
+What is above the restaurant? office
+
+The studio is below the school.
+The bathroom is below the studio.
+The office is north of the bathroom.
+What is north of the bathroom? office
+
+The school is above the cellar.
+The library is above the school.
+The office is west of the library.
+What is above the cellar? school
+
+The studio is east of the cellar.
+The cellar is east of the park.
+The garden is west of the studio.
+What is east of the park? cellar
+
+The kitchen is above the park.
+The library is east of the kitchen.
+The park is above the bedroom.
+What is above the park? kitchen
+
+The park is north of the office.
+The market is south of the hospital.
+The hospital is north of the park.
+What is north of the park? hospital
+
+The restaurant is above the bedroom.
+The garden is below the restaurant.
+The bedroom is above the hospital.
+What is below the restaurant? garden
+
+The library is east of the bedroom.
+The playground is east of the library.
+The garden is south of the playground.
+What is east of the bedroom? library
+
+The hallway is below the playground.
+The playground is above the library.
+The library is above the bathroom.
+What is above the bathroom? library
+
+The park is west of the market.
+The hospital is west of the park.
+The restaurant is north of the hospital.
+What is west of the park? hospital
+
+The market is east of the bedroom.
+The library is north of the market.
+The bedroom is east of the school.
+What is east of the bedroom? market
+
+The park is north of the market.
+The playground is north of the park.
+The cellar is south of the playground.
+What is south of the playground? cellar
+
+The restaurant is north of the school.
+The market is north of the restaurant.
+The bedroom is below the market.
+What is north of the school? restaurant
+
+The market is east of the bathroom.
+The bathroom is east of the library.
+The hospital is below the market.
+What is below the market? hospital
+
+The garden is south of the cellar.
+The bathroom is above the restaurant.
+The restaurant is south of the garden.
+What is south of the garden? restaurant
+
+The cellar is east of the library.
+The library is east of the office.
+The hallway is above the cellar.
+What is east of the office? library
+
+The library is above the garden.
+The hospital is west of the library.
+The garden is above the cellar.
+What is west of the library? hospital
+
+The cellar is north of the hospital.
+The hospital is north of the park.
+The bathroom is below the cellar.
+What is north of the park? hospital
+
+The library is below the bathroom.
+The market is north of the library.
+The bathroom is below the kitchen.
+What is below the kitchen? bathroom
+
+The hospital is west of the hallway.
+The restaurant is west of the hospital.
+The garden is above the restaurant.
+What is west of the hospital? restaurant
+
+The hospital is north of the hallway.
+The bedroom is above the kitchen.
+The kitchen is north of the hospital.
+What is north of the hallway? hospital
+
+The hospital is west of the cellar.
+The bathroom is east of the bedroom.
+The bedroom is west of the hospital.
+What is west of the cellar? hospital
+
+The studio is west of the garden.
+The bathroom is below the studio.
+The garden is west of the cellar.
+What is west of the garden? studio
+
+The library is below the school.
+The playground is east of the park.
+The school is east of the playground.
+What is east of the playground? school
+
+The library is west of the hospital.
+The cellar is north of the restaurant.
+The restaurant is west of the library.
+What is west of the hospital? library
+
+The garden is west of the bathroom.
+The park is below the garden.
+The bathroom is west of the office.
+What is west of the bathroom? garden
+
+The kitchen is south of the hospital.
+The studio is east of the restaurant.
+The hospital is east of the studio.
+What is east of the restaurant? studio
+
+The hallway is above the hospital.
+The library is north of the office.
+The office is above the hallway.
+What is above the hospital? hallway
+
+The kitchen is south of the school.
+The school is above the hospital.
+The hospital is above the market.
+What is south of the school? kitchen
+
+The restaurant is above the cellar.
+The office is south of the bathroom.
+The bathroom is above the restaurant.
+What is above the cellar? restaurant
+
+The playground is north of the hallway.
+The hallway is east of the office.
+The office is east of the cellar.
+What is east of the cellar? office
+
+The kitchen is below the hallway.
+The hallway is below the bedroom.
+The playground is south of the kitchen.
+What is below the bedroom? hallway
+
+The studio is west of the cellar.
+The garden is west of the studio.
+The bathroom is north of the garden.
+What is west of the cellar? studio
+
+The kitchen is east of the cellar.
+The playground is above the kitchen.
+The cellar is east of the bedroom.
+What is above the kitchen? playground
+
+The office is west of the hospital.
+The garden is above the office.
+The hospital is west of the hallway.
+What is above the office? garden
+
+The garden is above the kitchen.
+The playground is below the garden.
+The kitchen is above the bathroom.
+What is below the garden? playground
+
+The school is south of the studio.
+The kitchen is above the hospital.
+The studio is above the kitchen.
+What is above the hospital? kitchen
+
+The cellar is east of the market.
+The studio is west of the restaurant.
+The market is west of the studio.
+What is east of the market? cellar
+
+The school is west of the market.
+The cellar is above the playground.
+The playground is west of the school.
+What is west of the market? school
+
+The kitchen is south of the restaurant.
+The restaurant is south of the library.
+The garden is below the kitchen.
+What is south of the restaurant? kitchen
+
+The restaurant is west of the office.
+The park is south of the hospital.
+The office is south of the park.
+What is west of the office? restaurant
+
+The bathroom is north of the studio.
+The hospital is east of the office.
+The office is north of the bathroom.
+What is north of the studio? bathroom
+
+The kitchen is east of the studio.
+The cellar is north of the playground.
+The studio is north of the cellar.
+What is north of the cellar? studio
+
+The studio is south of the park.
+The playground is west of the hospital.
+The hospital is south of the studio.
+What is south of the park? studio
+
+The studio is east of the kitchen.
+The hallway is below the park.
+The kitchen is below the hallway.
+What is below the park? hallway
+
+The playground is south of the school.
+The kitchen is south of the playground.
+The garden is below the kitchen.
+What is south of the playground? kitchen
+
+The bathroom is north of the hospital.
+The kitchen is south of the bedroom.
+The hospital is south of the kitchen.
+What is south of the bedroom? kitchen
+
+The bedroom is north of the studio.
+The kitchen is north of the bedroom.
+The hospital is west of the kitchen.
+What is west of the kitchen? hospital
+
+The library is north of the office.
+The park is above the hospital.
+The hospital is north of the library.
+What is north of the office? library
+
+The hallway is below the kitchen.
+The library is west of the park.
+The kitchen is west of the library.
+What is below the kitchen? hallway
+
+The hospital is west of the bathroom.
+The cellar is west of the hospital.
+The kitchen is south of the cellar.
+What is west of the hospital? cellar
+
+The kitchen is east of the hospital.
+The office is east of the kitchen.
+The restaurant is west of the office.
+What is west of the office? restaurant
+
+The market is below the bathroom.
+The office is north of the park.
+The bathroom is north of the office.
+What is north of the park? office
+
+The hospital is north of the hallway.
+The hallway is north of the market.
+The garden is south of the hospital.
+What is south of the hospital? garden
+
+The park is west of the hallway.
+The office is below the market.
+The market is west of the park.
+What is west of the hallway? park
+
+The library is north of the bathroom.
+The hallway is east of the library.
+The bathroom is north of the hospital.
+What is north of the hospital? bathroom
+
+The hallway is north of the playground.
+The playground is south of the hospital.
+The hospital is south of the bathroom.
+What is south of the bathroom? hospital
+
+The kitchen is south of the garden.
+The market is below the bathroom.
+The bathroom is south of the kitchen.
+What is south of the kitchen? bathroom
+
+The hospital is below the library.
+The kitchen is below the hospital.
+The market is west of the kitchen.
+What is below the library? hospital
+
+The playground is above the school.
+The market is east of the playground.
+The school is above the library.
+What is above the school? playground
+
+The office is below the hospital.
+The market is above the restaurant.
+The hospital is above the market.
+What is above the market? hospital
+
+The office is above the school.
+The library is west of the playground.
+The playground is above the office.
+What is above the office? playground
+
+The kitchen is south of the playground.
+The hospital is south of the kitchen.
+The hallway is below the hospital.
+What is below the hospital? hallway
+
+The bedroom is south of the restaurant.
+The hospital is south of the bedroom.
+The kitchen is west of the hospital.
+What is west of the hospital? kitchen
+
+The garden is above the market.
+The playground is above the garden.
+The library is south of the playground.
+What is above the garden? playground
+
+The library is west of the park.
+The park is south of the kitchen.
+The kitchen is south of the studio.
+What is south of the studio? kitchen
+
+The garden is below the office.
+The office is below the library.
+The restaurant is south of the garden.
+What is below the library? office
+
+The hallway is west of the park.
+The garden is west of the hallway.
+The cellar is south of the garden.
+What is west of the hallway? garden
+
+The library is north of the park.
+The cellar is north of the library.
+The office is below the cellar.
+What is below the cellar? office
+
+The restaurant is north of the library.
+The bedroom is north of the restaurant.
+The hallway is above the bedroom.
+What is north of the library? restaurant
+
+The library is south of the market.
+The office is below the park.
+The park is south of the library.
+What is below the park? office
+
+The park is south of the studio.
+The office is above the library.
+The library is south of the park.
+What is south of the park? library
+
+The bathroom is east of the library.
+The library is above the kitchen.
+The kitchen is above the hallway.
+What is above the hallway? kitchen
+
+The library is south of the restaurant.
+The hallway is south of the library.
+The hospital is above the hallway.
+What is south of the restaurant? library
+
+The library is below the bedroom.
+The hallway is west of the library.
+The bedroom is below the office.
+What is below the bedroom? library
+
+The library is below the hospital.
+The studio is above the library.
+The hospital is below the hallway.
+What is above the library? studio
+
+The market is east of the studio.
+The hospital is below the market.
+The studio is east of the library.
+What is below the market? hospital
+
+The garden is west of the school.
+The playground is below the library.
+The library is west of the garden.
+What is west of the garden? library
+
+The studio is west of the cellar.
+The cellar is south of the park.
+The park is south of the bathroom.
+What is south of the bathroom? park
+
+The market is south of the hospital.
+The hospital is north of the library.
+The library is north of the kitchen.
+What is south of the hospital? market
+
+The restaurant is east of the bathroom.
+The playground is north of the restaurant.
+The bathroom is east of the library.
+What is north of the restaurant? playground
+
+The cellar is below the restaurant.
+The garden is south of the cellar.
+The restaurant is below the library.
+What is below the library? restaurant
+
+The cellar is south of the studio.
+The hospital is above the bathroom.
+The bathroom is south of the cellar.
+What is above the bathroom? hospital
+
+The bedroom is east of the market.
+The hospital is north of the library.
+The library is east of the bedroom.
+What is north of the library? hospital
+
+The library is south of the hallway.
+The garden is west of the library.
+The hallway is south of the playground.
+What is south of the hallway? library
+
+The garden is west of the school.
+The school is west of the hospital.
+The hallway is below the garden.
+What is west of the school? garden
+
+The bedroom is below the hospital.
+The restaurant is above the school.
+The hospital is above the restaurant.
+What is above the school? restaurant
+
+The market is north of the bedroom.
+The park is below the market.
+The bedroom is north of the hospital.
+What is north of the hospital? bedroom
+
+The cellar is above the hospital.
+The office is above the cellar.
+The garden is east of the office.
+What is east of the office? garden
+
+The hospital is above the school.
+The kitchen is above the hospital.
+The cellar is west of the kitchen.
+What is above the school? hospital
+
+The bathroom is west of the hallway.
+The hospital is below the office.
+The office is west of the bathroom.
+What is west of the hallway? bathroom
+
+The kitchen is east of the cellar.
+The hospital is below the garden.
+The cellar is below the hospital.
+What is east of the cellar? kitchen
+
+The restaurant is north of the hospital.
+The kitchen is above the restaurant.
+The hospital is north of the bedroom.
+What is above the restaurant? kitchen
+
+The park is below the kitchen.
+The school is west of the park.
+The kitchen is below the cellar.
+What is west of the park? school
+
+The restaurant is south of the hallway.
+The hospital is east of the bathroom.
+The bathroom is south of the restaurant.
+What is south of the restaurant? bathroom
+
+The bedroom is north of the kitchen.
+The hospital is above the park.
+The park is north of the bedroom.
+What is north of the bedroom? park
+
+The restaurant is west of the office.
+The office is west of the market.
+The cellar is south of the restaurant.
+What is south of the restaurant? cellar
+
+The park is south of the kitchen.
+The restaurant is south of the park.
+The library is below the restaurant.
+What is south of the park? restaurant
+
+The studio is south of the kitchen.
+The hospital is below the school.
+The kitchen is below the hospital.
+What is south of the kitchen? studio
+
+The bedroom is west of the garden.
+The garden is west of the hospital.
+The library is north of the bedroom.
+What is west of the hospital? garden
+
+The market is east of the hospital.
+The garden is east of the market.
+The bathroom is north of the garden.
+What is east of the market? garden
+
+The park is west of the cellar.
+The market is east of the playground.
+The playground is west of the park.
+What is west of the park? playground
+
+The garden is south of the park.
+The hospital is east of the library.
+The park is east of the hospital.
+What is east of the library? hospital
+
+The studio is north of the cellar.
+The park is north of the studio.
+The hospital is west of the park.
+What is north of the studio? park
+
+The playground is below the hospital.
+The school is east of the playground.
+The hospital is below the bathroom.
+What is below the bathroom? hospital
+
+The cellar is north of the hallway.
+The hospital is west of the market.
+The market is north of the cellar.
+What is west of the market? hospital
+
+The restaurant is below the kitchen.
+The office is above the hospital.
+The kitchen is above the office.
+What is below the kitchen? restaurant
+
+The school is south of the playground.
+The playground is south of the office.
+The hospital is below the school.
+What is south of the playground? school
+
+The restaurant is south of the hospital.
+The office is north of the restaurant.
+The hospital is south of the school.
+What is north of the restaurant? office
+
+The studio is west of the bathroom.
+The school is below the hallway.
+The hallway is west of the studio.
+What is west of the studio? hallway
+
+The office is east of the library.
+The school is west of the office.
+The library is east of the park.
+What is east of the library? office
+
+The studio is south of the restaurant.
+The park is below the kitchen.
+The kitchen is south of the studio.
+What is south of the restaurant? studio
+
+The hallway is north of the library.
+The library is north of the office.
+The cellar is south of the hallway.
+What is south of the hallway? cellar
+
+The office is below the bathroom.
+The bathroom is below the bedroom.
+The cellar is west of the office.
+What is below the bedroom? bathroom
+
+The bedroom is east of the cellar.
+The cellar is east of the playground.
+The restaurant is north of the bedroom.
+What is north of the bedroom? restaurant
+
+The bedroom is west of the hospital.
+The park is below the cellar.
+The cellar is west of the bedroom.
+What is below the cellar? park
+
+The studio is south of the library.
+The library is south of the playground.
+The bedroom is west of the studio.
+What is west of the studio? bedroom
+
+The cellar is above the playground.
+The playground is above the hospital.
+The park is below the cellar.
+What is below the cellar? park
+
+The cellar is south of the office.
+The bedroom is south of the cellar.
+The library is north of the bedroom.
+What is south of the cellar? bedroom
+
+The kitchen is south of the bedroom.
+The bedroom is south of the hospital.
+The office is east of the kitchen.
+What is south of the bedroom? kitchen
+
+The kitchen is below the bathroom.
+The playground is above the garden.
+The bathroom is above the playground.
+What is above the garden? playground
+
+The kitchen is below the cellar.
+The hallway is north of the office.
+The office is below the kitchen.
+What is below the cellar? kitchen
+
+The studio is west of the school.
+The cellar is west of the studio.
+The library is below the cellar.
+What is west of the school? studio
+
+The studio is west of the kitchen.
+The kitchen is west of the playground.
+The hallway is below the studio.
+What is below the studio? hallway
+
+The cellar is below the market.
+The park is below the cellar.
+The playground is north of the park.
+What is north of the park? playground
+
+The market is east of the cellar.
+The cellar is east of the restaurant.
+The kitchen is north of the market.
+What is east of the cellar? market
+
+The bathroom is south of the park.
+The restaurant is above the cellar.
+The park is above the restaurant.
+What is above the cellar? restaurant
+
+The studio is south of the library.
+The bathroom is above the school.
+The library is above the bathroom.
+What is above the school? bathroom
+
+The hospital is above the school.
+The library is north of the kitchen.
+The kitchen is above the hospital.
+What is above the hospital? kitchen
+
+The hospital is above the market.
+The market is above the school.
+The hallway is north of the hospital.
+What is north of the hospital? hallway
+
+The playground is above the restaurant.
+The market is west of the cellar.
+The cellar is above the playground.
+What is above the restaurant? playground
+
+The library is above the restaurant.
+The playground is below the office.
+The office is above the library.
+What is above the restaurant? library
+
+The library is west of the bathroom.
+The market is east of the hospital.
+The hospital is west of the library.
+What is west of the library? hospital
+
+The cellar is west of the school.
+The office is south of the garden.
+The school is south of the office.
+What is south of the garden? office
+
+The kitchen is below the office.
+The school is above the studio.
+The studio is below the kitchen.
+What is below the kitchen? studio
+
+The bathroom is above the office.
+The office is south of the studio.
+The studio is south of the hospital.
+What is south of the studio? office
+
+The kitchen is west of the hospital.
+The hospital is east of the restaurant.
+The restaurant is east of the hallway.
+What is east of the restaurant? hospital
+
+The hospital is west of the restaurant.
+The bedroom is west of the hospital.
+The park is above the bedroom.
+What is west of the restaurant? hospital
+
+The studio is south of the garden.
+The park is west of the cellar.
+The garden is west of the park.
+What is west of the cellar? park
+
+The kitchen is south of the hallway.
+The hallway is above the office.
+The office is above the cellar.
+What is south of the hallway? kitchen
+
+The hallway is north of the school.
+The kitchen is north of the hallway.
+The cellar is below the kitchen.
+What is north of the school? hallway
+
+The hospital is west of the bedroom.
+The hallway is south of the hospital.
+The bedroom is west of the library.
+What is south of the hospital? hallway
+
+The studio is below the library.
+The park is below the studio.
+The market is west of the park.
+What is below the library? studio
+
+The hallway is above the park.
+The kitchen is north of the hospital.
+The park is north of the kitchen.
+What is north of the kitchen? park
+
+The hallway is east of the cellar.
+The market is below the school.
+The school is east of the hallway.
+What is below the school? market
+
+The bathroom is north of the library.
+The library is below the hallway.
+The hallway is below the studio.
+What is below the hallway? library
+
+The library is south of the hallway.
+The bedroom is east of the library.
+The hallway is south of the park.
+What is south of the park? hallway
+
+The office is south of the park.
+The library is east of the garden.
+The garden is south of the office.
+What is south of the office? garden
+
+The office is west of the bedroom.
+The hospital is west of the office.
+The market is north of the hospital.
+What is north of the hospital? market
+
+The studio is west of the park.
+The hospital is below the library.
+The library is west of the studio.
+What is below the library? hospital
+
+The library is west of the bathroom.
+The bedroom is north of the library.
+The bathroom is west of the school.
+What is west of the school? bathroom
+
+The hallway is south of the cellar.
+The cellar is south of the office.
+The playground is west of the hallway.
+What is south of the office? cellar
+
+The cellar is west of the office.
+The park is above the library.
+The office is above the park.
+What is above the library? park
+
+The studio is north of the playground.
+The playground is below the market.
+The market is below the school.
+What is below the school? market
+
+The hallway is above the school.
+The hospital is south of the hallway.
+The school is above the park.
+What is above the school? hallway
+
+The bathroom is east of the garden.
+The cellar is east of the bathroom.
+The bedroom is south of the cellar.
+What is east of the bathroom? cellar
+
+The park is north of the kitchen.
+The library is west of the studio.
+The kitchen is west of the library.
+What is west of the studio? library
+
+The garden is north of the hallway.
+The hallway is north of the hospital.
+The playground is west of the garden.
+What is west of the garden? playground
+
+The restaurant is west of the kitchen.
+The cellar is below the restaurant.
+The kitchen is west of the bedroom.
+What is below the restaurant? cellar
+
+The cellar is below the park.
+The kitchen is north of the garden.
+The park is north of the kitchen.
+What is below the park? cellar
+
+The cellar is above the playground.
+The playground is above the bedroom.
+The garden is west of the cellar.
+What is above the bedroom? playground
+
+The office is south of the garden.
+The garden is south of the playground.
+The hospital is below the office.
+What is south of the garden? office
+
+The hallway is above the school.
+The park is west of the cellar.
+The cellar is above the hallway.
+What is above the school? hallway
+
+The park is south of the library.
+The hallway is west of the market.
+The market is south of the park.
+What is south of the library? park
+
+The hallway is above the garden.
+The garden is above the library.
+The hospital is south of the hallway.
+What is above the garden? hallway
+
+The library is east of the hallway.
+The market is north of the school.
+The school is east of the library.
+What is east of the hallway? library
+
+The market is west of the hospital.
+The studio is below the playground.
+The playground is west of the market.
+What is west of the market? playground
+
+The library is east of the bathroom.
+The bathroom is east of the school.
+The garden is above the library.
+What is east of the bathroom? library
+
+The studio is below the market.
+The market is below the cellar.
+The bathroom is south of the studio.
+What is below the market? studio
+
+The kitchen is below the studio.
+The restaurant is above the cellar.
+The studio is above the restaurant.
+What is above the cellar? restaurant
+
+The cellar is above the office.
+The studio is west of the park.
+The park is above the cellar.
+What is west of the park? studio
+
+The cellar is south of the market.
+The school is south of the cellar.
+The hallway is west of the school.
+What is south of the market? cellar
+
+The kitchen is south of the bathroom.
+The playground is south of the kitchen.
+The park is below the playground.
+What is south of the bathroom? kitchen
+
+The restaurant is south of the market.
+The market is south of the school.
+The library is above the restaurant.
+What is above the restaurant? library
+
+The restaurant is below the hospital.
+The park is above the restaurant.
+The hospital is below the school.
+What is below the hospital? restaurant

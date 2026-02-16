@@ -1,0 +1,920 @@
+Peter was in the market.
+Then he traveled to the park.
+Where is Peter? park
+
+Sandra went to the studio.
+Peter was in the park.
+Then he traveled to the market.
+Where is Peter? market
+
+Bob was in the restaurant.
+Then he traveled to the bedroom.
+Where is Bob? bedroom
+
+John was in the hallway.
+Then he traveled to the restaurant.
+Where is John? restaurant
+
+Sandra was in the market.
+Then she traveled to the hallway.
+Where is Sandra? hallway
+
+Eve went to the office.
+Bill was in the school.
+Then he traveled to the bedroom.
+Where is Bill? bedroom
+
+Frank was in the office.
+Then he traveled to the park.
+Where is Frank? park
+
+Eve was in the playground.
+Then she traveled to the bathroom.
+Where is Eve? bathroom
+
+Susan was in the park.
+Then she traveled to the office.
+Where is Susan? office
+
+Sandra went to the hallway.
+Bill was in the bedroom.
+Then he traveled to the garden.
+Where is Bill? garden
+
+Sam went to the playground.
+Susan was in the hallway.
+Then she traveled to the playground.
+Where is Susan? playground
+
+Mary went to the playground.
+John was in the garden.
+Then he traveled to the kitchen.
+Where is John? kitchen
+
+Alice was in the playground.
+Then she traveled to the school.
+Where is Alice? school
+
+Peter was in the hallway.
+Then he traveled to the school.
+Where is Peter? school
+
+Peter went to the park.
+Ann was in the park.
+Then she traveled to the restaurant.
+Where is Ann? restaurant
+
+Sam went to the bedroom.
+Nina was in the park.
+Then she traveled to the office.
+Where is Nina? office
+
+Alice went to the office.
+Bob was in the bedroom.
+Then he traveled to the market.
+Where is Bob? market
+
+Peter was in the restaurant.
+Then he traveled to the hallway.
+Where is Peter? hallway
+
+Lucy went to the garden.
+Daniel was in the garden.
+Then he traveled to the bedroom.
+Where is Daniel? bedroom
+
+Eve went to the restaurant.
+Rick was in the playground.
+Then he traveled to the kitchen.
+Where is Rick? kitchen
+
+Nina went to the market.
+Peter was in the playground.
+Then he traveled to the kitchen.
+Where is Peter? kitchen
+
+Fred went to the hallway.
+Susan was in the studio.
+Then she traveled to the hallway.
+Where is Susan? hallway
+
+Alice was in the garden.
+Then she traveled to the bedroom.
+Where is Alice? bedroom
+
+Nina was in the hallway.
+Then she traveled to the restaurant.
+Where is Nina? restaurant
+
+Tom went to the hallway.
+Nina was in the market.
+Then she traveled to the bedroom.
+Where is Nina? bedroom
+
+David went to the hallway.
+Sandra was in the hallway.
+Then she traveled to the park.
+Where is Sandra? park
+
+John was in the hallway.
+Then he traveled to the bathroom.
+Where is John? bathroom
+
+David was in the garden.
+Then he traveled to the studio.
+Where is David? studio
+
+Tom went to the garden.
+Alice was in the playground.
+Then she traveled to the restaurant.
+Where is Alice? restaurant
+
+Bob was in the school.
+Then he traveled to the studio.
+Where is Bob? studio
+
+Ann was in the school.
+Then she traveled to the hallway.
+Where is Ann? hallway
+
+Nina was in the kitchen.
+Then she traveled to the playground.
+Where is Nina? playground
+
+Bill was in the kitchen.
+Then he traveled to the playground.
+Where is Bill? playground
+
+Rick went to the kitchen.
+Kate was in the school.
+Then she traveled to the studio.
+Where is Kate? studio
+
+Lucy was in the office.
+Then she traveled to the bedroom.
+Where is Lucy? bedroom
+
+Susan went to the garden.
+Daniel was in the hallway.
+Then he traveled to the garden.
+Where is Daniel? garden
+
+Frank was in the park.
+Then he traveled to the garden.
+Where is Frank? garden
+
+Peter went to the bathroom.
+Kate was in the restaurant.
+Then she traveled to the hallway.
+Where is Kate? hallway
+
+Fred was in the playground.
+Then he traveled to the restaurant.
+Where is Fred? restaurant
+
+Kate was in the school.
+Then she traveled to the market.
+Where is Kate? market
+
+Nina went to the bathroom.
+Daniel was in the park.
+Then he traveled to the office.
+Where is Daniel? office
+
+Daniel went to the playground.
+Eve was in the playground.
+Then she traveled to the garden.
+Where is Eve? garden
+
+Sandra was in the hallway.
+Then she traveled to the garden.
+Where is Sandra? garden
+
+Mary went to the office.
+David was in the school.
+Then he traveled to the hallway.
+Where is David? hallway
+
+David went to the studio.
+Ann was in the kitchen.
+Then she traveled to the bedroom.
+Where is Ann? bedroom
+
+Fred went to the school.
+Nina was in the kitchen.
+Then she traveled to the park.
+Where is Nina? park
+
+David went to the kitchen.
+Ann was in the park.
+Then she traveled to the market.
+Where is Ann? market
+
+Nina was in the kitchen.
+Then she traveled to the market.
+Where is Nina? market
+
+Tom went to the hallway.
+Nina was in the park.
+Then she traveled to the studio.
+Where is Nina? studio
+
+Alice went to the restaurant.
+Rick was in the park.
+Then he traveled to the market.
+Where is Rick? market
+
+Frank was in the garden.
+Then he traveled to the hallway.
+Where is Frank? hallway
+
+Ann went to the bedroom.
+Daniel was in the school.
+Then he traveled to the bathroom.
+Where is Daniel? bathroom
+
+Alice went to the studio.
+Frank was in the studio.
+Then he traveled to the restaurant.
+Where is Frank? restaurant
+
+Susan was in the bathroom.
+Then she traveled to the playground.
+Where is Susan? playground
+
+Fred was in the studio.
+Then he traveled to the restaurant.
+Where is Fred? restaurant
+
+Eve was in the park.
+Then she traveled to the hallway.
+Where is Eve? hallway
+
+Bill went to the studio.
+Kate was in the playground.
+Then she traveled to the bathroom.
+Where is Kate? bathroom
+
+Sam went to the restaurant.
+Lucy was in the office.
+Then she traveled to the park.
+Where is Lucy? park
+
+Sam went to the hallway.
+Alice was in the park.
+Then she traveled to the market.
+Where is Alice? market
+
+Mary went to the school.
+Sam was in the hallway.
+Then he traveled to the market.
+Where is Sam? market
+
+John went to the playground.
+Sandra was in the hallway.
+Then she traveled to the office.
+Where is Sandra? office
+
+Mary went to the bathroom.
+Tom was in the restaurant.
+Then he traveled to the playground.
+Where is Tom? playground
+
+Fred went to the restaurant.
+Lucy was in the restaurant.
+Then she traveled to the studio.
+Where is Lucy? studio
+
+Sam went to the playground.
+Mary was in the office.
+Then she traveled to the hallway.
+Where is Mary? hallway
+
+David was in the market.
+Then he traveled to the park.
+Where is David? park
+
+Eve was in the restaurant.
+Then she traveled to the office.
+Where is Eve? office
+
+Ann was in the office.
+Then she traveled to the hallway.
+Where is Ann? hallway
+
+Nina was in the restaurant.
+Then she traveled to the park.
+Where is Nina? park
+
+Daniel was in the kitchen.
+Then he traveled to the office.
+Where is Daniel? office
+
+Daniel was in the school.
+Then he traveled to the market.
+Where is Daniel? market
+
+Bill went to the playground.
+Lucy was in the bathroom.
+Then she traveled to the studio.
+Where is Lucy? studio
+
+Bill was in the playground.
+Then he traveled to the restaurant.
+Where is Bill? restaurant
+
+Frank went to the hallway.
+Alice was in the school.
+Then she traveled to the bathroom.
+Where is Alice? bathroom
+
+Mary was in the park.
+Then she traveled to the market.
+Where is Mary? market
+
+Tom was in the studio.
+Then he traveled to the market.
+Where is Tom? market
+
+Kate went to the office.
+Bill was in the garden.
+Then he traveled to the hallway.
+Where is Bill? hallway
+
+Eve went to the restaurant.
+Bob was in the kitchen.
+Then he traveled to the bathroom.
+Where is Bob? bathroom
+
+Nina went to the kitchen.
+Rick was in the studio.
+Then he traveled to the restaurant.
+Where is Rick? restaurant
+
+Mary was in the bedroom.
+Then she traveled to the kitchen.
+Where is Mary? kitchen
+
+Bob went to the bathroom.
+Alice was in the studio.
+Then she traveled to the school.
+Where is Alice? school
+
+Sam went to the garden.
+Susan was in the bedroom.
+Then she traveled to the bathroom.
+Where is Susan? bathroom
+
+Eve was in the garden.
+Then she traveled to the school.
+Where is Eve? school
+
+Frank went to the studio.
+Sandra was in the park.
+Then she traveled to the bedroom.
+Where is Sandra? bedroom
+
+Susan was in the office.
+Then she traveled to the restaurant.
+Where is Susan? restaurant
+
+Lucy was in the bathroom.
+Then she traveled to the bedroom.
+Where is Lucy? bedroom
+
+Bob was in the bedroom.
+Then he traveled to the studio.
+Where is Bob? studio
+
+Ann went to the bathroom.
+Sam was in the playground.
+Then he traveled to the kitchen.
+Where is Sam? kitchen
+
+David went to the playground.
+Susan was in the office.
+Then she traveled to the kitchen.
+Where is Susan? kitchen
+
+Kate went to the school.
+Rick was in the hallway.
+Then he traveled to the restaurant.
+Where is Rick? restaurant
+
+Alice went to the bathroom.
+Rick was in the playground.
+Then he traveled to the market.
+Where is Rick? market
+
+Mary was in the studio.
+Then she traveled to the restaurant.
+Where is Mary? restaurant
+
+Bill went to the restaurant.
+Ann was in the bedroom.
+Then she traveled to the kitchen.
+Where is Ann? kitchen
+
+John went to the studio.
+Eve was in the garden.
+Then she traveled to the school.
+Where is Eve? school
+
+John went to the studio.
+Mary was in the restaurant.
+Then she traveled to the office.
+Where is Mary? office
+
+Bill was in the hallway.
+Then he traveled to the studio.
+Where is Bill? studio
+
+Alice went to the playground.
+Sam was in the office.
+Then he traveled to the studio.
+Where is Sam? studio
+
+Nina was in the office.
+Then she traveled to the market.
+Where is Nina? market
+
+David was in the studio.
+Then he traveled to the school.
+Where is David? school
+
+Daniel went to the park.
+Ann was in the restaurant.
+Then she traveled to the kitchen.
+Where is Ann? kitchen
+
+Eve went to the playground.
+Tom was in the hallway.
+Then he traveled to the restaurant.
+Where is Tom? restaurant
+
+John went to the bedroom.
+Nina was in the kitchen.
+Then she traveled to the park.
+Where is Nina? park
+
+Mary went to the school.
+Daniel was in the hallway.
+Then he traveled to the playground.
+Where is Daniel? playground
+
+Eve was in the bathroom.
+Then she traveled to the school.
+Where is Eve? school
+
+Peter went to the kitchen.
+Nina was in the kitchen.
+Then she traveled to the park.
+Where is Nina? park
+
+Kate went to the hallway.
+Rick was in the office.
+Then he traveled to the bathroom.
+Where is Rick? bathroom
+
+Susan went to the park.
+Bill was in the studio.
+Then he traveled to the playground.
+Where is Bill? playground
+
+Ann went to the office.
+Daniel was in the garden.
+Then he traveled to the restaurant.
+Where is Daniel? restaurant
+
+David was in the playground.
+Then he traveled to the market.
+Where is David? market
+
+Lucy was in the office.
+Then she traveled to the studio.
+Where is Lucy? studio
+
+Eve went to the kitchen.
+John was in the playground.
+Then he traveled to the office.
+Where is John? office
+
+Lucy went to the office.
+Frank was in the studio.
+Then he traveled to the market.
+Where is Frank? market
+
+David went to the restaurant.
+Eve was in the bathroom.
+Then she traveled to the park.
+Where is Eve? park
+
+Nina was in the studio.
+Then she traveled to the restaurant.
+Where is Nina? restaurant
+
+Fred was in the school.
+Then he traveled to the hallway.
+Where is Fred? hallway
+
+John went to the market.
+Sandra was in the restaurant.
+Then she traveled to the garden.
+Where is Sandra? garden
+
+Nina went to the kitchen.
+David was in the bathroom.
+Then he traveled to the hallway.
+Where is David? hallway
+
+Daniel went to the restaurant.
+Alice was in the restaurant.
+Then she traveled to the kitchen.
+Where is Alice? kitchen
+
+Sam went to the playground.
+Alice was in the bathroom.
+Then she traveled to the market.
+Where is Alice? market
+
+Eve went to the bathroom.
+Bob was in the bathroom.
+Then he traveled to the garden.
+Where is Bob? garden
+
+Alice went to the studio.
+Bill was in the restaurant.
+Then he traveled to the playground.
+Where is Bill? playground
+
+Lucy went to the office.
+John was in the office.
+Then he traveled to the market.
+Where is John? market
+
+Ann went to the hallway.
+Rick was in the kitchen.
+Then he traveled to the bedroom.
+Where is Rick? bedroom
+
+Daniel went to the market.
+Eve was in the playground.
+Then she traveled to the market.
+Where is Eve? market
+
+Ann went to the studio.
+Rick was in the market.
+Then he traveled to the garden.
+Where is Rick? garden
+
+Fred went to the playground.
+Lucy was in the garden.
+Then she traveled to the kitchen.
+Where is Lucy? kitchen
+
+Sandra was in the park.
+Then she traveled to the bathroom.
+Where is Sandra? bathroom
+
+Eve went to the garden.
+Frank was in the office.
+Then he traveled to the restaurant.
+Where is Frank? restaurant
+
+Sandra went to the market.
+Frank was in the market.
+Then he traveled to the kitchen.
+Where is Frank? kitchen
+
+Ann was in the bedroom.
+Then she traveled to the school.
+Where is Ann? school
+
+Nina was in the garden.
+Then she traveled to the bathroom.
+Where is Nina? bathroom
+
+Daniel was in the market.
+Then he traveled to the restaurant.
+Where is Daniel? restaurant
+
+Peter went to the playground.
+Alice was in the office.
+Then she traveled to the restaurant.
+Where is Alice? restaurant
+
+John went to the bathroom.
+Susan was in the restaurant.
+Then she traveled to the bathroom.
+Where is Susan? bathroom
+
+Frank was in the playground.
+Then he traveled to the garden.
+Where is Frank? garden
+
+Ann went to the school.
+Peter was in the restaurant.
+Then he traveled to the studio.
+Where is Peter? studio
+
+Tom was in the bathroom.
+Then he traveled to the studio.
+Where is Tom? studio
+
+Peter went to the park.
+Lucy was in the restaurant.
+Then she traveled to the playground.
+Where is Lucy? playground
+
+Mary was in the bathroom.
+Then she traveled to the market.
+Where is Mary? market
+
+Ann went to the school.
+Frank was in the school.
+Then he traveled to the bathroom.
+Where is Frank? bathroom
+
+Tom was in the studio.
+Then he traveled to the bathroom.
+Where is Tom? bathroom
+
+Sandra went to the playground.
+Bill was in the restaurant.
+Then he traveled to the hallway.
+Where is Bill? hallway
+
+Eve went to the office.
+John was in the hallway.
+Then he traveled to the restaurant.
+Where is John? restaurant
+
+Susan went to the bedroom.
+Daniel was in the garden.
+Then he traveled to the restaurant.
+Where is Daniel? restaurant
+
+Sandra went to the studio.
+Frank was in the kitchen.
+Then he traveled to the studio.
+Where is Frank? studio
+
+David went to the park.
+Ann was in the studio.
+Then she traveled to the office.
+Where is Ann? office
+
+Kate was in the park.
+Then she traveled to the playground.
+Where is Kate? playground
+
+John was in the studio.
+Then he traveled to the school.
+Where is John? school
+
+Alice went to the kitchen.
+Peter was in the school.
+Then he traveled to the restaurant.
+Where is Peter? restaurant
+
+Sandra went to the garden.
+Frank was in the restaurant.
+Then he traveled to the park.
+Where is Frank? park
+
+Sandra went to the office.
+Peter was in the garden.
+Then he traveled to the office.
+Where is Peter? office
+
+Ann was in the playground.
+Then she traveled to the market.
+Where is Ann? market
+
+Eve went to the hallway.
+Daniel was in the studio.
+Then he traveled to the bedroom.
+Where is Daniel? bedroom
+
+Alice was in the office.
+Then she traveled to the market.
+Where is Alice? market
+
+Peter was in the playground.
+Then he traveled to the studio.
+Where is Peter? studio
+
+Daniel went to the playground.
+Ann was in the market.
+Then she traveled to the garden.
+Where is Ann? garden
+
+David went to the office.
+Alice was in the bathroom.
+Then she traveled to the park.
+Where is Alice? park
+
+John went to the park.
+Nina was in the hallway.
+Then she traveled to the studio.
+Where is Nina? studio
+
+Lucy went to the playground.
+Daniel was in the market.
+Then he traveled to the school.
+Where is Daniel? school
+
+John went to the park.
+Kate was in the kitchen.
+Then she traveled to the garden.
+Where is Kate? garden
+
+Lucy was in the garden.
+Then she traveled to the playground.
+Where is Lucy? playground
+
+Susan went to the bedroom.
+Tom was in the bathroom.
+Then he traveled to the park.
+Where is Tom? park
+
+Rick went to the office.
+Nina was in the hallway.
+Then she traveled to the studio.
+Where is Nina? studio
+
+Sam was in the school.
+Then he traveled to the garden.
+Where is Sam? garden
+
+David was in the bathroom.
+Then he traveled to the restaurant.
+Where is David? restaurant
+
+Mary went to the school.
+Bill was in the garden.
+Then he traveled to the park.
+Where is Bill? park
+
+Sam went to the bathroom.
+Sandra was in the market.
+Then she traveled to the bathroom.
+Where is Sandra? bathroom
+
+Bill was in the market.
+Then he traveled to the bathroom.
+Where is Bill? bathroom
+
+Susan was in the market.
+Then she traveled to the bathroom.
+Where is Susan? bathroom
+
+John was in the restaurant.
+Then he traveled to the kitchen.
+Where is John? kitchen
+
+Bill was in the restaurant.
+Then he traveled to the office.
+Where is Bill? office
+
+Lucy was in the park.
+Then she traveled to the bedroom.
+Where is Lucy? bedroom
+
+Tom was in the kitchen.
+Then he traveled to the park.
+Where is Tom? park
+
+Nina was in the restaurant.
+Then she traveled to the market.
+Where is Nina? market
+
+Sandra went to the market.
+Peter was in the restaurant.
+Then he traveled to the bedroom.
+Where is Peter? bedroom
+
+Bill went to the bedroom.
+Kate was in the park.
+Then she traveled to the market.
+Where is Kate? market
+
+David went to the playground.
+Eve was in the playground.
+Then she traveled to the kitchen.
+Where is Eve? kitchen
+
+Kate went to the studio.
+Bob was in the school.
+Then he traveled to the studio.
+Where is Bob? studio
+
+Bob went to the studio.
+Lucy was in the restaurant.
+Then she traveled to the park.
+Where is Lucy? park
+
+John was in the restaurant.
+Then he traveled to the school.
+Where is John? school
+
+Ann went to the studio.
+Bob was in the market.
+Then he traveled to the office.
+Where is Bob? office
+
+Rick went to the kitchen.
+Alice was in the studio.
+Then she traveled to the playground.
+Where is Alice? playground
+
+Bob went to the garden.
+Nina was in the kitchen.
+Then she traveled to the office.
+Where is Nina? office
+
+Eve went to the garden.
+Sam was in the bedroom.
+Then he traveled to the kitchen.
+Where is Sam? kitchen
+
+Kate was in the studio.
+Then she traveled to the playground.
+Where is Kate? playground
+
+Ann went to the kitchen.
+Peter was in the school.
+Then he traveled to the bedroom.
+Where is Peter? bedroom
+
+David was in the garden.
+Then he traveled to the park.
+Where is David? park
+
+Mary went to the school.
+David was in the studio.
+Then he traveled to the restaurant.
+Where is David? restaurant
+
+John was in the restaurant.
+Then he traveled to the bathroom.
+Where is John? bathroom
+
+Susan went to the bedroom.
+Sam was in the garden.
+Then he traveled to the bathroom.
+Where is Sam? bathroom
+
+Kate went to the bedroom.
+Sam was in the park.
+Then he traveled to the school.
+Where is Sam? school
+
+Sam went to the market.
+Mary was in the bathroom.
+Then she traveled to the office.
+Where is Mary? office
+
+Ann went to the garden.
+David was in the bathroom.
+Then he traveled to the office.
+Where is David? office
+
+Ann went to the school.
+Bob was in the kitchen.
+Then he traveled to the park.
+Where is Bob? park
+
+David went to the bathroom.
+Sandra was in the studio.
+Then she traveled to the kitchen.
+Where is Sandra? kitchen
+
+Ann went to the market.
+Bill was in the market.
+Then he traveled to the park.
+Where is Bill? park
+
+Sam went to the bedroom.
+Alice was in the bedroom.
+Then she traveled to the park.
+Where is Alice? park
+
+Sam went to the park.
+Lucy was in the studio.
+Then she traveled to the park.
+Where is Lucy? park
+
+Daniel went to the hallway.
+Lucy was in the hallway.
+Then she traveled to the bedroom.
+Where is Lucy? bedroom
+
+Daniel went to the hallway.
+Kate was in the kitchen.
+Then she traveled to the restaurant.
+Where is Kate? restaurant
+
+Alice was in the bathroom.
+Then she traveled to the school.
+Where is Alice? school

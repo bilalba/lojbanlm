@@ -1,0 +1,917 @@
+Peter went to the library.
+Mary was in the market.
+Then she traveled to the park.
+Where is Mary? park
+
+Jeff went to the playground.
+Kate was in the park.
+Then she traveled to the cellar.
+Where is Kate? cellar
+
+John went to the park.
+Kate was in the market.
+Then she traveled to the hospital.
+Where is Kate? hospital
+
+Eve went to the garden.
+Bernhard was in the hallway.
+Then he traveled to the school.
+Where is Bernhard? school
+
+Julie was in the market.
+Then she traveled to the hospital.
+Where is Julie? hospital
+
+Tom was in the cellar.
+Then he traveled to the library.
+Where is Tom? library
+
+Nina went to the hallway.
+Sam was in the cellar.
+Then he traveled to the library.
+Where is Sam? library
+
+Tom was in the garden.
+Then he traveled to the library.
+Where is Tom? library
+
+Bill went to the hospital.
+Lucy was in the market.
+Then she traveled to the hospital.
+Where is Lucy? hospital
+
+Sandra went to the playground.
+Jeff was in the market.
+Then he traveled to the library.
+Where is Jeff? library
+
+Fred went to the hallway.
+Gertrude was in the bedroom.
+Then she traveled to the garden.
+Where is Gertrude? garden
+
+Gertrude was in the market.
+Then she traveled to the cellar.
+Where is Gertrude? cellar
+
+Bernhard went to the playground.
+Susan was in the market.
+Then she traveled to the hallway.
+Where is Susan? hallway
+
+Lily was in the restaurant.
+Then she traveled to the hallway.
+Where is Lily? hallway
+
+Jeff went to the park.
+Sandra was in the studio.
+Then she traveled to the hospital.
+Where is Sandra? hospital
+
+Fred went to the playground.
+Ann was in the cellar.
+Then she traveled to the garden.
+Where is Ann? garden
+
+Gertrude went to the library.
+Tom was in the studio.
+Then he traveled to the market.
+Where is Tom? market
+
+Lucy went to the kitchen.
+Peter was in the cellar.
+Then he traveled to the park.
+Where is Peter? park
+
+Daniel went to the bathroom.
+Eve was in the playground.
+Then she traveled to the cellar.
+Where is Eve? cellar
+
+Sandra went to the hallway.
+Peter was in the park.
+Then he traveled to the hospital.
+Where is Peter? hospital
+
+Lily went to the office.
+Sam was in the market.
+Then he traveled to the office.
+Where is Sam? office
+
+Eve went to the cellar.
+Daniel was in the market.
+Then he traveled to the studio.
+Where is Daniel? studio
+
+Rick went to the bathroom.
+Gertrude was in the hallway.
+Then she traveled to the school.
+Where is Gertrude? school
+
+Lucy went to the restaurant.
+Bernhard was in the restaurant.
+Then he traveled to the hospital.
+Where is Bernhard? hospital
+
+Sam was in the hospital.
+Then he traveled to the restaurant.
+Where is Sam? restaurant
+
+Lily was in the park.
+Then she traveled to the bedroom.
+Where is Lily? bedroom
+
+Jeff was in the hallway.
+Then he traveled to the playground.
+Where is Jeff? playground
+
+Susan went to the cellar.
+Bob was in the playground.
+Then he traveled to the hospital.
+Where is Bob? hospital
+
+Alice went to the cellar.
+Frank was in the school.
+Then he traveled to the garden.
+Where is Frank? garden
+
+Mary went to the bathroom.
+Daniel was in the cellar.
+Then he traveled to the restaurant.
+Where is Daniel? restaurant
+
+Lucy was in the cellar.
+Then she traveled to the school.
+Where is Lucy? school
+
+Alice went to the park.
+Peter was in the market.
+Then he traveled to the hospital.
+Where is Peter? hospital
+
+Gertrude went to the hospital.
+Bill was in the bathroom.
+Then he traveled to the hospital.
+Where is Bill? hospital
+
+Sam went to the cellar.
+Lily was in the market.
+Then she traveled to the hallway.
+Where is Lily? hallway
+
+Bob went to the playground.
+Alice was in the library.
+Then she traveled to the cellar.
+Where is Alice? cellar
+
+Mary went to the studio.
+Rick was in the hospital.
+Then he traveled to the library.
+Where is Rick? library
+
+Lucy was in the cellar.
+Then she traveled to the hallway.
+Where is Lucy? hallway
+
+John went to the studio.
+Alice was in the cellar.
+Then she traveled to the bedroom.
+Where is Alice? bedroom
+
+Daniel was in the hospital.
+Then he traveled to the restaurant.
+Where is Daniel? restaurant
+
+Peter went to the hospital.
+Alice was in the kitchen.
+Then she traveled to the bathroom.
+Where is Alice? bathroom
+
+Mary was in the cellar.
+Then she traveled to the playground.
+Where is Mary? playground
+
+Julie was in the library.
+Then she traveled to the school.
+Where is Julie? school
+
+Rick went to the hallway.
+Lucy was in the studio.
+Then she traveled to the cellar.
+Where is Lucy? cellar
+
+Tom went to the library.
+Julie was in the park.
+Then she traveled to the hallway.
+Where is Julie? hallway
+
+Eve was in the hospital.
+Then she traveled to the library.
+Where is Eve? library
+
+Peter went to the library.
+Lucy was in the office.
+Then she traveled to the bedroom.
+Where is Lucy? bedroom
+
+Ann was in the studio.
+Then she traveled to the hospital.
+Where is Ann? hospital
+
+Lily went to the hospital.
+Bernhard was in the market.
+Then he traveled to the bathroom.
+Where is Bernhard? bathroom
+
+Frank was in the hospital.
+Then he traveled to the office.
+Where is Frank? office
+
+Bernhard went to the bedroom.
+Mary was in the bathroom.
+Then she traveled to the garden.
+Where is Mary? garden
+
+Bill was in the cellar.
+Then he traveled to the hospital.
+Where is Bill? hospital
+
+Susan went to the restaurant.
+Daniel was in the playground.
+Then he traveled to the library.
+Where is Daniel? library
+
+Kate went to the hospital.
+Tom was in the studio.
+Then he traveled to the bedroom.
+Where is Tom? bedroom
+
+Gertrude went to the hospital.
+Bill was in the playground.
+Then he traveled to the cellar.
+Where is Bill? cellar
+
+Bernhard went to the park.
+Alice was in the office.
+Then she traveled to the hospital.
+Where is Alice? hospital
+
+John went to the bathroom.
+Gertrude was in the cellar.
+Then she traveled to the hospital.
+Where is Gertrude? hospital
+
+John was in the cellar.
+Then he traveled to the hallway.
+Where is John? hallway
+
+Fred went to the bedroom.
+Lily was in the studio.
+Then she traveled to the library.
+Where is Lily? library
+
+Ann went to the school.
+Rick was in the school.
+Then he traveled to the hospital.
+Where is Rick? hospital
+
+Jeff was in the playground.
+Then he traveled to the market.
+Where is Jeff? market
+
+Alice went to the office.
+Tom was in the garden.
+Then he traveled to the hospital.
+Where is Tom? hospital
+
+David went to the studio.
+Julie was in the bathroom.
+Then she traveled to the library.
+Where is Julie? library
+
+Susan went to the cellar.
+Jeff was in the playground.
+Then he traveled to the bedroom.
+Where is Jeff? bedroom
+
+Bernhard was in the library.
+Then he traveled to the studio.
+Where is Bernhard? studio
+
+Peter was in the library.
+Then he traveled to the garden.
+Where is Peter? garden
+
+Fred was in the library.
+Then he traveled to the office.
+Where is Fred? office
+
+Julie went to the office.
+Frank was in the office.
+Then he traveled to the garden.
+Where is Frank? garden
+
+Peter was in the hospital.
+Then he traveled to the bedroom.
+Where is Peter? bedroom
+
+Ann was in the playground.
+Then she traveled to the hospital.
+Where is Ann? hospital
+
+Fred went to the library.
+Susan was in the park.
+Then she traveled to the library.
+Where is Susan? library
+
+Julie was in the garden.
+Then she traveled to the school.
+Where is Julie? school
+
+Bob went to the hospital.
+Lucy was in the restaurant.
+Then she traveled to the hospital.
+Where is Lucy? hospital
+
+Lucy was in the studio.
+Then she traveled to the hospital.
+Where is Lucy? hospital
+
+Bob went to the office.
+Mary was in the playground.
+Then she traveled to the hospital.
+Where is Mary? hospital
+
+Tom was in the hospital.
+Then he traveled to the bedroom.
+Where is Tom? bedroom
+
+Fred was in the library.
+Then he traveled to the hallway.
+Where is Fred? hallway
+
+Rick went to the bedroom.
+Ann was in the park.
+Then she traveled to the cellar.
+Where is Ann? cellar
+
+Bernhard went to the bathroom.
+Gertrude was in the hallway.
+Then she traveled to the kitchen.
+Where is Gertrude? kitchen
+
+Ann went to the cellar.
+Peter was in the garden.
+Then he traveled to the bathroom.
+Where is Peter? bathroom
+
+Peter went to the park.
+Kate was in the hallway.
+Then she traveled to the hospital.
+Where is Kate? hospital
+
+Alice was in the hospital.
+Then she traveled to the bathroom.
+Where is Alice? bathroom
+
+Daniel went to the restaurant.
+Gertrude was in the studio.
+Then she traveled to the market.
+Where is Gertrude? market
+
+Sandra went to the hospital.
+Frank was in the cellar.
+Then he traveled to the bathroom.
+Where is Frank? bathroom
+
+Lucy went to the office.
+Tom was in the cellar.
+Then he traveled to the school.
+Where is Tom? school
+
+Alice went to the cellar.
+Daniel was in the garden.
+Then he traveled to the park.
+Where is Daniel? park
+
+Frank went to the cellar.
+Sandra was in the school.
+Then she traveled to the studio.
+Where is Sandra? studio
+
+Julie was in the kitchen.
+Then she traveled to the playground.
+Where is Julie? playground
+
+Bernhard went to the bedroom.
+Lily was in the bathroom.
+Then she traveled to the hospital.
+Where is Lily? hospital
+
+Bernhard was in the bedroom.
+Then he traveled to the park.
+Where is Bernhard? park
+
+Bill went to the hospital.
+Alice was in the market.
+Then she traveled to the hallway.
+Where is Alice? hallway
+
+Rick went to the bathroom.
+Susan was in the cellar.
+Then she traveled to the hospital.
+Where is Susan? hospital
+
+Sandra went to the market.
+Jeff was in the park.
+Then he traveled to the kitchen.
+Where is Jeff? kitchen
+
+Bill went to the hospital.
+Nina was in the garden.
+Then she traveled to the library.
+Where is Nina? library
+
+Jeff was in the playground.
+Then he traveled to the studio.
+Where is Jeff? studio
+
+Lucy went to the library.
+Frank was in the studio.
+Then he traveled to the kitchen.
+Where is Frank? kitchen
+
+Susan went to the hospital.
+Daniel was in the restaurant.
+Then he traveled to the library.
+Where is Daniel? library
+
+Bernhard was in the hallway.
+Then he traveled to the library.
+Where is Bernhard? library
+
+Jeff was in the school.
+Then he traveled to the hospital.
+Where is Jeff? hospital
+
+Julie went to the library.
+Rick was in the restaurant.
+Then he traveled to the office.
+Where is Rick? office
+
+Daniel was in the kitchen.
+Then he traveled to the cellar.
+Where is Daniel? cellar
+
+Lucy went to the kitchen.
+Bill was in the playground.
+Then he traveled to the library.
+Where is Bill? library
+
+Sam went to the playground.
+Lily was in the library.
+Then she traveled to the garden.
+Where is Lily? garden
+
+Peter went to the park.
+Julie was in the park.
+Then she traveled to the library.
+Where is Julie? library
+
+Bill went to the school.
+Lily was in the bedroom.
+Then she traveled to the park.
+Where is Lily? park
+
+Gertrude was in the office.
+Then she traveled to the bathroom.
+Where is Gertrude? bathroom
+
+Susan went to the garden.
+Daniel was in the kitchen.
+Then he traveled to the cellar.
+Where is Daniel? cellar
+
+Jeff went to the kitchen.
+Sandra was in the park.
+Then she traveled to the playground.
+Where is Sandra? playground
+
+Alice went to the kitchen.
+Jeff was in the library.
+Then he traveled to the bathroom.
+Where is Jeff? bathroom
+
+Peter went to the kitchen.
+Gertrude was in the hallway.
+Then she traveled to the library.
+Where is Gertrude? library
+
+Sandra was in the hospital.
+Then she traveled to the market.
+Where is Sandra? market
+
+Fred went to the hospital.
+Mary was in the hallway.
+Then she traveled to the park.
+Where is Mary? park
+
+Julie was in the kitchen.
+Then she traveled to the cellar.
+Where is Julie? cellar
+
+Lucy went to the school.
+Tom was in the bathroom.
+Then he traveled to the cellar.
+Where is Tom? cellar
+
+Mary was in the cellar.
+Then she traveled to the bedroom.
+Where is Mary? bedroom
+
+Mary was in the library.
+Then she traveled to the hallway.
+Where is Mary? hallway
+
+Bill went to the bathroom.
+Lucy was in the hallway.
+Then she traveled to the library.
+Where is Lucy? library
+
+Frank was in the hospital.
+Then he traveled to the garden.
+Where is Frank? garden
+
+Kate went to the kitchen.
+David was in the garden.
+Then he traveled to the hospital.
+Where is David? hospital
+
+Nina was in the bedroom.
+Then she traveled to the library.
+Where is Nina? library
+
+Gertrude went to the library.
+Sam was in the bathroom.
+Then he traveled to the office.
+Where is Sam? office
+
+Jeff was in the bedroom.
+Then he traveled to the restaurant.
+Where is Jeff? restaurant
+
+Ann went to the market.
+Frank was in the school.
+Then he traveled to the hospital.
+Where is Frank? hospital
+
+Lucy went to the school.
+Jeff was in the bathroom.
+Then he traveled to the cellar.
+Where is Jeff? cellar
+
+Bernhard went to the kitchen.
+Julie was in the garden.
+Then she traveled to the park.
+Where is Julie? park
+
+Tom was in the library.
+Then he traveled to the park.
+Where is Tom? park
+
+John went to the garden.
+Ann was in the park.
+Then she traveled to the hospital.
+Where is Ann? hospital
+
+Tom went to the bedroom.
+Julie was in the bedroom.
+Then she traveled to the cellar.
+Where is Julie? cellar
+
+Daniel went to the hospital.
+Lucy was in the bedroom.
+Then she traveled to the school.
+Where is Lucy? school
+
+Lily was in the kitchen.
+Then she traveled to the hospital.
+Where is Lily? hospital
+
+Julie was in the restaurant.
+Then she traveled to the park.
+Where is Julie? park
+
+Mary was in the hospital.
+Then she traveled to the market.
+Where is Mary? market
+
+Tom went to the hospital.
+Julie was in the hallway.
+Then she traveled to the garden.
+Where is Julie? garden
+
+Mary was in the playground.
+Then she traveled to the library.
+Where is Mary? library
+
+Nina was in the bathroom.
+Then she traveled to the cellar.
+Where is Nina? cellar
+
+Lily was in the hospital.
+Then she traveled to the bedroom.
+Where is Lily? bedroom
+
+Kate was in the hospital.
+Then she traveled to the park.
+Where is Kate? park
+
+Lily was in the playground.
+Then she traveled to the bathroom.
+Where is Lily? bathroom
+
+Bob was in the market.
+Then he traveled to the hospital.
+Where is Bob? hospital
+
+Jeff was in the bathroom.
+Then he traveled to the library.
+Where is Jeff? library
+
+Julie went to the hospital.
+Bernhard was in the school.
+Then he traveled to the garden.
+Where is Bernhard? garden
+
+Julie went to the market.
+John was in the restaurant.
+Then he traveled to the market.
+Where is John? market
+
+Gertrude was in the hospital.
+Then she traveled to the school.
+Where is Gertrude? school
+
+David was in the library.
+Then he traveled to the restaurant.
+Where is David? restaurant
+
+Jeff went to the park.
+Nina was in the bedroom.
+Then she traveled to the restaurant.
+Where is Nina? restaurant
+
+Frank was in the park.
+Then he traveled to the library.
+Where is Frank? library
+
+Kate went to the kitchen.
+David was in the hospital.
+Then he traveled to the bedroom.
+Where is David? bedroom
+
+Sandra was in the library.
+Then she traveled to the park.
+Where is Sandra? park
+
+Bernhard went to the kitchen.
+Kate was in the studio.
+Then she traveled to the school.
+Where is Kate? school
+
+David was in the hallway.
+Then he traveled to the library.
+Where is David? library
+
+Bill went to the hospital.
+Eve was in the park.
+Then she traveled to the office.
+Where is Eve? office
+
+Nina was in the cellar.
+Then she traveled to the kitchen.
+Where is Nina? kitchen
+
+Susan was in the cellar.
+Then she traveled to the hallway.
+Where is Susan? hallway
+
+Frank went to the bathroom.
+Lily was in the cellar.
+Then she traveled to the library.
+Where is Lily? library
+
+Jeff was in the hospital.
+Then he traveled to the hallway.
+Where is Jeff? hallway
+
+Daniel was in the cellar.
+Then he traveled to the office.
+Where is Daniel? office
+
+Sandra went to the hospital.
+Jeff was in the park.
+Then he traveled to the office.
+Where is Jeff? office
+
+Jeff went to the playground.
+Lucy was in the kitchen.
+Then she traveled to the restaurant.
+Where is Lucy? restaurant
+
+Jeff was in the garden.
+Then he traveled to the school.
+Where is Jeff? school
+
+Eve went to the market.
+Sam was in the cellar.
+Then he traveled to the park.
+Where is Sam? park
+
+Lily was in the restaurant.
+Then she traveled to the park.
+Where is Lily? park
+
+Alice was in the park.
+Then she traveled to the hospital.
+Where is Alice? hospital
+
+Peter went to the playground.
+Mary was in the library.
+Then she traveled to the market.
+Where is Mary? market
+
+Bernhard was in the garden.
+Then he traveled to the restaurant.
+Where is Bernhard? restaurant
+
+Sam went to the market.
+Lily was in the playground.
+Then she traveled to the park.
+Where is Lily? park
+
+Susan went to the hallway.
+Daniel was in the cellar.
+Then he traveled to the library.
+Where is Daniel? library
+
+Sandra was in the cellar.
+Then she traveled to the restaurant.
+Where is Sandra? restaurant
+
+Nina went to the restaurant.
+Jeff was in the garden.
+Then he traveled to the restaurant.
+Where is Jeff? restaurant
+
+Kate went to the cellar.
+David was in the school.
+Then he traveled to the bathroom.
+Where is David? bathroom
+
+Sandra was in the library.
+Then she traveled to the hallway.
+Where is Sandra? hallway
+
+Nina went to the studio.
+Bob was in the school.
+Then he traveled to the cellar.
+Where is Bob? cellar
+
+Nina went to the hallway.
+Fred was in the cellar.
+Then he traveled to the studio.
+Where is Fred? studio
+
+Jeff was in the office.
+Then he traveled to the park.
+Where is Jeff? park
+
+Rick went to the studio.
+Eve was in the hospital.
+Then she traveled to the park.
+Where is Eve? park
+
+David went to the garden.
+Gertrude was in the school.
+Then she traveled to the hallway.
+Where is Gertrude? hallway
+
+Ann was in the office.
+Then she traveled to the hospital.
+Where is Ann? hospital
+
+Jeff was in the studio.
+Then he traveled to the hospital.
+Where is Jeff? hospital
+
+John went to the cellar.
+Ann was in the kitchen.
+Then she traveled to the hospital.
+Where is Ann? hospital
+
+Alice was in the cellar.
+Then she traveled to the hallway.
+Where is Alice? hallway
+
+Lucy went to the school.
+Daniel was in the kitchen.
+Then he traveled to the hospital.
+Where is Daniel? hospital
+
+Sam went to the library.
+Eve was in the office.
+Then she traveled to the bathroom.
+Where is Eve? bathroom
+
+Bernhard went to the cellar.
+Susan was in the cellar.
+Then she traveled to the hospital.
+Where is Susan? hospital
+
+Peter was in the library.
+Then he traveled to the kitchen.
+Where is Peter? kitchen
+
+Tom was in the kitchen.
+Then he traveled to the cellar.
+Where is Tom? cellar
+
+Frank was in the school.
+Then he traveled to the library.
+Where is Frank? library
+
+Jeff was in the library.
+Then he traveled to the bedroom.
+Where is Jeff? bedroom
+
+Fred went to the cellar.
+Kate was in the garden.
+Then she traveled to the restaurant.
+Where is Kate? restaurant
+
+Gertrude was in the park.
+Then she traveled to the bedroom.
+Where is Gertrude? bedroom
+
+Kate went to the bathroom.
+Bernhard was in the restaurant.
+Then he traveled to the park.
+Where is Bernhard? park
+
+John went to the cellar.
+Sandra was in the kitchen.
+Then she traveled to the garden.
+Where is Sandra? garden
+
+John was in the hospital.
+Then he traveled to the school.
+Where is John? school
+
+Tom went to the cellar.
+Julie was in the bathroom.
+Then she traveled to the bedroom.
+Where is Julie? bedroom
+
+Alice went to the hospital.
+Bob was in the garden.
+Then he traveled to the cellar.
+Where is Bob? cellar
+
+Lily went to the bathroom.
+Daniel was in the park.
+Then he traveled to the hallway.
+Where is Daniel? hallway
+
+John went to the hospital.
+Eve was in the park.
+Then she traveled to the hallway.
+Where is Eve? hallway
+
+Sam was in the studio.
+Then he traveled to the hospital.
+Where is Sam? hospital
+
+Jeff was in the cellar.
+Then he traveled to the park.
+Where is Jeff? park
+
+Sandra went to the hospital.
+John was in the park.
+Then he traveled to the studio.
+Where is John? studio
+
+Kate was in the cellar.
+Then she traveled to the school.
+Where is Kate? school
+
+Mary went to the hallway.
+Bill was in the market.
+Then he traveled to the cellar.
+Where is Bill? cellar
+
+David went to the library.
+Mary was in the bedroom.
+Then she traveled to the playground.
+Where is Mary? playground

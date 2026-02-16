@@ -1,0 +1,799 @@
+la .bernart. cu zvati lo panka ji lo jukpa kumfa
+la .frank. cu zvati lo panka
+xu la .frank. cu zvati lo jukpa kumfa? na go'i
+
+la .pet. cu zvati lo briju ji lo kelci stuzi
+la .djulis. cu zvati lo sipna kumfa
+xu la .djulis. cu zvati lo sipna kumfa? go'i
+
+la .djulis. cu zvati lo zarci ji lo jukpa kumfa
+la .bab. cu zvati lo panka
+xu la .bab. cu zvati lo ckule? na go'i
+
+la .ninas. cu zvati lo larcu kumfa ji lo panka
+la .bernart. cu zvati lo purdi
+xu la .bernart. cu zvati lo lumku'a? na go'i
+
+la .tam. cu zvati lo kumfa cnita ji lo ckusro
+la .djulis. cu zvati lo purdi
+xu la .djulis. cu zvati lo purdi? go'i
+
+la .tam. cu zvati lo spita ji lo zarci
+la .alis. cu zvati lo panka
+xu la .alis. cu zvati lo sipna kumfa? na go'i
+
+la .daniyl. cu zvati lo zarci ji lo ckusro
+la .djef. cu zvati lo sipna kumfa
+xu la .daniyl. cu zvati lo zarci? ju'o cu'i
+
+la .rik. cu zvati lo zarci ji lo vrogai
+la .pet. cu zvati lo gusta
+xu la .pet. cu zvati lo ckusro? na go'i
+
+la .suz. cu zvati lo vrogai ji lo purdi
+la .djulis. cu zvati lo gusta
+xu la .djulis. cu zvati lo kelci stuzi? na go'i
+
+la .pet. cu zvati lo ckule ji lo spita
+la .deiv. cu zvati lo sipna kumfa
+xu la .deiv. cu zvati lo ckule? na go'i
+
+la .lus. cu zvati lo sipna kumfa ji lo panka
+la .djulis. cu zvati lo kelci stuzi
+xu la .djulis. cu zvati lo kelci stuzi? go'i
+
+la .deiv. cu zvati lo kelci stuzi ji lo jukpa kumfa
+la .djulis. cu zvati lo zarci
+xu la .deiv. cu zvati lo kelci stuzi? ju'o cu'i
+
+la .lilis. cu zvati lo kumfa cnita ji lo sipna kumfa
+la .alis. cu zvati lo purdi
+xu la .lilis. cu zvati lo kumfa cnita? ju'o cu'i
+
+la .an. cu zvati lo spita ji lo ckule
+la .suz. cu zvati lo sipna kumfa
+xu la .suz. cu zvati lo lumku'a? na go'i
+
+la .fred. cu zvati lo purdi ji lo panka
+la .bernart. cu zvati lo gusta
+xu la .bernart. cu zvati lo ckule? na go'i
+
+la .djan. cu zvati lo jukpa kumfa ji lo sipna kumfa
+la .djulis. cu zvati lo kelci stuzi
+xu la .djulis. cu zvati lo kelci stuzi? go'i
+
+la .pet. cu zvati lo spita ji lo lumku'a
+la .lus. cu zvati lo ckusro
+xu la .lus. cu zvati lo ckusro? go'i
+
+la .bernart. cu zvati lo briju ji lo larcu kumfa
+la .deiv. cu zvati lo zarci
+xu la .bernart. cu zvati lo larcu kumfa? ju'o cu'i
+
+la .iv. cu zvati lo ckule ji lo vrogai
+la .gertrud. cu zvati lo kumfa cnita
+xu la .gertrud. cu zvati lo kumfa cnita? go'i
+
+la .djan. cu zvati lo lumku'a ji lo spita
+la .rik. cu zvati lo gusta
+xu la .rik. cu zvati lo ckusro? na go'i
+
+la .iv. cu zvati lo kumfa cnita ji lo spita
+la .an. cu zvati lo ckusro
+xu la .an. cu zvati lo ckusro? go'i
+
+la .bab. cu zvati lo spita ji lo panka
+la .an. cu zvati lo panka
+xu la .bab. cu zvati lo panka? ju'o cu'i
+
+la .bab. cu zvati lo kumfa cnita ji lo kelci stuzi
+la .bil. cu zvati lo kumfa cnita
+xu la .bil. cu zvati lo panka? na go'i
+
+la .lilis. cu zvati lo lumku'a ji lo kelci stuzi
+la .sam. cu zvati lo kumfa cnita
+xu la .sam. cu zvati lo larcu kumfa? na go'i
+
+la .tam. cu zvati lo ckule ji lo zarci
+la .frank. cu zvati lo spita
+xu la .frank. cu zvati lo spita? go'i
+
+la .alis. cu zvati lo kumfa cnita ji lo ckusro
+la .djef. cu zvati lo lumku'a
+xu la .alis. cu zvati lo ckusro? ju'o cu'i
+
+la .djef. cu zvati lo larcu kumfa ji lo panka
+la .deiv. cu zvati lo kumfa cnita
+xu la .deiv. cu zvati lo kumfa cnita? go'i
+
+la .alis. cu zvati lo spita ji lo jukpa kumfa
+la .tam. cu zvati lo larcu kumfa
+xu la .alis. cu zvati lo spita? ju'o cu'i
+
+la .daniyl. cu zvati lo larcu kumfa ji lo jukpa kumfa
+la .lilis. cu zvati lo ckule
+xu la .lilis. cu zvati lo ckule? go'i
+
+la .iv. cu zvati lo panka ji lo kumfa cnita
+la .alis. cu zvati lo purdi
+xu la .iv. cu zvati lo panka? ju'o cu'i
+
+la .keit. cu zvati lo purdi ji lo panka
+la .tam. cu zvati lo spita
+xu la .tam. cu zvati lo briju? na go'i
+
+la .lilis. cu zvati lo vrogai ji lo lumku'a
+la .alis. cu zvati lo larcu kumfa
+xu la .alis. cu zvati lo larcu kumfa? go'i
+
+la .bernart. cu zvati lo sipna kumfa ji lo zarci
+la .maris. cu zvati lo ckusro
+xu la .maris. cu zvati lo ckusro? go'i
+
+la .deiv. cu zvati lo ckusro ji lo zarci
+la .bil. cu zvati lo spita
+xu la .bil. cu zvati lo spita? go'i
+
+la .bernart. cu zvati lo purdi ji lo sipna kumfa
+la .maris. cu zvati lo jukpa kumfa
+xu la .maris. cu zvati lo lumku'a? na go'i
+
+la .alis. cu zvati lo kumfa cnita ji lo larcu kumfa
+la .fred. cu zvati lo ckusro
+xu la .fred. cu zvati lo ckusro? go'i
+
+la .an. cu zvati lo kelci stuzi ji lo kumfa cnita
+la .keit. cu zvati lo briju
+xu la .keit. cu zvati lo ckusro? na go'i
+
+la .suz. cu zvati lo zarci ji lo gusta
+la .frank. cu zvati lo panka
+xu la .frank. cu zvati lo kumfa cnita? na go'i
+
+la .bil. cu zvati lo gusta ji lo kumfa cnita
+la .bernart. cu zvati lo larcu kumfa
+xu la .bernart. cu zvati lo sipna kumfa? na go'i
+
+la .iv. cu zvati lo sipna kumfa ji lo ckusro
+la .gertrud. cu zvati lo kelci stuzi
+xu la .gertrud. cu zvati lo ckule? na go'i
+
+la .pet. cu zvati lo larcu kumfa ji lo spita
+la .suz. cu zvati lo vrogai
+xu la .suz. cu zvati lo vrogai? go'i
+
+la .gertrud. cu zvati lo sipna kumfa ji lo spita
+la .sam. cu zvati lo ckusro
+xu la .sam. cu zvati lo ckusro? go'i
+
+la .djan. cu zvati lo briju ji lo spita
+la .djef. cu zvati lo vrogai
+xu la .djef. cu zvati lo zarci? na go'i
+
+la .pet. cu zvati lo ckusro ji lo purdi
+la .djef. cu zvati lo larcu kumfa
+xu la .djef. cu zvati lo vrogai? na go'i
+
+la .gertrud. cu zvati lo spita ji lo vrogai
+la .djan. cu zvati lo panka
+xu la .gertrud. cu zvati lo spita? ju'o cu'i
+
+la .fred. cu zvati lo ckule ji lo spita
+la .deiv. cu zvati lo sipna kumfa
+xu la .deiv. cu zvati lo vrogai? na go'i
+
+la .bab. cu zvati lo kelci stuzi ji lo kumfa cnita
+la .maris. cu zvati lo spita
+xu la .maris. cu zvati lo briju? na go'i
+
+la .sam. cu zvati lo ckusro ji lo zarci
+la .djan. cu zvati lo purdi
+xu la .sam. cu zvati lo zarci? ju'o cu'i
+
+la .lilis. cu zvati lo purdi ji lo spita
+la .ninas. cu zvati lo panka
+xu la .ninas. cu zvati lo panka? go'i
+
+la .keit. cu zvati lo spita ji lo vrogai
+la .maris. cu zvati lo sipna kumfa
+xu la .keit. cu zvati lo spita? ju'o cu'i
+
+la .deiv. cu zvati lo spita ji lo sipna kumfa
+la .tam. cu zvati lo lumku'a
+xu la .tam. cu zvati lo lumku'a? go'i
+
+la .bernart. cu zvati lo kumfa cnita ji lo ckule
+la .pet. cu zvati lo lumku'a
+xu la .pet. cu zvati lo spita? na go'i
+
+la .ninas. cu zvati lo spita ji lo panka
+la .keit. cu zvati lo panka
+xu la .ninas. cu zvati lo panka? ju'o cu'i
+
+la .sam. cu zvati lo larcu kumfa ji lo gusta
+la .keit. cu zvati lo larcu kumfa
+xu la .keit. cu zvati lo ckusro? na go'i
+
+la .suz. cu zvati lo gusta ji lo spita
+la .fred. cu zvati lo kumfa cnita
+xu la .fred. cu zvati lo ckule? na go'i
+
+la .sam. cu zvati lo kelci stuzi ji lo spita
+la .tam. cu zvati lo kumfa cnita
+xu la .tam. cu zvati lo ckule? na go'i
+
+la .pet. cu zvati lo sipna kumfa ji lo spita
+la .djulis. cu zvati lo panka
+xu la .pet. cu zvati lo spita? ju'o cu'i
+
+la .frank. cu zvati lo gusta ji lo sipna kumfa
+la .djulis. cu zvati lo zarci
+xu la .frank. cu zvati lo sipna kumfa? ju'o cu'i
+
+la .sandr. cu zvati lo kumfa cnita ji lo briju
+la .keit. cu zvati lo purdi
+xu la .keit. cu zvati lo purdi? go'i
+
+la .tam. cu zvati lo purdi ji lo kumfa cnita
+la .djef. cu zvati lo zarci
+xu la .djef. cu zvati lo zarci? go'i
+
+la .daniyl. cu zvati lo spita ji lo ckule
+la .suz. cu zvati lo lumku'a
+xu la .suz. cu zvati lo jukpa kumfa? na go'i
+
+la .ninas. cu zvati lo panka ji lo kelci stuzi
+la .bab. cu zvati lo spita
+xu la .bab. cu zvati lo spita? go'i
+
+la .djan. cu zvati lo ckusro ji lo kelci stuzi
+la .keit. cu zvati lo larcu kumfa
+xu la .keit. cu zvati lo kelci stuzi? na go'i
+
+la .frank. cu zvati lo jukpa kumfa ji lo kumfa cnita
+la .fred. cu zvati lo ckusro
+xu la .fred. cu zvati lo spita? na go'i
+
+la .djan. cu zvati lo briju ji lo spita
+la .djef. cu zvati lo panka
+xu la .djef. cu zvati lo zarci? na go'i
+
+la .djef. cu zvati lo ckule ji lo gusta
+la .pet. cu zvati lo briju
+xu la .djef. cu zvati lo ckule? ju'o cu'i
+
+la .gertrud. cu zvati lo sipna kumfa ji lo kelci stuzi
+la .sam. cu zvati lo ckule
+xu la .sam. cu zvati lo ckule? go'i
+
+la .daniyl. cu zvati lo purdi ji lo ckule
+la .djef. cu zvati lo jukpa kumfa
+xu la .djef. cu zvati lo sipna kumfa? na go'i
+
+la .gertrud. cu zvati lo kelci stuzi ji lo zarci
+la .keit. cu zvati lo panka
+xu la .keit. cu zvati lo briju? na go'i
+
+la .frank. cu zvati lo panka ji lo sipna kumfa
+la .lilis. cu zvati lo larcu kumfa
+xu la .lilis. cu zvati lo ckule? na go'i
+
+la .sandr. cu zvati lo jukpa kumfa ji lo kumfa cnita
+la .daniyl. cu zvati lo briju
+xu la .sandr. cu zvati lo jukpa kumfa? ju'o cu'i
+
+la .an. cu zvati lo ckusro ji lo jukpa kumfa
+la .keit. cu zvati lo ckusro
+xu la .keit. cu zvati lo lumku'a? na go'i
+
+la .alis. cu zvati lo vrogai ji lo ckusro
+la .maris. cu zvati lo vrogai
+xu la .alis. cu zvati lo vrogai? ju'o cu'i
+
+la .djan. cu zvati lo spita ji lo panka
+la .bil. cu zvati lo kumfa cnita
+xu la .bil. cu zvati lo larcu kumfa? na go'i
+
+la .djulis. cu zvati lo jukpa kumfa ji lo spita
+la .djan. cu zvati lo jukpa kumfa
+xu la .djulis. cu zvati lo jukpa kumfa? ju'o cu'i
+
+la .sam. cu zvati lo ckule ji lo jukpa kumfa
+la .pet. cu zvati lo kumfa cnita
+xu la .pet. cu zvati lo larcu kumfa? na go'i
+
+la .maris. cu zvati lo zarci ji lo larcu kumfa
+la .ninas. cu zvati lo jukpa kumfa
+xu la .ninas. cu zvati lo spita? na go'i
+
+la .frank. cu zvati lo lumku'a ji lo kumfa cnita
+la .bab. cu zvati lo briju
+xu la .frank. cu zvati lo kumfa cnita? ju'o cu'i
+
+la .fred. cu zvati lo spita ji lo briju
+la .djan. cu zvati lo purdi
+xu la .djan. cu zvati lo sipna kumfa? na go'i
+
+la .djan. cu zvati lo sipna kumfa ji lo ckusro
+la .ninas. cu zvati lo kelci stuzi
+xu la .ninas. cu zvati lo lumku'a? na go'i
+
+la .maris. cu zvati lo panka ji lo zarci
+la .lilis. cu zvati lo jukpa kumfa
+xu la .lilis. cu zvati lo jukpa kumfa? go'i
+
+la .frank. cu zvati lo zarci ji lo jukpa kumfa
+la .djulis. cu zvati lo ckusro
+xu la .frank. cu zvati lo jukpa kumfa? ju'o cu'i
+
+la .keit. cu zvati lo sipna kumfa ji lo lumku'a
+la .djulis. cu zvati lo panka
+xu la .djulis. cu zvati lo panka? go'i
+
+la .djulis. cu zvati lo kumfa cnita ji lo purdi
+la .ninas. cu zvati lo jukpa kumfa
+xu la .djulis. cu zvati lo purdi? ju'o cu'i
+
+la .djan. cu zvati lo vrogai ji lo kumfa cnita
+la .pet. cu zvati lo kelci stuzi
+xu la .pet. cu zvati lo vrogai? na go'i
+
+la .djan. cu zvati lo panka ji lo zarci
+la .djef. cu zvati lo purdi
+xu la .djef. cu zvati lo sipna kumfa? na go'i
+
+la .tam. cu zvati lo panka ji lo kelci stuzi
+la .djef. cu zvati lo kelci stuzi
+xu la .djef. cu zvati lo kumfa cnita? na go'i
+
+la .daniyl. cu zvati lo sipna kumfa ji lo ckule
+la .djulis. cu zvati lo sipna kumfa
+xu la .djulis. cu zvati lo kumfa cnita? na go'i
+
+la .lus. cu zvati lo ckule ji lo ckusro
+la .daniyl. cu zvati lo zarci
+xu la .daniyl. cu zvati lo larcu kumfa? na go'i
+
+la .ninas. cu zvati lo jukpa kumfa ji lo spita
+la .gertrud. cu zvati lo zarci
+xu la .gertrud. cu zvati lo larcu kumfa? na go'i
+
+la .sam. cu zvati lo spita ji lo jukpa kumfa
+la .tam. cu zvati lo kelci stuzi
+xu la .tam. cu zvati lo kumfa cnita? na go'i
+
+la .sam. cu zvati lo purdi ji lo gusta
+la .keit. cu zvati lo spita
+xu la .sam. cu zvati lo purdi? ju'o cu'i
+
+la .frank. cu zvati lo gusta ji lo kelci stuzi
+la .gertrud. cu zvati lo lumku'a
+xu la .gertrud. cu zvati lo purdi? na go'i
+
+la .an. cu zvati lo sipna kumfa ji lo kumfa cnita
+la .maris. cu zvati lo briju
+xu la .maris. cu zvati lo briju? go'i
+
+la .an. cu zvati lo ckule ji lo purdi
+la .bernart. cu zvati lo panka
+xu la .an. cu zvati lo ckule? ju'o cu'i
+
+la .deiv. cu zvati lo gusta ji lo sipna kumfa
+la .gertrud. cu zvati lo larcu kumfa
+xu la .deiv. cu zvati lo gusta? ju'o cu'i
+
+la .maris. cu zvati lo purdi ji lo gusta
+la .alis. cu zvati lo sipna kumfa
+xu la .alis. cu zvati lo spita? na go'i
+
+la .alis. cu zvati lo lumku'a ji lo panka
+la .daniyl. cu zvati lo panka
+xu la .daniyl. cu zvati lo spita? na go'i
+
+la .iv. cu zvati lo jukpa kumfa ji lo larcu kumfa
+la .tam. cu zvati lo ckusro
+xu la .tam. cu zvati lo ckusro? go'i
+
+la .tam. cu zvati lo kumfa cnita ji lo zarci
+la .an. cu zvati lo lumku'a
+xu la .tam. cu zvati lo kumfa cnita? ju'o cu'i
+
+la .keit. cu zvati lo panka ji lo ckusro
+la .sandr. cu zvati lo gusta
+xu la .keit. cu zvati lo ckusro? ju'o cu'i
+
+la .djulis. cu zvati lo gusta ji lo lumku'a
+la .sandr. cu zvati lo ckule
+xu la .djulis. cu zvati lo gusta? ju'o cu'i
+
+la .suz. cu zvati lo spita ji lo kelci stuzi
+la .ninas. cu zvati lo spita
+xu la .ninas. cu zvati lo spita? go'i
+
+la .iv. cu zvati lo kumfa cnita ji lo vrogai
+la .suz. cu zvati lo kumfa cnita
+xu la .suz. cu zvati lo ckusro? na go'i
+
+la .deiv. cu zvati lo ckusro ji lo spita
+la .ninas. cu zvati lo vrogai
+xu la .ninas. cu zvati lo vrogai? go'i
+
+la .bernart. cu zvati lo kelci stuzi ji lo panka
+la .daniyl. cu zvati lo vrogai
+xu la .bernart. cu zvati lo kelci stuzi? ju'o cu'i
+
+la .rik. cu zvati lo panka ji lo briju
+la .suz. cu zvati lo jukpa kumfa
+xu la .suz. cu zvati lo kumfa cnita? na go'i
+
+la .maris. cu zvati lo briju ji lo ckusro
+la .gertrud. cu zvati lo kelci stuzi
+xu la .maris. cu zvati lo ckusro? ju'o cu'i
+
+la .suz. cu zvati lo ckusro ji lo purdi
+la .pet. cu zvati lo ckule
+xu la .pet. cu zvati lo kelci stuzi? na go'i
+
+la .alis. cu zvati lo lumku'a ji lo panka
+la .gertrud. cu zvati lo lumku'a
+xu la .gertrud. cu zvati lo lumku'a? go'i
+
+la .pet. cu zvati lo spita ji lo ckusro
+la .alis. cu zvati lo spita
+xu la .pet. cu zvati lo spita? ju'o cu'i
+
+la .keit. cu zvati lo vrogai ji lo zarci
+la .bernart. cu zvati lo gusta
+xu la .bernart. cu zvati lo larcu kumfa? na go'i
+
+la .djef. cu zvati lo kumfa cnita ji lo ckusro
+la .daniyl. cu zvati lo ckule
+xu la .djef. cu zvati lo ckusro? ju'o cu'i
+
+la .sandr. cu zvati lo spita ji lo ckusro
+la .gertrud. cu zvati lo purdi
+xu la .gertrud. cu zvati lo vrogai? na go'i
+
+la .rik. cu zvati lo larcu kumfa ji lo lumku'a
+la .sam. cu zvati lo kumfa cnita
+xu la .rik. cu zvati lo larcu kumfa? ju'o cu'i
+
+la .gertrud. cu zvati lo sipna kumfa ji lo zarci
+la .djef. cu zvati lo sipna kumfa
+xu la .gertrud. cu zvati lo sipna kumfa? ju'o cu'i
+
+la .an. cu zvati lo larcu kumfa ji lo ckusro
+la .sam. cu zvati lo kumfa cnita
+xu la .sam. cu zvati lo kumfa cnita? go'i
+
+la .ninas. cu zvati lo larcu kumfa ji lo kumfa cnita
+la .lus. cu zvati lo vrogai
+xu la .ninas. cu zvati lo kumfa cnita? ju'o cu'i
+
+la .bernart. cu zvati lo kumfa cnita ji lo sipna kumfa
+la .sandr. cu zvati lo panka
+xu la .bernart. cu zvati lo sipna kumfa? ju'o cu'i
+
+la .an. cu zvati lo lumku'a ji lo ckusro
+la .daniyl. cu zvati lo ckusro
+xu la .an. cu zvati lo lumku'a? ju'o cu'i
+
+la .suz. cu zvati lo briju ji lo spita
+la .alis. cu zvati lo kelci stuzi
+xu la .alis. cu zvati lo kelci stuzi? go'i
+
+la .an. cu zvati lo spita ji lo ckule
+la .maris. cu zvati lo ckusro
+xu la .an. cu zvati lo ckule? ju'o cu'i
+
+la .ninas. cu zvati lo briju ji lo kelci stuzi
+la .gertrud. cu zvati lo jukpa kumfa
+xu la .gertrud. cu zvati lo lumku'a? na go'i
+
+la .bab. cu zvati lo kumfa cnita ji lo spita
+la .tam. cu zvati lo purdi
+xu la .bab. cu zvati lo spita? ju'o cu'i
+
+la .pet. cu zvati lo gusta ji lo spita
+la .an. cu zvati lo kumfa cnita
+xu la .pet. cu zvati lo gusta? ju'o cu'i
+
+la .djulis. cu zvati lo ckule ji lo gusta
+la .frank. cu zvati lo lumku'a
+xu la .frank. cu zvati lo kelci stuzi? na go'i
+
+la .deiv. cu zvati lo gusta ji lo sipna kumfa
+la .pet. cu zvati lo ckule
+xu la .pet. cu zvati lo kumfa cnita? na go'i
+
+la .sandr. cu zvati lo lumku'a ji lo sipna kumfa
+la .gertrud. cu zvati lo briju
+xu la .gertrud. cu zvati lo briju? go'i
+
+la .alis. cu zvati lo panka ji lo purdi
+la .bab. cu zvati lo spita
+xu la .bab. cu zvati lo panka? na go'i
+
+la .alis. cu zvati lo briju ji lo purdi
+la .bernart. cu zvati lo kelci stuzi
+xu la .bernart. cu zvati lo jukpa kumfa? na go'i
+
+la .an. cu zvati lo spita ji lo kelci stuzi
+la .frank. cu zvati lo zarci
+xu la .frank. cu zvati lo zarci? go'i
+
+la .fred. cu zvati lo spita ji lo sipna kumfa
+la .sandr. cu zvati lo sipna kumfa
+xu la .sandr. cu zvati lo sipna kumfa? go'i
+
+la .pet. cu zvati lo spita ji lo purdi
+la .tam. cu zvati lo kumfa cnita
+xu la .tam. cu zvati lo ckusro? na go'i
+
+la .suz. cu zvati lo gusta ji lo purdi
+la .tam. cu zvati lo spita
+xu la .suz. cu zvati lo purdi? ju'o cu'i
+
+la .bab. cu zvati lo larcu kumfa ji lo panka
+la .bernart. cu zvati lo larcu kumfa
+xu la .bab. cu zvati lo larcu kumfa? ju'o cu'i
+
+la .daniyl. cu zvati lo kumfa cnita ji lo ckule
+la .keit. cu zvati lo gusta
+xu la .keit. cu zvati lo ckule? na go'i
+
+la .bil. cu zvati lo vrogai ji lo zarci
+la .djulis. cu zvati lo jukpa kumfa
+xu la .djulis. cu zvati lo jukpa kumfa? go'i
+
+la .an. cu zvati lo briju ji lo kumfa cnita
+la .djan. cu zvati lo ckusro
+xu la .djan. cu zvati lo larcu kumfa? na go'i
+
+la .bernart. cu zvati lo kumfa cnita ji lo panka
+la .djef. cu zvati lo kumfa cnita
+xu la .djef. cu zvati lo gusta? na go'i
+
+la .suz. cu zvati lo briju ji lo kumfa cnita
+la .iv. cu zvati lo kelci stuzi
+xu la .iv. cu zvati lo kelci stuzi? go'i
+
+la .pet. cu zvati lo ckule ji lo briju
+la .frank. cu zvati lo ckusro
+xu la .frank. cu zvati lo ckusro? go'i
+
+la .iv. cu zvati lo vrogai ji lo panka
+la .sam. cu zvati lo kumfa cnita
+xu la .iv. cu zvati lo panka? ju'o cu'i
+
+la .djulis. cu zvati lo vrogai ji lo ckusro
+la .tam. cu zvati lo briju
+xu la .tam. cu zvati lo briju? go'i
+
+la .pet. cu zvati lo kumfa cnita ji lo jukpa kumfa
+la .bil. cu zvati lo ckule
+xu la .bil. cu zvati lo ckule? go'i
+
+la .keit. cu zvati lo gusta ji lo briju
+la .iv. cu zvati lo ckusro
+xu la .iv. cu zvati lo gusta? na go'i
+
+la .fred. cu zvati lo ckusro ji lo vrogai
+la .tam. cu zvati lo zarci
+xu la .tam. cu zvati lo zarci? go'i
+
+la .an. cu zvati lo zarci ji lo sipna kumfa
+la .frank. cu zvati lo spita
+xu la .an. cu zvati lo sipna kumfa? ju'o cu'i
+
+la .daniyl. cu zvati lo spita ji lo sipna kumfa
+la .fred. cu zvati lo vrogai
+xu la .fred. cu zvati lo vrogai? go'i
+
+la .an. cu zvati lo ckusro ji lo larcu kumfa
+la .daniyl. cu zvati lo kumfa cnita
+xu la .daniyl. cu zvati lo kumfa cnita? go'i
+
+la .djan. cu zvati lo sipna kumfa ji lo purdi
+la .lilis. cu zvati lo panka
+xu la .lilis. cu zvati lo kumfa cnita? na go'i
+
+la .suz. cu zvati lo briju ji lo zarci
+la .deiv. cu zvati lo sipna kumfa
+xu la .deiv. cu zvati lo kumfa cnita? na go'i
+
+la .gertrud. cu zvati lo lumku'a ji lo kelci stuzi
+la .bil. cu zvati lo purdi
+xu la .gertrud. cu zvati lo lumku'a? ju'o cu'i
+
+la .ninas. cu zvati lo ckule ji lo lumku'a
+la .tam. cu zvati lo zarci
+xu la .tam. cu zvati lo spita? na go'i
+
+la .deiv. cu zvati lo zarci ji lo panka
+la .djulis. cu zvati lo vrogai
+xu la .djulis. cu zvati lo vrogai? go'i
+
+la .keit. cu zvati lo vrogai ji lo gusta
+la .maris. cu zvati lo spita
+xu la .maris. cu zvati lo larcu kumfa? na go'i
+
+la .lilis. cu zvati lo kumfa cnita ji lo kelci stuzi
+la .gertrud. cu zvati lo lumku'a
+xu la .gertrud. cu zvati lo lumku'a? go'i
+
+la .suz. cu zvati lo spita ji lo jukpa kumfa
+la .lus. cu zvati lo vrogai
+xu la .suz. cu zvati lo spita? ju'o cu'i
+
+la .suz. cu zvati lo zarci ji lo gusta
+la .bab. cu zvati lo ckusro
+xu la .bab. cu zvati lo vrogai? na go'i
+
+la .bab. cu zvati lo spita ji lo vrogai
+la .bernart. cu zvati lo lumku'a
+xu la .bernart. cu zvati lo purdi? na go'i
+
+la .djulis. cu zvati lo larcu kumfa ji lo lumku'a
+la .an. cu zvati lo sipna kumfa
+xu la .an. cu zvati lo sipna kumfa? go'i
+
+la .alis. cu zvati lo sipna kumfa ji lo gusta
+la .keit. cu zvati lo ckusro
+xu la .alis. cu zvati lo sipna kumfa? ju'o cu'i
+
+la .ninas. cu zvati lo jukpa kumfa ji lo spita
+la .suz. cu zvati lo ckule
+xu la .suz. cu zvati lo panka? na go'i
+
+la .alis. cu zvati lo kelci stuzi ji lo kumfa cnita
+la .djulis. cu zvati lo sipna kumfa
+xu la .alis. cu zvati lo kumfa cnita? ju'o cu'i
+
+la .fred. cu zvati lo zarci ji lo ckule
+la .alis. cu zvati lo larcu kumfa
+xu la .alis. cu zvati lo ckusro? na go'i
+
+la .pet. cu zvati lo ckusro ji lo gusta
+la .deiv. cu zvati lo kelci stuzi
+xu la .deiv. cu zvati lo kelci stuzi? go'i
+
+la .sandr. cu zvati lo ckusro ji lo ckule
+la .djan. cu zvati lo spita
+xu la .djan. cu zvati lo zarci? na go'i
+
+la .bernart. cu zvati lo sipna kumfa ji lo kumfa cnita
+la .pet. cu zvati lo ckule
+xu la .bernart. cu zvati lo kumfa cnita? ju'o cu'i
+
+la .djulis. cu zvati lo ckule ji lo sipna kumfa
+la .daniyl. cu zvati lo sipna kumfa
+xu la .daniyl. cu zvati lo kelci stuzi? na go'i
+
+la .fred. cu zvati lo spita ji lo ckusro
+la .bil. cu zvati lo zarci
+xu la .bil. cu zvati lo sipna kumfa? na go'i
+
+la .djulis. cu zvati lo gusta ji lo spita
+la .djef. cu zvati lo vrogai
+xu la .djulis. cu zvati lo gusta? ju'o cu'i
+
+la .daniyl. cu zvati lo panka ji lo ckusro
+la .bab. cu zvati lo sipna kumfa
+xu la .bab. cu zvati lo sipna kumfa? go'i
+
+la .djulis. cu zvati lo briju ji lo sipna kumfa
+la .suz. cu zvati lo jukpa kumfa
+xu la .suz. cu zvati lo kelci stuzi? na go'i
+
+la .djef. cu zvati lo jukpa kumfa ji lo vrogai
+la .bernart. cu zvati lo larcu kumfa
+xu la .bernart. cu zvati lo purdi? na go'i
+
+la .djulis. cu zvati lo jukpa kumfa ji lo gusta
+la .ninas. cu zvati lo lumku'a
+xu la .ninas. cu zvati lo lumku'a? go'i
+
+la .sandr. cu zvati lo jukpa kumfa ji lo purdi
+la .frank. cu zvati lo ckusro
+xu la .frank. cu zvati lo lumku'a? na go'i
+
+la .iv. cu zvati lo ckule ji lo gusta
+la .frank. cu zvati lo kumfa cnita
+xu la .frank. cu zvati lo kumfa cnita? go'i
+
+la .bil. cu zvati lo spita ji lo ckusro
+la .tam. cu zvati lo gusta
+xu la .tam. cu zvati lo zarci? na go'i
+
+la .ninas. cu zvati lo lumku'a ji lo vrogai
+la .deiv. cu zvati lo kumfa cnita
+xu la .deiv. cu zvati lo kumfa cnita? go'i
+
+la .lus. cu zvati lo kumfa cnita ji lo kelci stuzi
+la .suz. cu zvati lo gusta
+xu la .suz. cu zvati lo ckusro? na go'i
+
+la .maris. cu zvati lo gusta ji lo panka
+la .frank. cu zvati lo spita
+xu la .maris. cu zvati lo gusta? ju'o cu'i
+
+la .pet. cu zvati lo gusta ji lo kumfa cnita
+la .daniyl. cu zvati lo kumfa cnita
+xu la .pet. cu zvati lo kumfa cnita? ju'o cu'i
+
+la .iv. cu zvati lo ckusro ji lo larcu kumfa
+la .bil. cu zvati lo panka
+xu la .bil. cu zvati lo panka? go'i
+
+la .djan. cu zvati lo kumfa cnita ji lo panka
+la .ninas. cu zvati lo purdi
+xu la .ninas. cu zvati lo purdi? go'i
+
+la .bil. cu zvati lo vrogai ji lo larcu kumfa
+la .lilis. cu zvati lo gusta
+xu la .bil. cu zvati lo larcu kumfa? ju'o cu'i
+
+la .daniyl. cu zvati lo spita ji lo vrogai
+la .ninas. cu zvati lo panka
+xu la .ninas. cu zvati lo kumfa cnita? na go'i
+
+la .bil. cu zvati lo kumfa cnita ji lo panka
+la .rik. cu zvati lo larcu kumfa
+xu la .rik. cu zvati lo lumku'a? na go'i
+
+la .rik. cu zvati lo panka ji lo ckusro
+la .djulis. cu zvati lo vrogai
+xu la .rik. cu zvati lo panka? ju'o cu'i
+
+la .deiv. cu zvati lo purdi ji lo ckusro
+la .bil. cu zvati lo purdi
+xu la .bil. cu zvati lo purdi? go'i
+
+la .fred. cu zvati lo gusta ji lo kumfa cnita
+la .daniyl. cu zvati lo ckule
+xu la .daniyl. cu zvati lo purdi? na go'i
+
+la .djef. cu zvati lo briju ji lo purdi
+la .bil. cu zvati lo sipna kumfa
+xu la .djef. cu zvati lo purdi? ju'o cu'i
+
+la .djan. cu zvati lo sipna kumfa ji lo ckusro
+la .gertrud. cu zvati lo kumfa cnita
+xu la .gertrud. cu zvati lo ckule? na go'i
+
+la .bernart. cu zvati lo kelci stuzi ji lo briju
+la .iv. cu zvati lo purdi
+xu la .iv. cu zvati lo purdi? go'i
+
+la .daniyl. cu zvati lo ckusro ji lo sipna kumfa
+la .sandr. cu zvati lo vrogai
+xu la .daniyl. cu zvati lo sipna kumfa? ju'o cu'i
+
+la .fred. cu zvati lo sipna kumfa ji lo kumfa cnita
+la .an. cu zvati lo zarci
+xu la .fred. cu zvati lo kumfa cnita? ju'o cu'i
+
+la .bernart. cu zvati lo gusta ji lo zarci
+la .frank. cu zvati lo kelci stuzi
+xu la .bernart. cu zvati lo gusta? ju'o cu'i
+
+la .rik. cu zvati lo spita ji lo gusta
+la .iv. cu zvati lo panka
+xu la .iv. cu zvati lo kumfa cnita? na go'i
+
+la .lus. cu zvati lo ckule ji lo kelci stuzi
+la .gertrud. cu zvati lo larcu kumfa
+xu la .gertrud. cu zvati lo vrogai? na go'i
+
+la .maris. cu zvati lo ckule ji lo ckusro
+la .bernart. cu zvati lo sipna kumfa
+xu la .bernart. cu zvati lo ckule? na go'i
+
+la .ninas. cu zvati lo panka ji lo sipna kumfa
+la .lilis. cu zvati lo panka
+xu la .lilis. cu zvati lo panka? go'i
+
+la .alis. cu zvati lo jukpa kumfa ji lo spita
+la .djulis. cu zvati lo kumfa cnita
+xu la .djulis. cu zvati lo kumfa cnita? go'i

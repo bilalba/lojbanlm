@@ -1,0 +1,799 @@
+Bernhard is either in the park or the kitchen.
+Frank is in the park.
+Is Frank in the kitchen? no
+
+Peter is either in the office or the playground.
+Julie is in the bedroom.
+Is Julie in the bedroom? yes
+
+Julie is either in the market or the kitchen.
+Bob is in the park.
+Is Bob in the school? no
+
+Nina is either in the studio or the park.
+Bernhard is in the garden.
+Is Bernhard in the bathroom? no
+
+Tom is either in the cellar or the library.
+Julie is in the garden.
+Is Julie in the garden? yes
+
+Tom is either in the hospital or the market.
+Alice is in the park.
+Is Alice in the bedroom? no
+
+Daniel is either in the market or the library.
+Jeff is in the bedroom.
+Is Daniel in the market? maybe
+
+Rick is either in the market or the hallway.
+Peter is in the restaurant.
+Is Peter in the library? no
+
+Susan is either in the hallway or the garden.
+Julie is in the restaurant.
+Is Julie in the playground? no
+
+Peter is either in the school or the hospital.
+David is in the bedroom.
+Is David in the school? no
+
+Lucy is either in the bedroom or the park.
+Julie is in the playground.
+Is Julie in the playground? yes
+
+David is either in the playground or the kitchen.
+Julie is in the market.
+Is David in the playground? maybe
+
+Lily is either in the cellar or the bedroom.
+Alice is in the garden.
+Is Lily in the cellar? maybe
+
+Ann is either in the hospital or the school.
+Susan is in the bedroom.
+Is Susan in the bathroom? no
+
+Fred is either in the garden or the park.
+Bernhard is in the restaurant.
+Is Bernhard in the school? no
+
+John is either in the kitchen or the bedroom.
+Julie is in the playground.
+Is Julie in the playground? yes
+
+Peter is either in the hospital or the bathroom.
+Lucy is in the library.
+Is Lucy in the library? yes
+
+Bernhard is either in the office or the studio.
+David is in the market.
+Is Bernhard in the studio? maybe
+
+Eve is either in the school or the hallway.
+Gertrude is in the cellar.
+Is Gertrude in the cellar? yes
+
+John is either in the bathroom or the hospital.
+Rick is in the restaurant.
+Is Rick in the library? no
+
+Eve is either in the cellar or the hospital.
+Ann is in the library.
+Is Ann in the library? yes
+
+Bob is either in the hospital or the park.
+Ann is in the park.
+Is Bob in the park? maybe
+
+Bob is either in the cellar or the playground.
+Bill is in the cellar.
+Is Bill in the park? no
+
+Lily is either in the bathroom or the playground.
+Sam is in the cellar.
+Is Sam in the studio? no
+
+Tom is either in the school or the market.
+Frank is in the hospital.
+Is Frank in the hospital? yes
+
+Alice is either in the cellar or the library.
+Jeff is in the bathroom.
+Is Alice in the library? maybe
+
+Jeff is either in the studio or the park.
+David is in the cellar.
+Is David in the cellar? yes
+
+Alice is either in the hospital or the kitchen.
+Tom is in the studio.
+Is Alice in the hospital? maybe
+
+Daniel is either in the studio or the kitchen.
+Lily is in the school.
+Is Lily in the school? yes
+
+Eve is either in the park or the cellar.
+Alice is in the garden.
+Is Eve in the park? maybe
+
+Kate is either in the garden or the park.
+Tom is in the hospital.
+Is Tom in the office? no
+
+Lily is either in the hallway or the bathroom.
+Alice is in the studio.
+Is Alice in the studio? yes
+
+Bernhard is either in the bedroom or the market.
+Mary is in the library.
+Is Mary in the library? yes
+
+David is either in the library or the market.
+Bill is in the hospital.
+Is Bill in the hospital? yes
+
+Bernhard is either in the garden or the bedroom.
+Mary is in the kitchen.
+Is Mary in the bathroom? no
+
+Alice is either in the cellar or the studio.
+Fred is in the library.
+Is Fred in the library? yes
+
+Ann is either in the playground or the cellar.
+Kate is in the office.
+Is Kate in the library? no
+
+Susan is either in the market or the restaurant.
+Frank is in the park.
+Is Frank in the cellar? no
+
+Bill is either in the restaurant or the cellar.
+Bernhard is in the studio.
+Is Bernhard in the bedroom? no
+
+Eve is either in the bedroom or the library.
+Gertrude is in the playground.
+Is Gertrude in the school? no
+
+Peter is either in the studio or the hospital.
+Susan is in the hallway.
+Is Susan in the hallway? yes
+
+Gertrude is either in the bedroom or the hospital.
+Sam is in the library.
+Is Sam in the library? yes
+
+John is either in the office or the hospital.
+Jeff is in the hallway.
+Is Jeff in the market? no
+
+Peter is either in the library or the garden.
+Jeff is in the studio.
+Is Jeff in the hallway? no
+
+Gertrude is either in the hospital or the hallway.
+John is in the park.
+Is Gertrude in the hospital? maybe
+
+Fred is either in the school or the hospital.
+David is in the bedroom.
+Is David in the hallway? no
+
+Bob is either in the playground or the cellar.
+Mary is in the hospital.
+Is Mary in the office? no
+
+Sam is either in the library or the market.
+John is in the garden.
+Is Sam in the market? maybe
+
+Lily is either in the garden or the hospital.
+Nina is in the park.
+Is Nina in the park? yes
+
+Kate is either in the hospital or the hallway.
+Mary is in the bedroom.
+Is Kate in the hospital? maybe
+
+David is either in the hospital or the bedroom.
+Tom is in the bathroom.
+Is Tom in the bathroom? yes
+
+Bernhard is either in the cellar or the school.
+Peter is in the bathroom.
+Is Peter in the hospital? no
+
+Nina is either in the hospital or the park.
+Kate is in the park.
+Is Nina in the park? maybe
+
+Sam is either in the studio or the restaurant.
+Kate is in the studio.
+Is Kate in the library? no
+
+Susan is either in the restaurant or the hospital.
+Fred is in the cellar.
+Is Fred in the school? no
+
+Sam is either in the playground or the hospital.
+Tom is in the cellar.
+Is Tom in the school? no
+
+Peter is either in the bedroom or the hospital.
+Julie is in the park.
+Is Peter in the hospital? maybe
+
+Frank is either in the restaurant or the bedroom.
+Julie is in the market.
+Is Frank in the bedroom? maybe
+
+Sandra is either in the cellar or the office.
+Kate is in the garden.
+Is Kate in the garden? yes
+
+Tom is either in the garden or the cellar.
+Jeff is in the market.
+Is Jeff in the market? yes
+
+Daniel is either in the hospital or the school.
+Susan is in the bathroom.
+Is Susan in the kitchen? no
+
+Nina is either in the park or the playground.
+Bob is in the hospital.
+Is Bob in the hospital? yes
+
+John is either in the library or the playground.
+Kate is in the studio.
+Is Kate in the playground? no
+
+Frank is either in the kitchen or the cellar.
+Fred is in the library.
+Is Fred in the hospital? no
+
+John is either in the office or the hospital.
+Jeff is in the park.
+Is Jeff in the market? no
+
+Jeff is either in the school or the restaurant.
+Peter is in the office.
+Is Jeff in the school? maybe
+
+Gertrude is either in the bedroom or the playground.
+Sam is in the school.
+Is Sam in the school? yes
+
+Daniel is either in the garden or the school.
+Jeff is in the kitchen.
+Is Jeff in the bedroom? no
+
+Gertrude is either in the playground or the market.
+Kate is in the park.
+Is Kate in the office? no
+
+Frank is either in the park or the bedroom.
+Lily is in the studio.
+Is Lily in the school? no
+
+Sandra is either in the kitchen or the cellar.
+Daniel is in the office.
+Is Sandra in the kitchen? maybe
+
+Ann is either in the library or the kitchen.
+Kate is in the library.
+Is Kate in the bathroom? no
+
+Alice is either in the hallway or the library.
+Mary is in the hallway.
+Is Alice in the hallway? maybe
+
+John is either in the hospital or the park.
+Bill is in the cellar.
+Is Bill in the studio? no
+
+Julie is either in the kitchen or the hospital.
+John is in the kitchen.
+Is Julie in the kitchen? maybe
+
+Sam is either in the school or the kitchen.
+Peter is in the cellar.
+Is Peter in the studio? no
+
+Mary is either in the market or the studio.
+Nina is in the kitchen.
+Is Nina in the hospital? no
+
+Frank is either in the bathroom or the cellar.
+Bob is in the office.
+Is Frank in the cellar? maybe
+
+Fred is either in the hospital or the office.
+John is in the garden.
+Is John in the bedroom? no
+
+John is either in the bedroom or the library.
+Nina is in the playground.
+Is Nina in the bathroom? no
+
+Mary is either in the park or the market.
+Lily is in the kitchen.
+Is Lily in the kitchen? yes
+
+Frank is either in the market or the kitchen.
+Julie is in the library.
+Is Frank in the kitchen? maybe
+
+Kate is either in the bedroom or the bathroom.
+Julie is in the park.
+Is Julie in the park? yes
+
+Julie is either in the cellar or the garden.
+Nina is in the kitchen.
+Is Julie in the garden? maybe
+
+John is either in the hallway or the cellar.
+Peter is in the playground.
+Is Peter in the hallway? no
+
+John is either in the park or the market.
+Jeff is in the garden.
+Is Jeff in the bedroom? no
+
+Tom is either in the park or the playground.
+Jeff is in the playground.
+Is Jeff in the cellar? no
+
+Daniel is either in the bedroom or the school.
+Julie is in the bedroom.
+Is Julie in the cellar? no
+
+Lucy is either in the school or the library.
+Daniel is in the market.
+Is Daniel in the studio? no
+
+Nina is either in the kitchen or the hospital.
+Gertrude is in the market.
+Is Gertrude in the studio? no
+
+Sam is either in the hospital or the kitchen.
+Tom is in the playground.
+Is Tom in the cellar? no
+
+Sam is either in the garden or the restaurant.
+Kate is in the hospital.
+Is Sam in the garden? maybe
+
+Frank is either in the restaurant or the playground.
+Gertrude is in the bathroom.
+Is Gertrude in the garden? no
+
+Ann is either in the bedroom or the cellar.
+Mary is in the office.
+Is Mary in the office? yes
+
+Ann is either in the school or the garden.
+Bernhard is in the park.
+Is Ann in the school? maybe
+
+David is either in the restaurant or the bedroom.
+Gertrude is in the studio.
+Is David in the restaurant? maybe
+
+Mary is either in the garden or the restaurant.
+Alice is in the bedroom.
+Is Alice in the hospital? no
+
+Alice is either in the bathroom or the park.
+Daniel is in the park.
+Is Daniel in the hospital? no
+
+Eve is either in the kitchen or the studio.
+Tom is in the library.
+Is Tom in the library? yes
+
+Tom is either in the cellar or the market.
+Ann is in the bathroom.
+Is Tom in the cellar? maybe
+
+Kate is either in the park or the library.
+Sandra is in the restaurant.
+Is Kate in the library? maybe
+
+Julie is either in the restaurant or the bathroom.
+Sandra is in the school.
+Is Julie in the restaurant? maybe
+
+Susan is either in the hospital or the playground.
+Nina is in the hospital.
+Is Nina in the hospital? yes
+
+Eve is either in the cellar or the hallway.
+Susan is in the cellar.
+Is Susan in the library? no
+
+David is either in the library or the hospital.
+Nina is in the hallway.
+Is Nina in the hallway? yes
+
+Bernhard is either in the playground or the park.
+Daniel is in the hallway.
+Is Bernhard in the playground? maybe
+
+Rick is either in the park or the office.
+Susan is in the kitchen.
+Is Susan in the cellar? no
+
+Mary is either in the office or the library.
+Gertrude is in the playground.
+Is Mary in the library? maybe
+
+Susan is either in the library or the garden.
+Peter is in the school.
+Is Peter in the playground? no
+
+Alice is either in the bathroom or the park.
+Gertrude is in the bathroom.
+Is Gertrude in the bathroom? yes
+
+Peter is either in the hospital or the library.
+Alice is in the hospital.
+Is Peter in the hospital? maybe
+
+Kate is either in the hallway or the market.
+Bernhard is in the restaurant.
+Is Bernhard in the studio? no
+
+Jeff is either in the cellar or the library.
+Daniel is in the school.
+Is Jeff in the library? maybe
+
+Sandra is either in the hospital or the library.
+Gertrude is in the garden.
+Is Gertrude in the hallway? no
+
+Rick is either in the studio or the bathroom.
+Sam is in the cellar.
+Is Rick in the studio? maybe
+
+Gertrude is either in the bedroom or the market.
+Jeff is in the bedroom.
+Is Gertrude in the bedroom? maybe
+
+Ann is either in the studio or the library.
+Sam is in the cellar.
+Is Sam in the cellar? yes
+
+Nina is either in the studio or the cellar.
+Lucy is in the hallway.
+Is Nina in the cellar? maybe
+
+Bernhard is either in the cellar or the bedroom.
+Sandra is in the park.
+Is Bernhard in the bedroom? maybe
+
+Ann is either in the bathroom or the library.
+Daniel is in the library.
+Is Ann in the bathroom? maybe
+
+Susan is either in the office or the hospital.
+Alice is in the playground.
+Is Alice in the playground? yes
+
+Ann is either in the hospital or the school.
+Mary is in the library.
+Is Ann in the school? maybe
+
+Nina is either in the office or the playground.
+Gertrude is in the kitchen.
+Is Gertrude in the bathroom? no
+
+Bob is either in the cellar or the hospital.
+Tom is in the garden.
+Is Bob in the hospital? maybe
+
+Peter is either in the restaurant or the hospital.
+Ann is in the cellar.
+Is Peter in the restaurant? maybe
+
+Julie is either in the school or the restaurant.
+Frank is in the bathroom.
+Is Frank in the playground? no
+
+David is either in the restaurant or the bedroom.
+Peter is in the school.
+Is Peter in the cellar? no
+
+Sandra is either in the bathroom or the bedroom.
+Gertrude is in the office.
+Is Gertrude in the office? yes
+
+Alice is either in the park or the garden.
+Bob is in the hospital.
+Is Bob in the park? no
+
+Alice is either in the office or the garden.
+Bernhard is in the playground.
+Is Bernhard in the kitchen? no
+
+Ann is either in the hospital or the playground.
+Frank is in the market.
+Is Frank in the market? yes
+
+Fred is either in the hospital or the bedroom.
+Sandra is in the bedroom.
+Is Sandra in the bedroom? yes
+
+Peter is either in the hospital or the garden.
+Tom is in the cellar.
+Is Tom in the library? no
+
+Susan is either in the restaurant or the garden.
+Tom is in the hospital.
+Is Susan in the garden? maybe
+
+Bob is either in the studio or the park.
+Bernhard is in the studio.
+Is Bob in the studio? maybe
+
+Daniel is either in the cellar or the school.
+Kate is in the restaurant.
+Is Kate in the school? no
+
+Bill is either in the hallway or the market.
+Julie is in the kitchen.
+Is Julie in the kitchen? yes
+
+Ann is either in the office or the cellar.
+John is in the library.
+Is John in the studio? no
+
+Bernhard is either in the cellar or the park.
+Jeff is in the cellar.
+Is Jeff in the restaurant? no
+
+Susan is either in the office or the cellar.
+Eve is in the playground.
+Is Eve in the playground? yes
+
+Peter is either in the school or the office.
+Frank is in the library.
+Is Frank in the library? yes
+
+Eve is either in the hallway or the park.
+Sam is in the cellar.
+Is Eve in the park? maybe
+
+Julie is either in the hallway or the library.
+Tom is in the office.
+Is Tom in the office? yes
+
+Peter is either in the cellar or the kitchen.
+Bill is in the school.
+Is Bill in the school? yes
+
+Kate is either in the restaurant or the office.
+Eve is in the library.
+Is Eve in the restaurant? no
+
+Fred is either in the library or the hallway.
+Tom is in the market.
+Is Tom in the market? yes
+
+Ann is either in the market or the bedroom.
+Frank is in the hospital.
+Is Ann in the bedroom? maybe
+
+Daniel is either in the hospital or the bedroom.
+Fred is in the hallway.
+Is Fred in the hallway? yes
+
+Ann is either in the library or the studio.
+Daniel is in the cellar.
+Is Daniel in the cellar? yes
+
+John is either in the bedroom or the garden.
+Lily is in the park.
+Is Lily in the cellar? no
+
+Susan is either in the office or the market.
+David is in the bedroom.
+Is David in the cellar? no
+
+Gertrude is either in the bathroom or the playground.
+Bill is in the garden.
+Is Gertrude in the bathroom? maybe
+
+Nina is either in the school or the bathroom.
+Tom is in the market.
+Is Tom in the hospital? no
+
+David is either in the market or the park.
+Julie is in the hallway.
+Is Julie in the hallway? yes
+
+Kate is either in the hallway or the restaurant.
+Mary is in the hospital.
+Is Mary in the studio? no
+
+Lily is either in the cellar or the playground.
+Gertrude is in the bathroom.
+Is Gertrude in the bathroom? yes
+
+Susan is either in the hospital or the kitchen.
+Lucy is in the hallway.
+Is Susan in the hospital? maybe
+
+Susan is either in the market or the restaurant.
+Bob is in the library.
+Is Bob in the hallway? no
+
+Bob is either in the hospital or the hallway.
+Bernhard is in the bathroom.
+Is Bernhard in the garden? no
+
+Julie is either in the studio or the bathroom.
+Ann is in the bedroom.
+Is Ann in the bedroom? yes
+
+Alice is either in the bedroom or the restaurant.
+Kate is in the library.
+Is Alice in the bedroom? maybe
+
+Nina is either in the kitchen or the hospital.
+Susan is in the school.
+Is Susan in the park? no
+
+Alice is either in the playground or the cellar.
+Julie is in the bedroom.
+Is Alice in the cellar? maybe
+
+Fred is either in the market or the school.
+Alice is in the studio.
+Is Alice in the library? no
+
+Peter is either in the library or the restaurant.
+David is in the playground.
+Is David in the playground? yes
+
+Sandra is either in the library or the school.
+John is in the hospital.
+Is John in the market? no
+
+Bernhard is either in the bedroom or the cellar.
+Peter is in the school.
+Is Bernhard in the cellar? maybe
+
+Julie is either in the school or the bedroom.
+Daniel is in the bedroom.
+Is Daniel in the playground? no
+
+Fred is either in the hospital or the library.
+Bill is in the market.
+Is Bill in the bedroom? no
+
+Julie is either in the restaurant or the hospital.
+Jeff is in the hallway.
+Is Julie in the restaurant? maybe
+
+Daniel is either in the park or the library.
+Bob is in the bedroom.
+Is Bob in the bedroom? yes
+
+Julie is either in the office or the bedroom.
+Susan is in the kitchen.
+Is Susan in the playground? no
+
+Jeff is either in the kitchen or the hallway.
+Bernhard is in the studio.
+Is Bernhard in the garden? no
+
+Julie is either in the kitchen or the restaurant.
+Nina is in the bathroom.
+Is Nina in the bathroom? yes
+
+Sandra is either in the kitchen or the garden.
+Frank is in the library.
+Is Frank in the bathroom? no
+
+Eve is either in the school or the restaurant.
+Frank is in the cellar.
+Is Frank in the cellar? yes
+
+Bill is either in the hospital or the library.
+Tom is in the restaurant.
+Is Tom in the market? no
+
+Nina is either in the bathroom or the hallway.
+David is in the cellar.
+Is David in the cellar? yes
+
+Lucy is either in the cellar or the playground.
+Susan is in the restaurant.
+Is Susan in the library? no
+
+Mary is either in the restaurant or the park.
+Frank is in the hospital.
+Is Mary in the restaurant? maybe
+
+Peter is either in the restaurant or the cellar.
+Daniel is in the cellar.
+Is Peter in the cellar? maybe
+
+Eve is either in the library or the studio.
+Bill is in the park.
+Is Bill in the park? yes
+
+John is either in the cellar or the park.
+Nina is in the garden.
+Is Nina in the garden? yes
+
+Bill is either in the hallway or the studio.
+Lily is in the restaurant.
+Is Bill in the studio? maybe
+
+Daniel is either in the hospital or the hallway.
+Nina is in the park.
+Is Nina in the cellar? no
+
+Bill is either in the cellar or the park.
+Rick is in the studio.
+Is Rick in the bathroom? no
+
+Rick is either in the park or the library.
+Julie is in the hallway.
+Is Rick in the park? maybe
+
+David is either in the garden or the library.
+Bill is in the garden.
+Is Bill in the garden? yes
+
+Fred is either in the restaurant or the cellar.
+Daniel is in the school.
+Is Daniel in the garden? no
+
+Jeff is either in the office or the garden.
+Bill is in the bedroom.
+Is Jeff in the garden? maybe
+
+John is either in the bedroom or the library.
+Gertrude is in the cellar.
+Is Gertrude in the school? no
+
+Bernhard is either in the playground or the office.
+Eve is in the garden.
+Is Eve in the garden? yes
+
+Daniel is either in the library or the bedroom.
+Sandra is in the hallway.
+Is Daniel in the bedroom? maybe
+
+Fred is either in the bedroom or the cellar.
+Ann is in the market.
+Is Fred in the cellar? maybe
+
+Bernhard is either in the restaurant or the market.
+Frank is in the playground.
+Is Bernhard in the restaurant? maybe
+
+Rick is either in the hospital or the restaurant.
+Eve is in the park.
+Is Eve in the cellar? no
+
+Lucy is either in the school or the playground.
+Gertrude is in the studio.
+Is Gertrude in the hallway? no
+
+Mary is either in the school or the library.
+Bernhard is in the bedroom.
+Is Bernhard in the school? no
+
+Nina is either in the park or the bedroom.
+Lily is in the park.
+Is Lily in the park? yes
+
+Alice is either in the kitchen or the hospital.
+Julie is in the cellar.
+Is Julie in the cellar? yes

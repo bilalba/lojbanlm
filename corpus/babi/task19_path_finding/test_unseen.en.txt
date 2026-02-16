@@ -1,0 +1,908 @@
+The park is west of the hospital.
+The market is north of the park.
+How do you go from the park to the market? north
+
+The bathroom is above the park.
+The office is east of the bathroom.
+The park is south of the library.
+How do you go from the library to the park? south
+
+The bathroom is below the school.
+The school is below the playground.
+How do you go from the playground to the school? below
+
+The library is south of the market.
+The cellar is south of the library.
+How do you go from the market to the library? south
+
+The garden is below the library.
+The library is south of the market.
+The bedroom is west of the garden.
+How do you go from the garden to the bedroom? west
+
+The school is west of the hospital.
+The garden is below the school.
+How do you go from the hospital to the school? west
+
+The restaurant is below the hospital.
+The garden is below the restaurant.
+The hospital is west of the playground.
+How do you go from the hospital to the restaurant? below
+
+The bedroom is north of the restaurant.
+The school is east of the hospital.
+The hospital is above the bedroom.
+How do you go from the bedroom to the hospital? above
+
+The playground is above the garden.
+The market is below the playground.
+The garden is north of the office.
+How do you go from the playground to the market? below
+
+The school is south of the bedroom.
+The hospital is below the school.
+The bedroom is south of the restaurant.
+How do you go from the bedroom to the school? south
+
+The cellar is east of the park.
+The park is north of the kitchen.
+The kitchen is south of the market.
+How do you go from the market to the kitchen? south
+
+The office is west of the playground.
+The studio is below the market.
+The market is above the office.
+How do you go from the playground to the office? west
+
+The cellar is east of the bathroom.
+The hallway is below the cellar.
+The school is below the hallway.
+How do you go from the bathroom to the cellar? east
+
+The hospital is east of the restaurant.
+The restaurant is below the market.
+How do you go from the restaurant to the hospital? east
+
+The cellar is above the hospital.
+The hospital is north of the library.
+The library is north of the hallway.
+How do you go from the library to the hospital? north
+
+The cellar is north of the hospital.
+The hospital is west of the park.
+The park is north of the school.
+How do you go from the park to the hospital? west
+
+The kitchen is north of the hospital.
+The bathroom is above the kitchen.
+The restaurant is above the bathroom.
+How do you go from the kitchen to the bathroom? above
+
+The school is above the hospital.
+The garden is east of the park.
+The hospital is west of the garden.
+How do you go from the park to the garden? east
+
+The library is north of the kitchen.
+The garden is south of the library.
+The hallway is west of the garden.
+How do you go from the kitchen to the library? north
+
+The park is west of the kitchen.
+The bedroom is below the park.
+How do you go from the kitchen to the park? west
+
+The garden is below the restaurant.
+The restaurant is west of the hospital.
+How do you go from the hospital to the restaurant? west
+
+The garden is south of the library.
+The cellar is south of the garden.
+How do you go from the library to the garden? south
+
+The hospital is above the library.
+The library is west of the office.
+The office is west of the kitchen.
+How do you go from the library to the hospital? above
+
+The bathroom is above the hospital.
+The hospital is east of the kitchen.
+How do you go from the hospital to the bathroom? above
+
+The playground is above the hospital.
+The hospital is north of the restaurant.
+How do you go from the hospital to the playground? above
+
+The library is below the office.
+The office is north of the playground.
+The playground is west of the hallway.
+How do you go from the office to the library? below
+
+The park is south of the cellar.
+The market is west of the park.
+The hallway is north of the market.
+How do you go from the park to the market? west
+
+The bathroom is above the restaurant.
+The bedroom is above the bathroom.
+The restaurant is below the park.
+How do you go from the restaurant to the bathroom? above
+
+The market is north of the park.
+The park is south of the office.
+The library is below the market.
+How do you go from the market to the library? below
+
+The playground is north of the cellar.
+The cellar is east of the office.
+The office is west of the restaurant.
+How do you go from the restaurant to the office? west
+
+The kitchen is below the bathroom.
+The studio is south of the kitchen.
+How do you go from the kitchen to the studio? south
+
+The cellar is below the hallway.
+The hallway is below the market.
+How do you go from the hallway to the cellar? below
+
+The school is north of the cellar.
+The cellar is west of the office.
+How do you go from the cellar to the school? north
+
+The market is south of the hospital.
+The hospital is below the playground.
+The playground is south of the garden.
+How do you go from the hospital to the market? south
+
+The kitchen is east of the studio.
+The hospital is north of the kitchen.
+How do you go from the kitchen to the hospital? north
+
+The office is below the studio.
+The cellar is above the office.
+The studio is north of the hallway.
+How do you go from the office to the cellar? above
+
+The bathroom is east of the kitchen.
+The kitchen is west of the library.
+How do you go from the library to the kitchen? west
+
+The library is above the garden.
+The cellar is west of the hospital.
+The garden is below the cellar.
+How do you go from the hospital to the cellar? west
+
+The kitchen is east of the library.
+The garden is east of the kitchen.
+The office is above the garden.
+How do you go from the garden to the office? above
+
+The hospital is above the kitchen.
+The kitchen is below the playground.
+How do you go from the playground to the kitchen? below
+
+The kitchen is below the market.
+The market is north of the library.
+How do you go from the library to the market? north
+
+The hospital is above the hallway.
+The restaurant is west of the hospital.
+The hallway is below the garden.
+How do you go from the hospital to the restaurant? west
+
+The hallway is above the bedroom.
+The hospital is north of the hallway.
+How do you go from the hallway to the hospital? north
+
+The hospital is below the cellar.
+The cellar is east of the bathroom.
+The bedroom is west of the hospital.
+How do you go from the cellar to the hospital? below
+
+The studio is above the playground.
+The cellar is above the hallway.
+The playground is east of the cellar.
+How do you go from the cellar to the playground? east
+
+The school is west of the bathroom.
+The bathroom is north of the restaurant.
+The bedroom is below the school.
+How do you go from the bathroom to the school? west
+
+The kitchen is north of the hallway.
+The hallway is south of the market.
+The office is below the kitchen.
+How do you go from the hallway to the kitchen? north
+
+The bedroom is east of the kitchen.
+The cellar is above the bathroom.
+The bathroom is south of the bedroom.
+How do you go from the bedroom to the bathroom? south
+
+The studio is east of the school.
+The school is west of the cellar.
+How do you go from the cellar to the school? west
+
+The bedroom is below the school.
+The garden is east of the bedroom.
+How do you go from the bedroom to the garden? east
+
+The market is south of the restaurant.
+The bedroom is below the cellar.
+The restaurant is west of the bedroom.
+How do you go from the restaurant to the market? south
+
+The school is below the bathroom.
+The playground is south of the school.
+How do you go from the bathroom to the school? below
+
+The library is south of the park.
+The bathroom is west of the library.
+The park is above the kitchen.
+How do you go from the kitchen to the park? above
+
+The garden is west of the studio.
+The park is south of the garden.
+The studio is north of the hospital.
+How do you go from the studio to the garden? west
+
+The hallway is west of the garden.
+The hospital is above the hallway.
+The garden is west of the park.
+How do you go from the hallway to the hospital? above
+
+The library is below the playground.
+The playground is above the studio.
+How do you go from the studio to the playground? above
+
+The studio is east of the kitchen.
+The bathroom is above the studio.
+The kitchen is below the market.
+How do you go from the kitchen to the studio? east
+
+The library is below the school.
+The kitchen is above the library.
+How do you go from the library to the kitchen? above
+
+The market is west of the studio.
+The hospital is below the park.
+The park is below the market.
+How do you go from the market to the park? below
+
+The park is north of the library.
+The garden is above the park.
+The library is north of the studio.
+How do you go from the park to the garden? above
+
+The playground is north of the hallway.
+The hallway is east of the hospital.
+The market is south of the playground.
+How do you go from the playground to the market? south
+
+The hospital is east of the park.
+The studio is west of the market.
+The park is north of the studio.
+How do you go from the market to the studio? west
+
+The library is above the hallway.
+The hallway is north of the market.
+How do you go from the market to the hallway? north
+
+The studio is east of the bathroom.
+The bathroom is north of the hospital.
+How do you go from the hospital to the bathroom? north
+
+The library is south of the bathroom.
+The bathroom is west of the school.
+The hallway is above the library.
+How do you go from the bathroom to the library? south
+
+The hospital is south of the hallway.
+The hallway is north of the garden.
+How do you go from the hallway to the hospital? south
+
+The bathroom is north of the office.
+The office is below the kitchen.
+How do you go from the kitchen to the office? below
+
+The bathroom is below the office.
+The playground is west of the bathroom.
+How do you go from the bathroom to the playground? west
+
+The restaurant is west of the cellar.
+The cellar is south of the hallway.
+How do you go from the cellar to the restaurant? west
+
+The school is west of the office.
+The park is below the school.
+How do you go from the school to the park? below
+
+The studio is above the cellar.
+The cellar is below the hallway.
+How do you go from the hallway to the cellar? below
+
+The playground is north of the bathroom.
+The hallway is west of the cellar.
+The cellar is south of the playground.
+How do you go from the playground to the cellar? south
+
+The library is west of the market.
+The hospital is below the library.
+How do you go from the market to the library? west
+
+The cellar is below the studio.
+The library is east of the market.
+The market is west of the cellar.
+How do you go from the studio to the cellar? below
+
+The studio is south of the cellar.
+The garden is east of the school.
+The cellar is above the garden.
+How do you go from the school to the garden? east
+
+The kitchen is below the bathroom.
+The restaurant is west of the kitchen.
+How do you go from the kitchen to the restaurant? west
+
+The library is south of the playground.
+The playground is south of the kitchen.
+How do you go from the kitchen to the playground? south
+
+The playground is below the garden.
+The office is above the restaurant.
+The garden is south of the office.
+How do you go from the garden to the playground? below
+
+The park is below the garden.
+The hallway is north of the bedroom.
+The garden is north of the hallway.
+How do you go from the garden to the park? below
+
+The hospital is below the market.
+The market is south of the garden.
+How do you go from the market to the hospital? below
+
+The cellar is east of the library.
+The park is below the cellar.
+How do you go from the cellar to the park? below
+
+The kitchen is west of the studio.
+The studio is above the library.
+How do you go from the studio to the kitchen? west
+
+The library is west of the restaurant.
+The park is east of the library.
+The restaurant is below the kitchen.
+How do you go from the kitchen to the restaurant? below
+
+The school is below the kitchen.
+The kitchen is south of the cellar.
+How do you go from the cellar to the kitchen? south
+
+The studio is north of the hospital.
+The playground is east of the hallway.
+The hospital is south of the playground.
+How do you go from the playground to the hospital? south
+
+The bathroom is below the library.
+The library is above the hallway.
+The hallway is east of the studio.
+How do you go from the studio to the hallway? east
+
+The bathroom is above the park.
+The park is south of the cellar.
+How do you go from the cellar to the park? south
+
+The hospital is below the library.
+The park is north of the hospital.
+How do you go from the hospital to the park? north
+
+The market is west of the garden.
+The playground is north of the market.
+The garden is below the restaurant.
+How do you go from the market to the playground? north
+
+The kitchen is south of the bathroom.
+The playground is below the kitchen.
+How do you go from the bathroom to the kitchen? south
+
+The bedroom is below the park.
+The hallway is south of the kitchen.
+The park is above the hallway.
+How do you go from the park to the bedroom? below
+
+The playground is west of the hospital.
+The hospital is below the bathroom.
+The bedroom is east of the playground.
+How do you go from the hospital to the playground? west
+
+The kitchen is below the school.
+The school is east of the studio.
+How do you go from the studio to the school? east
+
+The garden is above the playground.
+The playground is above the cellar.
+The office is above the garden.
+How do you go from the playground to the garden? above
+
+The cellar is above the playground.
+The playground is north of the hallway.
+How do you go from the hallway to the playground? north
+
+The cellar is above the hospital.
+The hospital is east of the bedroom.
+How do you go from the hospital to the cellar? above
+
+The cellar is south of the hospital.
+The bathroom is west of the hallway.
+The hallway is north of the cellar.
+How do you go from the hallway to the bathroom? west
+
+The school is north of the playground.
+The kitchen is south of the school.
+The library is below the kitchen.
+How do you go from the school to the kitchen? south
+
+The park is west of the school.
+The cellar is below the kitchen.
+The kitchen is west of the park.
+How do you go from the school to the park? west
+
+The hospital is south of the library.
+The library is below the bedroom.
+The restaurant is east of the hospital.
+How do you go from the library to the hospital? south
+
+The kitchen is above the bedroom.
+The cellar is north of the kitchen.
+How do you go from the kitchen to the cellar? north
+
+The office is west of the market.
+The restaurant is below the office.
+How do you go from the market to the office? west
+
+The bathroom is north of the library.
+The cellar is north of the bathroom.
+The kitchen is above the cellar.
+How do you go from the cellar to the kitchen? above
+
+The playground is north of the bedroom.
+The bedroom is west of the garden.
+The garden is north of the library.
+How do you go from the garden to the bedroom? west
+
+The cellar is north of the bathroom.
+The market is east of the cellar.
+How do you go from the cellar to the market? east
+
+The market is south of the park.
+The playground is south of the market.
+The hospital is east of the playground.
+How do you go from the market to the playground? south
+
+The garden is east of the library.
+The hospital is west of the garden.
+How do you go from the library to the garden? east
+
+The hospital is west of the garden.
+The garden is north of the park.
+How do you go from the park to the garden? north
+
+The market is below the hallway.
+The school is west of the restaurant.
+The restaurant is below the market.
+How do you go from the market to the restaurant? below
+
+The cellar is west of the bedroom.
+The office is below the cellar.
+The playground is south of the office.
+How do you go from the cellar to the office? below
+
+The office is west of the hospital.
+The kitchen is above the office.
+How do you go from the hospital to the office? west
+
+The bedroom is below the kitchen.
+The restaurant is south of the hallway.
+The hallway is above the bedroom.
+How do you go from the bedroom to the hallway? above
+
+The school is east of the office.
+The library is west of the park.
+The office is east of the library.
+How do you go from the office to the school? east
+
+The school is west of the garden.
+The garden is below the playground.
+The park is east of the school.
+How do you go from the garden to the school? west
+
+The library is above the bedroom.
+The hallway is above the kitchen.
+The kitchen is east of the library.
+How do you go from the kitchen to the hallway? above
+
+The restaurant is east of the park.
+The park is west of the hospital.
+The market is west of the restaurant.
+How do you go from the park to the restaurant? east
+
+The bathroom is below the bedroom.
+The playground is south of the hallway.
+The hallway is above the bathroom.
+How do you go from the bedroom to the bathroom? below
+
+The bedroom is below the hospital.
+The hospital is west of the park.
+The studio is west of the bedroom.
+How do you go from the park to the hospital? west
+
+The market is west of the playground.
+The playground is above the studio.
+The studio is above the hospital.
+How do you go from the hospital to the studio? above
+
+The bedroom is south of the hospital.
+The studio is east of the bedroom.
+The hospital is north of the office.
+How do you go from the bedroom to the studio? east
+
+The bedroom is south of the cellar.
+The cellar is below the office.
+How do you go from the office to the cellar? below
+
+The office is below the cellar.
+The cellar is above the market.
+The market is west of the bedroom.
+How do you go from the cellar to the office? below
+
+The market is north of the restaurant.
+The restaurant is below the office.
+The park is west of the market.
+How do you go from the restaurant to the market? north
+
+The studio is west of the office.
+The hospital is west of the studio.
+The office is below the restaurant.
+How do you go from the restaurant to the office? below
+
+The cellar is west of the kitchen.
+The market is east of the cellar.
+How do you go from the kitchen to the cellar? west
+
+The garden is below the market.
+The hospital is below the garden.
+How do you go from the market to the garden? below
+
+The restaurant is south of the library.
+The market is west of the restaurant.
+How do you go from the library to the restaurant? south
+
+The park is east of the garden.
+The hospital is north of the park.
+How do you go from the garden to the park? east
+
+The hospital is above the market.
+The market is south of the playground.
+The playground is south of the kitchen.
+How do you go from the market to the hospital? above
+
+The office is west of the cellar.
+The park is below the office.
+How do you go from the office to the park? below
+
+The kitchen is north of the school.
+The office is above the kitchen.
+The school is north of the library.
+How do you go from the kitchen to the office? above
+
+The hospital is above the hallway.
+The hallway is below the studio.
+The studio is east of the garden.
+How do you go from the hallway to the hospital? above
+
+The bedroom is south of the cellar.
+The hallway is below the bedroom.
+How do you go from the cellar to the bedroom? south
+
+The library is above the restaurant.
+The office is above the library.
+The restaurant is north of the playground.
+How do you go from the restaurant to the library? above
+
+The hallway is south of the cellar.
+The market is east of the hallway.
+How do you go from the hallway to the market? east
+
+The studio is north of the kitchen.
+The cellar is above the restaurant.
+The restaurant is south of the studio.
+How do you go from the restaurant to the cellar? above
+
+The restaurant is west of the hallway.
+The bedroom is north of the cellar.
+The cellar is east of the restaurant.
+How do you go from the cellar to the bedroom? north
+
+The restaurant is above the park.
+The hospital is west of the restaurant.
+How do you go from the park to the restaurant? above
+
+The garden is below the studio.
+The park is west of the garden.
+How do you go from the garden to the park? west
+
+The office is south of the hospital.
+The park is north of the hallway.
+The hallway is above the office.
+How do you go from the hospital to the office? south
+
+The bedroom is west of the library.
+The hospital is west of the bedroom.
+How do you go from the library to the bedroom? west
+
+The park is below the studio.
+The restaurant is below the park.
+The studio is west of the market.
+How do you go from the studio to the park? below
+
+The cellar is north of the hallway.
+The kitchen is north of the hospital.
+The hospital is above the cellar.
+How do you go from the cellar to the hospital? above
+
+The office is below the library.
+The school is south of the market.
+The market is north of the office.
+How do you go from the library to the office? below
+
+The cellar is west of the playground.
+The office is east of the cellar.
+How do you go from the playground to the cellar? west
+
+The market is north of the school.
+The bathroom is below the market.
+The park is north of the bathroom.
+How do you go from the bathroom to the park? north
+
+The restaurant is east of the cellar.
+The library is south of the restaurant.
+How do you go from the cellar to the restaurant? east
+
+The bedroom is below the garden.
+The garden is north of the library.
+How do you go from the library to the garden? north
+
+The playground is above the bathroom.
+The bathroom is below the hallway.
+The hallway is below the market.
+How do you go from the hallway to the bathroom? below
+
+The park is below the library.
+The library is below the office.
+The office is below the playground.
+How do you go from the library to the park? below
+
+The office is below the restaurant.
+The restaurant is below the bathroom.
+How do you go from the restaurant to the office? below
+
+The cellar is east of the school.
+The hallway is west of the cellar.
+How do you go from the school to the cellar? east
+
+The bathroom is south of the garden.
+The garden is above the cellar.
+The bedroom is east of the bathroom.
+How do you go from the garden to the bathroom? south
+
+The studio is below the park.
+The library is west of the studio.
+How do you go from the studio to the library? west
+
+The cellar is west of the park.
+The garden is north of the hallway.
+The park is above the garden.
+How do you go from the hallway to the garden? north
+
+The garden is north of the park.
+The park is south of the cellar.
+How do you go from the park to the garden? north
+
+The studio is west of the park.
+The park is east of the cellar.
+How do you go from the park to the studio? west
+
+The bedroom is below the bathroom.
+The bathroom is below the playground.
+How do you go from the bathroom to the bedroom? below
+
+The hallway is south of the bedroom.
+The playground is west of the hallway.
+The cellar is west of the playground.
+How do you go from the hallway to the playground? west
+
+The studio is below the park.
+The park is north of the bathroom.
+The bathroom is east of the restaurant.
+How do you go from the bathroom to the park? north
+
+The kitchen is west of the hospital.
+The park is east of the kitchen.
+How do you go from the kitchen to the park? east
+
+The playground is east of the restaurant.
+The studio is below the playground.
+How do you go from the restaurant to the playground? east
+
+The bathroom is south of the studio.
+The studio is below the market.
+The market is south of the hospital.
+How do you go from the studio to the bathroom? south
+
+The playground is south of the studio.
+The studio is west of the library.
+How do you go from the library to the studio? west
+
+The office is south of the studio.
+The playground is below the hallway.
+The studio is south of the playground.
+How do you go from the hallway to the playground? below
+
+The library is below the bathroom.
+The cellar is west of the library.
+The bathroom is below the market.
+How do you go from the bathroom to the library? below
+
+The park is below the playground.
+The kitchen is east of the park.
+How do you go from the playground to the park? below
+
+The cellar is below the market.
+The market is east of the restaurant.
+How do you go from the market to the cellar? below
+
+The restaurant is below the cellar.
+The cellar is above the school.
+The school is east of the park.
+How do you go from the cellar to the restaurant? below
+
+The market is south of the school.
+The school is north of the library.
+How do you go from the school to the market? south
+
+The library is north of the hallway.
+The hallway is above the kitchen.
+How do you go from the hallway to the library? north
+
+The bedroom is east of the hospital.
+The restaurant is above the park.
+The park is north of the bedroom.
+How do you go from the park to the restaurant? above
+
+The market is above the garden.
+The garden is south of the hospital.
+How do you go from the garden to the market? above
+
+The park is above the restaurant.
+The hospital is above the park.
+The kitchen is east of the hospital.
+How do you go from the hospital to the kitchen? east
+
+The bedroom is east of the playground.
+The playground is north of the hallway.
+The hallway is south of the cellar.
+How do you go from the playground to the bedroom? east
+
+The office is east of the park.
+The park is west of the hospital.
+How do you go from the hospital to the park? west
+
+The bathroom is above the bedroom.
+The bedroom is south of the library.
+How do you go from the library to the bedroom? south
+
+The bedroom is above the restaurant.
+The restaurant is north of the school.
+The cellar is west of the bedroom.
+How do you go from the bedroom to the cellar? west
+
+The cellar is east of the bathroom.
+The office is above the cellar.
+How do you go from the bathroom to the cellar? east
+
+The bathroom is north of the restaurant.
+The restaurant is below the cellar.
+How do you go from the restaurant to the bathroom? north
+
+The office is below the restaurant.
+The hallway is above the office.
+How do you go from the office to the hallway? above
+
+The restaurant is north of the hallway.
+The hallway is south of the cellar.
+The kitchen is west of the restaurant.
+How do you go from the cellar to the hallway? south
+
+The hospital is below the bedroom.
+The bedroom is east of the bathroom.
+How do you go from the bedroom to the hospital? below
+
+The garden is below the hospital.
+The kitchen is below the school.
+The hospital is west of the kitchen.
+How do you go from the hospital to the garden? below
+
+The hospital is north of the restaurant.
+The restaurant is above the market.
+How do you go from the market to the restaurant? above
+
+The garden is east of the park.
+The restaurant is west of the garden.
+The hospital is east of the restaurant.
+How do you go from the park to the garden? east
+
+The studio is west of the school.
+The hallway is north of the studio.
+The school is below the restaurant.
+How do you go from the studio to the hallway? north
+
+The office is south of the school.
+The school is below the hallway.
+The cellar is above the office.
+How do you go from the office to the cellar? above
+
+The hallway is above the cellar.
+The bathroom is north of the hallway.
+How do you go from the hallway to the bathroom? north
+
+The bathroom is west of the studio.
+The kitchen is north of the bathroom.
+The cellar is above the kitchen.
+How do you go from the studio to the bathroom? west
+
+The hallway is above the studio.
+The cellar is north of the hallway.
+How do you go from the studio to the hallway? above
+
+The school is below the hallway.
+The hospital is below the library.
+The hallway is north of the hospital.
+How do you go from the hallway to the school? below
+
+The library is north of the bedroom.
+The park is west of the bathroom.
+The bathroom is east of the library.
+How do you go from the bathroom to the park? west
+
+The office is below the garden.
+The library is south of the office.
+How do you go from the garden to the office? below
+
+The cellar is above the studio.
+The studio is above the bathroom.
+The bathroom is south of the school.
+How do you go from the studio to the cellar? above
+
+The restaurant is west of the hospital.
+The hospital is west of the playground.
+How do you go from the playground to the hospital? west
+
+The hospital is north of the hallway.
+The hallway is above the office.
+The office is above the bathroom.
+How do you go from the hallway to the hospital? north
+
+The studio is below the library.
+The library is north of the bedroom.
+How do you go from the library to the studio? below
+
+The cellar is south of the restaurant.
+The restaurant is below the school.
+The school is north of the hospital.
+How do you go from the restaurant to the cellar? south
+
+The cellar is west of the bedroom.
+The bedroom is west of the hallway.
+How do you go from the hallway to the bedroom? west

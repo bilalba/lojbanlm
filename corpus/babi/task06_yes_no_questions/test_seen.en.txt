@@ -1,0 +1,1008 @@
+Lucy went to the park.
+Kate went to the market.
+Peter went to the office.
+Is Lucy in the garden? no
+
+Eve went to the hallway.
+Ann went to the hallway.
+Sandra went to the bedroom.
+John went to the studio.
+Is John in the hallway? no
+
+Eve went to the office.
+Susan went to the park.
+Sandra went to the office.
+Is Susan in the bedroom? no
+
+Sam went to the office.
+Peter went to the playground.
+Susan went to the restaurant.
+Lucy went to the hallway.
+Is Peter in the playground? yes
+
+Ann went to the playground.
+Bill went to the bathroom.
+Susan went to the bathroom.
+Fred went to the bathroom.
+Is Ann in the playground? yes
+
+Ann went to the garden.
+Mary went to the playground.
+Daniel went to the school.
+Is Daniel in the playground? no
+
+Kate went to the park.
+Ann went to the park.
+Lucy went to the studio.
+Is Lucy in the studio? yes
+
+Lucy went to the park.
+Nina went to the office.
+Is Lucy in the bedroom? no
+
+Bill went to the market.
+Susan went to the garden.
+Is Bill in the studio? no
+
+Alice went to the office.
+Susan went to the market.
+Peter went to the playground.
+Nina went to the garden.
+Is Susan in the market? yes
+
+Rick went to the studio.
+Alice went to the studio.
+Fred went to the office.
+Peter went to the market.
+Is Fred in the bedroom? no
+
+Peter went to the kitchen.
+Daniel went to the school.
+Is Peter in the kitchen? yes
+
+Fred went to the market.
+Bill went to the hallway.
+Peter went to the garden.
+Is Fred in the market? yes
+
+Sandra went to the bedroom.
+Peter went to the bathroom.
+Is Peter in the bathroom? yes
+
+Alice went to the office.
+Bob went to the hallway.
+Bill went to the market.
+Fred went to the bedroom.
+Is Fred in the bedroom? yes
+
+Sandra went to the bathroom.
+Nina went to the restaurant.
+Lucy went to the office.
+Is Nina in the hallway? no
+
+David went to the studio.
+Alice went to the restaurant.
+Is David in the playground? no
+
+Sam went to the garden.
+Eve went to the school.
+Alice went to the studio.
+Is Eve in the park? no
+
+Lucy went to the bathroom.
+Frank went to the playground.
+Alice went to the hallway.
+Is Frank in the kitchen? no
+
+Eve went to the market.
+Bill went to the bathroom.
+Mary went to the school.
+Ann went to the studio.
+Is Ann in the kitchen? no
+
+Susan went to the restaurant.
+Tom went to the market.
+Lucy went to the playground.
+Is Tom in the market? yes
+
+Sandra went to the park.
+Susan went to the garden.
+Bob went to the bathroom.
+Frank went to the restaurant.
+Is Frank in the restaurant? yes
+
+Sam went to the playground.
+Fred went to the school.
+Daniel went to the bathroom.
+Is Fred in the bathroom? no
+
+Lucy went to the bathroom.
+David went to the bedroom.
+Fred went to the playground.
+Sandra went to the garden.
+Is David in the bedroom? yes
+
+Sandra went to the office.
+Bill went to the school.
+Bob went to the hallway.
+Mary went to the garden.
+Is Sandra in the kitchen? no
+
+Ann went to the school.
+Mary went to the office.
+Eve went to the studio.
+Is Mary in the playground? no
+
+Nina went to the bathroom.
+John went to the hallway.
+Lucy went to the market.
+Is John in the restaurant? no
+
+Alice went to the kitchen.
+David went to the hallway.
+Is Alice in the playground? no
+
+Sandra went to the restaurant.
+Rick went to the bedroom.
+Bob went to the hallway.
+Is Rick in the restaurant? no
+
+Bob went to the restaurant.
+Sandra went to the park.
+Is Bob in the restaurant? yes
+
+Rick went to the bedroom.
+Kate went to the park.
+Alice went to the studio.
+Nina went to the studio.
+Is Alice in the studio? yes
+
+Sandra went to the bathroom.
+Susan went to the restaurant.
+Is Sandra in the market? no
+
+Rick went to the bathroom.
+Eve went to the bathroom.
+Frank went to the playground.
+Nina went to the bathroom.
+Is Nina in the market? no
+
+Susan went to the bathroom.
+Frank went to the restaurant.
+Sandra went to the market.
+Is Susan in the hallway? no
+
+Rick went to the hallway.
+Kate went to the market.
+Bill went to the hallway.
+Sam went to the hallway.
+Is Rick in the hallway? yes
+
+Susan went to the kitchen.
+Tom went to the playground.
+Kate went to the bedroom.
+Is Kate in the park? no
+
+Mary went to the park.
+Sam went to the restaurant.
+Is Sam in the restaurant? yes
+
+Mary went to the studio.
+Susan went to the bathroom.
+Bill went to the playground.
+Kate went to the office.
+Is Kate in the market? no
+
+Eve went to the market.
+Daniel went to the restaurant.
+Susan went to the school.
+Is Susan in the office? no
+
+Bill went to the restaurant.
+Susan went to the bedroom.
+Is Susan in the studio? no
+
+Nina went to the hallway.
+Fred went to the restaurant.
+Rick went to the park.
+Is Rick in the park? yes
+
+Susan went to the playground.
+Eve went to the school.
+Is Eve in the school? yes
+
+David went to the hallway.
+Susan went to the playground.
+Ann went to the restaurant.
+Daniel went to the playground.
+Is Daniel in the playground? yes
+
+Frank went to the hallway.
+Bill went to the kitchen.
+Is Bill in the restaurant? no
+
+Mary went to the garden.
+Tom went to the hallway.
+Eve went to the garden.
+Bill went to the restaurant.
+Is Tom in the hallway? yes
+
+Kate went to the studio.
+Tom went to the bedroom.
+Is Tom in the market? no
+
+Mary went to the kitchen.
+Frank went to the bedroom.
+Sandra went to the kitchen.
+Is Sandra in the restaurant? no
+
+Sandra went to the garden.
+Peter went to the school.
+Is Sandra in the garden? yes
+
+Sam went to the park.
+Lucy went to the restaurant.
+Is Sam in the park? yes
+
+Peter went to the studio.
+Daniel went to the park.
+Is Peter in the studio? yes
+
+Fred went to the office.
+Susan went to the hallway.
+Sandra went to the office.
+Is Susan in the hallway? yes
+
+Lucy went to the bedroom.
+Kate went to the studio.
+Is Lucy in the bedroom? yes
+
+Fred went to the bathroom.
+Sam went to the playground.
+Is Fred in the bathroom? yes
+
+Nina went to the kitchen.
+Kate went to the garden.
+Susan went to the garden.
+David went to the restaurant.
+Is Susan in the studio? no
+
+Bill went to the bathroom.
+Sandra went to the school.
+Kate went to the restaurant.
+Is Sandra in the restaurant? no
+
+Frank went to the bathroom.
+Alice went to the kitchen.
+Is Frank in the bathroom? yes
+
+Ann went to the bathroom.
+Eve went to the office.
+Bob went to the kitchen.
+Rick went to the studio.
+Is Ann in the park? no
+
+John went to the hallway.
+Fred went to the hallway.
+Is John in the hallway? yes
+
+Bill went to the kitchen.
+Frank went to the market.
+Alice went to the studio.
+Nina went to the office.
+Is Nina in the office? yes
+
+David went to the hallway.
+Fred went to the market.
+Rick went to the playground.
+Is Rick in the garden? no
+
+Lucy went to the office.
+Tom went to the market.
+Bill went to the bedroom.
+Nina went to the playground.
+Is Nina in the playground? yes
+
+John went to the hallway.
+Tom went to the playground.
+Daniel went to the bathroom.
+Is Tom in the school? no
+
+Nina went to the school.
+Mary went to the market.
+Daniel went to the restaurant.
+Is Nina in the school? yes
+
+Nina went to the park.
+Mary went to the school.
+Is Mary in the school? yes
+
+Bill went to the bathroom.
+Tom went to the market.
+Is Tom in the school? no
+
+Sam went to the hallway.
+Rick went to the hallway.
+Sandra went to the studio.
+Is Sandra in the studio? yes
+
+Frank went to the restaurant.
+Daniel went to the garden.
+Alice went to the bathroom.
+Is Alice in the playground? no
+
+David went to the park.
+Ann went to the office.
+Bob went to the studio.
+Is Bob in the studio? yes
+
+Bill went to the park.
+Eve went to the studio.
+John went to the restaurant.
+Is John in the restaurant? yes
+
+David went to the park.
+Eve went to the office.
+Sam went to the office.
+Is Sam in the playground? no
+
+Sandra went to the hallway.
+Daniel went to the park.
+Ann went to the studio.
+Rick went to the restaurant.
+Is Sandra in the hallway? yes
+
+Mary went to the office.
+David went to the hallway.
+Sam went to the park.
+Bill went to the kitchen.
+Is Mary in the bedroom? no
+
+Alice went to the bathroom.
+Kate went to the playground.
+John went to the garden.
+Ann went to the bathroom.
+Is Alice in the bathroom? yes
+
+Kate went to the restaurant.
+Bill went to the playground.
+Is Kate in the restaurant? yes
+
+John went to the school.
+Susan went to the office.
+Sandra went to the market.
+Sam went to the restaurant.
+Is Sandra in the market? yes
+
+Eve went to the hallway.
+Susan went to the hallway.
+Is Eve in the restaurant? no
+
+Ann went to the market.
+Fred went to the garden.
+Rick went to the bathroom.
+Is Rick in the market? no
+
+Alice went to the school.
+Mary went to the market.
+Sam went to the playground.
+Is Sam in the playground? yes
+
+Frank went to the bedroom.
+Susan went to the bedroom.
+Fred went to the garden.
+Tom went to the park.
+Is Frank in the bedroom? yes
+
+Ann went to the garden.
+Eve went to the bathroom.
+Rick went to the school.
+Nina went to the market.
+Is Rick in the school? yes
+
+Fred went to the office.
+Alice went to the park.
+David went to the restaurant.
+Is Alice in the kitchen? no
+
+Susan went to the kitchen.
+Sam went to the bathroom.
+Bill went to the office.
+Is Sam in the playground? no
+
+Rick went to the office.
+Frank went to the restaurant.
+Ann went to the kitchen.
+Alice went to the kitchen.
+Is Ann in the playground? no
+
+Tom went to the school.
+Bob went to the restaurant.
+Is Bob in the hallway? no
+
+Tom went to the restaurant.
+Sam went to the playground.
+Lucy went to the park.
+Is Tom in the restaurant? yes
+
+Kate went to the park.
+Peter went to the school.
+Is Kate in the park? yes
+
+Bill went to the market.
+Peter went to the bathroom.
+Tom went to the hallway.
+Sam went to the restaurant.
+Is Sam in the restaurant? yes
+
+Daniel went to the hallway.
+Ann went to the kitchen.
+John went to the market.
+Nina went to the studio.
+Is Ann in the kitchen? yes
+
+Alice went to the park.
+Susan went to the office.
+Is Alice in the park? yes
+
+Fred went to the kitchen.
+Frank went to the restaurant.
+Is Frank in the restaurant? yes
+
+Susan went to the playground.
+Lucy went to the school.
+Kate went to the kitchen.
+Frank went to the studio.
+Is Kate in the park? no
+
+Peter went to the garden.
+Sam went to the kitchen.
+Susan went to the market.
+Is Susan in the market? yes
+
+Frank went to the garden.
+Lucy went to the bedroom.
+Is Frank in the garden? yes
+
+Susan went to the office.
+Rick went to the market.
+Ann went to the playground.
+Is Ann in the hallway? no
+
+Daniel went to the hallway.
+Eve went to the garden.
+Rick went to the office.
+Tom went to the restaurant.
+Is Rick in the studio? no
+
+John went to the studio.
+Ann went to the playground.
+Alice went to the market.
+David went to the garden.
+Is Ann in the playground? yes
+
+David went to the office.
+Sandra went to the restaurant.
+Daniel went to the studio.
+Is Daniel in the hallway? no
+
+Sandra went to the kitchen.
+Nina went to the park.
+Bill went to the playground.
+Is Bill in the playground? yes
+
+Peter went to the bathroom.
+Ann went to the kitchen.
+Is Peter in the bathroom? yes
+
+Lucy went to the garden.
+Sandra went to the playground.
+Is Sandra in the bedroom? no
+
+Frank went to the studio.
+Kate went to the market.
+Is Kate in the market? yes
+
+Bill went to the school.
+Lucy went to the office.
+John went to the bathroom.
+Is Lucy in the office? yes
+
+Sam went to the garden.
+Sandra went to the park.
+Bill went to the garden.
+Is Sam in the garden? yes
+
+Sam went to the bathroom.
+Eve went to the hallway.
+Daniel went to the market.
+Sandra went to the bathroom.
+Is Daniel in the restaurant? no
+
+John went to the restaurant.
+Bill went to the office.
+Is Bill in the hallway? no
+
+Fred went to the hallway.
+Susan went to the studio.
+Is Fred in the hallway? yes
+
+Nina went to the kitchen.
+Kate went to the studio.
+Peter went to the market.
+Tom went to the market.
+Is Kate in the studio? yes
+
+Alice went to the bedroom.
+Daniel went to the playground.
+Eve went to the kitchen.
+Is Alice in the school? no
+
+Bob went to the studio.
+Peter went to the bedroom.
+Mary went to the school.
+Sam went to the kitchen.
+Is Sam in the office? no
+
+Bob went to the hallway.
+John went to the office.
+Rick went to the market.
+Is Rick in the restaurant? no
+
+Eve went to the studio.
+Daniel went to the garden.
+Bill went to the studio.
+Is Bill in the studio? yes
+
+John went to the office.
+Nina went to the bathroom.
+Sandra went to the hallway.
+Is John in the office? yes
+
+Tom went to the bathroom.
+John went to the market.
+Is Tom in the bathroom? yes
+
+Daniel went to the bedroom.
+John went to the office.
+Peter went to the playground.
+Sandra went to the hallway.
+Is Daniel in the bedroom? yes
+
+David went to the kitchen.
+Sandra went to the kitchen.
+Fred went to the school.
+Is David in the office? no
+
+Sam went to the hallway.
+Alice went to the office.
+Kate went to the bedroom.
+David went to the bathroom.
+Is David in the bathroom? yes
+
+Kate went to the bathroom.
+Tom went to the office.
+Mary went to the bedroom.
+Is Tom in the bathroom? no
+
+David went to the restaurant.
+Sam went to the hallway.
+Susan went to the garden.
+Frank went to the garden.
+Is David in the restaurant? yes
+
+Nina went to the studio.
+Rick went to the studio.
+Is Nina in the market? no
+
+Mary went to the restaurant.
+Frank went to the hallway.
+David went to the market.
+Kate went to the park.
+Is Kate in the restaurant? no
+
+Alice went to the bedroom.
+Eve went to the bathroom.
+Frank went to the bedroom.
+Daniel went to the park.
+Is Daniel in the park? yes
+
+Lucy went to the hallway.
+Sandra went to the bedroom.
+Is Lucy in the hallway? yes
+
+Kate went to the park.
+John went to the market.
+Mary went to the studio.
+Is John in the market? yes
+
+Lucy went to the studio.
+Tom went to the restaurant.
+Mary went to the office.
+Is Lucy in the market? no
+
+Peter went to the bedroom.
+John went to the market.
+Rick went to the bathroom.
+Bob went to the bathroom.
+Is Rick in the bathroom? yes
+
+Bob went to the market.
+Lucy went to the playground.
+Peter went to the kitchen.
+Is Bob in the playground? no
+
+Eve went to the restaurant.
+Bill went to the school.
+Is Eve in the bedroom? no
+
+Daniel went to the bedroom.
+Bill went to the studio.
+Is Bill in the studio? yes
+
+Susan went to the market.
+Rick went to the kitchen.
+Is Rick in the school? no
+
+Nina went to the market.
+Frank went to the garden.
+Sam went to the garden.
+Mary went to the restaurant.
+Is Sam in the garden? yes
+
+Frank went to the playground.
+Kate went to the bedroom.
+Is Frank in the park? no
+
+Bill went to the office.
+Kate went to the bathroom.
+Bob went to the studio.
+John went to the garden.
+Is Bill in the restaurant? no
+
+Susan went to the market.
+Fred went to the hallway.
+Rick went to the park.
+Tom went to the school.
+Is Rick in the park? yes
+
+Susan went to the studio.
+Lucy went to the school.
+Daniel went to the school.
+Is Susan in the studio? yes
+
+Lucy went to the office.
+Peter went to the bathroom.
+Kate went to the school.
+Eve went to the park.
+Is Eve in the bathroom? no
+
+Peter went to the playground.
+Mary went to the park.
+Rick went to the studio.
+Is Mary in the market? no
+
+Fred went to the bathroom.
+Eve went to the playground.
+Nina went to the studio.
+Sandra went to the bedroom.
+Is Eve in the restaurant? no
+
+Lucy went to the market.
+Nina went to the kitchen.
+Is Nina in the kitchen? yes
+
+Nina went to the restaurant.
+Tom went to the bathroom.
+John went to the hallway.
+Susan went to the school.
+Is Nina in the garden? no
+
+John went to the office.
+Kate went to the garden.
+Susan went to the kitchen.
+Fred went to the school.
+Is Susan in the kitchen? yes
+
+Lucy went to the park.
+Mary went to the hallway.
+Peter went to the studio.
+Bill went to the garden.
+Is Mary in the market? no
+
+Kate went to the garden.
+Susan went to the bedroom.
+Lucy went to the garden.
+Is Susan in the office? no
+
+John went to the hallway.
+Sandra went to the hallway.
+Is John in the bathroom? no
+
+Ann went to the hallway.
+Sandra went to the restaurant.
+David went to the school.
+Eve went to the garden.
+Is Eve in the garden? yes
+
+John went to the market.
+Rick went to the hallway.
+Tom went to the garden.
+Nina went to the bedroom.
+Is Tom in the garden? yes
+
+Frank went to the garden.
+Bill went to the market.
+Bob went to the garden.
+Kate went to the playground.
+Is Frank in the park? no
+
+Susan went to the school.
+Ann went to the school.
+Is Ann in the bedroom? no
+
+Tom went to the market.
+Daniel went to the market.
+Ann went to the school.
+Eve went to the school.
+Is Tom in the restaurant? no
+
+John went to the studio.
+Peter went to the playground.
+Bill went to the restaurant.
+Is John in the studio? yes
+
+Fred went to the garden.
+Alice went to the bathroom.
+Lucy went to the bedroom.
+Is Lucy in the kitchen? no
+
+Ann went to the market.
+Mary went to the bathroom.
+Is Mary in the bathroom? yes
+
+Sam went to the restaurant.
+Susan went to the bedroom.
+Is Sam in the restaurant? yes
+
+Bill went to the restaurant.
+Mary went to the garden.
+Is Bill in the restaurant? yes
+
+David went to the market.
+Susan went to the playground.
+Kate went to the bathroom.
+Is Susan in the school? no
+
+John went to the park.
+Fred went to the office.
+Is Fred in the bathroom? no
+
+Daniel went to the school.
+Bob went to the hallway.
+Ann went to the restaurant.
+Mary went to the garden.
+Is Ann in the park? no
+
+Susan went to the playground.
+Peter went to the market.
+Is Susan in the office? no
+
+John went to the studio.
+Ann went to the park.
+Is Ann in the hallway? no
+
+Daniel went to the park.
+Rick went to the bathroom.
+Eve went to the hallway.
+Bob went to the garden.
+Is Rick in the bathroom? yes
+
+Fred went to the office.
+Sam went to the hallway.
+David went to the garden.
+Is David in the garden? yes
+
+David went to the market.
+Peter went to the park.
+Is David in the kitchen? no
+
+Eve went to the kitchen.
+Sandra went to the bathroom.
+Is Eve in the bedroom? no
+
+Susan went to the playground.
+David went to the playground.
+Fred went to the school.
+Nina went to the school.
+Is Nina in the restaurant? no
+
+Rick went to the studio.
+Bill went to the bathroom.
+Daniel went to the bedroom.
+Is Bill in the kitchen? no
+
+John went to the bedroom.
+Frank went to the park.
+Daniel went to the studio.
+Is John in the bedroom? yes
+
+Frank went to the park.
+John went to the hallway.
+Is John in the hallway? yes
+
+Eve went to the bedroom.
+Bob went to the kitchen.
+Is Bob in the bedroom? no
+
+Kate went to the bedroom.
+Bill went to the school.
+Lucy went to the playground.
+Daniel went to the school.
+Is Daniel in the park? no
+
+Susan went to the playground.
+Daniel went to the kitchen.
+Eve went to the office.
+Lucy went to the kitchen.
+Is Daniel in the park? no
+
+Ann went to the bedroom.
+Peter went to the studio.
+Is Peter in the studio? yes
+
+Susan went to the bedroom.
+Nina went to the park.
+Is Susan in the restaurant? no
+
+Eve went to the office.
+Fred went to the market.
+Nina went to the market.
+Is Fred in the market? yes
+
+Mary went to the kitchen.
+Bill went to the kitchen.
+Is Mary in the kitchen? yes
+
+Nina went to the bedroom.
+Kate went to the restaurant.
+Is Nina in the bedroom? yes
+
+Fred went to the hallway.
+Peter went to the office.
+John went to the garden.
+David went to the bedroom.
+Is Peter in the office? yes
+
+Alice went to the park.
+Nina went to the bathroom.
+Is Alice in the bathroom? no
+
+Bob went to the garden.
+Rick went to the studio.
+Bill went to the hallway.
+Is Bill in the bathroom? no
+
+Daniel went to the market.
+John went to the kitchen.
+Is Daniel in the market? yes
+
+Daniel went to the garden.
+Bob went to the park.
+Alice went to the school.
+Peter went to the office.
+Is Peter in the playground? no
+
+Bob went to the studio.
+Ann went to the market.
+Susan went to the studio.
+John went to the studio.
+Is John in the studio? yes
+
+Nina went to the bathroom.
+Susan went to the garden.
+Is Susan in the garden? yes
+
+Kate went to the park.
+Rick went to the hallway.
+Frank went to the garden.
+Nina went to the park.
+Is Rick in the hallway? yes
+
+Frank went to the park.
+Bill went to the market.
+Kate went to the bathroom.
+Tom went to the studio.
+Is Tom in the studio? yes
+
+Lucy went to the bedroom.
+Rick went to the bedroom.
+Sandra went to the office.
+Is Sandra in the bathroom? no
+
+Peter went to the park.
+Rick went to the bedroom.
+Lucy went to the park.
+Susan went to the restaurant.
+Is Susan in the playground? no
+
+Bill went to the bedroom.
+Frank went to the hallway.
+Is Frank in the restaurant? no
+
+Daniel went to the hallway.
+Fred went to the garden.
+Nina went to the bathroom.
+Is Fred in the garden? yes
+
+John went to the school.
+Nina went to the office.
+Fred went to the school.
+Is Fred in the school? yes
+
+Frank went to the park.
+Mary went to the park.
+Peter went to the bathroom.
+Alice went to the bedroom.
+Is Peter in the bathroom? yes
+
+Sandra went to the playground.
+Bob went to the hallway.
+Susan went to the park.
+Eve went to the studio.
+Is Sandra in the office? no
+
+Bob went to the bedroom.
+Mary went to the bedroom.
+Lucy went to the bathroom.
+Is Mary in the kitchen? no
+
+Kate went to the hallway.
+Rick went to the playground.
+David went to the bedroom.
+Sandra went to the kitchen.
+Is Sandra in the market? no
+
+Eve went to the school.
+John went to the park.
+Susan went to the kitchen.
+David went to the restaurant.
+Is David in the restaurant? yes
+
+Sandra went to the studio.
+Ann went to the bedroom.
+John went to the market.
+Mary went to the restaurant.
+Is Mary in the office? no
+
+Rick went to the park.
+Kate went to the market.
+Peter went to the kitchen.
+Tom went to the office.
+Is Peter in the kitchen? yes
+
+Sandra went to the market.
+David went to the garden.
+Is David in the park? no
+
+John went to the kitchen.
+Sandra went to the kitchen.
+Fred went to the office.
+Is John in the hallway? no
+
+Susan went to the school.
+Tom went to the office.
+Eve went to the bedroom.
+Is Tom in the office? yes
+
+Peter went to the playground.
+Alice went to the restaurant.
+Sandra went to the hallway.
+Eve went to the school.
+Is Alice in the school? no
+
+Kate went to the kitchen.
+Bill went to the garden.
+Ann went to the kitchen.
+Fred went to the hallway.
+Is Kate in the bedroom? no

@@ -1,0 +1,1081 @@
+la .alis. pu lebna lo plise
+la .alis. pu lebna lo mapku
+la .alis. pu lebna lo ckiku
+la .alis. pu lebna lo cutci
+la .alis. cu bevri ma? lo plise lo mapku lo ckiku lo cutci
+
+la .keit. pu lebna lo penbi
+la .keit. pu lebna lo ckiku
+la .keit. cu bevri ma? lo penbi lo ckiku
+
+la .lus. pu lebna lo botpi
+la .lus. pu lebna lo cutci
+la .lus. cu bevri ma? lo botpi lo cutci
+
+la .rik. pu lebna lo mapku
+la .rik. pu lebna lo bolci
+la .rik. pu lebna lo plise
+la .rik. pu lebna lo botpi
+la .rik. pu lebna lo cutci
+la .rik. pu falcru lo cutci
+la .rik. cu bevri ma? lo mapku lo bolci lo plise lo botpi
+
+la .ninas. pu lebna lo ckiku
+la .ninas. pu lebna lo tanxe
+la .ninas. cu bevri ma? lo ckiku lo tanxe
+
+la .bab. pu lebna lo kabri
+la .bab. pu lebna lo cutci
+la .bab. pu lebna lo plise
+la .bab. cu bevri ma? lo kabri lo cutci lo plise
+
+la .daniyl. pu lebna lo dakli
+la .daniyl. pu lebna lo penbi
+la .daniyl. pu lebna lo botpi
+la .daniyl. pu lebna lo cukta
+la .daniyl. cu bevri ma? lo dakli lo penbi lo botpi lo cukta
+
+la .daniyl. pu lebna lo mapku
+la .daniyl. pu lebna lo dakli
+la .daniyl. pu lebna lo cukta
+la .daniyl. pu falcru lo cukta
+la .daniyl. cu bevri ma? lo mapku lo dakli
+
+la .fred. pu lebna lo dakli
+la .fred. pu lebna lo penbi
+la .fred. pu lebna lo tanxe
+la .fred. pu lebna lo kabri
+la .fred. cu bevri ma? lo dakli lo penbi lo tanxe lo kabri
+
+la .fred. pu lebna lo plise
+la .fred. pu lebna lo penbi
+la .fred. pu lebna lo cutci
+la .fred. pu lebna lo mapku
+la .fred. cu bevri ma? lo plise lo penbi lo cutci lo mapku
+
+la .bab. pu lebna lo ladru
+la .bab. pu lebna lo ckiku
+la .bab. pu lebna lo dakli
+la .bab. pu lebna lo plise
+la .bab. cu bevri ma? lo ladru lo ckiku lo dakli lo plise
+
+la .sandr. pu lebna lo tanxe
+la .sandr. pu lebna lo mapku
+la .sandr. pu lebna lo bolci
+la .sandr. pu lebna lo plise
+la .sandr. pu lebna lo ckiku
+la .sandr. pu falcru lo ckiku
+la .sandr. cu bevri ma? lo tanxe lo mapku lo bolci lo plise
+
+la .ninas. pu lebna lo dakli
+la .ninas. pu lebna lo penbi
+la .ninas. pu lebna lo cutci
+la .ninas. cu bevri ma? lo dakli lo penbi lo cutci
+
+la .sam. pu lebna lo ckiku
+la .sam. pu lebna lo penbi
+la .sam. pu lebna lo botpi
+la .sam. cu bevri ma? lo ckiku lo penbi lo botpi
+
+la .frank. pu lebna lo plise
+la .frank. pu lebna lo penbi
+la .frank. pu lebna lo bolci
+la .frank. cu bevri ma? lo plise lo penbi lo bolci
+
+la .an. pu lebna lo ladru
+la .an. pu lebna lo ckiku
+la .an. pu lebna lo bolci
+la .an. pu lebna lo tanxe
+la .an. cu bevri ma? lo ladru lo ckiku lo bolci lo tanxe
+
+la .djan. pu lebna lo botpi
+la .djan. cu bevri ma? lo botpi
+
+la .keit. pu lebna lo botpi
+la .keit. pu lebna lo penbi
+la .keit. pu lebna lo dakli
+la .keit. pu lebna lo tanxe
+la .keit. cu bevri ma? lo botpi lo penbi lo dakli lo tanxe
+
+la .lus. pu lebna lo dakli
+la .lus. pu lebna lo kabri
+la .lus. pu lebna lo cukta
+la .lus. pu lebna lo ladru
+la .lus. cu bevri ma? lo dakli lo kabri lo cukta lo ladru
+
+la .sam. pu lebna lo tanxe
+la .sam. pu lebna lo dakli
+la .sam. pu lebna lo ladru
+la .sam. pu lebna lo ckiku
+la .sam. cu bevri ma? lo tanxe lo dakli lo ladru lo ckiku
+
+la .tam. pu lebna lo bolci
+la .tam. pu lebna lo plise
+la .tam. cu bevri ma? lo bolci lo plise
+
+la .tam. pu lebna lo cutci
+la .tam. pu lebna lo dakli
+la .tam. pu lebna lo ladru
+la .tam. pu lebna lo plise
+la .tam. pu lebna lo penbi
+la .tam. pu falcru lo penbi
+la .tam. cu bevri ma? lo cutci lo dakli lo ladru lo plise
+
+la .ninas. pu lebna lo penbi
+la .ninas. pu lebna lo ladru
+la .ninas. pu lebna lo mapku
+la .ninas. pu lebna lo kabri
+la .ninas. cu bevri ma? lo penbi lo ladru lo mapku lo kabri
+
+la .ninas. pu lebna lo tanxe
+la .ninas. pu lebna lo cukta
+la .ninas. pu lebna lo ladru
+la .ninas. pu lebna lo dakli
+la .ninas. cu bevri ma? lo tanxe lo cukta lo ladru lo dakli
+
+la .fred. pu lebna lo botpi
+la .fred. pu lebna lo cukta
+la .fred. pu lebna lo kabri
+la .fred. pu lebna lo ckiku
+la .fred. cu bevri ma? lo botpi lo cukta lo kabri lo ckiku
+
+la .daniyl. pu lebna lo bolci
+la .daniyl. pu lebna lo botpi
+la .daniyl. pu lebna lo penbi
+la .daniyl. cu bevri ma? lo bolci lo botpi lo penbi
+
+la .pet. pu lebna lo penbi
+la .pet. cu bevri ma? lo penbi
+
+la .alis. pu lebna lo botpi
+la .alis. pu lebna lo kabri
+la .alis. cu bevri ma? lo botpi lo kabri
+
+la .suz. pu lebna lo kabri
+la .suz. pu lebna lo plise
+la .suz. pu lebna lo botpi
+la .suz. pu lebna lo cutci
+la .suz. pu lebna lo ladru
+la .suz. pu falcru lo ladru
+la .suz. cu bevri ma? lo kabri lo plise lo botpi lo cutci
+
+la .daniyl. pu lebna lo penbi
+la .daniyl. pu lebna lo bolci
+la .daniyl. pu lebna lo tanxe
+la .daniyl. cu bevri ma? lo penbi lo bolci lo tanxe
+
+la .maris. pu lebna lo mapku
+la .maris. pu lebna lo kabri
+la .maris. pu lebna lo botpi
+la .maris. pu lebna lo tanxe
+la .maris. cu bevri ma? lo mapku lo kabri lo botpi lo tanxe
+
+la .deiv. pu lebna lo ladru
+la .deiv. pu lebna lo bolci
+la .deiv. pu lebna lo penbi
+la .deiv. cu bevri ma? lo ladru lo bolci lo penbi
+
+la .fred. pu lebna lo bolci
+la .fred. pu lebna lo cutci
+la .fred. pu lebna lo mapku
+la .fred. cu bevri ma? lo bolci lo cutci lo mapku
+
+la .tam. pu lebna lo ckiku
+la .tam. pu lebna lo cutci
+la .tam. pu falcru lo cutci
+la .tam. cu bevri ma? lo ckiku
+
+la .suz. pu lebna lo ckiku
+la .suz. pu lebna lo bolci
+la .suz. pu lebna lo plise
+la .suz. cu bevri ma? lo ckiku lo bolci lo plise
+
+la .fred. pu lebna lo cutci
+la .fred. pu lebna lo mapku
+la .fred. cu bevri ma? lo cutci lo mapku
+
+la .iv. pu lebna lo botpi
+la .iv. pu lebna lo cukta
+la .iv. pu lebna lo mapku
+la .iv. pu lebna lo cutci
+la .iv. pu falcru lo cutci
+la .iv. cu bevri ma? lo botpi lo cukta lo mapku
+
+la .djan. pu lebna lo plise
+la .djan. pu lebna lo ladru
+la .djan. pu lebna lo penbi
+la .djan. cu bevri ma? lo plise lo ladru lo penbi
+
+la .tam. pu lebna lo dakli
+la .tam. pu lebna lo botpi
+la .tam. pu lebna lo cukta
+la .tam. pu lebna lo mapku
+la .tam. cu bevri ma? lo dakli lo botpi lo cukta lo mapku
+
+la .iv. pu lebna lo penbi
+la .iv. pu lebna lo tanxe
+la .iv. pu lebna lo ckiku
+la .iv. pu falcru lo ckiku
+la .iv. cu bevri ma? lo penbi lo tanxe
+
+la .bab. pu lebna lo ladru
+la .bab. cu bevri ma? lo ladru
+
+la .bil. pu lebna lo mapku
+la .bil. pu lebna lo kabri
+la .bil. pu lebna lo cukta
+la .bil. cu bevri ma? lo mapku lo kabri lo cukta
+
+la .lus. pu lebna lo ckiku
+la .lus. pu lebna lo ladru
+la .lus. pu lebna lo kabri
+la .lus. pu lebna lo dakli
+la .lus. pu lebna lo botpi
+la .lus. pu falcru lo botpi
+la .lus. cu bevri ma? lo ckiku lo ladru lo kabri lo dakli
+
+la .lus. pu lebna lo kabri
+la .lus. pu lebna lo cutci
+la .lus. pu lebna lo bolci
+la .lus. pu lebna lo botpi
+la .lus. pu falcru lo botpi
+la .lus. cu bevri ma? lo kabri lo cutci lo bolci
+
+la .pet. pu lebna lo penbi
+la .pet. pu lebna lo cutci
+la .pet. pu lebna lo ckiku
+la .pet. pu lebna lo tanxe
+la .pet. pu lebna lo plise
+la .pet. pu falcru lo plise
+la .pet. cu bevri ma? lo penbi lo cutci lo ckiku lo tanxe
+
+la .suz. pu lebna lo mapku
+la .suz. pu lebna lo cutci
+la .suz. pu lebna lo cukta
+la .suz. pu lebna lo penbi
+la .suz. cu bevri ma? lo mapku lo cutci lo cukta lo penbi
+
+la .iv. pu lebna lo kabri
+la .iv. pu lebna lo bolci
+la .iv. pu lebna lo cutci
+la .iv. cu bevri ma? lo kabri lo bolci lo cutci
+
+la .maris. pu lebna lo plise
+la .maris. pu lebna lo kabri
+la .maris. pu lebna lo botpi
+la .maris. pu lebna lo mapku
+la .maris. cu bevri ma? lo plise lo kabri lo botpi lo mapku
+
+la .deiv. pu lebna lo cukta
+la .deiv. pu lebna lo bolci
+la .deiv. pu lebna lo cutci
+la .deiv. cu bevri ma? lo cukta lo bolci lo cutci
+
+la .djan. pu lebna lo penbi
+la .djan. pu lebna lo cutci
+la .djan. pu lebna lo plise
+la .djan. pu falcru lo plise
+la .djan. cu bevri ma? lo penbi lo cutci
+
+la .alis. pu lebna lo dakli
+la .alis. pu lebna lo cutci
+la .alis. cu bevri ma? lo dakli lo cutci
+
+la .fred. pu lebna lo plise
+la .fred. pu lebna lo ladru
+la .fred. pu lebna lo penbi
+la .fred. pu falcru lo penbi
+la .fred. cu bevri ma? lo plise lo ladru
+
+la .alis. pu lebna lo ckiku
+la .alis. pu lebna lo dakli
+la .alis. pu lebna lo tanxe
+la .alis. pu lebna lo botpi
+la .alis. pu lebna lo plise
+la .alis. pu falcru lo plise
+la .alis. cu bevri ma? lo ckiku lo dakli lo tanxe lo botpi
+
+la .suz. pu lebna lo dakli
+la .suz. cu bevri ma? lo dakli
+
+la .djan. pu lebna lo ckiku
+la .djan. pu lebna lo ladru
+la .djan. pu lebna lo mapku
+la .djan. pu lebna lo tanxe
+la .djan. pu falcru lo tanxe
+la .djan. cu bevri ma? lo ckiku lo ladru lo mapku
+
+la .sandr. pu lebna lo ladru
+la .sandr. pu lebna lo cutci
+la .sandr. pu lebna lo mapku
+la .sandr. pu lebna lo plise
+la .sandr. pu lebna lo penbi
+la .sandr. pu falcru lo penbi
+la .sandr. cu bevri ma? lo ladru lo cutci lo mapku lo plise
+
+la .sam. pu lebna lo mapku
+la .sam. cu bevri ma? lo mapku
+
+la .bab. pu lebna lo plise
+la .bab. pu lebna lo tanxe
+la .bab. pu falcru lo tanxe
+la .bab. cu bevri ma? lo plise
+
+la .ninas. pu lebna lo mapku
+la .ninas. pu lebna lo botpi
+la .ninas. pu falcru lo botpi
+la .ninas. cu bevri ma? lo mapku
+
+la .tam. pu lebna lo dakli
+la .tam. pu lebna lo penbi
+la .tam. pu lebna lo bolci
+la .tam. cu bevri ma? lo dakli lo penbi lo bolci
+
+la .bil. pu lebna lo dakli
+la .bil. pu lebna lo botpi
+la .bil. pu lebna lo plise
+la .bil. pu lebna lo kabri
+la .bil. pu lebna lo penbi
+la .bil. pu falcru lo penbi
+la .bil. cu bevri ma? lo dakli lo botpi lo plise lo kabri
+
+la .bil. pu lebna lo penbi
+la .bil. cu bevri ma? lo penbi
+
+la .pet. pu lebna lo cutci
+la .pet. pu lebna lo ckiku
+la .pet. pu lebna lo dakli
+la .pet. pu lebna lo plise
+la .pet. pu falcru lo plise
+la .pet. cu bevri ma? lo cutci lo ckiku lo dakli
+
+la .pet. pu lebna lo plise
+la .pet. pu lebna lo mapku
+la .pet. pu lebna lo ckiku
+la .pet. cu bevri ma? lo plise lo mapku lo ckiku
+
+la .deiv. pu lebna lo plise
+la .deiv. pu lebna lo cutci
+la .deiv. pu lebna lo tanxe
+la .deiv. pu lebna lo mapku
+la .deiv. pu lebna lo botpi
+la .deiv. pu falcru lo botpi
+la .deiv. cu bevri ma? lo plise lo cutci lo tanxe lo mapku
+
+la .sam. pu lebna lo bolci
+la .sam. pu lebna lo cukta
+la .sam. pu lebna lo botpi
+la .sam. pu falcru lo botpi
+la .sam. cu bevri ma? lo bolci lo cukta
+
+la .keit. pu lebna lo dakli
+la .keit. pu lebna lo plise
+la .keit. pu lebna lo kabri
+la .keit. pu lebna lo ckiku
+la .keit. cu bevri ma? lo dakli lo plise lo kabri lo ckiku
+
+la .ninas. pu lebna lo bolci
+la .ninas. cu bevri ma? lo bolci
+
+la .an. pu lebna lo cutci
+la .an. pu lebna lo kabri
+la .an. pu lebna lo ladru
+la .an. pu lebna lo cukta
+la .an. cu bevri ma? lo cutci lo kabri lo ladru lo cukta
+
+la .djan. pu lebna lo mapku
+la .djan. pu lebna lo cutci
+la .djan. pu lebna lo botpi
+la .djan. pu falcru lo botpi
+la .djan. cu bevri ma? lo mapku lo cutci
+
+la .djan. pu lebna lo botpi
+la .djan. pu lebna lo cutci
+la .djan. pu lebna lo ladru
+la .djan. pu falcru lo ladru
+la .djan. cu bevri ma? lo botpi lo cutci
+
+la .djan. pu lebna lo plise
+la .djan. pu lebna lo mapku
+la .djan. pu lebna lo penbi
+la .djan. pu lebna lo ladru
+la .djan. pu falcru lo ladru
+la .djan. cu bevri ma? lo plise lo mapku lo penbi
+
+la .sandr. pu lebna lo plise
+la .sandr. pu lebna lo cukta
+la .sandr. cu bevri ma? lo plise lo cukta
+
+la .lus. pu lebna lo plise
+la .lus. pu lebna lo cutci
+la .lus. pu lebna lo penbi
+la .lus. cu bevri ma? lo plise lo cutci lo penbi
+
+la .rik. pu lebna lo bolci
+la .rik. pu lebna lo penbi
+la .rik. pu lebna lo ladru
+la .rik. pu falcru lo ladru
+la .rik. cu bevri ma? lo bolci lo penbi
+
+la .bab. pu lebna lo ladru
+la .bab. pu lebna lo dakli
+la .bab. pu lebna lo botpi
+la .bab. cu bevri ma? lo ladru lo dakli lo botpi
+
+la .djan. pu lebna lo plise
+la .djan. pu lebna lo cutci
+la .djan. cu bevri ma? lo plise lo cutci
+
+la .iv. pu lebna lo mapku
+la .iv. pu lebna lo bolci
+la .iv. pu falcru lo bolci
+la .iv. cu bevri ma? lo mapku
+
+la .deiv. pu lebna lo botpi
+la .deiv. pu lebna lo mapku
+la .deiv. pu lebna lo ladru
+la .deiv. pu lebna lo cukta
+la .deiv. pu lebna lo dakli
+la .deiv. pu falcru lo dakli
+la .deiv. cu bevri ma? lo botpi lo mapku lo ladru lo cukta
+
+la .an. pu lebna lo dakli
+la .an. pu lebna lo cukta
+la .an. pu lebna lo ladru
+la .an. pu lebna lo bolci
+la .an. cu bevri ma? lo dakli lo cukta lo ladru lo bolci
+
+la .deiv. pu lebna lo dakli
+la .deiv. pu lebna lo bolci
+la .deiv. pu lebna lo kabri
+la .deiv. pu lebna lo ladru
+la .deiv. pu falcru lo ladru
+la .deiv. cu bevri ma? lo dakli lo bolci lo kabri
+
+la .an. pu lebna lo penbi
+la .an. cu bevri ma? lo penbi
+
+la .daniyl. pu lebna lo mapku
+la .daniyl. pu lebna lo cutci
+la .daniyl. cu bevri ma? lo mapku lo cutci
+
+la .suz. pu lebna lo cukta
+la .suz. pu lebna lo ladru
+la .suz. pu falcru lo ladru
+la .suz. cu bevri ma? lo cukta
+
+la .bil. pu lebna lo ladru
+la .bil. pu lebna lo botpi
+la .bil. pu lebna lo bolci
+la .bil. pu lebna lo penbi
+la .bil. cu bevri ma? lo ladru lo botpi lo bolci lo penbi
+
+la .deiv. pu lebna lo dakli
+la .deiv. pu lebna lo ckiku
+la .deiv. cu bevri ma? lo dakli lo ckiku
+
+la .ninas. pu lebna lo plise
+la .ninas. cu bevri ma? lo plise
+
+la .daniyl. pu lebna lo ladru
+la .daniyl. pu lebna lo bolci
+la .daniyl. cu bevri ma? lo ladru lo bolci
+
+la .fred. pu lebna lo dakli
+la .fred. pu lebna lo cukta
+la .fred. pu lebna lo tanxe
+la .fred. pu lebna lo plise
+la .fred. pu falcru lo plise
+la .fred. cu bevri ma? lo dakli lo cukta lo tanxe
+
+la .sam. pu lebna lo cukta
+la .sam. pu lebna lo plise
+la .sam. pu lebna lo mapku
+la .sam. pu lebna lo penbi
+la .sam. pu lebna lo cutci
+la .sam. pu falcru lo cutci
+la .sam. cu bevri ma? lo cukta lo plise lo mapku lo penbi
+
+la .tam. pu lebna lo penbi
+la .tam. pu lebna lo mapku
+la .tam. pu lebna lo tanxe
+la .tam. pu falcru lo tanxe
+la .tam. cu bevri ma? lo penbi lo mapku
+
+la .tam. pu lebna lo botpi
+la .tam. pu lebna lo cukta
+la .tam. pu lebna lo tanxe
+la .tam. pu lebna lo ckiku
+la .tam. pu lebna lo ladru
+la .tam. pu falcru lo ladru
+la .tam. cu bevri ma? lo botpi lo cukta lo tanxe lo ckiku
+
+la .djan. pu lebna lo ckiku
+la .djan. pu lebna lo kabri
+la .djan. pu falcru lo kabri
+la .djan. cu bevri ma? lo ckiku
+
+la .ninas. pu lebna lo ladru
+la .ninas. pu lebna lo tanxe
+la .ninas. pu lebna lo cukta
+la .ninas. pu lebna lo ckiku
+la .ninas. cu bevri ma? lo ladru lo tanxe lo cukta lo ckiku
+
+la .sandr. pu lebna lo penbi
+la .sandr. pu lebna lo kabri
+la .sandr. cu bevri ma? lo penbi lo kabri
+
+la .alis. pu lebna lo kabri
+la .alis. pu lebna lo mapku
+la .alis. pu lebna lo cukta
+la .alis. pu lebna lo cutci
+la .alis. cu bevri ma? lo kabri lo mapku lo cukta lo cutci
+
+la .suz. pu lebna lo botpi
+la .suz. cu bevri ma? lo botpi
+
+la .fred. pu lebna lo penbi
+la .fred. pu lebna lo bolci
+la .fred. cu bevri ma? lo penbi lo bolci
+
+la .an. pu lebna lo dakli
+la .an. cu bevri ma? lo dakli
+
+la .sam. pu lebna lo tanxe
+la .sam. pu lebna lo ckiku
+la .sam. pu lebna lo plise
+la .sam. pu falcru lo plise
+la .sam. cu bevri ma? lo tanxe lo ckiku
+
+la .maris. pu lebna lo cutci
+la .maris. pu lebna lo ckiku
+la .maris. pu lebna lo ladru
+la .maris. pu lebna lo mapku
+la .maris. cu bevri ma? lo cutci lo ckiku lo ladru lo mapku
+
+la .tam. pu lebna lo ladru
+la .tam. pu lebna lo tanxe
+la .tam. pu lebna lo mapku
+la .tam. pu lebna lo bolci
+la .tam. cu bevri ma? lo ladru lo tanxe lo mapku lo bolci
+
+la .alis. pu lebna lo botpi
+la .alis. pu lebna lo tanxe
+la .alis. pu lebna lo kabri
+la .alis. pu lebna lo bolci
+la .alis. pu lebna lo dakli
+la .alis. pu falcru lo dakli
+la .alis. cu bevri ma? lo botpi lo tanxe lo kabri lo bolci
+
+la .sandr. pu lebna lo cutci
+la .sandr. pu lebna lo plise
+la .sandr. cu bevri ma? lo cutci lo plise
+
+la .sam. pu lebna lo tanxe
+la .sam. pu lebna lo cukta
+la .sam. cu bevri ma? lo tanxe lo cukta
+
+la .bil. pu lebna lo botpi
+la .bil. pu lebna lo cukta
+la .bil. cu bevri ma? lo botpi lo cukta
+
+la .suz. pu lebna lo ckiku
+la .suz. pu lebna lo bolci
+la .suz. pu lebna lo plise
+la .suz. pu lebna lo tanxe
+la .suz. cu bevri ma? lo ckiku lo bolci lo plise lo tanxe
+
+la .daniyl. pu lebna lo mapku
+la .daniyl. pu lebna lo penbi
+la .daniyl. pu lebna lo tanxe
+la .daniyl. cu bevri ma? lo mapku lo penbi lo tanxe
+
+la .alis. pu lebna lo mapku
+la .alis. pu lebna lo plise
+la .alis. pu lebna lo cukta
+la .alis. pu falcru lo cukta
+la .alis. cu bevri ma? lo mapku lo plise
+
+la .deiv. pu lebna lo plise
+la .deiv. pu lebna lo ladru
+la .deiv. pu falcru lo ladru
+la .deiv. cu bevri ma? lo plise
+
+la .tam. pu lebna lo ladru
+la .tam. pu lebna lo cukta
+la .tam. pu lebna lo kabri
+la .tam. pu lebna lo bolci
+la .tam. pu lebna lo tanxe
+la .tam. pu falcru lo tanxe
+la .tam. cu bevri ma? lo ladru lo cukta lo kabri lo bolci
+
+la .bil. pu lebna lo dakli
+la .bil. pu lebna lo mapku
+la .bil. pu lebna lo bolci
+la .bil. pu lebna lo ladru
+la .bil. pu falcru lo ladru
+la .bil. cu bevri ma? lo dakli lo mapku lo bolci
+
+la .maris. pu lebna lo kabri
+la .maris. pu lebna lo cutci
+la .maris. cu bevri ma? lo kabri lo cutci
+
+la .fred. pu lebna lo cutci
+la .fred. pu lebna lo botpi
+la .fred. pu lebna lo tanxe
+la .fred. cu bevri ma? lo cutci lo botpi lo tanxe
+
+la .an. pu lebna lo mapku
+la .an. pu lebna lo ckiku
+la .an. pu lebna lo penbi
+la .an. pu lebna lo ladru
+la .an. cu bevri ma? lo mapku lo ckiku lo penbi lo ladru
+
+la .deiv. pu lebna lo ckiku
+la .deiv. pu lebna lo cukta
+la .deiv. cu bevri ma? lo ckiku lo cukta
+
+la .deiv. pu lebna lo ladru
+la .deiv. cu bevri ma? lo ladru
+
+la .ninas. pu lebna lo penbi
+la .ninas. pu lebna lo ladru
+la .ninas. cu bevri ma? lo penbi lo ladru
+
+la .deiv. pu lebna lo ladru
+la .deiv. pu lebna lo cutci
+la .deiv. cu bevri ma? lo ladru lo cutci
+
+la .iv. pu lebna lo plise
+la .iv. pu lebna lo bolci
+la .iv. cu bevri ma? lo plise lo bolci
+
+la .fred. pu lebna lo mapku
+la .fred. pu lebna lo ckiku
+la .fred. cu bevri ma? lo mapku lo ckiku
+
+la .pet. pu lebna lo tanxe
+la .pet. pu lebna lo mapku
+la .pet. cu bevri ma? lo tanxe lo mapku
+
+la .iv. pu lebna lo plise
+la .iv. pu lebna lo bolci
+la .iv. pu lebna lo dakli
+la .iv. cu bevri ma? lo plise lo bolci lo dakli
+
+la .tam. pu lebna lo tanxe
+la .tam. pu lebna lo ladru
+la .tam. pu lebna lo bolci
+la .tam. pu lebna lo kabri
+la .tam. cu bevri ma? lo tanxe lo ladru lo bolci lo kabri
+
+la .rik. pu lebna lo mapku
+la .rik. pu lebna lo ckiku
+la .rik. pu lebna lo penbi
+la .rik. cu bevri ma? lo mapku lo ckiku lo penbi
+
+la .fred. pu lebna lo tanxe
+la .fred. pu lebna lo plise
+la .fred. pu lebna lo mapku
+la .fred. pu lebna lo bolci
+la .fred. pu lebna lo cukta
+la .fred. pu falcru lo cukta
+la .fred. cu bevri ma? lo tanxe lo plise lo mapku lo bolci
+
+la .deiv. pu lebna lo dakli
+la .deiv. cu bevri ma? lo dakli
+
+la .keit. pu lebna lo tanxe
+la .keit. pu lebna lo plise
+la .keit. pu lebna lo botpi
+la .keit. pu lebna lo bolci
+la .keit. cu bevri ma? lo tanxe lo plise lo botpi lo bolci
+
+la .sam. pu lebna lo ckiku
+la .sam. pu lebna lo cukta
+la .sam. pu lebna lo cutci
+la .sam. pu falcru lo cutci
+la .sam. cu bevri ma? lo ckiku lo cukta
+
+la .bil. pu lebna lo penbi
+la .bil. pu lebna lo botpi
+la .bil. pu lebna lo kabri
+la .bil. cu bevri ma? lo penbi lo botpi lo kabri
+
+la .pet. pu lebna lo ladru
+la .pet. pu lebna lo dakli
+la .pet. pu lebna lo tanxe
+la .pet. pu lebna lo cutci
+la .pet. cu bevri ma? lo ladru lo dakli lo tanxe lo cutci
+
+la .deiv. pu lebna lo tanxe
+la .deiv. pu lebna lo ckiku
+la .deiv. pu lebna lo mapku
+la .deiv. cu bevri ma? lo tanxe lo ckiku lo mapku
+
+la .alis. pu lebna lo botpi
+la .alis. pu lebna lo mapku
+la .alis. cu bevri ma? lo botpi lo mapku
+
+la .frank. pu lebna lo ckiku
+la .frank. pu lebna lo ladru
+la .frank. pu lebna lo dakli
+la .frank. pu lebna lo penbi
+la .frank. pu lebna lo plise
+la .frank. pu falcru lo plise
+la .frank. cu bevri ma? lo ckiku lo ladru lo dakli lo penbi
+
+la .tam. pu lebna lo ckiku
+la .tam. pu lebna lo mapku
+la .tam. cu bevri ma? lo ckiku lo mapku
+
+la .an. pu lebna lo plise
+la .an. pu lebna lo penbi
+la .an. pu lebna lo dakli
+la .an. pu lebna lo kabri
+la .an. pu falcru lo kabri
+la .an. cu bevri ma? lo plise lo penbi lo dakli
+
+la .suz. pu lebna lo ladru
+la .suz. pu lebna lo kabri
+la .suz. pu lebna lo mapku
+la .suz. pu lebna lo botpi
+la .suz. pu lebna lo penbi
+la .suz. pu falcru lo penbi
+la .suz. cu bevri ma? lo ladru lo kabri lo mapku lo botpi
+
+la .deiv. pu lebna lo bolci
+la .deiv. pu lebna lo ckiku
+la .deiv. pu lebna lo penbi
+la .deiv. pu lebna lo cutci
+la .deiv. cu bevri ma? lo bolci lo ckiku lo penbi lo cutci
+
+la .ninas. pu lebna lo bolci
+la .ninas. pu lebna lo botpi
+la .ninas. pu lebna lo tanxe
+la .ninas. pu falcru lo tanxe
+la .ninas. cu bevri ma? lo bolci lo botpi
+
+la .deiv. pu lebna lo ladru
+la .deiv. pu lebna lo mapku
+la .deiv. pu lebna lo cukta
+la .deiv. pu lebna lo bolci
+la .deiv. pu lebna lo kabri
+la .deiv. pu falcru lo kabri
+la .deiv. cu bevri ma? lo ladru lo mapku lo cukta lo bolci
+
+la .fred. pu lebna lo penbi
+la .fred. pu lebna lo dakli
+la .fred. pu lebna lo ckiku
+la .fred. pu lebna lo mapku
+la .fred. cu bevri ma? lo penbi lo dakli lo ckiku lo mapku
+
+la .bab. pu lebna lo kabri
+la .bab. pu lebna lo penbi
+la .bab. pu lebna lo bolci
+la .bab. cu bevri ma? lo kabri lo penbi lo bolci
+
+la .tam. pu lebna lo ladru
+la .tam. pu lebna lo bolci
+la .tam. pu lebna lo ckiku
+la .tam. cu bevri ma? lo ladru lo bolci lo ckiku
+
+la .pet. pu lebna lo ckiku
+la .pet. pu lebna lo botpi
+la .pet. pu falcru lo botpi
+la .pet. cu bevri ma? lo ckiku
+
+la .alis. pu lebna lo cutci
+la .alis. pu lebna lo ladru
+la .alis. cu bevri ma? lo cutci lo ladru
+
+la .sandr. pu lebna lo kabri
+la .sandr. pu lebna lo tanxe
+la .sandr. cu bevri ma? lo kabri lo tanxe
+
+la .deiv. pu lebna lo cutci
+la .deiv. pu lebna lo tanxe
+la .deiv. pu lebna lo plise
+la .deiv. cu bevri ma? lo cutci lo tanxe lo plise
+
+la .pet. pu lebna lo bolci
+la .pet. pu lebna lo ladru
+la .pet. cu bevri ma? lo bolci lo ladru
+
+la .pet. pu lebna lo dakli
+la .pet. pu lebna lo tanxe
+la .pet. pu lebna lo ladru
+la .pet. pu lebna lo plise
+la .pet. pu lebna lo mapku
+la .pet. pu falcru lo mapku
+la .pet. cu bevri ma? lo dakli lo tanxe lo ladru lo plise
+
+la .sam. pu lebna lo dakli
+la .sam. cu bevri ma? lo dakli
+
+la .bil. pu lebna lo ckiku
+la .bil. pu lebna lo tanxe
+la .bil. pu lebna lo ladru
+la .bil. cu bevri ma? lo ckiku lo tanxe lo ladru
+
+la .sandr. pu lebna lo ladru
+la .sandr. pu lebna lo ckiku
+la .sandr. pu lebna lo bolci
+la .sandr. cu bevri ma? lo ladru lo ckiku lo bolci
+
+la .bab. pu lebna lo ladru
+la .bab. pu lebna lo botpi
+la .bab. cu bevri ma? lo ladru lo botpi
+
+la .deiv. pu lebna lo cukta
+la .deiv. pu lebna lo ladru
+la .deiv. cu bevri ma? lo cukta lo ladru
+
+la .frank. pu lebna lo plise
+la .frank. pu lebna lo kabri
+la .frank. pu falcru lo kabri
+la .frank. cu bevri ma? lo plise
+
+la .frank. pu lebna lo cukta
+la .frank. pu lebna lo botpi
+la .frank. pu falcru lo botpi
+la .frank. cu bevri ma? lo cukta
+
+la .an. pu lebna lo mapku
+la .an. pu lebna lo ckiku
+la .an. pu falcru lo ckiku
+la .an. cu bevri ma? lo mapku
+
+la .bab. pu lebna lo penbi
+la .bab. pu lebna lo cukta
+la .bab. pu falcru lo cukta
+la .bab. cu bevri ma? lo penbi
+
+la .iv. pu lebna lo bolci
+la .iv. pu lebna lo plise
+la .iv. pu lebna lo ladru
+la .iv. cu bevri ma? lo bolci lo plise lo ladru
+
+la .suz. pu lebna lo tanxe
+la .suz. pu lebna lo ladru
+la .suz. pu lebna lo kabri
+la .suz. cu bevri ma? lo tanxe lo ladru lo kabri
+
+la .sandr. pu lebna lo kabri
+la .sandr. pu lebna lo penbi
+la .sandr. pu lebna lo botpi
+la .sandr. pu falcru lo botpi
+la .sandr. cu bevri ma? lo kabri lo penbi
+
+la .maris. pu lebna lo botpi
+la .maris. pu lebna lo cukta
+la .maris. cu bevri ma? lo botpi lo cukta
+
+la .iv. pu lebna lo botpi
+la .iv. pu lebna lo cukta
+la .iv. pu falcru lo cukta
+la .iv. cu bevri ma? lo botpi
+
+la .an. pu lebna lo tanxe
+la .an. pu lebna lo penbi
+la .an. pu lebna lo ladru
+la .an. pu lebna lo mapku
+la .an. cu bevri ma? lo tanxe lo penbi lo ladru lo mapku
+
+la .bab. pu lebna lo tanxe
+la .bab. pu lebna lo dakli
+la .bab. cu bevri ma? lo tanxe lo dakli
+
+la .rik. pu lebna lo mapku
+la .rik. pu lebna lo ladru
+la .rik. pu falcru lo ladru
+la .rik. cu bevri ma? lo mapku
+
+la .bil. pu lebna lo botpi
+la .bil. pu lebna lo ckiku
+la .bil. pu lebna lo kabri
+la .bil. cu bevri ma? lo botpi lo ckiku lo kabri
+
+la .alis. pu lebna lo mapku
+la .alis. pu lebna lo plise
+la .alis. pu lebna lo dakli
+la .alis. pu lebna lo tanxe
+la .alis. pu falcru lo tanxe
+la .alis. cu bevri ma? lo mapku lo plise lo dakli
+
+la .ninas. pu lebna lo kabri
+la .ninas. pu lebna lo dakli
+la .ninas. pu lebna lo mapku
+la .ninas. pu falcru lo mapku
+la .ninas. cu bevri ma? lo kabri lo dakli
+
+la .pet. pu lebna lo bolci
+la .pet. pu lebna lo cutci
+la .pet. cu bevri ma? lo bolci lo cutci
+
+la .bab. pu lebna lo mapku
+la .bab. pu lebna lo kabri
+la .bab. pu lebna lo plise
+la .bab. pu lebna lo penbi
+la .bab. pu lebna lo cutci
+la .bab. pu falcru lo cutci
+la .bab. cu bevri ma? lo mapku lo kabri lo plise lo penbi
+
+la .fred. pu lebna lo botpi
+la .fred. cu bevri ma? lo botpi
+
+la .rik. pu lebna lo penbi
+la .rik. pu lebna lo dakli
+la .rik. pu lebna lo mapku
+la .rik. pu falcru lo mapku
+la .rik. cu bevri ma? lo penbi lo dakli
+
+la .bil. pu lebna lo botpi
+la .bil. pu lebna lo penbi
+la .bil. pu lebna lo cutci
+la .bil. pu lebna lo dakli
+la .bil. pu falcru lo dakli
+la .bil. cu bevri ma? lo botpi lo penbi lo cutci
+
+la .pet. pu lebna lo cutci
+la .pet. pu lebna lo penbi
+la .pet. pu lebna lo dakli
+la .pet. pu lebna lo mapku
+la .pet. cu bevri ma? lo cutci lo penbi lo dakli lo mapku
+
+la .tam. pu lebna lo plise
+la .tam. pu lebna lo botpi
+la .tam. pu lebna lo ckiku
+la .tam. pu lebna lo mapku
+la .tam. cu bevri ma? lo plise lo botpi lo ckiku lo mapku
+
+la .alis. pu lebna lo cutci
+la .alis. pu lebna lo bolci
+la .alis. pu lebna lo ladru
+la .alis. pu lebna lo dakli
+la .alis. cu bevri ma? lo cutci lo bolci lo ladru lo dakli
+
+la .rik. pu lebna lo ckiku
+la .rik. pu lebna lo penbi
+la .rik. cu bevri ma? lo ckiku lo penbi
+
+la .alis. pu lebna lo mapku
+la .alis. pu lebna lo cukta
+la .alis. pu lebna lo ckiku
+la .alis. pu lebna lo botpi
+la .alis. cu bevri ma? lo mapku lo cukta lo ckiku lo botpi
+
+la .suz. pu lebna lo kabri
+la .suz. pu lebna lo botpi
+la .suz. pu lebna lo bolci
+la .suz. cu bevri ma? lo kabri lo botpi lo bolci
+
+la .djan. pu lebna lo plise
+la .djan. pu lebna lo dakli
+la .djan. pu lebna lo mapku
+la .djan. pu lebna lo tanxe
+la .djan. cu bevri ma? lo plise lo dakli lo mapku lo tanxe
+
+la .ninas. pu lebna lo bolci
+la .ninas. pu lebna lo botpi
+la .ninas. pu lebna lo ladru
+la .ninas. pu lebna lo kabri
+la .ninas. cu bevri ma? lo bolci lo botpi lo ladru lo kabri
+
+la .deiv. pu lebna lo mapku
+la .deiv. pu lebna lo dakli
+la .deiv. pu lebna lo kabri
+la .deiv. pu falcru lo kabri
+la .deiv. cu bevri ma? lo mapku lo dakli
+
+la .daniyl. pu lebna lo mapku
+la .daniyl. pu lebna lo kabri
+la .daniyl. pu lebna lo ladru
+la .daniyl. pu lebna lo cutci
+la .daniyl. pu lebna lo tanxe
+la .daniyl. pu falcru lo tanxe
+la .daniyl. cu bevri ma? lo mapku lo kabri lo ladru lo cutci
+
+la .bil. pu lebna lo penbi
+la .bil. pu lebna lo cutci
+la .bil. pu lebna lo tanxe
+la .bil. pu lebna lo ckiku
+la .bil. cu bevri ma? lo penbi lo cutci lo tanxe lo ckiku
+
+la .pet. pu lebna lo cutci
+la .pet. cu bevri ma? lo cutci
+
+la .bab. pu lebna lo tanxe
+la .bab. pu lebna lo botpi
+la .bab. pu lebna lo dakli
+la .bab. pu lebna lo cutci
+la .bab. pu lebna lo cukta
+la .bab. pu falcru lo cukta
+la .bab. cu bevri ma? lo tanxe lo botpi lo dakli lo cutci
+
+la .keit. pu lebna lo cutci
+la .keit. pu lebna lo ckiku
+la .keit. cu bevri ma? lo cutci lo ckiku
+
+la .alis. pu lebna lo plise
+la .alis. pu lebna lo tanxe
+la .alis. pu lebna lo ladru
+la .alis. pu lebna lo kabri
+la .alis. pu falcru lo kabri
+la .alis. cu bevri ma? lo plise lo tanxe lo ladru
+
+la .djan. pu lebna lo cutci
+la .djan. pu lebna lo dakli
+la .djan. pu lebna lo penbi
+la .djan. pu lebna lo kabri
+la .djan. cu bevri ma? lo cutci lo dakli lo penbi lo kabri
+
+la .maris. pu lebna lo dakli
+la .maris. pu lebna lo penbi
+la .maris. pu lebna lo botpi
+la .maris. cu bevri ma? lo dakli lo penbi lo botpi
+
+la .bab. pu lebna lo plise
+la .bab. pu lebna lo cutci
+la .bab. pu lebna lo cukta
+la .bab. pu lebna lo tanxe
+la .bab. cu bevri ma? lo plise lo cutci lo cukta lo tanxe
+
+la .rik. pu lebna lo penbi
+la .rik. pu lebna lo ckiku
+la .rik. cu bevri ma? lo penbi lo ckiku
+
+la .frank. pu lebna lo mapku
+la .frank. pu lebna lo cutci
+la .frank. cu bevri ma? lo mapku lo cutci
+
+la .alis. pu lebna lo ckiku
+la .alis. pu lebna lo botpi
+la .alis. pu lebna lo cutci
+la .alis. pu falcru lo cutci
+la .alis. cu bevri ma? lo ckiku lo botpi
+
+la .lus. pu lebna lo penbi
+la .lus. pu lebna lo plise
+la .lus. cu bevri ma? lo penbi lo plise
+
+la .alis. pu lebna lo dakli
+la .alis. pu lebna lo cukta
+la .alis. pu lebna lo tanxe
+la .alis. pu lebna lo plise
+la .alis. cu bevri ma? lo dakli lo cukta lo tanxe lo plise
+
+la .deiv. pu lebna lo dakli
+la .deiv. pu lebna lo cutci
+la .deiv. pu lebna lo kabri
+la .deiv. cu bevri ma? lo dakli lo cutci lo kabri
+
+la .frank. pu lebna lo ckiku
+la .frank. pu lebna lo penbi
+la .frank. pu lebna lo kabri
+la .frank. pu lebna lo mapku
+la .frank. cu bevri ma? lo ckiku lo penbi lo kabri lo mapku
+
+la .daniyl. pu lebna lo bolci
+la .daniyl. pu lebna lo cutci
+la .daniyl. cu bevri ma? lo bolci lo cutci

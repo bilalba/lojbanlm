@@ -1,0 +1,992 @@
+la .lus. pu klama lo panka
+la .keit. ca na zvati lo panka
+la .pet. pu klama lo zarci
+xu la .keit. cu zvati lo panka? na go'i
+
+la .fred. pu klama lo sipna kumfa
+la .bab. ca na zvati lo sipna kumfa
+la .iv. pu klama lo zarci
+la .an. pu klama lo jukpa kumfa
+xu la .bab. cu zvati lo sipna kumfa? na go'i
+
+la .sandr. pu klama lo zarci
+la .bil. ca na zvati lo zarci
+xu la .bil. cu zvati lo zarci? na go'i
+
+la .iv. pu klama lo briju
+la .suz. ca na zvati lo briju
+la .sandr. pu klama lo panka
+xu la .suz. cu zvati lo briju? na go'i
+
+la .fred. pu klama lo kelci stuzi
+la .rik. ca na zvati lo kelci stuzi
+la .iv. pu klama lo lumku'a
+xu la .fred. cu zvati lo kelci stuzi? go'i
+
+la .suz. pu klama lo gusta
+la .lus. ca na zvati lo gusta
+la .deiv. pu klama lo vrogai
+la .an. pu klama lo sipna kumfa
+xu la .lus. cu zvati lo gusta? na go'i
+
+la .an. pu klama lo kelci stuzi
+la .bil. ca na zvati lo kelci stuzi
+la .suz. pu klama lo lumku'a
+la .fred. pu klama lo lumku'a
+xu la .bil. cu zvati lo kelci stuzi? na go'i
+
+la .bab. pu klama lo vrogai
+la .maris. ca na zvati lo vrogai
+xu la .bab. cu zvati lo vrogai? go'i
+
+la .alis. pu klama lo vrogai
+la .an. ca na zvati lo vrogai
+la .rik. pu klama lo ckule
+la .pet. pu klama lo lumku'a
+xu la .alis. cu zvati lo vrogai? go'i
+
+la .lus. pu klama lo panka
+la .fred. ca na zvati lo panka
+la .sandr. pu klama lo sipna kumfa
+xu la .fred. cu zvati lo panka? na go'i
+
+la .ninas. pu klama lo zarci
+la .lus. ca na zvati lo zarci
+la .suz. pu klama lo lumku'a
+la .bab. pu klama lo sipna kumfa
+xu la .lus. cu zvati lo zarci? na go'i
+
+la .bab. pu klama lo larcu kumfa
+la .tam. ca na zvati lo larcu kumfa
+la .suz. pu klama lo gusta
+xu la .bab. cu zvati lo larcu kumfa? go'i
+
+la .pet. pu klama lo zarci
+la .ninas. ca na zvati lo zarci
+la .deiv. pu klama lo kelci stuzi
+xu la .ninas. cu zvati lo zarci? na go'i
+
+la .rik. pu klama lo ckule
+la .alis. ca na zvati lo ckule
+la .fred. pu klama lo larcu kumfa
+xu la .rik. cu zvati lo ckule? go'i
+
+la .rik. pu klama lo sipna kumfa
+la .an. ca na zvati lo sipna kumfa
+la .maris. pu klama lo gusta
+la .tam. pu klama lo ckule
+xu la .rik. cu zvati lo sipna kumfa? go'i
+
+la .rik. pu klama lo panka
+la .maris. ca na zvati lo panka
+xu la .rik. cu zvati lo panka? go'i
+
+la .bil. pu klama lo purdi
+la .pet. ca na zvati lo purdi
+la .sandr. pu klama lo sipna kumfa
+la .alis. pu klama lo purdi
+xu la .bil. cu zvati lo purdi? go'i
+
+la .sandr. pu klama lo vrogai
+la .pet. ca na zvati lo vrogai
+la .iv. pu klama lo vrogai
+la .keit. pu klama lo vrogai
+xu la .sandr. cu zvati lo vrogai? go'i
+
+la .bil. pu klama lo briju
+la .bab. ca na zvati lo briju
+xu la .bab. cu zvati lo briju? na go'i
+
+la .ninas. pu klama lo sipna kumfa
+la .suz. ca na zvati lo sipna kumfa
+xu la .suz. cu zvati lo sipna kumfa? na go'i
+
+la .lus. pu klama lo vrogai
+la .keit. ca na zvati lo vrogai
+la .deiv. pu klama lo jukpa kumfa
+xu la .lus. cu zvati lo vrogai? go'i
+
+la .deiv. pu klama lo larcu kumfa
+la .alis. ca na zvati lo larcu kumfa
+xu la .deiv. cu zvati lo larcu kumfa? go'i
+
+la .daniyl. pu klama lo vrogai
+la .an. ca na zvati lo vrogai
+xu la .an. cu zvati lo vrogai? na go'i
+
+la .bab. pu klama lo larcu kumfa
+la .rik. ca na zvati lo larcu kumfa
+xu la .bab. cu zvati lo larcu kumfa? go'i
+
+la .rik. pu klama lo purdi
+la .bil. ca na zvati lo purdi
+la .lus. pu klama lo lumku'a
+la .frank. pu klama lo kelci stuzi
+xu la .bil. cu zvati lo purdi? na go'i
+
+la .an. pu klama lo vrogai
+la .iv. ca na zvati lo vrogai
+xu la .an. cu zvati lo vrogai? go'i
+
+la .keit. pu klama lo jukpa kumfa
+la .pet. ca na zvati lo jukpa kumfa
+la .frank. pu klama lo panka
+la .fred. pu klama lo briju
+xu la .pet. cu zvati lo jukpa kumfa? na go'i
+
+la .daniyl. pu klama lo vrogai
+la .bil. ca na zvati lo vrogai
+la .alis. pu klama lo kelci stuzi
+xu la .daniyl. cu zvati lo vrogai? go'i
+
+la .bab. pu klama lo purdi
+la .frank. ca na zvati lo purdi
+la .fred. pu klama lo lumku'a
+xu la .bab. cu zvati lo purdi? go'i
+
+la .frank. pu klama lo kelci stuzi
+la .sam. ca na zvati lo kelci stuzi
+la .daniyl. pu klama lo ckule
+xu la .frank. cu zvati lo kelci stuzi? go'i
+
+la .sandr. pu klama lo panka
+la .sam. ca na zvati lo panka
+la .daniyl. pu klama lo briju
+xu la .sam. cu zvati lo panka? na go'i
+
+la .lus. pu klama lo lumku'a
+la .sam. ca na zvati lo lumku'a
+la .iv. pu klama lo sipna kumfa
+la .bab. pu klama lo larcu kumfa
+xu la .lus. cu zvati lo lumku'a? go'i
+
+la .bab. pu klama lo ckule
+la .maris. ca na zvati lo ckule
+la .deiv. pu klama lo vrogai
+xu la .maris. cu zvati lo ckule? na go'i
+
+la .suz. pu klama lo jukpa kumfa
+la .an. ca na zvati lo jukpa kumfa
+xu la .an. cu zvati lo jukpa kumfa? na go'i
+
+la .sandr. pu klama lo ckule
+la .ninas. ca na zvati lo ckule
+la .bil. pu klama lo zarci
+xu la .ninas. cu zvati lo ckule? na go'i
+
+la .lus. pu klama lo kelci stuzi
+la .sam. ca na zvati lo kelci stuzi
+la .ninas. pu klama lo panka
+la .rik. pu klama lo zarci
+xu la .sam. cu zvati lo kelci stuzi? na go'i
+
+la .deiv. pu klama lo zarci
+la .maris. ca na zvati lo zarci
+la .ninas. pu klama lo larcu kumfa
+la .fred. pu klama lo vrogai
+xu la .maris. cu zvati lo zarci? na go'i
+
+la .bab. pu klama lo ckule
+la .iv. ca na zvati lo ckule
+la .ninas. pu klama lo panka
+xu la .bab. cu zvati lo ckule? go'i
+
+la .bab. pu klama lo purdi
+la .frank. ca na zvati lo purdi
+xu la .frank. cu zvati lo purdi? na go'i
+
+la .rik. pu klama lo sipna kumfa
+la .keit. ca na zvati lo sipna kumfa
+la .alis. pu klama lo panka
+la .ninas. pu klama lo larcu kumfa
+xu la .rik. cu zvati lo sipna kumfa? go'i
+
+la .alis. pu klama lo gusta
+la .suz. ca na zvati lo gusta
+la .sam. pu klama lo gusta
+xu la .alis. cu zvati lo gusta? go'i
+
+la .fred. pu klama lo gusta
+la .sandr. ca na zvati lo gusta
+xu la .sandr. cu zvati lo gusta? na go'i
+
+la .iv. pu klama lo lumku'a
+la .frank. ca na zvati lo lumku'a
+la .ninas. pu klama lo kelci stuzi
+la .sam. pu klama lo lumku'a
+xu la .frank. cu zvati lo lumku'a? na go'i
+
+la .fred. pu klama lo briju
+la .lus. ca na zvati lo briju
+la .suz. pu klama lo lumku'a
+la .frank. pu klama lo gusta
+xu la .fred. cu zvati lo briju? go'i
+
+la .rik. pu klama lo lumku'a
+la .keit. ca na zvati lo lumku'a
+la .bil. pu klama lo vrogai
+xu la .rik. cu zvati lo lumku'a? go'i
+
+la .djan. pu klama lo gusta
+la .rik. ca na zvati lo gusta
+la .ninas. pu klama lo briju
+xu la .rik. cu zvati lo gusta? na go'i
+
+la .an. pu klama lo gusta
+la .tam. ca na zvati lo gusta
+xu la .an. cu zvati lo gusta? go'i
+
+la .iv. pu klama lo panka
+la .maris. ca na zvati lo panka
+la .sam. pu klama lo gusta
+xu la .iv. cu zvati lo panka? go'i
+
+la .maris. pu klama lo vrogai
+la .suz. ca na zvati lo vrogai
+xu la .suz. cu zvati lo vrogai? na go'i
+
+la .an. pu klama lo zarci
+la .deiv. ca na zvati lo zarci
+xu la .deiv. cu zvati lo zarci? na go'i
+
+la .rik. pu klama lo vrogai
+la .suz. ca na zvati lo vrogai
+la .tam. pu klama lo zarci
+xu la .suz. cu zvati lo vrogai? na go'i
+
+la .deiv. pu klama lo kelci stuzi
+la .daniyl. ca na zvati lo kelci stuzi
+xu la .daniyl. cu zvati lo kelci stuzi? na go'i
+
+la .fred. pu klama lo gusta
+la .rik. ca na zvati lo gusta
+la .ninas. pu klama lo panka
+xu la .fred. cu zvati lo gusta? go'i
+
+la .maris. pu klama lo zarci
+la .suz. ca na zvati lo zarci
+la .iv. pu klama lo ckule
+la .rik. pu klama lo panka
+xu la .suz. cu zvati lo zarci? na go'i
+
+la .suz. pu klama lo vrogai
+la .an. ca na zvati lo vrogai
+la .fred. pu klama lo kelci stuzi
+xu la .suz. cu zvati lo vrogai? go'i
+
+la .ninas. pu klama lo panka
+la .alis. ca na zvati lo panka
+la .rik. pu klama lo vrogai
+la .keit. pu klama lo vrogai
+xu la .alis. cu zvati lo panka? na go'i
+
+la .maris. pu klama lo purdi
+la .tam. ca na zvati lo purdi
+la .iv. pu klama lo vrogai
+la .bil. pu klama lo purdi
+xu la .maris. cu zvati lo purdi? go'i
+
+la .bab. pu klama lo sipna kumfa
+la .djan. ca na zvati lo sipna kumfa
+la .keit. pu klama lo larcu kumfa
+xu la .djan. cu zvati lo sipna kumfa? na go'i
+
+la .fred. pu klama lo panka
+la .ninas. ca na zvati lo panka
+la .maris. pu klama lo jukpa kumfa
+xu la .ninas. cu zvati lo panka? na go'i
+
+la .alis. pu klama lo purdi
+la .pet. ca na zvati lo purdi
+xu la .pet. cu zvati lo purdi? na go'i
+
+la .keit. pu klama lo sipna kumfa
+la .suz. ca na zvati lo sipna kumfa
+xu la .suz. cu zvati lo sipna kumfa? na go'i
+
+la .keit. pu klama lo purdi
+la .bab. ca na zvati lo purdi
+la .iv. pu klama lo ckule
+xu la .keit. cu zvati lo purdi? go'i
+
+la .lus. pu klama lo vrogai
+la .tam. ca na zvati lo vrogai
+la .fred. pu klama lo larcu kumfa
+la .ninas. pu klama lo zarci
+xu la .lus. cu zvati lo vrogai? go'i
+
+la .suz. pu klama lo panka
+la .bil. ca na zvati lo panka
+la .sandr. pu klama lo purdi
+xu la .suz. cu zvati lo panka? go'i
+
+la .keit. pu klama lo purdi
+la .iv. ca na zvati lo purdi
+la .fred. pu klama lo sipna kumfa
+xu la .keit. cu zvati lo purdi? go'i
+
+la .sam. pu klama lo jukpa kumfa
+la .an. ca na zvati lo jukpa kumfa
+xu la .an. cu zvati lo jukpa kumfa? na go'i
+
+la .ninas. pu klama lo jukpa kumfa
+la .keit. ca na zvati lo jukpa kumfa
+la .suz. pu klama lo purdi
+la .deiv. pu klama lo purdi
+xu la .ninas. cu zvati lo jukpa kumfa? go'i
+
+la .an. pu klama lo vrogai
+la .rik. ca na zvati lo vrogai
+la .bil. pu klama lo lumku'a
+xu la .an. cu zvati lo vrogai? go'i
+
+la .rik. pu klama lo panka
+la .an. ca na zvati lo panka
+la .alis. pu klama lo gusta
+xu la .an. cu zvati lo panka? na go'i
+
+la .fred. pu klama lo sipna kumfa
+la .an. ca na zvati lo sipna kumfa
+xu la .an. cu zvati lo sipna kumfa? na go'i
+
+la .an. pu klama lo lumku'a
+la .iv. ca na zvati lo lumku'a
+la .bab. pu klama lo briju
+la .rik. pu klama lo jukpa kumfa
+xu la .an. cu zvati lo lumku'a? go'i
+
+la .deiv. pu klama lo purdi
+la .pet. ca na zvati lo purdi
+xu la .pet. cu zvati lo purdi? na go'i
+
+la .ninas. pu klama lo lumku'a
+la .fred. ca na zvati lo lumku'a
+la .sam. pu klama lo briju
+xu la .ninas. cu zvati lo lumku'a? go'i
+
+la .alis. pu klama lo jukpa kumfa
+la .daniyl. ca na zvati lo jukpa kumfa
+la .ninas. pu klama lo zarci
+xu la .alis. cu zvati lo jukpa kumfa? go'i
+
+la .deiv. pu klama lo larcu kumfa
+la .pet. ca na zvati lo larcu kumfa
+la .sandr. pu klama lo ckule
+xu la .deiv. cu zvati lo larcu kumfa? go'i
+
+la .an. pu klama lo sipna kumfa
+la .djan. ca na zvati lo sipna kumfa
+la .bab. pu klama lo vrogai
+la .lus. pu klama lo vrogai
+xu la .djan. cu zvati lo sipna kumfa? na go'i
+
+la .daniyl. pu klama lo jukpa kumfa
+la .ninas. ca na zvati lo jukpa kumfa
+xu la .ninas. cu zvati lo jukpa kumfa? na go'i
+
+la .tam. pu klama lo vrogai
+la .daniyl. ca na zvati lo vrogai
+xu la .tam. cu zvati lo vrogai? go'i
+
+la .suz. pu klama lo ckule
+la .djan. ca na zvati lo ckule
+xu la .djan. cu zvati lo ckule? na go'i
+
+la .daniyl. pu klama lo zarci
+la .pet. ca na zvati lo zarci
+xu la .daniyl. cu zvati lo zarci? go'i
+
+la .keit. pu klama lo sipna kumfa
+la .rik. ca na zvati lo sipna kumfa
+xu la .keit. cu zvati lo sipna kumfa? go'i
+
+la .frank. pu klama lo panka
+la .rik. ca na zvati lo panka
+xu la .rik. cu zvati lo panka? na go'i
+
+la .sandr. pu klama lo briju
+la .sam. ca na zvati lo briju
+la .rik. pu klama lo lumku'a
+xu la .sam. cu zvati lo briju? na go'i
+
+la .sam. pu klama lo briju
+la .ninas. ca na zvati lo briju
+la .bil. pu klama lo panka
+la .pet. pu klama lo kelci stuzi
+xu la .ninas. cu zvati lo briju? na go'i
+
+la .alis. pu klama lo briju
+la .sam. ca na zvati lo briju
+la .bil. pu klama lo kelci stuzi
+la .suz. pu klama lo zarci
+xu la .alis. cu zvati lo briju? go'i
+
+la .suz. pu klama lo jukpa kumfa
+la .fred. ca na zvati lo jukpa kumfa
+la .daniyl. pu klama lo kelci stuzi
+xu la .suz. cu zvati lo jukpa kumfa? go'i
+
+la .iv. pu klama lo larcu kumfa
+la .djan. ca na zvati lo larcu kumfa
+la .frank. pu klama lo gusta
+xu la .iv. cu zvati lo larcu kumfa? go'i
+
+la .rik. pu klama lo panka
+la .deiv. ca na zvati lo panka
+la .iv. pu klama lo briju
+la .sam. pu klama lo briju
+xu la .rik. cu zvati lo panka? go'i
+
+la .fred. pu klama lo larcu kumfa
+la .daniyl. ca na zvati lo larcu kumfa
+la .an. pu klama lo ckule
+xu la .daniyl. cu zvati lo larcu kumfa? na go'i
+
+la .sandr. pu klama lo kelci stuzi
+la .alis. ca na zvati lo kelci stuzi
+la .rik. pu klama lo gusta
+xu la .sandr. cu zvati lo kelci stuzi? go'i
+
+la .deiv. pu klama lo vrogai
+la .sam. ca na zvati lo vrogai
+la .bil. pu klama lo panka
+la .suz. pu klama lo jukpa kumfa
+xu la .sam. cu zvati lo vrogai? na go'i
+
+la .iv. pu klama lo lumku'a
+la .alis. ca na zvati lo lumku'a
+xu la .iv. cu zvati lo lumku'a? go'i
+
+la .djan. pu klama lo purdi
+la .an. ca na zvati lo purdi
+la .keit. pu klama lo lumku'a
+la .fred. pu klama lo purdi
+xu la .an. cu zvati lo purdi? na go'i
+
+la .keit. pu klama lo gusta
+la .bil. ca na zvati lo gusta
+xu la .keit. cu zvati lo gusta? go'i
+
+la .alis. pu klama lo gusta
+la .djan. ca na zvati lo gusta
+la .suz. pu klama lo zarci
+xu la .djan. cu zvati lo gusta? na go'i
+
+la .suz. pu klama lo sipna kumfa
+la .rik. ca na zvati lo sipna kumfa
+la .maris. pu klama lo sipna kumfa
+xu la .rik. cu zvati lo sipna kumfa? na go'i
+
+la .iv. pu klama lo kelci stuzi
+la .daniyl. ca na zvati lo kelci stuzi
+la .ninas. pu klama lo larcu kumfa
+xu la .iv. cu zvati lo kelci stuzi? go'i
+
+la .alis. pu klama lo larcu kumfa
+la .sam. ca na zvati lo larcu kumfa
+la .bil. pu klama lo panka
+xu la .alis. cu zvati lo larcu kumfa? go'i
+
+la .sam. pu klama lo zarci
+la .pet. ca na zvati lo zarci
+xu la .sam. cu zvati lo zarci? go'i
+
+la .keit. pu klama lo briju
+la .frank. ca na zvati lo briju
+la .suz. pu klama lo sipna kumfa
+xu la .frank. cu zvati lo briju? na go'i
+
+la .frank. pu klama lo ckule
+la .maris. ca na zvati lo ckule
+xu la .maris. cu zvati lo ckule? na go'i
+
+la .an. pu klama lo purdi
+la .iv. ca na zvati lo purdi
+la .rik. pu klama lo lumku'a
+la .ninas. pu klama lo ckule
+xu la .an. cu zvati lo purdi? go'i
+
+la .suz. pu klama lo larcu kumfa
+la .ninas. ca na zvati lo larcu kumfa
+la .bab. pu klama lo larcu kumfa
+la .bil. pu klama lo purdi
+xu la .ninas. cu zvati lo larcu kumfa? na go'i
+
+la .frank. pu klama lo gusta
+la .daniyl. ca na zvati lo gusta
+la .tam. pu klama lo jukpa kumfa
+xu la .frank. cu zvati lo gusta? go'i
+
+la .suz. pu klama lo lumku'a
+la .sam. ca na zvati lo lumku'a
+la .bil. pu klama lo briju
+la .djan. pu klama lo briju
+xu la .suz. cu zvati lo lumku'a? go'i
+
+la .bil. pu klama lo purdi
+la .rik. ca na zvati lo purdi
+la .frank. pu klama lo briju
+la .an. pu klama lo gusta
+xu la .rik. cu zvati lo purdi? na go'i
+
+la .ninas. pu klama lo purdi
+la .alis. ca na zvati lo purdi
+la .tam. pu klama lo ckule
+xu la .ninas. cu zvati lo purdi? go'i
+
+la .ninas. pu klama lo lumku'a
+la .rik. ca na zvati lo lumku'a
+la .tam. pu klama lo larcu kumfa
+xu la .ninas. cu zvati lo lumku'a? go'i
+
+la .lus. pu klama lo panka
+la .daniyl. ca na zvati lo panka
+la .frank. pu klama lo panka
+la .djan. pu klama lo jukpa kumfa
+xu la .daniyl. cu zvati lo panka? na go'i
+
+la .pet. pu klama lo jukpa kumfa
+la .frank. ca na zvati lo jukpa kumfa
+la .rik. pu klama lo zarci
+la .keit. pu klama lo larcu kumfa
+xu la .pet. cu zvati lo jukpa kumfa? go'i
+
+la .tam. pu klama lo vrogai
+la .sam. ca na zvati lo vrogai
+la .keit. pu klama lo gusta
+xu la .sam. cu zvati lo vrogai? na go'i
+
+la .daniyl. pu klama lo vrogai
+la .an. ca na zvati lo vrogai
+la .djan. pu klama lo vrogai
+xu la .an. cu zvati lo vrogai? na go'i
+
+la .fred. pu klama lo purdi
+la .iv. ca na zvati lo purdi
+la .deiv. pu klama lo briju
+la .alis. pu klama lo panka
+xu la .iv. cu zvati lo purdi? na go'i
+
+la .djan. pu klama lo jukpa kumfa
+la .fred. ca na zvati lo jukpa kumfa
+la .frank. pu klama lo gusta
+xu la .djan. cu zvati lo jukpa kumfa? go'i
+
+la .sandr. pu klama lo sipna kumfa
+la .an. ca na zvati lo sipna kumfa
+la .suz. pu klama lo gusta
+la .keit. pu klama lo briju
+xu la .sandr. cu zvati lo sipna kumfa? go'i
+
+la .frank. pu klama lo ckule
+la .daniyl. ca na zvati lo ckule
+xu la .daniyl. cu zvati lo ckule? na go'i
+
+la .frank. pu klama lo ckule
+la .pet. ca na zvati lo ckule
+la .fred. pu klama lo lumku'a
+xu la .pet. cu zvati lo ckule? na go'i
+
+la .an. pu klama lo vrogai
+la .lus. ca na zvati lo vrogai
+xu la .an. cu zvati lo vrogai? go'i
+
+la .lus. pu klama lo kelci stuzi
+la .bab. ca na zvati lo kelci stuzi
+la .tam. pu klama lo purdi
+xu la .bab. cu zvati lo kelci stuzi? na go'i
+
+la .suz. pu klama lo briju
+la .rik. ca na zvati lo briju
+la .an. pu klama lo zarci
+xu la .suz. cu zvati lo briju? go'i
+
+la .fred. pu klama lo ckule
+la .ninas. ca na zvati lo ckule
+la .daniyl. pu klama lo sipna kumfa
+la .iv. pu klama lo vrogai
+xu la .fred. cu zvati lo ckule? go'i
+
+la .pet. pu klama lo kelci stuzi
+la .daniyl. ca na zvati lo kelci stuzi
+la .djan. pu klama lo zarci
+xu la .daniyl. cu zvati lo kelci stuzi? na go'i
+
+la .daniyl. pu klama lo ckule
+la .alis. ca na zvati lo ckule
+la .keit. pu klama lo ckule
+la .frank. pu klama lo briju
+xu la .daniyl. cu zvati lo ckule? go'i
+
+la .suz. pu klama lo larcu kumfa
+la .fred. ca na zvati lo larcu kumfa
+la .ninas. pu klama lo vrogai
+la .daniyl. pu klama lo vrogai
+xu la .fred. cu zvati lo larcu kumfa? na go'i
+
+la .rik. pu klama lo kelci stuzi
+la .suz. ca na zvati lo kelci stuzi
+la .keit. pu klama lo lumku'a
+la .pet. pu klama lo jukpa kumfa
+xu la .suz. cu zvati lo kelci stuzi? na go'i
+
+la .maris. pu klama lo panka
+la .lus. ca na zvati lo panka
+xu la .lus. cu zvati lo panka? na go'i
+
+la .tam. pu klama lo lumku'a
+la .keit. ca na zvati lo lumku'a
+la .frank. pu klama lo larcu kumfa
+xu la .tam. cu zvati lo lumku'a? go'i
+
+la .iv. pu klama lo gusta
+la .ninas. ca na zvati lo gusta
+la .bil. pu klama lo larcu kumfa
+xu la .ninas. cu zvati lo gusta? na go'i
+
+la .deiv. pu klama lo purdi
+la .sam. ca na zvati lo purdi
+la .rik. pu klama lo briju
+xu la .sam. cu zvati lo purdi? na go'i
+
+la .bil. pu klama lo panka
+la .bab. ca na zvati lo panka
+xu la .bab. cu zvati lo panka? na go'i
+
+la .rik. pu klama lo sipna kumfa
+la .sam. ca na zvati lo sipna kumfa
+xu la .rik. cu zvati lo sipna kumfa? go'i
+
+la .bil. pu klama lo zarci
+la .keit. ca na zvati lo zarci
+xu la .bil. cu zvati lo zarci? go'i
+
+la .keit. pu klama lo gusta
+la .djan. ca na zvati lo gusta
+la .fred. pu klama lo briju
+la .bil. pu klama lo gusta
+xu la .djan. cu zvati lo gusta? na go'i
+
+la .tam. pu klama lo vrogai
+la .fred. ca na zvati lo vrogai
+la .suz. pu klama lo larcu kumfa
+xu la .tam. cu zvati lo vrogai? go'i
+
+la .lus. pu klama lo gusta
+la .daniyl. ca na zvati lo gusta
+xu la .daniyl. cu zvati lo gusta? na go'i
+
+la .keit. pu klama lo larcu kumfa
+la .pet. ca na zvati lo larcu kumfa
+la .tam. pu klama lo zarci
+la .djan. pu klama lo zarci
+xu la .keit. cu zvati lo larcu kumfa? go'i
+
+la .lus. pu klama lo purdi
+la .deiv. ca na zvati lo purdi
+xu la .lus. cu zvati lo purdi? go'i
+
+la .an. pu klama lo lumku'a
+la .maris. ca na zvati lo lumku'a
+xu la .an. cu zvati lo lumku'a? go'i
+
+la .deiv. pu klama lo larcu kumfa
+la .an. ca na zvati lo larcu kumfa
+la .bab. pu klama lo jukpa kumfa
+la .pet. pu klama lo lumku'a
+xu la .deiv. cu zvati lo larcu kumfa? go'i
+
+la .rik. pu klama lo kelci stuzi
+la .djan. ca na zvati lo kelci stuzi
+xu la .rik. cu zvati lo kelci stuzi? go'i
+
+la .lus. pu klama lo purdi
+la .sam. ca na zvati lo purdi
+la .suz. pu klama lo larcu kumfa
+xu la .sam. cu zvati lo purdi? na go'i
+
+la .ninas. pu klama lo zarci
+la .deiv. ca na zvati lo zarci
+la .bab. pu klama lo briju
+xu la .deiv. cu zvati lo zarci? na go'i
+
+la .fred. pu klama lo panka
+la .alis. ca na zvati lo panka
+la .daniyl. pu klama lo ckule
+xu la .alis. cu zvati lo panka? na go'i
+
+la .djan. pu klama lo vrogai
+la .deiv. ca na zvati lo vrogai
+la .sam. pu klama lo purdi
+xu la .deiv. cu zvati lo vrogai? na go'i
+
+la .tam. pu klama lo lumku'a
+la .djan. ca na zvati lo lumku'a
+xu la .tam. cu zvati lo lumku'a? go'i
+
+la .keit. pu klama lo kelci stuzi
+la .fred. ca na zvati lo kelci stuzi
+xu la .keit. cu zvati lo kelci stuzi? go'i
+
+la .pet. pu klama lo kelci stuzi
+la .tam. ca na zvati lo kelci stuzi
+la .deiv. pu klama lo vrogai
+xu la .pet. cu zvati lo kelci stuzi? go'i
+
+la .deiv. pu klama lo panka
+la .bab. ca na zvati lo panka
+xu la .deiv. cu zvati lo panka? go'i
+
+la .fred. pu klama lo jukpa kumfa
+la .deiv. ca na zvati lo jukpa kumfa
+la .djan. pu klama lo ckule
+xu la .deiv. cu zvati lo jukpa kumfa? na go'i
+
+la .sam. pu klama lo gusta
+la .alis. ca na zvati lo gusta
+xu la .alis. cu zvati lo gusta? na go'i
+
+la .deiv. pu klama lo panka
+la .iv. ca na zvati lo panka
+la .sam. pu klama lo ckule
+xu la .iv. cu zvati lo panka? na go'i
+
+la .tam. pu klama lo lumku'a
+la .maris. ca na zvati lo lumku'a
+xu la .maris. cu zvati lo lumku'a? na go'i
+
+la .sam. pu klama lo briju
+la .deiv. ca na zvati lo briju
+la .sandr. pu klama lo panka
+xu la .sam. cu zvati lo briju? go'i
+
+la .bab. pu klama lo panka
+la .maris. ca na zvati lo panka
+xu la .maris. cu zvati lo panka? na go'i
+
+la .rik. pu klama lo ckule
+la .fred. ca na zvati lo ckule
+la .maris. pu klama lo larcu kumfa
+xu la .rik. cu zvati lo ckule? go'i
+
+la .maris. pu klama lo gusta
+la .frank. ca na zvati lo gusta
+la .deiv. pu klama lo vrogai
+la .keit. pu klama lo zarci
+xu la .frank. cu zvati lo gusta? na go'i
+
+la .alis. pu klama lo panka
+la .iv. ca na zvati lo panka
+la .frank. pu klama lo sipna kumfa
+xu la .iv. cu zvati lo panka? na go'i
+
+la .lus. pu klama lo briju
+la .frank. ca na zvati lo briju
+xu la .frank. cu zvati lo briju? na go'i
+
+la .lus. pu klama lo lumku'a
+la .ninas. ca na zvati lo lumku'a
+la .tam. pu klama lo sipna kumfa
+xu la .lus. cu zvati lo lumku'a? go'i
+
+la .djan. pu klama lo panka
+la .maris. ca na zvati lo panka
+xu la .djan. cu zvati lo panka? go'i
+
+la .alis. pu klama lo zarci
+la .sam. ca na zvati lo zarci
+la .pet. pu klama lo panka
+xu la .sam. cu zvati lo zarci? na go'i
+
+la .deiv. pu klama lo jukpa kumfa
+la .tam. ca na zvati lo jukpa kumfa
+la .daniyl. pu klama lo ckule
+la .pet. pu klama lo gusta
+xu la .deiv. cu zvati lo jukpa kumfa? go'i
+
+la .bab. pu klama lo briju
+la .tam. ca na zvati lo briju
+la .keit. pu klama lo sipna kumfa
+la .sam. pu klama lo jukpa kumfa
+xu la .tam. cu zvati lo briju? na go'i
+
+la .lus. pu klama lo sipna kumfa
+la .pet. ca na zvati lo sipna kumfa
+la .daniyl. pu klama lo kelci stuzi
+la .maris. pu klama lo jukpa kumfa
+xu la .lus. cu zvati lo sipna kumfa? go'i
+
+la .bil. pu klama lo purdi
+la .pet. ca na zvati lo purdi
+xu la .bil. cu zvati lo purdi? go'i
+
+la .maris. pu klama lo vrogai
+la .daniyl. ca na zvati lo vrogai
+xu la .daniyl. cu zvati lo vrogai? na go'i
+
+la .sam. pu klama lo briju
+la .frank. ca na zvati lo briju
+la .djan. pu klama lo ckule
+xu la .sam. cu zvati lo briju? go'i
+
+la .rik. pu klama lo zarci
+la .suz. ca na zvati lo zarci
+xu la .suz. cu zvati lo zarci? na go'i
+
+la .maris. pu klama lo purdi
+la .bab. ca na zvati lo purdi
+xu la .maris. cu zvati lo purdi? go'i
+
+la .djan. pu klama lo panka
+la .bil. ca na zvati lo panka
+la .sandr. pu klama lo lumku'a
+xu la .djan. cu zvati lo panka? go'i
+
+la .iv. pu klama lo zarci
+la .sam. ca na zvati lo zarci
+la .sandr. pu klama lo gusta
+la .lus. pu klama lo vrogai
+xu la .sam. cu zvati lo zarci? na go'i
+
+la .alis. pu klama lo gusta
+la .sam. ca na zvati lo gusta
+xu la .alis. cu zvati lo gusta? go'i
+
+la .suz. pu klama lo zarci
+la .fred. ca na zvati lo zarci
+la .rik. pu klama lo vrogai
+la .tam. pu klama lo panka
+xu la .fred. cu zvati lo zarci? na go'i
+
+la .suz. pu klama lo panka
+la .sandr. ca na zvati lo panka
+xu la .suz. cu zvati lo panka? go'i
+
+la .pet. pu klama lo jukpa kumfa
+la .iv. ca na zvati lo jukpa kumfa
+la .bab. pu klama lo gusta
+xu la .iv. cu zvati lo jukpa kumfa? na go'i
+
+la .sandr. pu klama lo briju
+la .fred. ca na zvati lo briju
+la .keit. pu klama lo lumku'a
+la .iv. pu klama lo ckule
+xu la .sandr. cu zvati lo briju? go'i
+
+la .daniyl. pu klama lo panka
+la .rik. ca na zvati lo panka
+la .keit. pu klama lo ckule
+xu la .rik. cu zvati lo panka? na go'i
+
+la .frank. pu klama lo gusta
+la .fred. ca na zvati lo gusta
+la .suz. pu klama lo vrogai
+la .iv. pu klama lo zarci
+xu la .frank. cu zvati lo gusta? go'i
+
+la .sam. pu klama lo larcu kumfa
+la .daniyl. ca na zvati lo larcu kumfa
+xu la .daniyl. cu zvati lo larcu kumfa? na go'i
+
+la .bab. pu klama lo ckule
+la .lus. ca na zvati lo ckule
+la .ninas. pu klama lo vrogai
+la .maris. pu klama lo lumku'a
+xu la .bab. cu zvati lo ckule? go'i
+
+la .tam. pu klama lo gusta
+la .djan. ca na zvati lo gusta
+la .suz. pu klama lo lumku'a
+xu la .djan. cu zvati lo gusta? na go'i
+
+la .bil. pu klama lo zarci
+la .alis. ca na zvati lo zarci
+xu la .alis. cu zvati lo zarci? na go'i
+
+la .sandr. pu klama lo purdi
+la .keit. ca na zvati lo purdi
+la .deiv. pu klama lo jukpa kumfa
+xu la .keit. cu zvati lo purdi? na go'i
+
+la .ninas. pu klama lo jukpa kumfa
+la .pet. ca na zvati lo jukpa kumfa
+la .lus. pu klama lo ckule
+xu la .pet. cu zvati lo jukpa kumfa? na go'i
+
+la .fred. pu klama lo gusta
+la .bab. ca na zvati lo gusta
+la .tam. pu klama lo larcu kumfa
+xu la .bab. cu zvati lo gusta? na go'i
+
+la .suz. pu klama lo purdi
+la .lus. ca na zvati lo purdi
+xu la .suz. cu zvati lo purdi? go'i
+
+la .deiv. pu klama lo lumku'a
+la .daniyl. ca na zvati lo lumku'a
+xu la .deiv. cu zvati lo lumku'a? go'i
+
+la .djan. pu klama lo vrogai
+la .bil. ca na zvati lo vrogai
+xu la .bil. cu zvati lo vrogai? na go'i
+
+la .sam. pu klama lo larcu kumfa
+la .an. ca na zvati lo larcu kumfa
+la .fred. pu klama lo sipna kumfa
+la .deiv. pu klama lo vrogai
+xu la .sam. cu zvati lo larcu kumfa? go'i
+
+la .lus. pu klama lo gusta
+la .djan. ca na zvati lo gusta
+xu la .djan. cu zvati lo gusta? na go'i
+
+la .tam. pu klama lo sipna kumfa
+la .ninas. ca na zvati lo sipna kumfa
+la .fred. pu klama lo gusta
+la .alis. pu klama lo briju
+xu la .ninas. cu zvati lo sipna kumfa? na go'i
+
+la .frank. pu klama lo purdi
+la .bil. ca na zvati lo purdi
+la .bab. pu klama lo zarci
+la .keit. pu klama lo purdi
+xu la .frank. cu zvati lo purdi? go'i
+
+la .fred. pu klama lo ckule
+la .iv. ca na zvati lo ckule
+xu la .iv. cu zvati lo ckule? na go'i
+
+la .pet. pu klama lo larcu kumfa
+la .rik. ca na zvati lo larcu kumfa
+la .an. pu klama lo larcu kumfa
+la .deiv. pu klama lo gusta
+xu la .pet. cu zvati lo larcu kumfa? go'i
+
+la .tam. pu klama lo zarci
+la .daniyl. ca na zvati lo zarci
+la .an. pu klama lo zarci
+la .iv. pu klama lo ckule
+xu la .daniyl. cu zvati lo zarci? na go'i
+
+la .an. pu klama lo jukpa kumfa
+la .ninas. ca na zvati lo jukpa kumfa
+xu la .ninas. cu zvati lo jukpa kumfa? na go'i
+
+la .daniyl. pu klama lo briju
+la .keit. ca na zvati lo briju
+la .lus. pu klama lo larcu kumfa
+la .bab. pu klama lo purdi
+xu la .daniyl. cu zvati lo briju? go'i
+
+la .keit. pu klama lo larcu kumfa
+la .iv. ca na zvati lo larcu kumfa
+xu la .keit. cu zvati lo larcu kumfa? go'i
+
+la .keit. pu klama lo jukpa kumfa
+la .an. ca na zvati lo jukpa kumfa
+xu la .keit. cu zvati lo jukpa kumfa? go'i
+
+la .pet. pu klama lo gusta
+la .maris. ca na zvati lo gusta
+la .sam. pu klama lo briju
+xu la .pet. cu zvati lo gusta? go'i

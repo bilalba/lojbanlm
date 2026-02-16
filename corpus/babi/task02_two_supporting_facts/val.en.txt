@@ -1,0 +1,1205 @@
+Tom is in the restaurant.
+Tom picked up the bag.
+Frank went to the kitchen.
+Lucy went to the office.
+Where is the bag? restaurant
+
+Peter is in the school.
+Peter picked up the key.
+Fred went to the bathroom.
+Alice went to the restaurant.
+Where is the key? school
+
+Nina is in the restaurant.
+Nina picked up the bag.
+David went to the restaurant.
+Eve went to the park.
+Where is the bag? restaurant
+
+Frank is in the bedroom.
+Frank picked up the pen.
+Alice went to the office.
+Tom went to the hallway.
+Sam went to the playground.
+Where is the pen? bedroom
+
+Rick is in the garden.
+Rick picked up the pen.
+Alice went to the park.
+Mary went to the market.
+Where is the pen? garden
+
+Susan is in the park.
+Susan picked up the milk.
+Bill went to the bedroom.
+Tom went to the park.
+Sam went to the office.
+Where is the milk? park
+
+Daniel is in the hallway.
+Daniel picked up the ball.
+Sandra went to the hallway.
+David went to the playground.
+Where is the ball? hallway
+
+Nina is in the bathroom.
+Nina picked up the ball.
+Tom went to the office.
+Where is the ball? bathroom
+
+David is in the market.
+David picked up the shoe.
+Bob went to the park.
+Rick went to the bedroom.
+Where is the shoe? market
+
+Bill is in the restaurant.
+Bill picked up the shoe.
+Mary went to the garden.
+Where is the shoe? restaurant
+
+Susan is in the hallway.
+Susan picked up the apple.
+Lucy went to the office.
+Ann went to the market.
+Nina went to the market.
+Where is the apple? hallway
+
+Bill is in the restaurant.
+Bill picked up the apple.
+Daniel went to the office.
+Mary went to the bedroom.
+Where is the apple? restaurant
+
+Fred is in the kitchen.
+Fred picked up the milk.
+Nina went to the school.
+Tom went to the bedroom.
+Where is the milk? kitchen
+
+John is in the office.
+John picked up the box.
+Lucy went to the office.
+Alice went to the office.
+Where is the box? office
+
+Ann is in the market.
+Ann picked up the apple.
+Sam went to the studio.
+Eve went to the bedroom.
+Bob went to the playground.
+Where is the apple? market
+
+Rick is in the school.
+Rick picked up the shoe.
+Susan went to the garden.
+Lucy went to the playground.
+Where is the shoe? school
+
+Fred is in the school.
+Fred picked up the milk.
+Tom went to the playground.
+Where is the milk? school
+
+David is in the school.
+David picked up the hat.
+Peter went to the garden.
+Eve went to the bathroom.
+Where is the hat? school
+
+Tom is in the playground.
+Tom picked up the book.
+Fred went to the studio.
+Where is the book? playground
+
+Ann is in the playground.
+Ann picked up the bottle.
+Bob went to the garden.
+Frank went to the garden.
+Nina went to the bedroom.
+Where is the bottle? playground
+
+Mary is in the hallway.
+Mary picked up the box.
+Lucy went to the hallway.
+Eve went to the studio.
+Where is the box? hallway
+
+Ann is in the school.
+Ann picked up the milk.
+David went to the bathroom.
+Mary went to the bedroom.
+Bob went to the restaurant.
+Where is the milk? school
+
+Tom is in the restaurant.
+Tom picked up the book.
+Eve went to the bedroom.
+Kate went to the garden.
+Where is the book? restaurant
+
+Frank is in the restaurant.
+Frank picked up the apple.
+Mary went to the hallway.
+Where is the apple? restaurant
+
+Frank is in the kitchen.
+Frank picked up the book.
+John went to the market.
+Where is the book? kitchen
+
+Ann is in the studio.
+Ann picked up the ball.
+Bob went to the kitchen.
+Susan went to the garden.
+Where is the ball? studio
+
+David is in the market.
+David picked up the ball.
+Bob went to the studio.
+Where is the ball? market
+
+Sam is in the studio.
+Sam picked up the book.
+Lucy went to the kitchen.
+Where is the book? studio
+
+Alice is in the bedroom.
+Alice picked up the bottle.
+Sandra went to the school.
+Lucy went to the bedroom.
+Where is the bottle? bedroom
+
+Ann is in the restaurant.
+Ann picked up the pen.
+Daniel went to the studio.
+Where is the pen? restaurant
+
+Alice is in the garden.
+Alice picked up the pen.
+Daniel went to the bathroom.
+Where is the pen? garden
+
+Sam is in the office.
+Sam picked up the milk.
+Mary went to the playground.
+Bob went to the restaurant.
+Kate went to the hallway.
+Where is the milk? office
+
+Peter is in the restaurant.
+Peter picked up the pen.
+Bill went to the market.
+Where is the pen? restaurant
+
+Bob is in the bedroom.
+Bob picked up the box.
+Nina went to the playground.
+Kate went to the bathroom.
+Where is the box? bedroom
+
+Frank is in the garden.
+Frank picked up the box.
+Bill went to the garden.
+Where is the box? garden
+
+Ann is in the bedroom.
+Ann picked up the hat.
+David went to the restaurant.
+Fred went to the kitchen.
+Where is the hat? bedroom
+
+Alice is in the school.
+Alice picked up the hat.
+Frank went to the office.
+Where is the hat? school
+
+Nina is in the studio.
+Nina picked up the bottle.
+Bill went to the playground.
+Kate went to the park.
+Where is the bottle? studio
+
+David is in the park.
+David picked up the book.
+Ann went to the market.
+Where is the book? park
+
+Peter is in the bedroom.
+Peter picked up the ball.
+Ann went to the hallway.
+Bob went to the playground.
+Frank went to the market.
+Where is the ball? bedroom
+
+Alice is in the garden.
+Alice picked up the milk.
+Frank went to the restaurant.
+Tom went to the bedroom.
+Where is the milk? garden
+
+Alice is in the school.
+Alice picked up the book.
+Kate went to the garden.
+Frank went to the bathroom.
+Where is the book? school
+
+Frank is in the restaurant.
+Frank picked up the hat.
+Sandra went to the market.
+Susan went to the park.
+Where is the hat? restaurant
+
+Peter is in the hallway.
+Peter picked up the shoe.
+Frank went to the office.
+Ann went to the bedroom.
+Daniel went to the hallway.
+Where is the shoe? hallway
+
+Bob is in the garden.
+Bob picked up the key.
+Ann went to the market.
+Susan went to the bedroom.
+Where is the key? garden
+
+Mary is in the garden.
+Mary picked up the bottle.
+Bob went to the hallway.
+Where is the bottle? garden
+
+Mary is in the bedroom.
+Mary picked up the bag.
+Peter went to the studio.
+Eve went to the studio.
+Rick went to the garden.
+Where is the bag? bedroom
+
+Alice is in the market.
+Alice picked up the cup.
+Bill went to the office.
+Kate went to the market.
+Where is the cup? market
+
+Bill is in the hallway.
+Bill picked up the cup.
+Fred went to the playground.
+Rick went to the playground.
+Where is the cup? hallway
+
+Mary is in the kitchen.
+Mary picked up the bag.
+Frank went to the hallway.
+Where is the bag? kitchen
+
+Rick is in the park.
+Rick picked up the hat.
+John went to the bedroom.
+Sandra went to the playground.
+Where is the hat? park
+
+David is in the restaurant.
+David picked up the milk.
+Nina went to the office.
+Tom went to the restaurant.
+Where is the milk? restaurant
+
+Lucy is in the hallway.
+Lucy picked up the apple.
+Ann went to the hallway.
+Fred went to the playground.
+Sandra went to the bedroom.
+Where is the apple? hallway
+
+Ann is in the kitchen.
+Ann picked up the bag.
+Bill went to the studio.
+Lucy went to the market.
+Where is the bag? kitchen
+
+Peter is in the office.
+Peter picked up the box.
+Mary went to the studio.
+Where is the box? office
+
+John is in the bedroom.
+John picked up the box.
+Sandra went to the market.
+Mary went to the school.
+Where is the box? bedroom
+
+Lucy is in the garden.
+Lucy picked up the bag.
+Peter went to the school.
+Nina went to the kitchen.
+Where is the bag? garden
+
+Kate is in the bathroom.
+Kate picked up the book.
+Rick went to the office.
+Alice went to the garden.
+Fred went to the school.
+Where is the book? bathroom
+
+Eve is in the kitchen.
+Eve picked up the cup.
+John went to the market.
+Bill went to the park.
+Where is the cup? kitchen
+
+Fred is in the playground.
+Fred picked up the bag.
+Mary went to the studio.
+Bill went to the kitchen.
+Where is the bag? playground
+
+Rick is in the park.
+Rick picked up the pen.
+Peter went to the hallway.
+Bob went to the garden.
+Where is the pen? park
+
+Sam is in the school.
+Sam picked up the hat.
+Peter went to the school.
+Eve went to the park.
+Rick went to the bathroom.
+Where is the hat? school
+
+Bill is in the market.
+Bill picked up the apple.
+Sam went to the kitchen.
+David went to the office.
+Susan went to the studio.
+Where is the apple? market
+
+Lucy is in the bathroom.
+Lucy picked up the pen.
+Alice went to the office.
+Bob went to the garden.
+Rick went to the studio.
+Where is the pen? bathroom
+
+Ann is in the hallway.
+Ann picked up the bag.
+Peter went to the garden.
+Where is the bag? hallway
+
+David is in the playground.
+David picked up the key.
+Fred went to the bathroom.
+Peter went to the park.
+Where is the key? playground
+
+Lucy is in the office.
+Lucy picked up the pen.
+Bill went to the kitchen.
+Fred went to the market.
+Eve went to the restaurant.
+Where is the pen? office
+
+Ann is in the bedroom.
+Ann picked up the pen.
+Sam went to the office.
+Nina went to the market.
+Where is the pen? bedroom
+
+Daniel is in the studio.
+Daniel picked up the bag.
+John went to the school.
+Ann went to the hallway.
+Sam went to the bedroom.
+Where is the bag? studio
+
+Kate is in the bedroom.
+Kate picked up the bottle.
+Rick went to the school.
+Nina went to the garden.
+Fred went to the market.
+Where is the bottle? bedroom
+
+Sam is in the park.
+Sam picked up the key.
+Eve went to the market.
+David went to the studio.
+Where is the key? park
+
+Kate is in the park.
+Kate picked up the book.
+Tom went to the bathroom.
+Where is the book? park
+
+Mary is in the bathroom.
+Mary picked up the key.
+Ann went to the park.
+Fred went to the park.
+Where is the key? bathroom
+
+John is in the bathroom.
+John picked up the milk.
+Eve went to the office.
+Mary went to the office.
+Where is the milk? bathroom
+
+Daniel is in the bedroom.
+Daniel picked up the shoe.
+Bill went to the kitchen.
+Where is the shoe? bedroom
+
+John is in the garden.
+John picked up the box.
+Rick went to the school.
+Bob went to the market.
+Nina went to the market.
+Where is the box? garden
+
+Alice is in the park.
+Alice picked up the bottle.
+Susan went to the garden.
+Where is the bottle? park
+
+Fred is in the restaurant.
+Fred picked up the cup.
+Ann went to the market.
+Where is the cup? restaurant
+
+Fred is in the playground.
+Fred picked up the key.
+Alice went to the studio.
+Kate went to the garden.
+Where is the key? playground
+
+Rick is in the school.
+Rick picked up the pen.
+Frank went to the bathroom.
+Kate went to the bedroom.
+Nina went to the garden.
+Where is the pen? school
+
+Eve is in the bathroom.
+Eve picked up the key.
+Nina went to the studio.
+David went to the kitchen.
+Where is the key? bathroom
+
+Bill is in the playground.
+Bill picked up the box.
+Bob went to the hallway.
+Rick went to the market.
+Frank went to the bathroom.
+Where is the box? playground
+
+Susan is in the bedroom.
+Susan picked up the box.
+Lucy went to the kitchen.
+Rick went to the market.
+Where is the box? bedroom
+
+Sandra is in the kitchen.
+Sandra picked up the bottle.
+John went to the playground.
+Kate went to the park.
+Susan went to the office.
+Where is the bottle? kitchen
+
+Peter is in the market.
+Peter picked up the apple.
+Kate went to the kitchen.
+Bill went to the park.
+Frank went to the office.
+Where is the apple? market
+
+David is in the garden.
+David picked up the book.
+Sam went to the hallway.
+Eve went to the market.
+Where is the book? garden
+
+Rick is in the market.
+Rick picked up the bag.
+Susan went to the garden.
+Where is the bag? market
+
+Bill is in the hallway.
+Bill picked up the bottle.
+Rick went to the garden.
+Frank went to the bedroom.
+Where is the bottle? hallway
+
+Susan is in the playground.
+Susan picked up the apple.
+Nina went to the restaurant.
+Fred went to the school.
+Where is the apple? playground
+
+Nina is in the restaurant.
+Nina picked up the ball.
+Eve went to the market.
+Where is the ball? restaurant
+
+Nina is in the market.
+Nina picked up the milk.
+Lucy went to the bathroom.
+Where is the milk? market
+
+David is in the school.
+David picked up the pen.
+Bob went to the bedroom.
+Where is the pen? school
+
+Kate is in the playground.
+Kate picked up the bottle.
+Tom went to the hallway.
+Nina went to the hallway.
+Peter went to the restaurant.
+Where is the bottle? playground
+
+Tom is in the office.
+Tom picked up the milk.
+Sandra went to the bathroom.
+Peter went to the garden.
+Rick went to the park.
+Where is the milk? office
+
+Peter is in the bedroom.
+Peter picked up the bag.
+Sandra went to the kitchen.
+Kate went to the kitchen.
+Where is the bag? bedroom
+
+Daniel is in the market.
+Daniel picked up the pen.
+Kate went to the bathroom.
+Alice went to the office.
+Nina went to the restaurant.
+Where is the pen? market
+
+Eve is in the kitchen.
+Eve picked up the bag.
+Nina went to the garden.
+David went to the school.
+Tom went to the bedroom.
+Where is the bag? kitchen
+
+Fred is in the garden.
+Fred picked up the ball.
+Ann went to the market.
+Frank went to the hallway.
+Nina went to the garden.
+Where is the ball? garden
+
+Kate is in the restaurant.
+Kate picked up the book.
+David went to the office.
+Where is the book? restaurant
+
+Bill is in the park.
+Bill picked up the milk.
+Sam went to the office.
+Sandra went to the restaurant.
+Where is the milk? park
+
+Sam is in the park.
+Sam picked up the milk.
+Tom went to the office.
+Mary went to the office.
+Where is the milk? park
+
+Kate is in the studio.
+Kate picked up the hat.
+Lucy went to the studio.
+Where is the hat? studio
+
+Nina is in the garden.
+Nina picked up the ball.
+Tom went to the restaurant.
+Rick went to the park.
+Where is the ball? garden
+
+Sam is in the restaurant.
+Sam picked up the bag.
+Nina went to the garden.
+David went to the playground.
+Alice went to the kitchen.
+Where is the bag? restaurant
+
+John is in the school.
+John picked up the book.
+Lucy went to the kitchen.
+Alice went to the office.
+Where is the book? school
+
+Ann is in the studio.
+Ann picked up the bag.
+Lucy went to the bedroom.
+Peter went to the playground.
+Where is the bag? studio
+
+John is in the studio.
+John picked up the milk.
+Sam went to the hallway.
+Daniel went to the school.
+Where is the milk? studio
+
+Nina is in the bedroom.
+Nina picked up the apple.
+Daniel went to the bedroom.
+Frank went to the office.
+Where is the apple? bedroom
+
+Bob is in the school.
+Bob picked up the ball.
+Ann went to the office.
+Where is the ball? school
+
+Peter is in the park.
+Peter picked up the key.
+Susan went to the school.
+Daniel went to the park.
+Where is the key? park
+
+Eve is in the school.
+Eve picked up the bottle.
+Tom went to the market.
+Fred went to the market.
+Where is the bottle? school
+
+Nina is in the kitchen.
+Nina picked up the book.
+John went to the bathroom.
+Where is the book? kitchen
+
+Eve is in the kitchen.
+Eve picked up the hat.
+Sam went to the park.
+Bill went to the garden.
+Where is the hat? kitchen
+
+Bill is in the kitchen.
+Bill picked up the hat.
+Fred went to the hallway.
+Ann went to the hallway.
+Where is the hat? kitchen
+
+Bob is in the restaurant.
+Bob picked up the milk.
+Lucy went to the garden.
+Where is the milk? restaurant
+
+Sam is in the office.
+Sam picked up the milk.
+Daniel went to the office.
+Where is the milk? office
+
+Fred is in the market.
+Fred picked up the pen.
+Sandra went to the kitchen.
+Where is the pen? market
+
+Ann is in the studio.
+Ann picked up the milk.
+Alice went to the hallway.
+Kate went to the market.
+Where is the milk? studio
+
+Bob is in the school.
+Bob picked up the ball.
+Tom went to the school.
+Frank went to the studio.
+Where is the ball? school
+
+Bob is in the school.
+Bob picked up the milk.
+Alice went to the hallway.
+Where is the milk? school
+
+Bill is in the hallway.
+Bill picked up the shoe.
+Mary went to the kitchen.
+Rick went to the market.
+Where is the shoe? hallway
+
+Sandra is in the hallway.
+Sandra picked up the box.
+Fred went to the kitchen.
+Tom went to the market.
+Sam went to the office.
+Where is the box? hallway
+
+Rick is in the kitchen.
+Rick picked up the bottle.
+Fred went to the studio.
+Where is the bottle? kitchen
+
+Lucy is in the garden.
+Lucy picked up the bag.
+Eve went to the park.
+Kate went to the garden.
+Where is the bag? garden
+
+Mary is in the bathroom.
+Mary picked up the milk.
+Frank went to the market.
+Rick went to the market.
+Where is the milk? bathroom
+
+Tom is in the garden.
+Tom picked up the key.
+Nina went to the market.
+Rick went to the studio.
+Where is the key? garden
+
+Tom is in the school.
+Tom picked up the shoe.
+Lucy went to the playground.
+Where is the shoe? school
+
+Sam is in the hallway.
+Sam picked up the hat.
+Ann went to the studio.
+David went to the studio.
+Where is the hat? hallway
+
+Frank is in the garden.
+Frank picked up the bag.
+Eve went to the market.
+Nina went to the park.
+Where is the bag? garden
+
+Alice is in the kitchen.
+Alice picked up the cup.
+Bill went to the market.
+Susan went to the market.
+Where is the cup? kitchen
+
+Tom is in the hallway.
+Tom picked up the cup.
+Daniel went to the hallway.
+Alice went to the park.
+Rick went to the garden.
+Where is the cup? hallway
+
+Bill is in the office.
+Bill picked up the milk.
+David went to the bathroom.
+Where is the milk? office
+
+Ann is in the park.
+Ann picked up the key.
+John went to the kitchen.
+Fred went to the playground.
+Alice went to the garden.
+Where is the key? park
+
+Ann is in the park.
+Ann picked up the bag.
+Nina went to the market.
+Where is the bag? park
+
+Fred is in the office.
+Fred picked up the box.
+Sandra went to the playground.
+Alice went to the kitchen.
+Where is the box? office
+
+Bob is in the restaurant.
+Bob picked up the shoe.
+Sam went to the park.
+Sandra went to the kitchen.
+Where is the shoe? restaurant
+
+Alice is in the park.
+Alice picked up the bottle.
+Peter went to the market.
+Bill went to the hallway.
+Where is the bottle? park
+
+Sandra is in the office.
+Sandra picked up the box.
+Sam went to the bedroom.
+Where is the box? office
+
+Alice is in the restaurant.
+Alice picked up the pen.
+Tom went to the playground.
+Nina went to the kitchen.
+Where is the pen? restaurant
+
+Mary is in the park.
+Mary picked up the apple.
+Sam went to the market.
+Where is the apple? park
+
+Bill is in the hallway.
+Bill picked up the bottle.
+Ann went to the studio.
+David went to the studio.
+Where is the bottle? hallway
+
+Peter is in the restaurant.
+Peter picked up the shoe.
+Frank went to the bedroom.
+David went to the bedroom.
+Alice went to the kitchen.
+Where is the shoe? restaurant
+
+Sam is in the garden.
+Sam picked up the ball.
+Kate went to the hallway.
+Mary went to the market.
+Sandra went to the bedroom.
+Where is the ball? garden
+
+Kate is in the park.
+Kate picked up the shoe.
+Sam went to the hallway.
+Alice went to the bedroom.
+Rick went to the hallway.
+Where is the shoe? park
+
+Frank is in the kitchen.
+Frank picked up the apple.
+Tom went to the restaurant.
+Where is the apple? kitchen
+
+Nina is in the hallway.
+Nina picked up the hat.
+Bill went to the studio.
+Where is the hat? hallway
+
+Kate is in the bathroom.
+Kate picked up the key.
+Frank went to the kitchen.
+John went to the garden.
+Peter went to the market.
+Where is the key? bathroom
+
+Frank is in the park.
+Frank picked up the hat.
+Sandra went to the kitchen.
+Fred went to the hallway.
+David went to the park.
+Where is the hat? park
+
+Bill is in the playground.
+Bill picked up the pen.
+Ann went to the playground.
+Kate went to the kitchen.
+John went to the park.
+Where is the pen? playground
+
+Fred is in the school.
+Fred picked up the cup.
+Susan went to the market.
+Where is the cup? school
+
+Frank is in the hallway.
+Frank picked up the apple.
+Peter went to the restaurant.
+Bill went to the park.
+Where is the apple? hallway
+
+Mary is in the bedroom.
+Mary picked up the key.
+Kate went to the hallway.
+Ann went to the bathroom.
+Lucy went to the playground.
+Where is the key? bedroom
+
+Kate is in the studio.
+Kate picked up the shoe.
+Bill went to the office.
+Tom went to the restaurant.
+Where is the shoe? studio
+
+Lucy is in the park.
+Lucy picked up the shoe.
+Peter went to the studio.
+Ann went to the bathroom.
+Eve went to the office.
+Where is the shoe? park
+
+Alice is in the market.
+Alice picked up the hat.
+Sam went to the bathroom.
+Where is the hat? market
+
+Eve is in the studio.
+Eve picked up the hat.
+Nina went to the hallway.
+Where is the hat? studio
+
+David is in the bathroom.
+David picked up the book.
+John went to the office.
+Mary went to the school.
+Lucy went to the market.
+Where is the book? bathroom
+
+Eve is in the bedroom.
+Eve picked up the cup.
+Alice went to the school.
+Where is the cup? bedroom
+
+Frank is in the garden.
+Frank picked up the pen.
+Bob went to the playground.
+Where is the pen? garden
+
+Kate is in the hallway.
+Kate picked up the key.
+Lucy went to the playground.
+John went to the office.
+Where is the key? hallway
+
+Tom is in the restaurant.
+Tom picked up the cup.
+Bob went to the hallway.
+John went to the garden.
+Bill went to the garden.
+Where is the cup? restaurant
+
+Sandra is in the studio.
+Sandra picked up the apple.
+John went to the bedroom.
+Ann went to the market.
+Bob went to the garden.
+Where is the apple? studio
+
+Sam is in the school.
+Sam picked up the milk.
+Rick went to the hallway.
+Bill went to the restaurant.
+Daniel went to the garden.
+Where is the milk? school
+
+Tom is in the market.
+Tom picked up the box.
+Eve went to the bathroom.
+Bob went to the hallway.
+Where is the box? market
+
+Frank is in the kitchen.
+Frank picked up the book.
+Rick went to the playground.
+David went to the bedroom.
+Where is the book? kitchen
+
+Alice is in the office.
+Alice picked up the box.
+Nina went to the bedroom.
+Lucy went to the playground.
+Susan went to the park.
+Where is the box? office
+
+Kate is in the bedroom.
+Kate picked up the bag.
+Nina went to the playground.
+Bill went to the market.
+Where is the bag? bedroom
+
+Peter is in the kitchen.
+Peter picked up the hat.
+Mary went to the restaurant.
+Where is the hat? kitchen
+
+Ann is in the garden.
+Ann picked up the apple.
+Rick went to the bedroom.
+Lucy went to the park.
+Where is the apple? garden
+
+John is in the park.
+John picked up the ball.
+Eve went to the office.
+Alice went to the park.
+Daniel went to the park.
+Where is the ball? park
+
+Daniel is in the office.
+Daniel picked up the bottle.
+Rick went to the office.
+Peter went to the playground.
+Mary went to the studio.
+Where is the bottle? office
+
+Tom is in the restaurant.
+Tom picked up the bag.
+Kate went to the studio.
+Fred went to the studio.
+Where is the bag? restaurant
+
+Nina is in the restaurant.
+Nina picked up the box.
+Lucy went to the garden.
+Sam went to the kitchen.
+David went to the playground.
+Where is the box? restaurant
+
+Rick is in the park.
+Rick picked up the bottle.
+Tom went to the bathroom.
+Daniel went to the garden.
+David went to the playground.
+Where is the bottle? park
+
+Daniel is in the office.
+Daniel picked up the cup.
+Eve went to the kitchen.
+Mary went to the playground.
+Where is the cup? office
+
+Fred is in the office.
+Fred picked up the book.
+Frank went to the garden.
+Ann went to the restaurant.
+Where is the book? office
+
+John is in the school.
+John picked up the key.
+Daniel went to the kitchen.
+Lucy went to the market.
+Tom went to the garden.
+Where is the key? school
+
+Nina is in the office.
+Nina picked up the pen.
+Mary went to the bathroom.
+Bill went to the restaurant.
+Rick went to the studio.
+Where is the pen? office
+
+Fred is in the restaurant.
+Fred picked up the shoe.
+Daniel went to the office.
+Kate went to the office.
+Peter went to the market.
+Where is the shoe? restaurant
+
+Fred is in the market.
+Fred picked up the milk.
+Lucy went to the garden.
+Ann went to the school.
+Kate went to the playground.
+Where is the milk? market
+
+Fred is in the bathroom.
+Fred picked up the box.
+Bob went to the restaurant.
+Tom went to the park.
+Where is the box? bathroom
+
+Frank is in the garden.
+Frank picked up the apple.
+Nina went to the bedroom.
+Where is the apple? garden
+
+Bill is in the bathroom.
+Bill picked up the hat.
+Peter went to the market.
+Where is the hat? bathroom
+
+Ann is in the park.
+Ann picked up the pen.
+Daniel went to the studio.
+Lucy went to the hallway.
+Susan went to the market.
+Where is the pen? park
+
+Frank is in the hallway.
+Frank picked up the bottle.
+Nina went to the bedroom.
+Eve went to the playground.
+Where is the bottle? hallway
+
+Tom is in the hallway.
+Tom picked up the bottle.
+Eve went to the playground.
+Daniel went to the garden.
+Where is the bottle? hallway
+
+Sam is in the hallway.
+Sam picked up the hat.
+Eve went to the playground.
+Where is the hat? hallway
+
+Peter is in the garden.
+Peter picked up the pen.
+Bob went to the school.
+Sandra went to the studio.
+Where is the pen? garden
+
+David is in the kitchen.
+David picked up the cup.
+Bob went to the school.
+Where is the cup? kitchen
+
+David is in the school.
+David picked up the key.
+Ann went to the bedroom.
+Mary went to the bedroom.
+Where is the key? school
+
+Fred is in the park.
+Fred picked up the ball.
+David went to the bedroom.
+Sam went to the restaurant.
+Where is the ball? park
+
+Bill is in the kitchen.
+Bill picked up the apple.
+Peter went to the park.
+Alice went to the hallway.
+John went to the studio.
+Where is the apple? kitchen
+
+David is in the studio.
+David picked up the hat.
+Frank went to the restaurant.
+Ann went to the studio.
+Where is the hat? studio
+
+Tom is in the bedroom.
+Tom picked up the cup.
+Bill went to the bedroom.
+Sandra went to the restaurant.
+Fred went to the school.
+Where is the cup? bedroom
+
+Alice is in the studio.
+Alice picked up the shoe.
+Nina went to the park.
+Frank went to the school.
+Susan went to the playground.
+Where is the shoe? studio
+
+John is in the market.
+John picked up the hat.
+David went to the restaurant.
+Bob went to the kitchen.
+Sam went to the studio.
+Where is the hat? market
+
+David is in the playground.
+David picked up the shoe.
+Fred went to the garden.
+Where is the shoe? playground
+
+Sam is in the studio.
+Sam picked up the cup.
+John went to the hallway.
+Daniel went to the playground.
+Kate went to the kitchen.
+Where is the cup? studio
+
+Bob is in the market.
+Bob picked up the cup.
+Mary went to the office.
+Where is the cup? market
+
+Sam is in the bathroom.
+Sam picked up the bottle.
+Bill went to the park.
+Alice went to the studio.
+Peter went to the kitchen.
+Where is the bottle? bathroom

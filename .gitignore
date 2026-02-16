@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code
+.claude/
+
+# Large downloadable data (tatoeba english corpus ~107MB)
+corpus/tatoeba/eng_sentences.tsv
+corpus/tatoeba/eng_sentences.tsv.bz2
+
+# FineWeb data and translation artifacts
+data/
+
+# Large per-example bAbI prediction dumps
+**/babi_predictions.json
+
+# Model checkpoints (if any get saved locally)
+*.pt
+*.pth
+*.bin
+
+# Source HTML/PDF files (extracted .txt files are kept)
+corpus/**/*.html
+corpus/**/*.pdf
+
+# OS files
+.DS_Store

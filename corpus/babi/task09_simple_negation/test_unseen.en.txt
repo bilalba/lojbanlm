@@ -1,0 +1,1025 @@
+Bernhard traveled to the park.
+Frank is no longer in the park.
+Is Frank in the park? no
+
+Mary traveled to the market.
+Lily is no longer in the market.
+Alice went to the office.
+Peter went to the playground.
+Is Lily in the market? no
+
+Tom traveled to the hospital.
+David is no longer in the hospital.
+Mary went to the bathroom.
+Sam went to the studio.
+Is Tom in the hospital? yes
+
+Jeff traveled to the market.
+Ann is no longer in the market.
+Kate went to the cellar.
+Is Jeff in the market? yes
+
+Julie traveled to the park.
+Mary is no longer in the park.
+Is Julie in the park? yes
+
+Bernhard traveled to the studio.
+David is no longer in the studio.
+Nina went to the cellar.
+Tom went to the park.
+Is David in the studio? no
+
+Bernhard traveled to the cellar.
+Peter is no longer in the cellar.
+Tom went to the library.
+Is Bernhard in the cellar? yes
+
+Jeff traveled to the park.
+Bernhard is no longer in the park.
+Is Jeff in the park? yes
+
+Bob traveled to the hospital.
+Daniel is no longer in the hospital.
+Is Bob in the hospital? yes
+
+Jeff traveled to the playground.
+Tom is no longer in the playground.
+Eve went to the restaurant.
+Daniel went to the bedroom.
+Is Tom in the playground? no
+
+Julie traveled to the market.
+Nina is no longer in the market.
+Gertrude went to the market.
+Is Julie in the market? yes
+
+Julie traveled to the restaurant.
+Nina is no longer in the restaurant.
+Bob went to the restaurant.
+Is Julie in the restaurant? yes
+
+Ann traveled to the playground.
+Bob is no longer in the playground.
+David went to the kitchen.
+Julie went to the market.
+Is Bob in the playground? no
+
+John traveled to the garden.
+Lily is no longer in the garden.
+Is John in the garden? yes
+
+David traveled to the studio.
+Gertrude is no longer in the studio.
+Is David in the studio? yes
+
+Bernhard traveled to the library.
+Bob is no longer in the library.
+Lucy went to the library.
+Gertrude went to the school.
+Is Bernhard in the library? yes
+
+Julie traveled to the kitchen.
+Peter is no longer in the kitchen.
+Is Peter in the kitchen? no
+
+Lucy traveled to the park.
+Sandra is no longer in the park.
+Sam went to the hospital.
+Peter went to the bathroom.
+Is Lucy in the park? yes
+
+Sam traveled to the office.
+Bernhard is no longer in the office.
+David went to the studio.
+Is Sam in the office? yes
+
+Bernhard traveled to the hospital.
+Sandra is no longer in the hospital.
+Nina went to the bedroom.
+David went to the cellar.
+Is Bernhard in the hospital? yes
+
+Rick traveled to the bathroom.
+Gertrude is no longer in the bathroom.
+Is Rick in the bathroom? yes
+
+Susan traveled to the playground.
+Lily is no longer in the playground.
+Frank went to the office.
+Eve went to the cellar.
+Is Susan in the playground? yes
+
+Ann traveled to the playground.
+Alice is no longer in the playground.
+Bob went to the hospital.
+Is Alice in the playground? no
+
+Rick traveled to the kitchen.
+Lily is no longer in the kitchen.
+Sam went to the bathroom.
+Is Rick in the kitchen? yes
+
+Alice traveled to the market.
+Tom is no longer in the market.
+Frank went to the hospital.
+Peter went to the park.
+Is Tom in the market? no
+
+Julie traveled to the garden.
+Rick is no longer in the garden.
+Bill went to the library.
+Is Rick in the garden? no
+
+John traveled to the hospital.
+Kate is no longer in the hospital.
+Is John in the hospital? yes
+
+Bill traveled to the cellar.
+Peter is no longer in the cellar.
+Lucy went to the garden.
+Kate went to the library.
+Is Bill in the cellar? yes
+
+Lily traveled to the library.
+Rick is no longer in the library.
+Jeff went to the kitchen.
+David went to the studio.
+Is Rick in the library? no
+
+Bernhard traveled to the cellar.
+Rick is no longer in the cellar.
+Alice went to the bedroom.
+Is Rick in the cellar? no
+
+Daniel traveled to the studio.
+Lily is no longer in the studio.
+Is Lily in the studio? no
+
+Kate traveled to the garden.
+Lily is no longer in the garden.
+Mary went to the park.
+Eve went to the park.
+Is Lily in the garden? no
+
+Alice traveled to the garden.
+John is no longer in the garden.
+Kate went to the park.
+Tom went to the hospital.
+Is Alice in the garden? yes
+
+Alice traveled to the bathroom.
+Lily is no longer in the bathroom.
+Bill went to the studio.
+Is Lily in the bathroom? no
+
+Bernhard traveled to the bedroom.
+Mary is no longer in the bedroom.
+Ann went to the market.
+Is Bernhard in the bedroom? yes
+
+Daniel traveled to the kitchen.
+Bill is no longer in the kitchen.
+Gertrude went to the park.
+Is Daniel in the kitchen? yes
+
+Tom traveled to the hospital.
+Jeff is no longer in the hospital.
+Eve went to the library.
+Is Tom in the hospital? yes
+
+Julie traveled to the hallway.
+Bernhard is no longer in the hallway.
+Kate went to the library.
+David went to the market.
+Is Julie in the hallway? yes
+
+Bernhard traveled to the garden.
+Mary is no longer in the garden.
+Sam went to the bedroom.
+Is Mary in the garden? no
+
+Eve traveled to the library.
+Alice is no longer in the library.
+Fred went to the hallway.
+Sandra went to the cellar.
+Is Eve in the library? yes
+
+Lucy traveled to the library.
+Ann is no longer in the library.
+Is Lucy in the library? yes
+
+Daniel traveled to the hospital.
+Susan is no longer in the hospital.
+Lily went to the garden.
+Is Susan in the hospital? no
+
+Bernhard traveled to the restaurant.
+Lily is no longer in the restaurant.
+Lucy went to the cellar.
+Is Bernhard in the restaurant? yes
+
+John traveled to the kitchen.
+Kate is no longer in the kitchen.
+Tom went to the hospital.
+Julie went to the garden.
+Is John in the kitchen? yes
+
+Bernhard traveled to the library.
+Lily is no longer in the library.
+Sandra went to the school.
+Is Lily in the library? no
+
+Alice traveled to the cellar.
+Eve is no longer in the cellar.
+Gertrude went to the library.
+Tom went to the playground.
+Is Alice in the cellar? yes
+
+Jeff traveled to the school.
+Kate is no longer in the school.
+Is Jeff in the school? yes
+
+Bill traveled to the restaurant.
+Sandra is no longer in the restaurant.
+Lily went to the bathroom.
+Alice went to the bedroom.
+Is Bill in the restaurant? yes
+
+Eve traveled to the office.
+Kate is no longer in the office.
+John went to the cellar.
+Jeff went to the hospital.
+Is Kate in the office? no
+
+Sandra traveled to the hallway.
+Bernhard is no longer in the hallway.
+Ann went to the cellar.
+Is Sandra in the hallway? yes
+
+Jeff traveled to the restaurant.
+Alice is no longer in the restaurant.
+Fred went to the hallway.
+Is Jeff in the restaurant? yes
+
+Tom traveled to the cellar.
+Lucy is no longer in the cellar.
+Sam went to the garden.
+Is Tom in the cellar? yes
+
+Daniel traveled to the park.
+Lily is no longer in the park.
+Jeff went to the library.
+Susan went to the bathroom.
+Is Lily in the park? no
+
+Alice traveled to the restaurant.
+Rick is no longer in the restaurant.
+David went to the hospital.
+Lucy went to the hallway.
+Is Alice in the restaurant? yes
+
+Sandra traveled to the bedroom.
+Bernhard is no longer in the bedroom.
+Daniel went to the bathroom.
+Is Bernhard in the bedroom? no
+
+Tom traveled to the hospital.
+Mary is no longer in the hospital.
+Daniel went to the bedroom.
+Is Tom in the hospital? yes
+
+David traveled to the hospital.
+Tom is no longer in the hospital.
+Is Tom in the hospital? no
+
+Nina traveled to the school.
+Bernhard is no longer in the school.
+Is Bernhard in the school? no
+
+Julie traveled to the studio.
+Lily is no longer in the studio.
+Is Julie in the studio? yes
+
+Bernhard traveled to the cellar.
+Peter is no longer in the cellar.
+Eve went to the school.
+Is Peter in the cellar? no
+
+Nina traveled to the restaurant.
+Mary is no longer in the restaurant.
+John went to the bathroom.
+Bernhard went to the school.
+Is Mary in the restaurant? no
+
+Julie traveled to the restaurant.
+Alice is no longer in the restaurant.
+Susan went to the hospital.
+Fred went to the cellar.
+Is Julie in the restaurant? yes
+
+Sandra traveled to the kitchen.
+Frank is no longer in the kitchen.
+Sam went to the playground.
+Tom went to the hospital.
+Is Sandra in the kitchen? yes
+
+Peter traveled to the bedroom.
+Julie is no longer in the bedroom.
+Is Peter in the bedroom? yes
+
+John traveled to the cellar.
+Sandra is no longer in the cellar.
+Rick went to the studio.
+Is Sandra in the cellar? no
+
+John traveled to the bathroom.
+Ann is no longer in the bathroom.
+Jeff went to the hospital.
+Lily went to the park.
+Is John in the bathroom? yes
+
+Bernhard traveled to the park.
+Eve is no longer in the park.
+Is Bernhard in the park? yes
+
+Alice traveled to the hallway.
+Julie is no longer in the hallway.
+Is Julie in the hallway? no
+
+Susan traveled to the library.
+Alice is no longer in the library.
+Peter went to the park.
+Sam went to the kitchen.
+Is Alice in the library? no
+
+Bernhard traveled to the park.
+Kate is no longer in the park.
+Lily went to the garden.
+Rick went to the studio.
+Is Bernhard in the park? yes
+
+Sandra traveled to the garden.
+David is no longer in the garden.
+Nina went to the cellar.
+Is Sandra in the garden? yes
+
+Nina traveled to the cellar.
+Bill is no longer in the cellar.
+Daniel went to the kitchen.
+Alice went to the bathroom.
+Is Nina in the cellar? yes
+
+Lily traveled to the hospital.
+Daniel is no longer in the hospital.
+David went to the office.
+Fred went to the studio.
+Is Daniel in the hospital? no
+
+Julie traveled to the office.
+Ann is no longer in the office.
+Is Julie in the office? yes
+
+Jeff traveled to the library.
+Daniel is no longer in the library.
+Gertrude went to the bathroom.
+Is Daniel in the library? no
+
+Lucy traveled to the cellar.
+Bernhard is no longer in the cellar.
+Fred went to the restaurant.
+Is Lucy in the cellar? yes
+
+Bill traveled to the school.
+Jeff is no longer in the school.
+Peter went to the restaurant.
+John went to the office.
+Is Jeff in the school? no
+
+Daniel traveled to the bathroom.
+John is no longer in the bathroom.
+Mary went to the bedroom.
+Gertrude went to the playground.
+Is John in the bathroom? no
+
+Bill traveled to the garden.
+Daniel is no longer in the garden.
+Jeff went to the school.
+Kate went to the kitchen.
+Is Bill in the garden? yes
+
+Tom traveled to the bathroom.
+Gertrude is no longer in the bathroom.
+Is Tom in the bathroom? yes
+
+Frank traveled to the park.
+Bob is no longer in the park.
+David went to the cellar.
+Lucy went to the restaurant.
+Is Bob in the park? no
+
+David traveled to the bathroom.
+Kate is no longer in the bathroom.
+Sandra went to the kitchen.
+Jeff went to the office.
+Is Kate in the bathroom? no
+
+Gertrude traveled to the school.
+Tom is no longer in the school.
+Frank went to the bedroom.
+Is Gertrude in the school? yes
+
+Tom traveled to the cellar.
+Mary is no longer in the cellar.
+Sandra went to the studio.
+Is Tom in the cellar? yes
+
+Frank traveled to the library.
+Ann is no longer in the library.
+Kate went to the kitchen.
+Nina went to the library.
+Is Frank in the library? yes
+
+Lucy traveled to the library.
+Sandra is no longer in the library.
+Julie went to the school.
+Is Sandra in the library? no
+
+Lucy traveled to the hospital.
+Gertrude is no longer in the hospital.
+Julie went to the hallway.
+Is Gertrude in the hospital? no
+
+Eve traveled to the kitchen.
+Julie is no longer in the kitchen.
+Is Julie in the kitchen? no
+
+Julie traveled to the restaurant.
+Sandra is no longer in the restaurant.
+John went to the hospital.
+Is Julie in the restaurant? yes
+
+Nina traveled to the library.
+Lucy is no longer in the library.
+Bill went to the bathroom.
+Is Lucy in the library? no
+
+Alice traveled to the cellar.
+Bill is no longer in the cellar.
+Bob went to the hospital.
+Is Alice in the cellar? yes
+
+Nina traveled to the library.
+Tom is no longer in the library.
+Is Nina in the library? yes
+
+Lucy traveled to the playground.
+Bernhard is no longer in the playground.
+John went to the bathroom.
+Is Bernhard in the playground? no
+
+Mary traveled to the bedroom.
+Julie is no longer in the bedroom.
+John went to the restaurant.
+Jeff went to the restaurant.
+Is Julie in the bedroom? no
+
+Julie traveled to the bedroom.
+Peter is no longer in the bedroom.
+Is Julie in the bedroom? yes
+
+Rick traveled to the hospital.
+David is no longer in the hospital.
+Julie went to the hallway.
+Is Rick in the hospital? yes
+
+Julie traveled to the hallway.
+Lucy is no longer in the hallway.
+Nina went to the park.
+David went to the bathroom.
+Is Lucy in the hallway? no
+
+Rick traveled to the hospital.
+Nina is no longer in the hospital.
+Ann went to the bathroom.
+Is Nina in the hospital? no
+
+Jeff traveled to the market.
+Frank is no longer in the market.
+Is Frank in the market? no
+
+Alice traveled to the kitchen.
+Sandra is no longer in the kitchen.
+Gertrude went to the bedroom.
+Is Alice in the kitchen? yes
+
+Julie traveled to the bedroom.
+Tom is no longer in the bedroom.
+Is Tom in the bedroom? no
+
+Julie traveled to the bedroom.
+Lucy is no longer in the bedroom.
+Tom went to the studio.
+Rick went to the hospital.
+Is Lucy in the bedroom? no
+
+Lily traveled to the hospital.
+Frank is no longer in the hospital.
+Fred went to the park.
+Bob went to the playground.
+Is Frank in the hospital? no
+
+Sandra traveled to the hallway.
+Rick is no longer in the hallway.
+Nina went to the kitchen.
+Gertrude went to the hospital.
+Is Sandra in the hallway? yes
+
+Sandra traveled to the hallway.
+Gertrude is no longer in the hallway.
+Julie went to the garden.
+Is Gertrude in the hallway? no
+
+Mary traveled to the cellar.
+Daniel is no longer in the cellar.
+Is Mary in the cellar? yes
+
+Sam traveled to the garden.
+Kate is no longer in the garden.
+Fred went to the cellar.
+Is Sam in the garden? yes
+
+Lily traveled to the bathroom.
+Mary is no longer in the bathroom.
+Is Lily in the bathroom? yes
+
+Lily traveled to the cellar.
+Daniel is no longer in the cellar.
+Sam went to the garden.
+Ann went to the market.
+Is Lily in the cellar? yes
+
+Jeff traveled to the bedroom.
+Sam is no longer in the bedroom.
+Ann went to the bedroom.
+Mary went to the office.
+Is Sam in the bedroom? no
+
+Ann traveled to the school.
+Bernhard is no longer in the school.
+Is Bernhard in the school? no
+
+Ann traveled to the library.
+Bob is no longer in the library.
+David went to the restaurant.
+Is Ann in the library? yes
+
+Alice traveled to the kitchen.
+Mary is no longer in the kitchen.
+Frank went to the cellar.
+Susan went to the garden.
+Is Alice in the kitchen? yes
+
+Gertrude traveled to the cellar.
+Tom is no longer in the cellar.
+Is Gertrude in the cellar? yes
+
+David traveled to the kitchen.
+Eve is no longer in the kitchen.
+Tom went to the studio.
+Sam went to the library.
+Is Eve in the kitchen? no
+
+Tom traveled to the cellar.
+Ann is no longer in the cellar.
+Sandra went to the market.
+Is Ann in the cellar? no
+
+John traveled to the restaurant.
+David is no longer in the restaurant.
+Bill went to the bedroom.
+Gertrude went to the market.
+Is John in the restaurant? yes
+
+Nina traveled to the cellar.
+John is no longer in the cellar.
+Eve went to the hallway.
+Susan went to the cellar.
+Is Nina in the cellar? yes
+
+David traveled to the library.
+Nina is no longer in the library.
+Kate went to the hospital.
+Is David in the library? yes
+
+Julie traveled to the playground.
+Daniel is no longer in the playground.
+Susan went to the office.
+Bernhard went to the playground.
+Is Daniel in the playground? no
+
+Jeff traveled to the kitchen.
+Frank is no longer in the kitchen.
+David went to the playground.
+Is Jeff in the kitchen? yes
+
+Gertrude traveled to the office.
+Rick is no longer in the office.
+Is Gertrude in the office? yes
+
+Nina traveled to the studio.
+Julie is no longer in the studio.
+Is Nina in the studio? yes
+
+Gertrude traveled to the school.
+Peter is no longer in the school.
+Susan went to the restaurant.
+Is Gertrude in the school? yes
+
+Alice traveled to the library.
+Frank is no longer in the library.
+Mary went to the market.
+Is Frank in the library? no
+
+Daniel traveled to the restaurant.
+Bernhard is no longer in the restaurant.
+Alice went to the kitchen.
+Is Bernhard in the restaurant? no
+
+Eve traveled to the playground.
+John is no longer in the playground.
+Daniel went to the park.
+Lily went to the bathroom.
+Is John in the playground? no
+
+Nina traveled to the studio.
+Bernhard is no longer in the studio.
+Gertrude went to the restaurant.
+Lucy went to the bathroom.
+Is Nina in the studio? yes
+
+Rick traveled to the hallway.
+Alice is no longer in the hallway.
+Jeff went to the library.
+David went to the studio.
+Is Rick in the hallway? yes
+
+Lily traveled to the park.
+Tom is no longer in the park.
+Is Lily in the park? yes
+
+Sam traveled to the bathroom.
+Kate is no longer in the bathroom.
+Sandra went to the cellar.
+Is Kate in the bathroom? no
+
+Sam traveled to the library.
+Gertrude is no longer in the library.
+Is Gertrude in the library? no
+
+David traveled to the garden.
+Bernhard is no longer in the garden.
+Is Bernhard in the garden? no
+
+Eve traveled to the bathroom.
+Ann is no longer in the bathroom.
+Daniel went to the library.
+Is Eve in the bathroom? yes
+
+Bernhard traveled to the hospital.
+Tom is no longer in the hospital.
+Eve went to the park.
+Is Tom in the hospital? no
+
+Sandra traveled to the hallway.
+Gertrude is no longer in the hallway.
+Rick went to the office.
+Is Gertrude in the hallway? no
+
+Ann traveled to the hospital.
+David is no longer in the hospital.
+Is Ann in the hospital? yes
+
+Jeff traveled to the hospital.
+Eve is no longer in the hospital.
+Ann went to the school.
+Mary went to the library.
+Is Eve in the hospital? no
+
+Nina traveled to the office.
+Sandra is no longer in the office.
+Alice went to the playground.
+Gertrude went to the kitchen.
+Is Nina in the office? yes
+
+Bill traveled to the library.
+Sam is no longer in the library.
+Is Bill in the library? yes
+
+Bob traveled to the cellar.
+Tom is no longer in the cellar.
+Susan went to the hospital.
+Is Tom in the cellar? no
+
+Peter traveled to the restaurant.
+Jeff is no longer in the restaurant.
+Mary went to the hospital.
+Ann went to the cellar.
+Is Jeff in the restaurant? no
+
+Mary traveled to the library.
+Frank is no longer in the library.
+Rick went to the market.
+Is Frank in the library? no
+
+Lily traveled to the restaurant.
+Sam is no longer in the restaurant.
+Nina went to the hospital.
+Is Lily in the restaurant? yes
+
+Lily traveled to the hospital.
+David is no longer in the hospital.
+Is Lily in the hospital? yes
+
+Bernhard traveled to the cellar.
+Lucy is no longer in the cellar.
+David went to the bedroom.
+Sam went to the bedroom.
+Is Lucy in the cellar? no
+
+Bernhard traveled to the studio.
+Mary is no longer in the studio.
+Sam went to the hospital.
+Is Bernhard in the studio? yes
+
+Eve traveled to the hospital.
+Frank is no longer in the hospital.
+Is Eve in the hospital? yes
+
+Tom traveled to the cellar.
+Bob is no longer in the cellar.
+Jeff went to the park.
+Is Tom in the cellar? yes
+
+Rick traveled to the garden.
+Lily is no longer in the garden.
+Is Rick in the garden? yes
+
+Bill traveled to the park.
+Bob is no longer in the park.
+Bernhard went to the studio.
+Is Bob in the park? no
+
+Rick traveled to the library.
+Gertrude is no longer in the library.
+Is Gertrude in the library? no
+
+Bernhard traveled to the market.
+Nina is no longer in the market.
+Bill went to the hallway.
+Julie went to the market.
+Is Nina in the market? no
+
+Eve traveled to the cellar.
+Bernhard is no longer in the cellar.
+Jeff went to the library.
+Frank went to the bedroom.
+Is Eve in the cellar? yes
+
+Kate traveled to the hallway.
+Rick is no longer in the hallway.
+Lucy went to the bedroom.
+Lily went to the kitchen.
+Is Rick in the hallway? no
+
+Gertrude traveled to the kitchen.
+Lucy is no longer in the kitchen.
+Bernhard went to the school.
+Sandra went to the park.
+Is Lucy in the kitchen? no
+
+Peter traveled to the hospital.
+David is no longer in the hospital.
+Nina went to the cellar.
+Is David in the hospital? no
+
+Bob traveled to the cellar.
+John is no longer in the cellar.
+Fred went to the restaurant.
+Is John in the cellar? no
+
+Bill traveled to the office.
+Jeff is no longer in the office.
+Is Jeff in the office? no
+
+David traveled to the restaurant.
+Bernhard is no longer in the restaurant.
+Is Bernhard in the restaurant? no
+
+Frank traveled to the cellar.
+Peter is no longer in the cellar.
+Bill went to the kitchen.
+Sam went to the school.
+Is Frank in the cellar? yes
+
+Bill traveled to the restaurant.
+Kate is no longer in the restaurant.
+Eve went to the office.
+Ann went to the library.
+Is Bill in the restaurant? yes
+
+Nina traveled to the library.
+Fred is no longer in the library.
+Tom went to the hallway.
+Lucy went to the market.
+Is Fred in the library? no
+
+Lucy traveled to the hospital.
+Sandra is no longer in the hospital.
+Is Lucy in the hospital? yes
+
+Julie traveled to the hospital.
+Susan is no longer in the hospital.
+Is Julie in the hospital? yes
+
+Nina traveled to the bedroom.
+John is no longer in the bedroom.
+Lily went to the garden.
+Frank went to the park.
+Is Nina in the bedroom? yes
+
+Daniel traveled to the bathroom.
+Bill is no longer in the bathroom.
+Gertrude went to the playground.
+Kate went to the garden.
+Is Bill in the bathroom? no
+
+Gertrude traveled to the library.
+David is no longer in the library.
+Lucy went to the market.
+Bob went to the kitchen.
+Is David in the library? no
+
+David traveled to the market.
+Julie is no longer in the market.
+Lily went to the park.
+Is Julie in the market? no
+
+Bernhard traveled to the cellar.
+Bill is no longer in the cellar.
+Sandra went to the school.
+Peter went to the park.
+Is Bill in the cellar? no
+
+Julie traveled to the kitchen.
+Daniel is no longer in the kitchen.
+Lily went to the restaurant.
+Is Julie in the kitchen? yes
+
+Sam traveled to the office.
+Julie is no longer in the office.
+Bernhard went to the park.
+John went to the hospital.
+Is Julie in the office? no
+
+Alice traveled to the market.
+Julie is no longer in the market.
+Is Alice in the market? yes
+
+John traveled to the restaurant.
+Susan is no longer in the restaurant.
+Bob went to the library.
+Julie went to the cellar.
+Is John in the restaurant? yes
+
+Eve traveled to the hospital.
+Bob is no longer in the hospital.
+Bernhard went to the hallway.
+Is Bob in the hospital? no
+
+Ann traveled to the studio.
+Frank is no longer in the studio.
+Julie went to the bathroom.
+John went to the bedroom.
+Is Ann in the studio? yes
+
+Tom traveled to the bathroom.
+Frank is no longer in the bathroom.
+Susan went to the cellar.
+Ann went to the bedroom.
+Is Frank in the bathroom? no
+
+Jeff traveled to the garden.
+Peter is no longer in the garden.
+Daniel went to the garden.
+Is Jeff in the garden? yes
+
+Daniel traveled to the school.
+Eve is no longer in the school.
+Tom went to the hospital.
+Julie went to the hallway.
+Is Daniel in the school? yes
+
+Daniel traveled to the school.
+Bernhard is no longer in the school.
+Is Daniel in the school? yes
+
+Lily traveled to the garden.
+Julie is no longer in the garden.
+Fred went to the kitchen.
+Nina went to the hallway.
+Is Julie in the garden? no
+
+Sandra traveled to the park.
+Susan is no longer in the park.
+Ann went to the library.
+Lily went to the cellar.
+Is Susan in the park? no
+
+Fred traveled to the kitchen.
+Bob is no longer in the kitchen.
+Eve went to the hospital.
+Ann went to the library.
+Is Bob in the kitchen? no
+
+Gertrude traveled to the playground.
+Daniel is no longer in the playground.
+Sandra went to the garden.
+Is Gertrude in the playground? yes
+
+Peter traveled to the bathroom.
+Jeff is no longer in the bathroom.
+Is Peter in the bathroom? yes
+
+Bernhard traveled to the bedroom.
+Peter is no longer in the bedroom.
+Tom went to the bedroom.
+Is Peter in the bedroom? no
+
+Fred traveled to the library.
+John is no longer in the library.
+David went to the school.
+Is Fred in the library? yes
+
+Daniel traveled to the hospital.
+Peter is no longer in the hospital.
+Tom went to the restaurant.
+Eve went to the hallway.
+Is Peter in the hospital? no
+
+David traveled to the garden.
+Julie is no longer in the garden.
+Ann went to the garden.
+Is Julie in the garden? no
+
+Frank traveled to the kitchen.
+Bill is no longer in the kitchen.
+Ann went to the cellar.
+Julie went to the hallway.
+Is Bill in the kitchen? no
+
+Fred traveled to the hospital.
+Bill is no longer in the hospital.
+Is Fred in the hospital? yes
+
+John traveled to the cellar.
+Alice is no longer in the cellar.
+Bernhard went to the hospital.
+Is Alice in the cellar? no
+
+Bernhard traveled to the bedroom.
+Lily is no longer in the bedroom.
+Is Lily in the bedroom? no
+
+Julie traveled to the restaurant.
+Jeff is no longer in the restaurant.
+Gertrude went to the hospital.
+Is Jeff in the restaurant? no
+
+Jeff traveled to the park.
+Nina is no longer in the park.
+Is Jeff in the park? yes
+
+Julie traveled to the bathroom.
+Nina is no longer in the bathroom.
+Daniel went to the hallway.
+Sandra went to the park.
+Is Nina in the bathroom? no
+
+Nina traveled to the garden.
+Jeff is no longer in the garden.
+Is Nina in the garden? yes
+
+Eve traveled to the library.
+John is no longer in the library.
+Gertrude went to the hallway.
+Is Eve in the library? yes
+
+Mary traveled to the garden.
+Nina is no longer in the garden.
+Fred went to the library.
+John went to the hallway.
+Is Mary in the garden? yes
+
+Bernhard traveled to the bathroom.
+John is no longer in the bathroom.
+Is Bernhard in the bathroom? yes

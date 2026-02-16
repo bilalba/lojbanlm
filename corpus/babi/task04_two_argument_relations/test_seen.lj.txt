@@ -1,0 +1,799 @@
+lo ckule cu snanu lo zarci
+lo zarci cu snanu lo panka
+ma snanu lo zarci? lo ckule
+
+lo panka cu snanu lo zarci
+lo zarci cu snanu lo briju
+lo zarci cu snanu ma? lo briju
+
+lo purdi cu snanu lo sipna kumfa
+lo sipna kumfa cu snanu lo kelci stuzi
+lo sipna kumfa cu snanu ma? lo kelci stuzi
+
+lo jukpa kumfa cu snanu lo vrogai
+lo vrogai cu snanu lo zarci
+lo vrogai cu snanu ma? lo zarci
+
+lo vrogai cu stici lo zarci
+lo zarci cu stici lo purdi
+ma stici lo zarci? lo vrogai
+
+lo briju cu stici lo sipna kumfa
+lo sipna kumfa cu stici lo gusta
+ma stici lo sipna kumfa? lo briju
+
+lo panka cu snanu lo larcu kumfa
+lo larcu kumfa cu snanu lo ckule
+lo larcu kumfa cu snanu ma? lo ckule
+
+lo briju cu snanu lo kelci stuzi
+lo kelci stuzi cu snanu lo vrogai
+ma snanu lo kelci stuzi? lo briju
+
+lo larcu kumfa cu stuna lo kelci stuzi
+lo kelci stuzi cu stuna lo vrogai
+ma stuna lo kelci stuzi? lo larcu kumfa
+
+lo lumku'a cu gapru lo gusta
+lo gusta cu gapru lo zarci
+ma gapru lo gusta? lo lumku'a
+
+lo purdi cu stuna lo kelci stuzi
+lo kelci stuzi cu stuna lo ckule
+lo kelci stuzi cu stuna ma? lo ckule
+
+lo ckule cu stici lo lumku'a
+lo lumku'a cu stici lo kelci stuzi
+ma stici lo lumku'a? lo ckule
+
+lo larcu kumfa cu snanu lo panka
+lo panka cu snanu lo zarci
+ma snanu lo panka? lo larcu kumfa
+
+lo zarci cu stici lo gusta
+lo gusta cu stici lo vrogai
+ma stici lo gusta? lo zarci
+
+lo zarci cu snanu lo lumku'a
+lo lumku'a cu snanu lo sipna kumfa
+ma snanu lo lumku'a? lo zarci
+
+lo zarci cu stuna lo purdi
+lo purdi cu stuna lo sipna kumfa
+lo purdi cu stuna ma? lo sipna kumfa
+
+lo gusta cu stuna lo purdi
+lo purdi cu stuna lo briju
+lo purdi cu stuna ma? lo briju
+
+lo briju cu berti lo zarci
+lo zarci cu berti lo kelci stuzi
+ma berti lo zarci? lo briju
+
+lo gusta cu berti lo zarci
+lo zarci cu berti lo ckule
+ma berti lo zarci? lo gusta
+
+lo ckule cu stuna lo larcu kumfa
+lo larcu kumfa cu stuna lo zarci
+lo larcu kumfa cu stuna ma? lo zarci
+
+lo ckule cu snanu lo kelci stuzi
+lo kelci stuzi cu snanu lo jukpa kumfa
+lo kelci stuzi cu snanu ma? lo jukpa kumfa
+
+lo sipna kumfa cu berti lo ckule
+lo ckule cu berti lo kelci stuzi
+ma berti lo ckule? lo sipna kumfa
+
+lo panka cu gapru lo zarci
+lo zarci cu gapru lo briju
+ma gapru lo zarci? lo panka
+
+lo zarci cu berti lo vrogai
+lo vrogai cu berti lo purdi
+ma berti lo vrogai? lo zarci
+
+lo purdi cu snanu lo larcu kumfa
+lo larcu kumfa cu snanu lo ckule
+lo larcu kumfa cu snanu ma? lo ckule
+
+lo vrogai cu berti lo gusta
+lo gusta cu berti lo zarci
+ma berti lo gusta? lo vrogai
+
+lo purdi cu snanu lo briju
+lo briju cu snanu lo vrogai
+ma snanu lo briju? lo purdi
+
+lo sipna kumfa cu stici lo vrogai
+lo vrogai cu stici lo larcu kumfa
+ma stici lo vrogai? lo sipna kumfa
+
+lo gusta cu berti lo briju
+lo briju cu berti lo vrogai
+lo briju cu berti ma? lo vrogai
+
+lo lumku'a cu gapru lo briju
+lo briju cu gapru lo purdi
+lo briju cu gapru ma? lo purdi
+
+lo purdi cu stici lo kelci stuzi
+lo kelci stuzi cu stici lo zarci
+ma stici lo kelci stuzi? lo purdi
+
+lo purdi cu gapru lo gusta
+lo gusta cu gapru lo ckule
+lo gusta cu gapru ma? lo ckule
+
+lo kelci stuzi cu stici lo ckule
+lo ckule cu stici lo vrogai
+ma stici lo ckule? lo kelci stuzi
+
+lo purdi cu stici lo lumku'a
+lo lumku'a cu stici lo kelci stuzi
+ma stici lo lumku'a? lo purdi
+
+lo jukpa kumfa cu stici lo kelci stuzi
+lo kelci stuzi cu stici lo sipna kumfa
+lo kelci stuzi cu stici ma? lo sipna kumfa
+
+lo kelci stuzi cu stuna lo zarci
+lo zarci cu stuna lo lumku'a
+lo zarci cu stuna ma? lo lumku'a
+
+lo kelci stuzi cu stici lo ckule
+lo ckule cu stici lo jukpa kumfa
+ma stici lo ckule? lo kelci stuzi
+
+lo larcu kumfa cu stici lo panka
+lo panka cu stici lo kelci stuzi
+ma stici lo panka? lo larcu kumfa
+
+lo kelci stuzi cu berti lo larcu kumfa
+lo larcu kumfa cu berti lo briju
+lo larcu kumfa cu berti ma? lo briju
+
+lo panka cu stici lo purdi
+lo purdi cu stici lo lumku'a
+ma stici lo purdi? lo panka
+
+lo panka cu gapru lo lumku'a
+lo lumku'a cu gapru lo larcu kumfa
+lo lumku'a cu gapru ma? lo larcu kumfa
+
+lo ckule cu gapru lo lumku'a
+lo lumku'a cu gapru lo gusta
+ma gapru lo lumku'a? lo ckule
+
+lo panka cu stici lo briju
+lo briju cu stici lo zarci
+ma stici lo briju? lo panka
+
+lo kelci stuzi cu snanu lo purdi
+lo purdi cu snanu lo lumku'a
+lo purdi cu snanu ma? lo lumku'a
+
+lo larcu kumfa cu berti lo vrogai
+lo vrogai cu berti lo purdi
+ma berti lo vrogai? lo larcu kumfa
+
+lo vrogai cu berti lo purdi
+lo purdi cu berti lo jukpa kumfa
+ma berti lo purdi? lo vrogai
+
+lo jukpa kumfa cu stuna lo sipna kumfa
+lo sipna kumfa cu stuna lo ckule
+lo sipna kumfa cu stuna ma? lo ckule
+
+lo zarci cu stici lo vrogai
+lo vrogai cu stici lo jukpa kumfa
+ma stici lo vrogai? lo zarci
+
+lo zarci cu stici lo ckule
+lo ckule cu stici lo kelci stuzi
+lo ckule cu stici ma? lo kelci stuzi
+
+lo jukpa kumfa cu berti lo purdi
+lo purdi cu berti lo briju
+ma berti lo purdi? lo jukpa kumfa
+
+lo zarci cu stici lo larcu kumfa
+lo larcu kumfa cu stici lo vrogai
+lo larcu kumfa cu stici ma? lo vrogai
+
+lo purdi cu stuna lo sipna kumfa
+lo sipna kumfa cu stuna lo vrogai
+lo sipna kumfa cu stuna ma? lo vrogai
+
+lo zarci cu berti lo sipna kumfa
+lo sipna kumfa cu berti lo purdi
+lo sipna kumfa cu berti ma? lo purdi
+
+lo panka cu gapru lo purdi
+lo purdi cu gapru lo vrogai
+ma gapru lo purdi? lo panka
+
+lo purdi cu snanu lo larcu kumfa
+lo larcu kumfa cu snanu lo vrogai
+ma snanu lo larcu kumfa? lo purdi
+
+lo larcu kumfa cu berti lo ckule
+lo ckule cu berti lo briju
+lo ckule cu berti ma? lo briju
+
+lo lumku'a cu gapru lo kelci stuzi
+lo kelci stuzi cu gapru lo gusta
+lo kelci stuzi cu gapru ma? lo gusta
+
+lo larcu kumfa cu stici lo ckule
+lo ckule cu stici lo sipna kumfa
+ma stici lo ckule? lo larcu kumfa
+
+lo lumku'a cu snanu lo gusta
+lo gusta cu snanu lo kelci stuzi
+ma snanu lo gusta? lo lumku'a
+
+lo kelci stuzi cu stuna lo larcu kumfa
+lo larcu kumfa cu stuna lo panka
+ma stuna lo larcu kumfa? lo kelci stuzi
+
+lo lumku'a cu stici lo zarci
+lo zarci cu stici lo purdi
+lo zarci cu stici ma? lo purdi
+
+lo zarci cu snanu lo lumku'a
+lo lumku'a cu snanu lo vrogai
+ma snanu lo lumku'a? lo zarci
+
+lo vrogai cu stuna lo gusta
+lo gusta cu stuna lo jukpa kumfa
+lo gusta cu stuna ma? lo jukpa kumfa
+
+lo gusta cu snanu lo briju
+lo briju cu snanu lo sipna kumfa
+ma snanu lo briju? lo gusta
+
+lo sipna kumfa cu snanu lo kelci stuzi
+lo kelci stuzi cu snanu lo ckule
+ma snanu lo kelci stuzi? lo sipna kumfa
+
+lo panka cu snanu lo larcu kumfa
+lo larcu kumfa cu snanu lo gusta
+lo larcu kumfa cu snanu ma? lo gusta
+
+lo gusta cu stuna lo zarci
+lo zarci cu stuna lo jukpa kumfa
+ma stuna lo zarci? lo gusta
+
+lo larcu kumfa cu stuna lo lumku'a
+lo lumku'a cu stuna lo kelci stuzi
+lo lumku'a cu stuna ma? lo kelci stuzi
+
+lo zarci cu stici lo purdi
+lo purdi cu stici lo larcu kumfa
+ma stici lo purdi? lo zarci
+
+lo kelci stuzi cu gapru lo briju
+lo briju cu gapru lo ckule
+lo briju cu gapru ma? lo ckule
+
+lo briju cu stuna lo sipna kumfa
+lo sipna kumfa cu stuna lo vrogai
+lo sipna kumfa cu stuna ma? lo vrogai
+
+lo gusta cu gapru lo briju
+lo briju cu gapru lo kelci stuzi
+ma gapru lo briju? lo gusta
+
+lo vrogai cu stici lo larcu kumfa
+lo larcu kumfa cu stici lo ckule
+lo larcu kumfa cu stici ma? lo ckule
+
+lo gusta cu berti lo panka
+lo panka cu berti lo kelci stuzi
+ma berti lo panka? lo gusta
+
+lo sipna kumfa cu stuna lo kelci stuzi
+lo kelci stuzi cu stuna lo ckule
+ma stuna lo kelci stuzi? lo sipna kumfa
+
+lo larcu kumfa cu gapru lo briju
+lo briju cu gapru lo zarci
+lo briju cu gapru ma? lo zarci
+
+lo kelci stuzi cu berti lo gusta
+lo gusta cu berti lo vrogai
+ma berti lo gusta? lo kelci stuzi
+
+lo lumku'a cu stici lo panka
+lo panka cu stici lo vrogai
+ma stici lo panka? lo lumku'a
+
+lo zarci cu snanu lo gusta
+lo gusta cu snanu lo jukpa kumfa
+lo gusta cu snanu ma? lo jukpa kumfa
+
+lo zarci cu berti lo sipna kumfa
+lo sipna kumfa cu berti lo vrogai
+ma berti lo sipna kumfa? lo zarci
+
+lo lumku'a cu snanu lo sipna kumfa
+lo sipna kumfa cu snanu lo larcu kumfa
+lo sipna kumfa cu snanu ma? lo larcu kumfa
+
+lo larcu kumfa cu berti lo gusta
+lo gusta cu berti lo vrogai
+lo gusta cu berti ma? lo vrogai
+
+lo jukpa kumfa cu berti lo gusta
+lo gusta cu berti lo sipna kumfa
+lo gusta cu berti ma? lo sipna kumfa
+
+lo zarci cu stuna lo purdi
+lo purdi cu stuna lo larcu kumfa
+ma stuna lo purdi? lo zarci
+
+lo panka cu snanu lo lumku'a
+lo lumku'a cu snanu lo purdi
+lo lumku'a cu snanu ma? lo purdi
+
+lo ckule cu stici lo kelci stuzi
+lo kelci stuzi cu stici lo larcu kumfa
+lo kelci stuzi cu stici ma? lo larcu kumfa
+
+lo sipna kumfa cu gapru lo vrogai
+lo vrogai cu gapru lo zarci
+lo vrogai cu gapru ma? lo zarci
+
+lo zarci cu stuna lo briju
+lo briju cu stuna lo gusta
+lo briju cu stuna ma? lo gusta
+
+lo briju cu berti lo panka
+lo panka cu berti lo purdi
+ma berti lo panka? lo briju
+
+lo sipna kumfa cu berti lo larcu kumfa
+lo larcu kumfa cu berti lo gusta
+lo larcu kumfa cu berti ma? lo gusta
+
+lo larcu kumfa cu gapru lo lumku'a
+lo lumku'a cu gapru lo zarci
+ma gapru lo lumku'a? lo larcu kumfa
+
+lo kelci stuzi cu snanu lo zarci
+lo zarci cu snanu lo vrogai
+lo zarci cu snanu ma? lo vrogai
+
+lo briju cu berti lo jukpa kumfa
+lo jukpa kumfa cu berti lo purdi
+lo jukpa kumfa cu berti ma? lo purdi
+
+lo lumku'a cu gapru lo ckule
+lo ckule cu gapru lo zarci
+lo ckule cu gapru ma? lo zarci
+
+lo purdi cu snanu lo panka
+lo panka cu snanu lo gusta
+ma snanu lo panka? lo purdi
+
+lo larcu kumfa cu berti lo kelci stuzi
+lo kelci stuzi cu berti lo sipna kumfa
+ma berti lo kelci stuzi? lo larcu kumfa
+
+lo kelci stuzi cu stuna lo sipna kumfa
+lo sipna kumfa cu stuna lo purdi
+ma stuna lo sipna kumfa? lo kelci stuzi
+
+lo jukpa kumfa cu stuna lo larcu kumfa
+lo larcu kumfa cu stuna lo gusta
+ma stuna lo larcu kumfa? lo jukpa kumfa
+
+lo jukpa kumfa cu stici lo larcu kumfa
+lo larcu kumfa cu stici lo vrogai
+lo larcu kumfa cu stici ma? lo vrogai
+
+lo lumku'a cu gapru lo gusta
+lo gusta cu gapru lo briju
+ma gapru lo gusta? lo lumku'a
+
+lo purdi cu berti lo kelci stuzi
+lo kelci stuzi cu berti lo vrogai
+lo kelci stuzi cu berti ma? lo vrogai
+
+lo briju cu stuna lo vrogai
+lo vrogai cu stuna lo gusta
+ma stuna lo vrogai? lo briju
+
+lo ckule cu berti lo vrogai
+lo vrogai cu berti lo kelci stuzi
+ma berti lo vrogai? lo ckule
+
+lo larcu kumfa cu stici lo panka
+lo panka cu stici lo sipna kumfa
+ma stici lo panka? lo larcu kumfa
+
+lo zarci cu stici lo sipna kumfa
+lo sipna kumfa cu stici lo kelci stuzi
+ma stici lo sipna kumfa? lo zarci
+
+lo briju cu gapru lo jukpa kumfa
+lo jukpa kumfa cu gapru lo sipna kumfa
+ma gapru lo jukpa kumfa? lo briju
+
+lo kelci stuzi cu berti lo lumku'a
+lo lumku'a cu berti lo briju
+ma berti lo lumku'a? lo kelci stuzi
+
+lo vrogai cu stuna lo jukpa kumfa
+lo jukpa kumfa cu stuna lo kelci stuzi
+lo jukpa kumfa cu stuna ma? lo kelci stuzi
+
+lo gusta cu stuna lo sipna kumfa
+lo sipna kumfa cu stuna lo lumku'a
+lo sipna kumfa cu stuna ma? lo lumku'a
+
+lo vrogai cu stuna lo jukpa kumfa
+lo jukpa kumfa cu stuna lo panka
+lo jukpa kumfa cu stuna ma? lo panka
+
+lo panka cu snanu lo jukpa kumfa
+lo jukpa kumfa cu snanu lo kelci stuzi
+ma snanu lo jukpa kumfa? lo panka
+
+lo sipna kumfa cu gapru lo lumku'a
+lo lumku'a cu gapru lo ckule
+ma gapru lo lumku'a? lo sipna kumfa
+
+lo ckule cu stuna lo briju
+lo briju cu stuna lo lumku'a
+lo briju cu stuna ma? lo lumku'a
+
+lo zarci cu stici lo lumku'a
+lo lumku'a cu stici lo vrogai
+lo lumku'a cu stici ma? lo vrogai
+
+lo ckule cu gapru lo briju
+lo briju cu gapru lo panka
+ma gapru lo briju? lo ckule
+
+lo gusta cu gapru lo purdi
+lo purdi cu gapru lo lumku'a
+lo purdi cu gapru ma? lo lumku'a
+
+lo briju cu berti lo gusta
+lo gusta cu berti lo kelci stuzi
+ma berti lo gusta? lo briju
+
+lo larcu kumfa cu gapru lo kelci stuzi
+lo kelci stuzi cu gapru lo jukpa kumfa
+lo kelci stuzi cu gapru ma? lo jukpa kumfa
+
+lo vrogai cu berti lo zarci
+lo zarci cu berti lo sipna kumfa
+ma berti lo zarci? lo vrogai
+
+lo larcu kumfa cu gapru lo zarci
+lo zarci cu gapru lo sipna kumfa
+ma gapru lo zarci? lo larcu kumfa
+
+lo sipna kumfa cu stuna lo lumku'a
+lo lumku'a cu stuna lo panka
+lo lumku'a cu stuna ma? lo panka
+
+lo gusta cu gapru lo vrogai
+lo vrogai cu gapru lo larcu kumfa
+lo vrogai cu gapru ma? lo larcu kumfa
+
+lo larcu kumfa cu stici lo ckule
+lo ckule cu stici lo vrogai
+lo ckule cu stici ma? lo vrogai
+
+lo purdi cu berti lo ckule
+lo ckule cu berti lo kelci stuzi
+lo ckule cu berti ma? lo kelci stuzi
+
+lo briju cu stuna lo lumku'a
+lo lumku'a cu stuna lo vrogai
+ma stuna lo lumku'a? lo briju
+
+lo panka cu berti lo jukpa kumfa
+lo jukpa kumfa cu berti lo purdi
+ma berti lo jukpa kumfa? lo panka
+
+lo larcu kumfa cu berti lo purdi
+lo purdi cu berti lo lumku'a
+lo purdi cu berti ma? lo lumku'a
+
+lo kelci stuzi cu berti lo purdi
+lo purdi cu berti lo lumku'a
+ma berti lo purdi? lo kelci stuzi
+
+lo sipna kumfa cu gapru lo lumku'a
+lo lumku'a cu gapru lo vrogai
+ma gapru lo lumku'a? lo sipna kumfa
+
+lo purdi cu stuna lo larcu kumfa
+lo larcu kumfa cu stuna lo jukpa kumfa
+lo larcu kumfa cu stuna ma? lo jukpa kumfa
+
+lo jukpa kumfa cu stuna lo lumku'a
+lo lumku'a cu stuna lo ckule
+lo lumku'a cu stuna ma? lo ckule
+
+lo ckule cu snanu lo jukpa kumfa
+lo jukpa kumfa cu snanu lo sipna kumfa
+ma snanu lo jukpa kumfa? lo ckule
+
+lo vrogai cu stici lo sipna kumfa
+lo sipna kumfa cu stici lo kelci stuzi
+lo sipna kumfa cu stici ma? lo kelci stuzi
+
+lo zarci cu snanu lo ckule
+lo ckule cu snanu lo purdi
+lo ckule cu snanu ma? lo purdi
+
+lo vrogai cu berti lo larcu kumfa
+lo larcu kumfa cu berti lo panka
+ma berti lo larcu kumfa? lo vrogai
+
+lo ckule cu gapru lo zarci
+lo zarci cu gapru lo kelci stuzi
+ma gapru lo zarci? lo ckule
+
+lo gusta cu stuna lo zarci
+lo zarci cu stuna lo panka
+lo zarci cu stuna ma? lo panka
+
+lo sipna kumfa cu berti lo gusta
+lo gusta cu berti lo zarci
+ma berti lo gusta? lo sipna kumfa
+
+lo jukpa kumfa cu gapru lo ckule
+lo ckule cu gapru lo vrogai
+lo ckule cu gapru ma? lo vrogai
+
+lo sipna kumfa cu berti lo ckule
+lo ckule cu berti lo vrogai
+ma berti lo ckule? lo sipna kumfa
+
+lo ckule cu stuna lo zarci
+lo zarci cu stuna lo kelci stuzi
+ma stuna lo zarci? lo ckule
+
+lo vrogai cu berti lo larcu kumfa
+lo larcu kumfa cu berti lo zarci
+ma berti lo larcu kumfa? lo vrogai
+
+lo panka cu snanu lo gusta
+lo gusta cu snanu lo kelci stuzi
+lo gusta cu snanu ma? lo kelci stuzi
+
+lo panka cu snanu lo zarci
+lo zarci cu snanu lo briju
+ma snanu lo zarci? lo panka
+
+lo jukpa kumfa cu stuna lo lumku'a
+lo lumku'a cu stuna lo briju
+lo lumku'a cu stuna ma? lo briju
+
+lo gusta cu stici lo vrogai
+lo vrogai cu stici lo ckule
+lo vrogai cu stici ma? lo ckule
+
+lo purdi cu berti lo briju
+lo briju cu berti lo jukpa kumfa
+ma berti lo briju? lo purdi
+
+lo zarci cu snanu lo vrogai
+lo vrogai cu snanu lo purdi
+lo vrogai cu snanu ma? lo purdi
+
+lo ckule cu stici lo larcu kumfa
+lo larcu kumfa cu stici lo panka
+ma stici lo larcu kumfa? lo ckule
+
+lo lumku'a cu stici lo larcu kumfa
+lo larcu kumfa cu stici lo zarci
+lo larcu kumfa cu stici ma? lo zarci
+
+lo panka cu stici lo jukpa kumfa
+lo jukpa kumfa cu stici lo gusta
+ma stici lo jukpa kumfa? lo panka
+
+lo zarci cu stuna lo ckule
+lo ckule cu stuna lo panka
+lo ckule cu stuna ma? lo panka
+
+lo jukpa kumfa cu stici lo zarci
+lo zarci cu stici lo larcu kumfa
+ma stici lo zarci? lo jukpa kumfa
+
+lo sipna kumfa cu snanu lo larcu kumfa
+lo larcu kumfa cu snanu lo lumku'a
+ma snanu lo larcu kumfa? lo sipna kumfa
+
+lo vrogai cu gapru lo purdi
+lo purdi cu gapru lo briju
+lo purdi cu gapru ma? lo briju
+
+lo jukpa kumfa cu berti lo vrogai
+lo vrogai cu berti lo zarci
+lo vrogai cu berti ma? lo zarci
+
+lo larcu kumfa cu gapru lo sipna kumfa
+lo sipna kumfa cu gapru lo briju
+ma gapru lo sipna kumfa? lo larcu kumfa
+
+lo purdi cu stuna lo briju
+lo briju cu stuna lo panka
+ma stuna lo briju? lo purdi
+
+lo gusta cu gapru lo kelci stuzi
+lo kelci stuzi cu gapru lo larcu kumfa
+lo kelci stuzi cu gapru ma? lo larcu kumfa
+
+lo lumku'a cu stuna lo panka
+lo panka cu stuna lo kelci stuzi
+ma stuna lo panka? lo lumku'a
+
+lo briju cu gapru lo purdi
+lo purdi cu gapru lo jukpa kumfa
+ma gapru lo purdi? lo briju
+
+lo jukpa kumfa cu berti lo panka
+lo panka cu berti lo zarci
+ma berti lo panka? lo jukpa kumfa
+
+lo purdi cu stuna lo ckule
+lo ckule cu stuna lo gusta
+ma stuna lo ckule? lo purdi
+
+lo kelci stuzi cu gapru lo briju
+lo briju cu gapru lo gusta
+lo briju cu gapru ma? lo gusta
+
+lo vrogai cu gapru lo zarci
+lo zarci cu gapru lo kelci stuzi
+lo zarci cu gapru ma? lo kelci stuzi
+
+lo ckule cu berti lo sipna kumfa
+lo sipna kumfa cu berti lo vrogai
+ma berti lo sipna kumfa? lo ckule
+
+lo gusta cu gapru lo zarci
+lo zarci cu gapru lo ckule
+lo zarci cu gapru ma? lo ckule
+
+lo jukpa kumfa cu stuna lo kelci stuzi
+lo kelci stuzi cu stuna lo purdi
+lo kelci stuzi cu stuna ma? lo purdi
+
+lo larcu kumfa cu snanu lo kelci stuzi
+lo kelci stuzi cu snanu lo purdi
+ma snanu lo kelci stuzi? lo larcu kumfa
+
+lo ckule cu gapru lo briju
+lo briju cu gapru lo zarci
+ma gapru lo briju? lo ckule
+
+lo larcu kumfa cu gapru lo vrogai
+lo vrogai cu gapru lo zarci
+ma gapru lo vrogai? lo larcu kumfa
+
+lo jukpa kumfa cu stuna lo panka
+lo panka cu stuna lo kelci stuzi
+ma stuna lo panka? lo jukpa kumfa
+
+lo ckule cu berti lo kelci stuzi
+lo kelci stuzi cu berti lo lumku'a
+ma berti lo kelci stuzi? lo ckule
+
+lo jukpa kumfa cu stici lo gusta
+lo gusta cu stici lo panka
+ma stici lo gusta? lo jukpa kumfa
+
+lo panka cu stici lo sipna kumfa
+lo sipna kumfa cu stici lo lumku'a
+ma stici lo sipna kumfa? lo panka
+
+lo vrogai cu stici lo gusta
+lo gusta cu stici lo larcu kumfa
+ma stici lo gusta? lo vrogai
+
+lo briju cu stici lo lumku'a
+lo lumku'a cu stici lo zarci
+ma stici lo lumku'a? lo briju
+
+lo panka cu stuna lo purdi
+lo purdi cu stuna lo jukpa kumfa
+lo purdi cu stuna ma? lo jukpa kumfa
+
+lo lumku'a cu snanu lo sipna kumfa
+lo sipna kumfa cu snanu lo kelci stuzi
+ma snanu lo sipna kumfa? lo lumku'a
+
+lo zarci cu snanu lo lumku'a
+lo lumku'a cu snanu lo briju
+lo lumku'a cu snanu ma? lo briju
+
+lo jukpa kumfa cu stuna lo gusta
+lo gusta cu stuna lo vrogai
+lo gusta cu stuna ma? lo vrogai
+
+lo panka cu snanu lo kelci stuzi
+lo kelci stuzi cu snanu lo vrogai
+ma snanu lo kelci stuzi? lo panka
+
+lo sipna kumfa cu gapru lo jukpa kumfa
+lo jukpa kumfa cu gapru lo larcu kumfa
+lo jukpa kumfa cu gapru ma? lo larcu kumfa
+
+lo lumku'a cu berti lo panka
+lo panka cu berti lo briju
+lo panka cu berti ma? lo briju
+
+lo sipna kumfa cu snanu lo kelci stuzi
+lo kelci stuzi cu snanu lo jukpa kumfa
+lo kelci stuzi cu snanu ma? lo jukpa kumfa
+
+lo gusta cu berti lo briju
+lo briju cu berti lo kelci stuzi
+lo briju cu berti ma? lo kelci stuzi
+
+lo ckule cu snanu lo larcu kumfa
+lo larcu kumfa cu snanu lo jukpa kumfa
+lo larcu kumfa cu snanu ma? lo jukpa kumfa
+
+lo sipna kumfa cu gapru lo ckule
+lo ckule cu gapru lo jukpa kumfa
+lo ckule cu gapru ma? lo jukpa kumfa
+
+lo panka cu stuna lo gusta
+lo gusta cu stuna lo lumku'a
+ma stuna lo gusta? lo panka
+
+lo jukpa kumfa cu stuna lo ckule
+lo ckule cu stuna lo vrogai
+lo ckule cu stuna ma? lo vrogai
+
+lo purdi cu snanu lo zarci
+lo zarci cu snanu lo briju
+lo zarci cu snanu ma? lo briju
+
+lo larcu kumfa cu gapru lo purdi
+lo purdi cu gapru lo gusta
+ma gapru lo purdi? lo larcu kumfa
+
+lo ckule cu berti lo jukpa kumfa
+lo jukpa kumfa cu berti lo vrogai
+ma berti lo jukpa kumfa? lo ckule
+
+lo jukpa kumfa cu berti lo lumku'a
+lo lumku'a cu berti lo sipna kumfa
+ma berti lo lumku'a? lo jukpa kumfa
+
+lo kelci stuzi cu stuna lo jukpa kumfa
+lo jukpa kumfa cu stuna lo ckule
+lo jukpa kumfa cu stuna ma? lo ckule
+
+lo briju cu berti lo kelci stuzi
+lo kelci stuzi cu berti lo vrogai
+ma berti lo kelci stuzi? lo briju
+
+lo panka cu stuna lo zarci
+lo zarci cu stuna lo briju
+lo zarci cu stuna ma? lo briju
+
+lo briju cu stuna lo jukpa kumfa
+lo jukpa kumfa cu stuna lo zarci
+ma stuna lo jukpa kumfa? lo briju
+
+lo lumku'a cu snanu lo gusta
+lo gusta cu snanu lo purdi
+ma snanu lo gusta? lo lumku'a
+
+lo briju cu stici lo sipna kumfa
+lo sipna kumfa cu stici lo lumku'a
+ma stici lo sipna kumfa? lo briju
